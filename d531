@@ -21,6 +21,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/atnws-sg.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1,Deepto TV
 http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1, VOICE TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV
 http://bd.jagobd.com:444/live-orgin/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1,BOISHAKHI PLUS
