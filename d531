@@ -14,8 +14,13 @@ http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Colors Bangla HD
+
+
+
+#EXTINF:-1 group-title="Bangla", Colors Bangla HD
 http://172.20.2.5:8082/colorsbangla/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,Zee Bangla Cinema
 http://172.20.2.5:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Aath
