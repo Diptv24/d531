@@ -5114,13 +5114,80 @@ http://217.174.225.146/hls/ch004_720/index.m3u8
 http://31.146.176.94:80/setanta2/index.m3u8
 
 
+#EXTINF:-1, CCM
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+#EXTINF:-1, CHINA MOVIES 
+http://210.210.155.37/dr9445/h/h14/index.m3u8
+K+Sports 
+http://103.75.186.169/b4tv/b4tv/1.m3u8
+bein Sports
+http://103.75.186.169/b4tv/b4tv/5.m3u8
 
+#EXTM3U
+#EXTINF:-1,MyTime Movie Network FHD UK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network FHD ES
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimees-xiaomi/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network FHD FR
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimefr-xiaomi/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network FHD DE
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimede-xiaomi/playlist.m3u8
+#EXTINF:-1,MyTime Movie Network HD MX
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1,MovieDome DE FHD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8
+#EXTINF:-1,MovieDome Family FHD DE
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8
+#EXTINF:-1,MovieDome FHD UK
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+#EXTINF:-1,Crackle FHD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackle-vidaa/playlist.m3u8
+#EXTINF:-1,Crackle Classics HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-crackleclassic-vidaa/playlist.m3u8
+#EXTINF:-1,Outer Vision Channel FHD
+https://sofast.g-mana.live/media/2d617a5c-a48f-4b3d-af01-349a6072fb33/mainManifest.m3u8
+#EXTINF:-1,Degrassi the next generation TV HD CA
+http://dhx-degrassi-2-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1,Baywatch FHD NZ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-samsungnz/playlist.m3u8
+#EXTINF:-1,Baywatch HD CA
+https://d22ljxpuae2sin.cloudfront.net/playlist.m3u8
+#EXTINF:-1,Midsomer Murders HD
+https://all3media-midsomer-1-us.redbox.wurl.tv/playlist.m3u8
+#EXTINF:-1,Farscape HD
+https://shoutfactory-farscape-1-us.redbox.wurl.tv/playlist.m3u8
+#EXTINF:-1,ALF HD
+https://shoutfactory-alf-1-us.redbox.wurl.tv/playlist.m3u8
+#EXTINF:1,MST3K FHD
+https://mst3k-localnow.amagi.tv/playlist.m3u8
+#EXTINF:-1,Chicken Soup For The Soul HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-tcl/playlist.m3u8
+#EXTINF:-1,MHZ Choice TV FHD CA
+https://mhz-samsung-linear-ca.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Mercury+ FHD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2890
+#EXTM3U
+#EXTINF:-1,BBCNEWSHD
+http://81.173.55.195:8080/BBCNEWSHD/index.m3u8
+#EXTINF:-1,Net5
+http://81.173.55.195:8080/Net5/index.m3u8
+#EXTINF:-1,Film4
+http://81.173.55.195:8080/Film4/index.m3u8
+#EXTINF:-1,LOVENATURE HD
+http://81.173.55.195:8080/LOVENATURE/index.m3u8
+#EXTINF:-1,France24
+http://81.173.55.195:8080/France24/index.m3u8
+#EXTINF:-1,ZDF HD
+http://81.173.55.195:8080/ZDF/index.m3u8
+#EXTINF:-1,E4
+http://81.173.55.195:8080/E4/index.m3u8
+#EXTINF:-1,NationalGeographic HD
+http://81.173.55.195:8080/NationalGeographic/index.m3u8
+#EXTINF:-1,SkyArts
+http://81.173.55.195:8080/SkyArts/index.m3u8
 
-
-
-
-
-
+#EXTINF:-1, FAST SPORTS HD
+http://str24.l9574.com/601.stream/index.m3u8
 
 
 
