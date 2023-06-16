@@ -461,3 +461,100 @@ http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SD",TNT SPORTS CHI
 http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="ESP",PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Without category",ESPN
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Without category",ESPN 2
+http://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Without category",ESPN
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Without category",ESPN 2
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Without category",ESPN HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4726.m3u8
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Without category",ESPN 2 HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4688.m3u8
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Without category",ESPN 3 HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4687.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MOVIE SPHARE
+http://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:0 tvg-id="TraceSports.pl" group-title="Without category",TRACE SPORTS
+http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",EDGE SPORTS
+http://edgesport-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Edge Sports
+https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Edge Sports
+http://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Movie SPhere
+https://moviesphere-roku.amagi.tv/playlist720lp.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",EDGE SPORTS
+http://edgesports-sportstribal.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-id="CGTN.cn" group-title="Without category",CGTN
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="Without category",RT EN ESPAÑOL
+https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BOB ESPONJA
+https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:0 tvg-id="ext" group-title="Without category",BOB SPONJA
+http://51.159.104.29:8080/bobesponja/index.m3u8
+#EXTINF:0 tvg-id="ESPNDeportes.us" group-title="Without category",ESPN Deportes
+https://cdn.live.vidgo.com/Content/HLS/Live/channel(71914-ESPNDHD)/02.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",#KODIPROP:inputstream.adaptive.license_key=2d846f13c5bd43f3a456d9e958447f17:47e59e0ccb28b0ffa7ce830fd2519539
+https://cdn.live.vidgo.com/Content/DASH_WV/Live/channel(71914-ESPNDHD)/manifest.mpd
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Without category",ESPN 3 SD
+http://45.179.140.242:8000/play/a0je
+#EXTINF:0 tvg-id="ext" group-title="Without category",BEIN EXTRA
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN BR HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31034?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN 2 BR HD
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31140?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN A
+http://190.131.247.82:8000/play/a015
+#EXTINF:0 tvg-id="ext" group-title="Without category",#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-HD/default.mpd
+#EXTINF:0 tvg-id="ext" group-title="Without category",#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-2-HD/default.mpd
+#EXTINF:0 tvg-id="ext" group-title="Without category",#KODIPROP:inputstream.adaptive.license_key=https://gowv.izzigo.tv:8063/?deviceId=MzcwM2FjMDQtY2UxOS0zMDk3LTkzMTYtZWM2MWM5NmI5NTYw
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-3-HD/default.mpd
+#EXTINF:0 tvg-id="ext" group-title="Without category",#KODIPROP:inputstream.adaptive.license_key=https://licizzpromax.bgaddon.repl.co/izz.php?token=thisisblackghost
+https://live1-ott.izzigo.tv/out/u/dash/ESPN-PLUS-HD/default.mpd
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN 4 BR HD
+http://89.38.96.234:14525/
+#EXTINF:0 tvg-id="Espnextra.br" group-title="Without category",ESPN EXTRA
+http://190.131.247.82:8000/play/a01d
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN EXTRA MX
+http://45.5.119.202:54321/play/a032/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",#KODIPROP:inputstream.adaptive.license_key=https://cocc.me/kplussports1v?key99/738829912/20sportskeokey
+https://hqth.me/kplussports1v?id=klifesports476/seasonid:64537772881/sports.mpd
+
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:0 tvg-id="avi" group-title="Without category",JESUS DE NAZARETH (1977)
+https://ia601400.us.archive.org/33/items/jes-naz-esp-lat/Jes%C3%BAs%20de%20Nazareth%20%281977%29.mp4
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Without category",ESPN HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4726.ts
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Without category",ESPN 2 HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4688.ts
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Without category",ESPN 3 HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4687.ts
+#EXTINF:0 tvg-id="ESPNHD.us" group-title="Without category",ESPN 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Without category",ESPN 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SD",ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SD",ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="SD",ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
