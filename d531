@@ -1,7 +1,3 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="JAGO",PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
-https://playeriptv.com/app
-
 #EXTINF:0 tvg-id="ext" group-title="Without category",NAN TV [BD]
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Without category",VARENDRA TV
