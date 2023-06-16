@@ -4947,21 +4947,171 @@ http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
 #EXTINF:-1  group-title="SD", A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 
+SONY SET ENTERTAINMENT 
+http://50.7.237.11:8080/SONY/index.m3u8
+
+WWE
+http://50.7.237.11:8080/WWE/index.m3u8
+
+Star Vijay 
+http://50.7.237.11:8080/STARVIJAYHD/tracks-v1a1/index.m3u8
+
+KTV HD 
+http://50.7.237.11:8080/KTVHD/tracks-v1a1/index.m3u8
+
+Flowers tv
+http://50.7.237.11:8080/STARMAAGOLD/tracks-v1a1/index.m3u8
 
 
+Star JALSHA 
+http://50.7.237.11:8080/STARJALSHA/tracks-v1a1/index.m3u8
+
+Utsav Bharat 
+http://50.7.237.11:8080/STARBHARATHD/tracks-v1a1/index.m3u8
+
+Star gold 
+http://50.7.237.11:8080/STARGOLDHD/tracks-v1a1/index.m3u8
+
+9xm
+http://50.7.237.11:8080/9XM/tracks-v1a1/index.m3u8
+
+Zee Kannada 
+http://50.7.237.11:8080/ZEEKANNADAHD/tracks-v1a1/index.m3u8
+
+Star maa
+http://50.7.237.11:8080/STARMAAHD/tracks-v1a1/index.m3u8
 
 
+Zee tv
+http://50.7.237.11:8080/ZEETVHD/tracks-v1a1/index.m3u8
+
+B4u music 
+http://50.7.237.11:8080/B4UMUSIC/tracks-v1a1/index.m3u8
+Star sports 1 eng
+http://50.7.237.11:8080/STARSPORTS2HD/tracks-v1a1/index.m3u8
+Sony ten 2 
+http://50.7.237.11:8080/TEN2HD/tracks-v1a1/index.m3u8
 
 
+Zee bangla hd
+http://50.7.237.11:8080/ZEEBANGLAHD/tracks-v1a1/index.m3u8
 
 
+Atn bangla 
+http://50.7.237.11:8080/ATNBANGLAHD/tracks-v1a1/index.m3u8
+
+Asianet HD Malayalam 
+http://50.7.237.11:8080/ASIANETHD/tracks-v1a1/index.m3u8
+
+Asianet movies 
+http://50.7.237.11:8080/ASIANETMOVIE/tracks-v1a1/index.m3u8
+
+B4u movies
+http://50.7.237.11:8080/B4UMOVIES/tracks-v1a1/index.m3u8
+
+Sony wah
+http://50.7.237.11:8080/SONYWAH/tracks-v1a1/index.m3u8
+
+Sony max 2
+http://50.7.237.11:8080/SONYMAX2/tracks-v1a1/index.m3u8
+
+PTV home 
+http://50.7.237.11:8080/PTVHOME/index.m3u8
 
 
+HUM TV 
+http://50.7.237.11:8080/HUMTV/index.m3u8
+Samaa tv
+http://50.7.237.11:8080/SAMAATV/index.m3u8
+HUM masala 
+http://50.7.237.11:8080/HUMMASALA/index.m3u8
 
+9x jalwa
+http://50.7.237.11:8080/9XJALWA/tracks-v1a1/index.m3u8
 
+Music India 
+http://50.7.237.11:8080/MUSICINDIA/tracks-v1a1/index.m3u8
 
+ZING
+http://50.7.237.11:8080/ZING/tracks-v1a1/index.m3u8
 
+Zee action 
+http://50.7.237.11:8080/ZEEACTION/tracks-v1a1/index.m3u8
 
+Zee classic 
+http://50.7.237.11:8080/ZEECLASSIC/tracks-v1a1/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 ,Sky Sports Football
+http://181.233.124.38:80/BBrown384/564657344453/1846775.ts
+#EXTINF:-1 ,Free Cable TV
+http://freecatv-manik.xyz/freecatv.m3u8
+#EXTINF:-1 ,ESPN 1
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
+#EXTINF:-1 ,ESPN 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.ts
+#EXTINF:-1 ,FOX Sports 2
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
+#EXTINF:-1 ,Fight Network
+http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93035.ts
+#EXTINF:-1 ,Bein Sport 1 English
+http://213.7.193.54:4000/play/a002
+#EXTINF:-1 ,Citavision Spots 2HD
+http://213.7.193.54:4000/play/a005
+#EXTINF:-1 ,Match!_Country HD
+https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viasat_Sport_HD+
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,MAT4_1
+https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8
+#EXTINF:-1 ,TVRI_SPORT HD
+http://freecatv-manik.xyz/freecatv.m3u8
+#EXTINF:-1 ,RTV SPORT 🇸🇲
+http://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/ch-02/chunklist.m3u8
+#EXTINF:-1 ,ON FOOTBALL
+https://vtsstr7.tv24.vn/live/VTVcab16HD_temp_new.smil/chunklist.m3u8?uid=s2c526m574z5s4l5h4
+#EXTINF:-1 ,Saudi•1
+http://62.182.82.104/Saudi_1/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,Saudi•2
+http://62.182.82.104/Saudi_2/index.m3u8?token=test&v=1673204766768
+#EXTINF:-1 ,Fox Sports 2 MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/44074.m3u8
+#EXTINF:-1 ,Fox Sports Premium MX
+http://45.90.105.74:25461/live/bud-345182/c39d1f9282/53541.m3u8
+#EXTINF:-1 ,Sports TV
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 ,Euro Sports
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosporthdin-samsungin/playlist.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 ,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist540_p.m3u8
+#EXTINF:-1 ,SCTV VIDIO 🇯🇵
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+#EXTINF:-1 ,SPORTS TV 🇹🇷
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 ,FIGHT BOX HD
+http://iptv.prosto.tv:7000/ch118/video.m3u8
+#EXTINF:-1 ,X SPORT
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+#EXTINF:-1 ,X SPORT PLUS
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+#EXTINF:-1 ,MAX SPORT 3HD 🇧🇬
+http://62.176.77.22:9781/play/a00i
+#EXTINF:-1 ,Setanta Sports 1 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/271/index.m3u8
+#EXTINF:-1 ,Setanta Sports 2 HD 🇷🇺
+http://2342512b.ucomist.net/iptv/AACXKHBLQUH7G7/270/index.m3u8
+#EXTINF:-1 ,3 Sport HD 🇱🇹
+http://freecatv-manik.xyz/freecatv.m3u8
+#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
+http://217.174.225.146/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 ,Turkmenistan Sport 🇹🇲
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 ,SETANTA_2™
+http://31.146.176.94:80/setanta2/index.m3u8
 
 
 
