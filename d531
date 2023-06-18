@@ -245,6 +245,8 @@ http://172.20.2.5:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Nat-Geo/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BBC EARTH
 http://172.20.2.5:8082/Bbc-Earth/tracks-v1a1/mono.m3u8
+#EXTINF:-1, FAST SPORTS HD
+http://str24.l9574.com/601.stream/index.m3u8
 #EXTINF:-1,STAR SPORTS1 HD
 http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1,Star Sports 2 HD
