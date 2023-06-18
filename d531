@@ -5366,3 +5366,30 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Without category",Tsports HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, BEIN SPORTS 
+https://beetv.my.id/x/usee-bein1-gojokkk.m3u8
+#EXTINF:-1, BEIN SPORTS English 
+https://m2.ballnaja.com/live/BeIn_Sports_English/chunks.m3u8
+EXTINF:-1, BEIN SPORTS 3
+https://beetv.my.id/x/usee-bein2-gojokkk.m3u8
+#EXTINF:-1, BEIN SPORTS 3
+https://m2.ballnaja.com/live/BeIn_Sports_3_B/chunks.m3u8
+#EXTINFF::-1,BEIN SPORTS (MMNHD)
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
+#EXTINF:-1, BEIN SPORTS (ASL)
+https://m1.ballnaja.com/live/ais_beIN_SPORTS_3/chunks.m3u8
+#EXTINF:-1, BEIN SPORTS EXTRA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+#EXTINF:-1, True Sports 1
+https://m1.ballnaja.com/live/True_Sports_1/chunks.m3u8
+#EXTINF:-1, True Sports 2
+https://m1.ballnaja.com/live/True_Sports_2/chunks.m3u8
+#EXTINF:-1, True Sports 3
+https://m1.ballnaja.com/live/True_Sports_3/chunks.m3u8
+#EXTINF:-1, True Sports 4
+https://m1.ballnaja.com/live/True_Sports_4/chunks.m3u8
+#EXTINF:-1, True Sports 5
+https://m1.ballnaja.com/live/True_Sports_5/chunks.m3u8
+#EXTINF:-1, True Sports 7
+https://m1.ballnaja.com/live/True_Sports_7/chunks.m3u8
