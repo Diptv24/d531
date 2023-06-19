@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, SONY LIVE
 https://cricket.localiptv.tk/CRICKET_SERIES_2_LIVE_1.m3u8
+#EXTINF:-1, NICK+ HD
+http://172.17.50.112/live/antbd1008/index.m3u8
 #EXTINF:-1,Ekattor Tv
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/3113.m3u8
 #EXTINF:-1,Independent TV
