@@ -48,8 +48,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3
 http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 #EXTINF:-1,FRANCE 24
 http://iptvbd.jagobd.com:1931/live-orgin/fr24.stream/chunks.m3u8
-#EXTINF:-1,Desh tv
-http://iptvbd.jagobd.com:1931/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:-1,The Channel Tv
 http://iptvbd.jagobd.com:1931/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1,Channel I
