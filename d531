@@ -5395,3 +5395,115 @@ https://m1.ballnaja.com/live/True_Sports_4/chunks.m3u8
 https://m1.ballnaja.com/live/True_Sports_5/chunks.m3u8
 #EXTINF:-1, True Sports 7
 https://m1.ballnaja.com/live/True_Sports_7/chunks.m3u8
+
+#EXTINF:-1,ROTANA PLUS
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1,ROTANA CINEMA
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+#EXTINF:-1,ROTANA DRAMA
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+#EXTINF:-1,ROTANA COMEDY
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+#EXTINF:-1,ROTANA KHALAJIA
+https://daiconnect.com/live/hls/rotana/khaleejiya/bdd1ae456dc13265bac8bfc099af0dc8/.m3u8
+#EXTINF:-1,ROTANA CLIP
+http://62.182.82.104/Rotana_Clip/index.m3u8
+#EXTINF:-1,ROTANA KIDS
+https://rotananet.hibridcdn.net/rotana/kids_abr/rotana/kids_720p/chunks.m3u8?p=48&s=1687226463&e=1687312863&cf=1687312863&h=a819e167e609605e8d8f707b39e5db70
+#EXTINF:-1,ROTANA KIDS
+https://shls-masr2-ak.akamaized.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index_56.m3u8
+
+#EXTINF:-1,MBC HD
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1,MBC HD
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1,MBC 3
+http://62.182.82.104/MBC_3/index.m3u8?token=test
+#EXTINF:-1,MBC 3
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8?=Samitvhd.com
+#EXTINF:-1,MBC 5 
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?=Samitvhd.com
+#EXTINF:-1,MBC MAX HD
+http://62.182.82.104/MBC_Max/index.m3u8?token=test
+#EXTINF:-1,MBC ACTION
+http://62.182.82.104/MBC_Action/index.m3u8?token=test
+#EXTINF:-1,MBC DRAMA+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1,MBC DRAMA
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1,MBC MASR
+http://62.182.82.104/MBC_Masr/index.m3u8?token=test
+#EXTINF:-1,MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8?=Samitvhd.com
+#EXTINF:-1,MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index_1.m3u8?=Samitvhd.com
+#EXTINF:-1,MBC WANASA
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1,BIZ CINEMA
+https://st.biztv.uz/hls/c_hi/index.m3u8
+
+#EXTINF:-1,GRAVETIS MOVIES
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
+#EXTINF:-1,GROOVY MOVIES
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1,MOVIES KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
+#EXTINF:-1,DUBAI ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1,TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_6.m3u8
+#EXTINF:-1,CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master_6.m3u8
+#EXTINF:-1,MOVIES SPHERE
+https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1,HORRIFY TV
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master_4.m3u8
+#EXTINF:-1,AMC TV
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1,AMC TRAILLERS
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1,AMC
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+CINE LIFE
+https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+CINEMA WORLD
+http://210.210.155.35/dr9445/h/h04/01.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35/dr9445/h/h07/02.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35/dr9445/h/h10/02.m3u8
+#EXTINF:-1,ROCK ACTION
+http://210.210.155.35/dr9445/h/h15/02.m3u8
+#EXTINF:-1,CRISTAL MOVIES
+http://210.210.155.35/dr9445/h/h14/02.m3u8
+#EXTINF:-1,ROCK ENT
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF:-1,TVN MOVIES
+http://210.210.155.35/dr9445/h/h21/02.m3u8
+#EXTINF:-1,TVN
+http://210.210.155.35/dr9445/h/h20/02.m3u8
+#EXTINF:-1,DOVE CHANNEL
+https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
+#EXTINF:-1,TOONCAST
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+#EXTINF:-1,ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+#EXTINF:-1,BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+#EXTINF:-1,AVA SERIES
+https://avaserieshls.wns.live/hls/stream.m3u8
+#EXTINF:-1,AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
