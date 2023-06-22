@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, SONY LIVE
 https://cricket.localiptv.tk/CRICKET_SERIES_2_LIVE_1.m3u8
+#EXTINF:-1, GAZI TV
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1/index.fmp4.m3u8?token=9eca8812411f18f7d7dd91534013e3f249a1a99c-ba16e1f2584a834348603cf948548a90-1687453373-1687442573
 #EXTINF:-1, NICK+ HD
 http://172.17.50.112/live/antbd1008/index.m3u8
 #EXTINF:-1,Ekattor Tv
