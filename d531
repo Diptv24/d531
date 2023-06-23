@@ -7,7 +7,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/starsports1.jpg", Star Sports 1 HD
 http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=1bbfdc4cc13ead94320e05d84a232c91c1549dd3-7d7385fcc771270d5e90bc0b32eed723-1687511340-1687500540
 
-#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/starsports2.jpg",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/starsports2.jpg", Star Sports 2 HD
 http://12.1.1.1:8082/Star-Sports-2/tracks-v1a1/mono.m3u8?token=d5cd67e887d63a8583cb7a1c56ff9ab569bcb003-40fc8a4db227d8c67a8ec7882d58728f-1687512270-1687501470
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/gazi.jpg",Gazi Tv 
