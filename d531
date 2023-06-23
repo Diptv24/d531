@@ -6,6 +6,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=1bbfdc4cc13ead94320e05d84a232c91c1549dd3-7d7385fcc771270d5e90bc0b32eed723-1687511340-1687500540
 #EXTINF:-1,Gazi Tv 
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, ATN BANGLA
 http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BTV NATIONAL
