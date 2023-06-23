@@ -68,6 +68,8 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1,The Channel Tv
 http://iptvbd.jagobd.com:1931/live-orgin/thechanneltv.stream/chunks.m3u8
+#EXTINF:-1, Mohasthan Tv
+http://iptvbd.jagobd.com:1931/live-orgin/mohasthantv.stream/chunks.m3u8
 #EXTINF:-1,FRANCE 24
 http://iptvbd.jagobd.com:1931/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1,NASA TV
