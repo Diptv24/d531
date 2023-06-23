@@ -52,8 +52,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1,The Channel Tv
 http://iptvbd.jagobd.com:1931/live-orgin/thechanneltv.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="ext" group-title="Bangladeshi",Channel I
-http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1, Channel I
+http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asian TV
 http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV
