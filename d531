@@ -5,9 +5,34 @@ http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 
-#EXTINF:--1, Ten cricket 
+#EXTINF:-1, Ten cricket 
 http://humiptv.live:8080/live/nbw319/gur538/9886.m3u8
-
+#EXTINF:-1, Ten Sports HD
+http://humiptv.live:8080/live/nbw319/gur538/98.m3u8
+#EXTINF:-1, Fox Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/1856.m3u8
+#EXTINF:-1, Willow Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/215.m3u8
+#EXTINF:-1, Super Sports Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/516.m3u8
+#EXTINF:-1, Sky Sports 3 NZ
+http://humiptv.live:8080/live/nbw319/gur538/24018.m3u8
+#EXTINF:-1, ATN CRICKET PLUS
+http://humiptv.live:8080/live/nbw319/gur538/85829.m3u8
+#EXTINF:-1, Astro Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/143056.m3u8
+#EXTINF:-1, Sky Sports Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/12.m3u8
+#EXTINF:-1, Willow Extra
+http://humiptv.live:8080/live/nbw319/gur538/5040.m3u8
+#EXTINF:-1, Criclife 1
+http://humiptv.live:8080/live/nbw319/gur538/123061.m3u8
+#EXTINF:-1, Criclife 2
+http://humiptv.live:8080/live/nbw319/gur538/123062.m3u8
+#EXTINF:-1, PTV Sports HD
+http://humiptv.live:8080/live/nbw319/gur538/89.m3u8
+RTA SPORTS
+http://humiptv.live:8080/live/nbw319/gur538/1039.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/starsports1.jpg", Star Sports 1 HD
 http://12.1.1.1:8082/Star-Sports-1/tracks-v1a1/mono.m3u8?token=1bbfdc4cc13ead94320e05d84a232c91c1549dd3-7d7385fcc771270d5e90bc0b32eed723-1687511340-1687500540
 
