@@ -8,7 +8,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://humiptv.live:8080/live/nbw319/gur538/9886.m3u8
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports HD
 http://humiptv.live:8080/live/nbw319/gur538/98.m3u8
-#EXTINF:-1, Fox Cricket 
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/372-3722414_fox-cricket-logo.png", Fox Cricket 
 http://humiptv.live:8080/live/nbw319/gur538/1856.m3u8
 #EXTINF:-1, FOX SPORTS 502
 http://humiptv.live:8080/live/nbw319/gur538/4749.m3u8
