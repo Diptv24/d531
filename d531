@@ -6,7 +6,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMXKI_VaQQr1Eh1WK3iCOWooaDeKmEIezqQ&usqp=CAU", Ten Cricket 
 http://humiptv.live:8080/live/nbw319/gur538/9886.m3u8
-#EXTINF:-1, Ten Sports HD
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports HD
 http://humiptv.live:8080/live/nbw319/gur538/98.m3u8
 #EXTINF:-1, Fox Cricket 
 http://humiptv.live:8080/live/nbw319/gur538/1856.m3u8
