@@ -12,6 +12,8 @@ http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1404.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://50.7.237.7:8080/STARSPORTS2HD/tracks-v1a1/index.m3u8
 #EXTINF:-1, STAR SPORTS 2
 http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 1
