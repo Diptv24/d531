@@ -136,6 +136,25 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 
 #EXTINF:-1, JOJ SPORTS 
 https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
+Shahin Dipu:
+#EXTINF:-1, Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1, Euro News
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+#EXTINF:-1, Win Sports
+https://v3.playerlatino.live/stream/m3u8/881
+
+#EXTINF:-1, Fox Premium 
+https://v3.playerlatino.live/stream/m3u8/512
+
+#EXTINF:-1, Direct Tv Sports 
+https://v3.playerlatino.live/stream/m3u8/259
+
+#EXTINF:-1, Aym Sports
+https://v3.playerlatino.live/stream/m3u8/148
+
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/gazi.jpg",Gazi Tv 
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ATN BANGLA
