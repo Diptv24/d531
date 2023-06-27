@@ -76,6 +76,18 @@ http://humiptv.live:8080/live/nbw319/gur538/123062.m3u8
 http://humiptv.live:8080/live/nbw319/gur538/89.m3u8
 RTA SPORTS
 http://humiptv.live:8080/live/nbw319/gur538/1039.m3u8
+RTSH SPORTS 
+http://79.106.90.124:5151/live/rtshsport/playlist.m3u8
+OVER SPORTS 1
+http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
+OVER SPORTS 2
+http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
+OVER SPORTS 3
+http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
+ARENA SPORTS 1
+http://93.155.227.38:90/m3u8/arenasport1.m3u8
+ARENA SPORTS 2
+http://93.155.227.38:90/m3u8/arenasport2.m3u8
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/gazi.jpg",Gazi Tv 
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
