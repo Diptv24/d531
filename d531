@@ -74,21 +74,68 @@ http://humiptv.live:8080/live/nbw319/gur538/123061.m3u8
 http://humiptv.live:8080/live/nbw319/gur538/123062.m3u8
 #EXTINF:-1, PTV Sports HD
 http://humiptv.live:8080/live/nbw319/gur538/89.m3u8
-RTA SPORTS
+#EXTINF:-1, RTA SPORTS
 http://humiptv.live:8080/live/nbw319/gur538/1039.m3u8
-RTSH SPORTS 
+#EXTINF:-1, RTSH SPORTS 
 http://79.106.90.124:5151/live/rtshsport/playlist.m3u8
-OVER SPORTS 1
+#EXTINF:-1, OVER SPORTS 1
 http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
-OVER SPORTS 2
+#EXTINF:-1, OVER SPORTS 2
 http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
-OVER SPORTS 3
+#EXTINF:-1, OVER SPORTS 3
 http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
-ARENA SPORTS 1
+#EXTINF:-1, ARENA SPORTS 1
 http://93.155.227.38:90/m3u8/arenasport1.m3u8
-ARENA SPORTS 2
+#EXTINF:-1, ARENA SPORTS 2
 http://93.155.227.38:90/m3u8/arenasport2.m3u8
+Shahin Dipu:
+#EXTINF:-1, Arena Sports 3
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
 
+#EXTINF:-1, Arena Sports 4
+http://93.155.227.38:90/m3u8/arenasport4.m3u8
+
+#EXTINF:-1, Arena Sports 5
+http://93.155.227.38:90/m3u8/arenasport5.m3u8
+
+#EXTINF:-1, Deima Sports 2
+http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
+
+#EXTINF:-1, Deima Sports  3
+http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
+
+#EXTINF:-1, QSPORT
+http://89.254.128.5:22280/qsport/index.m3u8
+
+#EXTINF:-1, Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1, Viju Sports
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1, Zona Tudn
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1, Tvl Sports 
+https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
+
+#EXTINF:-1, ACI SPORTS
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+
+#EXTINF:-1, Aysh Sport
+https://stream.live12.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, XPORTS
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1, XPORTS +
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+#EXTINF:-1, TR SPORTS
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1, JOJ SPORTS 
+https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/gazi.jpg",Gazi Tv 
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ATN BANGLA
