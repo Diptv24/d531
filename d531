@@ -206,11 +206,40 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1,RTV HD
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1, RTV MUSIC
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4566.m3u8
 
 #EXTINF:-1,NTV
 http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV EUROPE
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1625.m3u8
+#EXTINF:-1, NAGARIK TV
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1298.m3u8
+#EXTINF:-1, GAZI TV HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1311.m3u8
+#EXTINF:-1, CHANNEL 9
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/2316.m3u8
+#EXTINF:-1, MAASRANGA TV
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1307.m3u8
+#EXTINF:-1, BIJAY TV
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1318.m3u8
+#EXTINF:-1, KIDS CREATION 
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4562.m3u8
+#EXTINF:-1, STAR JALSHA FHD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1562.m3u8
+#EXTINF:-1, ZEE BANGLA FHD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1347.m3u8
+#EXTINF:-1, COLORS BANGLA FHD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1565.m3u8
+#EXTINF:-1, KUSHUBO TV
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1788.m3u8
+#EXTINF:-1, BANGLA TALKIS
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4510.m3u8
+
+
+
+
+
 #EXTINF:-1,VOICE TV
 http://iptvbd.jagobd.com:1931/live-orgin/voicetv.stream/chunks.m3u8
 #EXTINF:-1,VOICE TV
