@@ -57,11 +57,11 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1 group-title="CTG IPTV", SONY MAX HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-max/chunks.m3u8?nimblesessionid=29702651
 #EXTINF:-1 group-title="CTG IPTV", Nick 
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/nick/l_42831181_22002553_15655.m3u8
-#EXTINF:-1 group-title="CTG IPTV", 
-
-#EXTINF:-1 group-title="CTG IPTV", 
-
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/nick/chunks.m3u8
+#EXTINF:-1 group-title="CTG IPTV", NAT GEO WILD 
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/natg/chunks.m3u8
+#EXTINF:-1 group-title="CTG IPTV", Star Jalsha Movies 
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha-movies/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg", Tsports HD
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/2317.m3u8
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/tsports.jpg", Tsports HD
