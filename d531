@@ -3,9 +3,52 @@ http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-
 
 #EXTINF:-1 group-title="CTG IPTV", Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
-
+#EXTINF:-1 ,Ten Cricket
+http://192.168.0.111:81/457_0_1762000_27688_0_1_3213_3313_3113_3213_17.m3u8
 #EXTINF:-1 group-title="CTG IPTV", PTV SPORTS HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://50.7.237.7:8080/STARSPORTS2HD/tracks-v1a1/index.m3u8
+#EXTINF:-1, STAR SPORTS 2
+http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 1
+http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2
+http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY TEN 1
+http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY TEN 2 HD
+http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY TEN 3
+http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, FAST SPORTS HD
+http://str24.l9574.com/601.stream/index.m3u8
+#EXTINF:-1, RTA SPORTS 
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/13704.m3u8
+#EXTINF:-1, FAST SPORTS 
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/13725.m3u8
+#EXTINF:-1, ASPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/13714.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1PbxQhp4z3nl0rhILplVG5laXDfNmbJz7w&usqp=CAU", Flow Sports
+http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4619.m3u8
+
+#EXTINF:-1 ,Sony Sports 1
+http://192.168.0.111:81/454_0_1762000_27688_0_1_3212_3312_3112_3212_17.m3u8
+#EXTINF:-1 ,Sony Sports 2
+http://192.168.0.111:81/458_0_1762000_27688_0_1_3214_3314_3114_3214_17.m3u8
+#EXTINF:-1 ,Eurosport
+http://192.168.0.111:81/459_0_1762000_27688_0_1_3215_3315_3115_3215_17.m3u8
+#EXTINF:-1 ,Star Sports 1
+http://192.168.0.111:81/460_0_1762000_27688_0_1_3216_3316_3116_3216_17.m3u8
+#EXTINF:-1 ,Star Sports 2
+http://192.168.0.111:81/461_0_1762000_27688_0_1_3217_3317_3117_3217_17.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMXKI_VaQQr1Eh1WK3iCOWooaDeKmEIezqQ&usqp=CAU", Ten Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/9886.m3u8
+
+
 
 #EXTINF:-1 group-title="CTG IPTV", Sky Sports Football 
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/chunks.m3u8
@@ -74,150 +117,11 @@ http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TOTAL SPORTS
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/1404.m3u8
-#EXTINF:-1, STAR SPORTS 1 HD
-http://172.17.50.112/live/antbd1001/index.m3u8
-#EXTINF:-1, STAR SPORTS 2 HD
-http://50.7.237.7:8080/STARSPORTS2HD/tracks-v1a1/index.m3u8
-#EXTINF:-1, STAR SPORTS 2
-http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 1
-http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, STAR SPORTS SELECT 2
-http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SONY TEN 1
-http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SONY TEN 2 HD
-http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SONY TEN 3
-http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FAST SPORTS HD
-http://str24.l9574.com/601.stream/index.m3u8
-#EXTINF:-1, RTA SPORTS 
-http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/13704.m3u8
-#EXTINF:-1, FAST SPORTS 
-http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/13725.m3u8
-#EXTINF:-1, ASPORTS HD
-http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/13714.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1PbxQhp4z3nl0rhILplVG5laXDfNmbJz7w&usqp=CAU", Flow Sports
-http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4619.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMXKI_VaQQr1Eh1WK3iCOWooaDeKmEIezqQ&usqp=CAU", Ten Cricket 
-http://humiptv.live:8080/live/nbw319/gur538/9886.m3u8
+
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports HD
 http://humiptv.live:8080/live/nbw319/gur538/98.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/372-3722414_fox-cricket-logo.png", Fox Cricket 
-http://humiptv.live:8080/live/nbw319/gur538/1856.m3u8
-#EXTINF:-1, FOX SPORTS 502
-http://humiptv.live:8080/live/nbw319/gur538/4749.m3u8
-#EXTINF:-1, Fox Sports 503
-http://humiptv.live:8080/live/nbw319/gur538/4750.m3u8
-#EXTINF:-1, Fox Sports 504
-http://humiptv.live:8080/live/nbw319/gur538/4751.m3u8
-#EXTINF:-1, Fox Sports 505
-http://humiptv.live:8080/live/nbw319/gur538/4752.m3u8
-#EXTINF:-1, Fox Sports 506
-http://humiptv.live:8080/live/nbw319/gur538/4753.m3u8
-#EXTINF:-1, Willow Cricket 
-http://humiptv.live:8080/live/nbw319/gur538/215.m3u8
-#EXTINF:-1, Super Sports Cricket 
-http://humiptv.live:8080/live/nbw319/gur538/516.m3u8
-#EXTINF:-1, Sky Sports 3 NZ
-http://humiptv.live:8080/live/nbw319/gur538/24018.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s71809_h15_aa.png", ATN CRICKET PLUS
-http://humiptv.live:8080/live/nbw319/gur538/85829.m3u8
-#EXTINF:-1, Astro Cricket 
-http://humiptv.live:8080/live/nbw319/gur538/143056.m3u8
-#EXTINF:-1, Sky Sports Cricket 
-http://humiptv.live:8080/live/nbw319/gur538/12.m3u8
-#EXTINF:-1, Willow Extra
-http://humiptv.live:8080/live/nbw319/gur538/5040.m3u8
-#EXTINF:-1, Criclife 1
-http://humiptv.live:8080/live/nbw319/gur538/123061.m3u8
-#EXTINF:-1, Criclife 2
-http://humiptv.live:8080/live/nbw319/gur538/123062.m3u8
-#EXTINF:-1, PTV Sports HD
-http://humiptv.live:8080/live/nbw319/gur538/89.m3u8
-#EXTINF:-1, RTA SPORTS
-http://humiptv.live:8080/live/nbw319/gur538/1039.m3u8
-#EXTINF:-1, RTSH SPORTS 
-http://79.106.90.124:5151/live/rtshsport/playlist.m3u8
-#EXTINF:-1, OVER SPORTS 1
-http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1, OVER SPORTS 2
-http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1, OVER SPORTS 3
-http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ARENA SPORTS 1
-http://93.155.227.38:90/m3u8/arenasport1.m3u8
-#EXTINF:-1, ARENA SPORTS 2
-http://93.155.227.38:90/m3u8/arenasport2.m3u8
-Shahin Dipu:
-#EXTINF:-1, Arena Sports 3
-http://93.155.227.38:90/m3u8/arenasport3.m3u8
-
-#EXTINF:-1, Arena Sports 4
-http://93.155.227.38:90/m3u8/arenasport4.m3u8
-
-#EXTINF:-1, Arena Sports 5
-http://93.155.227.38:90/m3u8/arenasport5.m3u8
-
-#EXTINF:-1, Deima Sports 2
-http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
-
-#EXTINF:-1, Deima Sports  3
-http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
-
-#EXTINF:-1, QSPORT
-http://89.254.128.5:22280/qsport/index.m3u8
-
-#EXTINF:-1, Tigo Sports
-https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
-
-#EXTINF:-1, Viju Sports
-https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
-
-#EXTINF:-1, Zona Tudn
-https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
-
-#EXTINF:-1, Tvl Sports 
-https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
-
-#EXTINF:-1, ACI SPORTS
-https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
-
-#EXTINF:-1, Aysh Sport
-https://stream.live12.ir/hls2/persiana.m3u8
-
-#EXTINF:-1, XPORTS
-http://iptv.prosto.tv:7000/ch110/video.m3u8
-
-#EXTINF:-1, XPORTS +
-http://iptv.prosto.tv:7000/ch117/video.m3u8
-
-#EXTINF:-1, TR SPORTS
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
-
-#EXTINF:-1, JOJ SPORTS 
-https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
-Shahin Dipu:
-#EXTINF:-1, Golden Plus
-https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
-
-#EXTINF:-1, Euro News
-https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-
-#EXTINF:-1, Win Sports
-https://v3.playerlatino.live/stream/m3u8/881
-
-#EXTINF:-1, Fox Premium 
-https://v3.playerlatino.live/stream/m3u8/512
-
-#EXTINF:-1, Direct Tv Sports 
-https://v3.playerlatino.live/stream/m3u8/259
-
-#EXTINF:-1, Aym Sports
-https://v3.playerlatino.live/stream/m3u8/148
 
 #EXTINF:-1 tvg-logo="http://amrbd.com/assets/images/gazi.jpg",Gazi Tv 
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
@@ -3549,6 +3453,118 @@ http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4575.ts
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4639.m3u8
 #EXTINF:-1,SS FOOTBALL HD (DSTV)
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4639.ts
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/372-3722414_fox-cricket-logo.png", Fox Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/1856.m3u8
+#EXTINF:-1, FOX SPORTS 502
+http://humiptv.live:8080/live/nbw319/gur538/4749.m3u8
+#EXTINF:-1, Fox Sports 503
+http://humiptv.live:8080/live/nbw319/gur538/4750.m3u8
+#EXTINF:-1, Fox Sports 504
+http://humiptv.live:8080/live/nbw319/gur538/4751.m3u8
+#EXTINF:-1, Fox Sports 505
+http://humiptv.live:8080/live/nbw319/gur538/4752.m3u8
+#EXTINF:-1, Fox Sports 506
+http://humiptv.live:8080/live/nbw319/gur538/4753.m3u8
+#EXTINF:-1, Willow Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/215.m3u8
+#EXTINF:-1, Super Sports Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/516.m3u8
+#EXTINF:-1, Sky Sports 3 NZ
+http://humiptv.live:8080/live/nbw319/gur538/24018.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s71809_h15_aa.png", ATN CRICKET PLUS
+http://humiptv.live:8080/live/nbw319/gur538/85829.m3u8
+#EXTINF:-1, Astro Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/143056.m3u8
+#EXTINF:-1, Sky Sports Cricket 
+http://humiptv.live:8080/live/nbw319/gur538/12.m3u8
+#EXTINF:-1, Willow Extra
+http://humiptv.live:8080/live/nbw319/gur538/5040.m3u8
+#EXTINF:-1, Criclife 1
+http://humiptv.live:8080/live/nbw319/gur538/123061.m3u8
+#EXTINF:-1, Criclife 2
+http://humiptv.live:8080/live/nbw319/gur538/123062.m3u8
+#EXTINF:-1, PTV Sports HD
+http://humiptv.live:8080/live/nbw319/gur538/89.m3u8
+#EXTINF:-1, RTA SPORTS
+http://humiptv.live:8080/live/nbw319/gur538/1039.m3u8
+#EXTINF:-1, RTSH SPORTS 
+http://79.106.90.124:5151/live/rtshsport/playlist.m3u8
+#EXTINF:-1, OVER SPORTS 1
+http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:-1, OVER SPORTS 2
+http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:-1, OVER SPORTS 3
+http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ARENA SPORTS 1
+http://93.155.227.38:90/m3u8/arenasport1.m3u8
+#EXTINF:-1, ARENA SPORTS 2
+http://93.155.227.38:90/m3u8/arenasport2.m3u8
+Shahin Dipu:
+#EXTINF:-1, Arena Sports 3
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
+
+#EXTINF:-1, Arena Sports 4
+http://93.155.227.38:90/m3u8/arenasport4.m3u8
+
+#EXTINF:-1, Arena Sports 5
+http://93.155.227.38:90/m3u8/arenasport5.m3u8
+
+#EXTINF:-1, Deima Sports 2
+http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
+
+#EXTINF:-1, Deima Sports  3
+http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
+
+#EXTINF:-1, QSPORT
+http://89.254.128.5:22280/qsport/index.m3u8
+
+#EXTINF:-1, Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-1, Viju Sports
+https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
+
+#EXTINF:-1, Zona Tudn
+https://linear-439.frequency.stream/439/hls/master/playlist.m3u8
+
+#EXTINF:-1, Tvl Sports 
+https://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
+
+#EXTINF:-1, ACI SPORTS
+https://g4wlk6xpy23a-hls-live.mariatvcdn.it/acisporttv/b7a3464f8e2001314de9fefebf11229d.sdp/playlist.m3u8
+
+#EXTINF:-1, Aysh Sport
+https://stream.live12.ir/hls2/persiana.m3u8
+
+#EXTINF:-1, XPORTS
+http://iptv.prosto.tv:7000/ch110/video.m3u8
+
+#EXTINF:-1, XPORTS +
+http://iptv.prosto.tv:7000/ch117/video.m3u8
+
+#EXTINF:-1, TR SPORTS
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+
+#EXTINF:-1, JOJ SPORTS 
+https://st01-1.iptv.joj.sk/110-tv-pc.m3u8
+Shahin Dipu:
+#EXTINF:-1, Golden Plus
+https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
+
+#EXTINF:-1, Euro News
+https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
+
+#EXTINF:-1, Win Sports
+https://v3.playerlatino.live/stream/m3u8/881
+
+#EXTINF:-1, Fox Premium 
+https://v3.playerlatino.live/stream/m3u8/512
+
+#EXTINF:-1, Direct Tv Sports 
+https://v3.playerlatino.live/stream/m3u8/259
+
+#EXTINF:-1, Aym Sports
+https://v3.playerlatino.live/stream/m3u8/148
 
 
 
