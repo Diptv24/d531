@@ -2,8 +2,6 @@
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 #EXTINF:-1 group-title="CTG IPTV", Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
-#EXTINF:-1 , Ten Cricket
-http://192.168.0.111:81/457_0_1762000_27688_0_1_3213_3313_3113_3213_17.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVMXKI_VaQQr1Eh1WK3iCOWooaDeKmEIezqQ&usqp=CAU", Ten Cricket 
 http://humiptv.live:8080/live/nbw319/gur538/9886.m3u8
 #EXTINF:-1 group-title="CTG IPTV", PTV SPORTS HD
@@ -35,20 +33,6 @@ http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/13714.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO1PbxQhp4z3nl0rhILplVG5laXDfNmbJz7w&usqp=CAU", Flow Sports
 http://tv-atvonlinebd.xyz:8880/live/dipu531/dipu531@/4619.m3u8
-
-#EXTINF:-1 ,Sony Sports 1
-http://192.168.0.111:81/454_0_1762000_27688_0_1_3212_3312_3112_3212_17.ts
-#EXTINF:-1 ,Sony Sports 2
-http://192.168.0.111:81/458_0_1762000_27688_0_1_3214_3314_3114_3214_17.ts
-#EXTINF:-1 ,Eurosport
-http://192.168.0.111:81/459_0_1762000_27688_0_1_3215_3315_3115_3215_17.ts
-#EXTINF:-1 ,Star Sports 1
-http://192.168.0.111:81/460_0_1762000_27688_0_1_3216_3316_3116_3216_17.ts
-#EXTINF:-1 ,Star Sports 2
-http://192.168.0.111:81/461_0_1762000_27688_0_1_3217_3317_3117_3217_17.m3u8
-
-
-
 
 #EXTINF:-1 group-title="CTG IPTV", Sky Sports Football 
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/chunks.m3u8
