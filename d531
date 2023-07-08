@@ -3704,6 +3704,20 @@ http://str24.l9574.com/112.stream/index.m3u8?
 http://str24.l9574.com/508.stream/index.m3u8?
 #EXTINF:0 tvg-id="ext" group-title="Without category",APB NEWS
 http://str24.l9574.com/829.stream/index.m3u8?
+EXTINF:-1 , VIP ACTION
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8?
+#EXTINF:-1 , VIP TV1000
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8?
+#EXTINF:-1 , VIJU TV1000
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8?
+#EXTINF:-1 , VIJU HISTORY
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8?
+#EXTINF:-1 , VIJU NATURE
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8?
+#EXTINF:-1 , VIJU EXPLORE
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8?
+#EXTINF:-1 , VIJU SPORT
+https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8?
 
 
 
