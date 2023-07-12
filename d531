@@ -3554,7 +3554,136 @@ https://v3.playerlatino.live/stream/m3u8/148
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="JAGO",PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
 https://playeriptv.com/app
+Sports iptv m3u8:
+🎾🎾🎾🎾🎾
 
+Bein sports english 1
+
+https://donelfantastic.github.io/creativemedia/intl/beinsport1EN.m3u8
+
+#EXTINF:-1, Sport 1🎾🎾🎾
+http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
+
+#EXTINF:-1, AIO Sport 1 🎾🎾🎾
+https://af.ayas.ir/hls2/aiosport.m3u8
+
+#EXTINF:-1, SAUDI-1 FHD
+http://213.254.12.7/saudi1/index.m3u8
+
+#EXTINF:-1, Sport 1
+http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
+
+#EXTINF:-1, Al Jazeera 
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+
+#EXTINF:-1, ZDF INFO
+http://213.254.12.7/ZDFINFO/mono.m3u8 
+
+
+#EXTINF:-1, BBC WORLD NEWS
+http://213.254.12.7/BBCWorldNews/mono.m3u8 
+
+#EXTINF:-1, Sudan TV HD
+http://213.254.12.7/SudanTV/mono.m3u8
+
+#EXTINF:-1, Elmouritania 2
+http://213.254.12.7/ELMOURITANIA2/index.m3u8
+
+
+#EXTINF:-1, CNN FHD US
+http://213.254.12.7/cnn/index.m3u8
+
+
+#EXTINF:-1, Re
+http://mow-8-ll.facecast.io:8835/hls_re/90e32cd2e905ea085f63.m3u8
+
+#EXTINF:-1, Sun music 
+http://50.7.237.7:8081/SUNMUSICHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, KTV HD 
+http://50.7.237.7:8081/KTVHD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, B4u music 
+http://50.7.237.7:8081/B4UMUSIC/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, ANIMALPLANETHD 
+http://50.7.237.7:8081/ANIMALPLANETHD/index.m3u8
+
+#EXTINF:-1, DISCOVERYTURBO 
+http://50.7.237.7:8081/DISCOVERYTURBO/index.m3u8
+
+#EXTINF:-1, DISCOVERYKIDS 
+
+http://50.7.237.7:8081/DISCOVERYKIDS/index.m3u8
+
+We tv malayalam
+
+http://50.7.237.7:8081/WETV/tracks-v1a1/index.m3u8
+
+Zee telugu
+
+http://50.7.237.7:8081/ZEETELUGUHD/tracks-v1a1/index.m3u8
+
+Jeevan tv malayalam
+
+http://50.7.237.7:8081/JEEVANTV/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Star sports 2
+http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, Sony ten 2 
+http://50.7.237.7:8081/TEN2HD/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1, Sony ten 3
+http://50.7.237.7:8081/TEN3HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,bein SPORTS 1 HD 
+http://81.49.224.77:8080/bein1/index.m3u8
+#EXTINF:-1,bein SPORTS 2 HD 
+http://81.49.224.77:8080/bein2/index.m3u8
+#EXTINF:-1,bein SPORTS 3 HD 
+http://81.49.224.77:8080/bein3/index.m3u8
+#EXTINF:-1,bein SPORTS 4 HD 
+http://81.49.224.77:8080/bein4/index.m3u8
+#EXTINF:-1,bein SPORTS 5 HD 
+http://81.49.224.77:8080/bein5/index.m3u8
+#EXTINF:-1,bein SPORTS 6 HD 
+http://81.49.224.77:8080/bein6/index.m3u8
+#EXTINF:-1,bein SPORTS 7 HD 
+http://81.49.224.77:8080/bein7/index.m3u8
+
+#EXTINF:-1, BT Sport 1 HD 
+http://212.8.253.117/BTSport1HD/index.m3u8
+
+#EXTINF:-1, BTSport 2 HD 
+http://212.8.253.117/BTSport2HD/index.m3u8
+
+#EXTINF:-1, foxsport2 HD 
+http://212.8.253.117/foxsport2/index.m3u8
+
+#EXTINF:-1, viasatsport HD 
+http://212.8.253.117/viasatsport/index.m3u8
+
+#EXTINF:-1, nba 
+http://212.8.253.117/nba/index.m3u8 
+
+#EXTINF:-1, syfy HD 
+http://212.8.253.117/syfy/index.m3u8 
+
+#EXTINF:-1, espn HD 
+http://212.8.253.117/espn/index.m3u8 
+
+#EXTINF:-1, espn2 HD 
+http://212.8.253.117/espn2/index.m3u8
+
+
+#EXTINF:-1, QUR'AN 
+http://77.92.139.136:8098/bysid/51000.ts
+
+#EXTINF:-1, SUNNAH 
+http://77.92.139.136:8098/bysid/51001.ts
 
 
 
