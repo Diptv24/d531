@@ -18,6 +18,8 @@ http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2
 http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BT SPORTS 3 HD
+http://212.8.253.117/BTSport3HD/index.m3u8
 #EXTINF:-1, SONY TEN 1
 http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY TEN 2 HD
