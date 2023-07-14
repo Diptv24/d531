@@ -8,6 +8,8 @@ http://172.20.2.5:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GAZI TV
+http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 #EXTINF:-1,Ten Sports HD
