@@ -2445,3 +2445,47 @@ http://51.79.87.60:49214/TSN5/hls/playlist.m3u8
 http://51.79.87.60:49214/TV2_SPORTS/hls/playlist.m3u8
 #EXTINF:-1,TV5
 http://51.79.87.60:49214/TV5/hls/playlist.m3u8
+#EXTINF:-1,Sport 1🎾🎾🎾
+http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
+
+#EXTINF:-1,AIO Sport 1 🎾🎾🎾
+https://af.ayas.ir/hls2/aiosport.m3u8
+
+#EXTINF:-1,ESPN🎾🎾🎾
+http://143.244.60.30/ESPN/index.m3u8
+
+Star sports 2
+
+http://50.7.237.7:8081/STARSPORTS2HD/tracks-v1a1/index.m3u8
+
+
+Sony ten 2 
+
+http://50.7.237.7:8081/TEN2HD/tracks-v1a1/index.m3u8
+
+
+Sony ten 3
+
+http://50.7.237.7:8081/TEN3HD/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,AIO Sport 2 🏐🏐🏐
+https://af.ayas.ir/hls2/aiosport2.m3u8
+
+#EXTINF:-1,Persiana Sports HD 🎾🎾🎾
+https://af.ayas.ir/hls2/persiana.m3u8
+
+#EXTINF:-1,KBSN SPORTS⚾️⚾️⚾️
+https://code.vthanhtivi.pw/getlink/jptv2/83/playlist.m3u8
+
+#EXTINF:-1,MBC sports 
+https://code.vthanhtivi.pw/getlink/jptv2/84/playlist.m3u8
+
+#EXTINF:-1,DD sports 
+http://50.7.237.7:8081/DDSPORTS/tracks-v1a1/index.m3u8
+
+🚲TOUR DE FRANCE🚲
+
+
+#EXTINF:-1,Eurosport🚲🚲🚲🚲
+http://149.100.19.131:8080/Eurosport/index.m3u8
+
