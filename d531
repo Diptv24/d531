@@ -3694,7 +3694,134 @@ http://77.92.139.136:8098/bysid/51000.ts
 #EXTINF:-1, SUNNAH 
 http://77.92.139.136:8098/bysid/51001.ts
 
-
+Playlist
+Playlist Finder
+9 Jul 2023 at 12:41 am
+#EXTM3U
+#EXTINF:-1,8XM HD
+http://202.147.173.53:8250/play/a16f/index.m3u8
+#EXTINF:-1,ABBTAKK HD
+http://202.147.173.53:8250/play/a16g/index.m3u8
+#EXTINF:-1,APLUS
+http://202.147.173.53:8250/play/a11e/index.m3u8
+#EXTINF:-1,APNA HD
+http://202.147.173.53:8250/play/a16e/index.m3u8
+#EXTINF:-1,ARYDigitalAsia HD
+http://202.147.173.53:8250/play/a12p/index.m3u8
+#EXTINF:-1,ARYMusik
+http://202.147.173.53:8250/play/a12s/index.m3u8
+#EXTINF:-1,ARYNewsAsia
+http://202.147.173.53:8250/play/a12t/index.m3u8
+#EXTINF:-1,ARYQTV
+http://202.147.173.53:8250/play/a12r/index.m3u8
+#EXTINF:-1,ARYZindagi
+http://202.147.173.53:8250/play/a12o/index.m3u8
+#EXTINF:-1,Aaj Entertainment
+http://202.147.173.53:8250/play/a149/index.m3u8
+#EXTINF:-1,Aaj News
+http://202.147.173.53:8250/play/a147/index.m3u8
+#EXTINF:-1,Alief TV
+http://202.147.173.53:8250/play/a110/index.m3u8
+#EXTINF:-1,Avt khyber HD
+http://202.147.173.53:8250/play/a0vv/index.m3u8
+#EXTINF:-1,B4U_MOVIES_INDIA
+http://202.147.173.53:8250/play/a12j/index.m3u8
+#EXTINF:-1,B4U_MUSIC_INDIA
+http://202.147.173.53:8250/play/a12k/index.m3u8
+#EXTINF:-1,BOL Entertainment
+http://202.147.173.53:8250/play/a0pl/index.m3u8
+#EXTINF:-1,BOL News Urdu
+http://202.147.173.53:8250/play/a15j/index.m3u8
+#EXTINF:-1,CAPITAL TV
+http://202.147.173.53:8250/play/a0s5/index.m3u8
+#EXTINF:-1,DHAMAKA MOVIES
+http://202.147.173.53:8250/play/a14b/index.m3u8
+#EXTINF:-1,Disney International HD - Rs 14.00
+http://202.147.173.53:8250/play/a16m/index.m3u8
+#EXTINF:-1,FILMAZIA
+http://202.147.173.53:8250/play/a11c/index.m3u8
+#EXTINF:-1,FILMAZIA Gaane
+http://202.147.173.53:8250/play/a12g/index.m3u8
+#EXTINF:-1,Filmax
+http://202.147.173.53:8250/play/a15t/index.m3u8
+#EXTINF:-1,GTV HD
+http://202.147.173.53:8250/play/a15l/index.m3u8
+#EXTINF:-1,Geo Entertainment
+http://202.147.173.53:8250/play/a0w9/index.m3u8
+#EXTINF:-1,Geo Kahani
+http://202.147.173.53:8250/play/a0wa/index.m3u8
+#EXTINF:-1,Geo News
+http://202.147.173.53:8250/play/a0tu/index.m3u8
+#EXTINF:-1,Geo Super
+http://202.147.173.53:8250/play/a0wb/index.m3u8
+#EXTINF:-1,Geo Tez
+http://202.147.173.53:8250/play/a0ty/index.m3u8
+#EXTINF:-1,HUM NEWS HD
+http://202.147.173.53:8250/play/a11x/index.m3u8
+#EXTINF:-1,HUM PASHTO-1
+http://202.147.173.53:8250/play/a120/index.m3u8
+#EXTINF:-1,HUM SITARAY
+http://202.147.173.53:8250/play/a11z/index.m3u8
+#EXTINF:-1,JALWA HD
+http://202.147.173.53:8250/play/a16h/index.m3u8
+#EXTINF:-1,Kay-2 HD
+http://202.147.173.53:8250/play/a0vx/index.m3u8
+#EXTINF:-1,Khyber News HD
+http://202.147.173.53:8250/play/a0vw/index.m3u8
+#EXTINF:-1,Kohenoor
+http://202.147.173.53:8250/play/a111/index.m3u8
+#EXTINF:-1,LTN FAMILY
+http://202.147.173.53:8250/play/a15s/index.m3u8
+#EXTINF:-1,MASALA TV
+http://202.147.173.53:8250/play/a11y/index.m3u8
+#EXTINF:-1,MTV Beats HD - Rs 1.00
+http://202.147.173.53:8250/play/a16v/index.m3u8
+#EXTINF:-1,NEWS ONE
+http://202.147.173.53:8250/play/a10v/index.m3u8
+#EXTINF:-1,NTV HD
+http://202.147.173.53:8250/play/a0gi/index.m3u8
+#EXTINF:-1,NTV ITAHARI
+http://202.147.173.53:8250/play/a12h/index.m3u8
+#EXTINF:-1,NTV KOHALPUR
+http://202.147.173.53:8250/play/a129/index.m3u8
+#EXTINF:-1,NTV NEWS
+http://202.147.173.53:8250/play/a0gh/index.m3u8
+#EXTINF:-1,NTV PLUS
+http://202.147.173.53:8250/play/a0gg/index.m3u8
+#EXTINF:-1,PTV-Home
+http://202.147.173.53:8250/play/a10k/index.m3u8
+#EXTINF:-1,PTV-NEWS HD
+http://202.147.173.53:8250/play/a10l/index.m3u8
+#EXTINF:-1,PTV-SPORTS-HD
+http://202.147.173.53:8250/play/a10i/index.m3u8
+#EXTINF:-1,PTV-Teleschool
+http://202.147.173.53:8250/play/a10m/index.m3u8
+#EXTINF:-1,PTV-World
+http://202.147.173.53:8250/play/a10o/index.m3u8
+#EXTINF:-1,Play Entertainment
+http://202.147.173.53:8250/play/a148/index.m3u8
+#EXTINF:-1,Ptv National
+http://202.147.173.53:8250/play/a116/index.m3u8
+#EXTINF:-1,Sab TV
+http://202.147.173.53:8250/play/a10z/index.m3u8
+#EXTINF:-1,Star Gold 2 HD - Rs 4.00
+http://202.147.173.53:8250/play/a16n/index.m3u8
+#EXTINF:-1,Star Sports 1 Tamil HD - Rs 19.00
+http://202.147.173.53:8250/play/a16u/index.m3u8
+#EXTINF:-1,Sun Marathi
+http://202.147.173.53:8250/play/a131/index.m3u8
+#EXTINF:-1,TV ONE
+http://202.147.173.53:8250/play/a10u/index.m3u8
+#EXTINF:-1,Travelxp HD - Rs 9.00
+http://202.147.173.53:8250/play/a16l/index.m3u8
+#EXTINF:-1,WASEB
+http://202.147.173.53:8250/play/a10w/index.m3u8
+#EXTINF:-1,ZEE NEWS
+http://202.147.173.53:8250/play/a160/index.m3u8
+#EXTINF:-1,ZEE PUNJAB HARYANA HIMACHAL
+http://202.147.173.53:8250/play/a161/index.m3u8
+#EXTINF:-1,ZING NEW
+http://202.147.173.53:8250/play/a15z/index.m3u8
 
 
 
