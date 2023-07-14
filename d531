@@ -14,6 +14,8 @@ http://172.20.2.5:8082/Nagorik-TV/tracks-a1/index.fmp4.m3u8
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1, NICK
 http://172.20.2.5:8082/nike/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1, Al Jazeera 
+http://172.20.2.5:8082/Aljazeera/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,Star Sports Select 1
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 #EXTINF:-1,Ten Sports HD
