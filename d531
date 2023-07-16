@@ -18,7 +18,9 @@ http://172.20.2.5:8082/nike/tracks-a1/index.fmp4.m3u8
 http://172.20.2.5:8082/Aljazeera/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, SPORTS 18 HD
 http://live.himel-himu.tk/jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Himel-OP.m3u8
-
+#EXTINF:-1, RTA SPORTS 
+RTA SPORTS 
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1,BEIN SPORTS 1 EN
