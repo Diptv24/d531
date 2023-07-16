@@ -16,6 +16,8 @@ http://113.212.111.246:8080/hls/col2.m3u8
 http://172.20.2.5:8082/nike/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1, Al Jazeera 
 http://172.20.2.5:8082/Aljazeera/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1, T-SPORTS HD
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1, SPORTS 18 HD
 http://live.himel-himu.tk/jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Himel-OP.m3u8
 #EXTINF:-1, RTA SPORTS 
