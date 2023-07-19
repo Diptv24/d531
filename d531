@@ -10,14 +10,14 @@ http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1, BAN VS AFG
-https://video-weaver.ams03.hls.live-video.net/v1/playlist/CrkFMORkcil2YQOYiP6iB2ls6WQBbaueSLF4z_S54k6jo8DDzjA817QT82tMYfyZPhHklQ98xQa2CD6qBdNbnCohT-py1KSsWP9EXlOWKzN2nkIuOKnbPDY0bGqzr6Y4GyaMCw91SENGYAHkos31h3lxarb-io-s8Ju5UcKQPs1fCbKUSmouGfcL0WgVcHQ4rVd2t6Os_abthop4x8IFIEZe4BsRjkMkcmQqqCRcV8h4pPDsA3SpoQUJHJh4Hm53apqDLcCjyjMS03hDbp7NrmNiVPIKor3Uo6DlhmLQnaQ8_u21u9Nl4zRI1bimwCSJVO6_fjXrQzfINJp1VYmTD5o7tOx-63jO5B1KJr1xDqzrJ13eCvYIser68qsNO-TP8AXg_dHz6TESMqFB2wg80A_SLTPqWCe9GbcU3SSDSO519ywcDBrPuxKR1eFJhu2_xE3jUTJb6HdHdGPM12CVlne2_p9wJiW8sLmXi2KcNRyYdxbjuUuGyrfILsmIBhfcXpoQ_g283oWNzCf5hqF9pXXntd1v6-lVDDlYHASiM11tVinG5m9_zvVHzB3bjOjj3WfWUS_jILRoQAHF5gChxt_wPm83Wkgaj99PUEsw6unU53zoIYQVtp6emVGKjA4fLFB2bOfhvSt7MY5o9DpJorgODxjEGvQJw7q8XjRFf1r4aVwElVdBfEQk86CH_EvJD7c1Vjqq85B7re-exeE_46XKW2O5Rx1bxRiE-Pdi310PeHzc9h68BDpvCLQ9xP7DtLlWdJrE1-WuySTy_NgmutP9rBQE-viIdUi7Qx8JzgGOnrpYzilggI8fOul76Zy7lKmuqUlpVO98JO7gmaZK4hUGcXOmIqfy_DRZaBBs3nsVY4QA2--PAQa436NxJAMnZlS0zRTQ9TduBV8etVnx82wYvQtAINrR0bnJdBoMX1lIxJFlQl4Ii2kwIAEqCWV1LXdlc3QtMjCHBw.m3u8
 #EXTINF:-1, GAZI TV
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1, NICK
 http://172.20.2.5:8082/nike/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1, Al Jazeera 
 http://172.20.2.5:8082/Aljazeera/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1, SPORTS 18 HD
+http://live.himel-himu.tk/jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/Telegram-Channel=@Sports-OP.m3u8
 #EXTINF:-1, T-SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1, SPORTS 18 HD
@@ -2565,4 +2565,89 @@ http://50.7.237.7:8081/DDSPORTS/tracks-v1a1/index.m3u8
 
 #EXTINF:-1,Eurosport🚲🚲🚲🚲
 http://149.100.19.131:8080/Eurosport/index.m3u8
+Shahin Dipu:
 
+#EXTINF:-1,Zee bangla cinema 
+http://50.7.237.7:8081/ZEEBANGLACINEMA/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1,Enter 10 BANGLA 
+http://50.7.237.7:8081/ENTER10BANGLA/tracks-v1a1/index.m3u8
+
+#EXTINF:-1,Sangeet bangla
+http://50.7.237.7:8081/SANGEETBANGLA/tracks-v1a1/index.m3u8
+
+India Playlist
+
+#EXTINF:-1,8XM
+http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
+#EXTINF:-1,9XM
+http://144.217.70.181:9587/hin2/9XM/index.m3u8?token=test
+#EXTINF:-1,B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8?token=test
+#EXTINF:-1,B4U Movies UK
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/index.m3u8?token=test
+#EXTINF:-1,B4U Music
+http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8?token=test
+#EXTINF:-1,Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test
+#EXTINF:-1,Colors UK
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test
+#EXTINF:-1,E24
+http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test
+#EXTINF:-1,Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test
+#EXTINF:-1,India Today
+http://144.217.70.181:9587/hin2/INDIATODAY/index.m3u8?token=test
+#EXTINF:-1,Mastiii 
+http://144.217.70.181:9587/hin2/MASTII/index.m3u8?token=test
+#EXTINF:-1,MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8?token=test
+#EXTINF:-1,MTV Beats HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+#EXTINF:-1,News24
+http://144.217.70.181:9587/hin2/NEWS24/index.m3u8?token=test
+#EXTINF:-1,POGO.TV
+http://144.217.70.181:9587/hin2/POGO/index.m3u8?token=test
+#EXTINF:-1,Sahara One
+http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8?token=test
+#EXTINF:-1,Sonic
+http://144.217.70.181:9587/hin2/SONIC/index.m3u8?token=test
+#EXTINF:-1,Sony HD
+http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test
+#EXTINF:-1,Sony Max
+http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test
+#EXTINF:-1,Sony Max 2
+http://144.217.70.181:9587/hin2/SONYMAX2/index.m3u8?token=test
+#EXTINF:-1,Sony PAL
+http://144.217.70.181:9587/hin2/SONYPAL/index.m3u8?token=test
+#EXTINF:-1,Star Bharat UK
+http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8?token=test
+#EXTINF:-1,Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8?token=test
+#EXTINF:-1,Star Gold UK
+http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8?token=test
+#EXTINF:-1,Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8?token=test
+#EXTINF:-1,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test
+#EXTINF:-1,Star Plus UK
+http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test
+#EXTINF:-1,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test
+#EXTINF:-1,UTV Movies HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test
+#EXTINF:-1,Zee Action
+http://144.217.70.181:9587/hin2/ZEEACTION/index.m3u8?token=test
+#EXTINF:-1,Zee Anmol Cinema
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
+#EXTINF:-1,Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8?token=test
+#EXTINF:-1,Zee Classic
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8?token=test
+#EXTINF:-1,Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
+#EXTINF:-1,Zee TV UK
+http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test
+#EXTINF:-1,Zoom
+http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
