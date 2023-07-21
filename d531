@@ -24,6 +24,8 @@ http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 #EXTINF:-1,PTV SPORTS HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://172.20.2.5:8082/Star-Sports-1/tracks-a1/index.fmp4.m3u8?token=26c096e369244a6d97c5782e3b2759266fc27e69-a8070840c7e75b5ca5da382d8cadb047-1689940264-1689929464
 #EXTINF:-1,STAR SPORTS 1 HD
 http://172.17.50.112/live/antbd1001/index.m3u8
 #EXTINF:-1,STAR SPORTS 2 HD
