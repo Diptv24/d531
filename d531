@@ -2368,3 +2368,280 @@ http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test
 #EXTINF:-1,Zoom
 http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Simple IPTV Player",PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:0 tvg-id="TenHD.in" group-title="Sports",Sony TEN 1 HD
+http://103.209.173.14:9998/gAAAAABkvlA79srhGZKUMyUnxwE9HAR2duvUmE5dHlHgSEPGmkBPTJyFYQGubMHK9IORzTEZe8i0zSguGqc58iRZRaOxD11f5w==/index.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony TEN 2 HD
+http://103.209.173.14:9998/gAAAAABkvlA7Io3y-Dxwxqjp0sQ8mvACgfXvDkJmJYVhzrlF29NQ-eEmwYFND5WpfaMf9mJcU4d4q-QAuP2qEElMDySNntVL_Q==/index.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony TEN 3 HD
+http://103.209.173.14:9998/gAAAAABkvlA7ooW0wX_h82dCG1IebbzwANllEH3jkcShw__XkDwtmJstuDQfbB4__SDeunwAC0gNVpdYtUGorHYWNT3sHB2_bw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony TEN 5 HD
+http://103.209.173.14:9998/gAAAAABkvlA7_a4MVT5kqxfrhV7g7gejvjnUR30X1jpG7HQNZwjy80LOCWy5TkAF-I95TYBJPNMbwcokhRJjSScNbUvBfiIV_A==/index.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="Sports",Sony TEN 1
+http://103.209.173.14:9998/gAAAAABkvlA7ML76SVw4TYo181GD37WrNBR0DD2da5o_MSvIRoGtBJB1AsNruzXvu8slRF148aFJM4lfNAOG0kzYZSAWHJJAEQ==/index.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="Sports",Sony TEN 2
+http://103.209.173.14:9998/gAAAAABkvlA7Ddck_HnAiSDs7q74-FyY2MpZYJkfYJ0uyzqQ7C8Kovlpusqmyr-cAS8YdUkrvmicU1A0mmG4vkFs6Wetw8g2Hw==/index.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony TEN 3
+http://103.209.173.14:9998/gAAAAABkvlA7AQidyHKUWOPB02T5ZTtN_O-WmP63y5hdwfZd_AHIpnWQB_Z046loGnL70uuSS2aW-A6gEhpUv9EfesW8KLzY2w==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony TEN 5
+http://103.209.173.14:9998/gAAAAABkvlA75cKj60fnMAU0d4SgxGD-ZdjeXDBRdxopbL5YvYjczaMr72q86dUoGD_DKxaupzGRjWGdrEdwtSCV7dH_0UMxgg==/index.m3u8
+#EXTINF:0 tvg-id="esp-hd" group-title="Sports",EURO Sport HD
+http://103.209.173.14:9998/gAAAAABkvlA76YskFyOZgyBMzAICAA0TSztZSl8H6uM9iHx5mIdH1VA5-kbeWZXKCxqhbik7TYFk5BSwicigaLdqMfBb92CHCQ==/index.m3u8
+#EXTINF:0 tvg-id="esp" group-title="Sports",EURO Sport
+http://103.209.173.14:9998/gAAAAABkvlA7eT0PrbUURx9NwKGtw1Q0-prl6qTBjs_BurdudyYjnsd-Z17Pq1xxtCY_3nQgBkRSdJpmlJAE0DpEUb8nrJwyTw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Dubai Sport
+http://103.209.173.14:9998/gAAAAABkvlA7Oqxj1SctXzW2kuiPps66VAuNto_VXzq0zWaBM8aW5kNdpRMcDjTzWreiwHqqN29nT5HWfaK-U7IxyApwl4iHtg==/index.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Sports",Sony TEN 3 HD
+http://103.209.173.14:9998/gAAAAABkvlA7ooW0wX_h82dCG1IebbzwANllEH3jkcShw__XkDwtmJstuDQfbB4__SDeunwAC0gNVpdYtUGorHYWNT3sHB2_bw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Sony TEN 5 HD
+http://103.209.173.14:9998/gAAAAABkvlA7_a4MVT5kqxfrhV7g7gejvjnUR30X1jpG7HQNZwjy80LOCWy5TkAF-I95TYBJPNMbwcokhRJjSScNbUvBfiIV_A==/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeBangla.in" group-title="Indian-Bangla Entertainment",Zee Bangla
+http://103.209.173.14:9998/gAAAAABkvlA77f7bwaMTN-6yzkT6BipHC0nFzBgCpX4yTvFvu_xvSOFFsy4TqrNAHpZDwksK23HibYG83pP7v_dIsQ1xWyWQ5g==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian-Bangla Entertainment",Sony AATH
+http://103.209.173.14:9998/gAAAAABkvlA7cZRJstraKvk4r82fuAXPfCfSlwpetYXSJSR5E-otcCSf6AGae6dSZPhO3_8n2ZrF0KyMqyTQ3Y2TIqCDtuhlNA==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian-Bangla Entertainment",Colors Bangla
+http://103.209.173.14:9998/gAAAAABkvlA7ENLzevKBxLznUV74wQ-2Lj9QYhqskL9nvSnpN7srhkQUgLlAsK-SCjsGkIxCYGSBHWU8qJ5DbyGlAzUtiO4g5Q==/index.m3u8
+#EXTINF:0 tvg-id="StarJalsha.uk" group-title="Indian-Bangla Entertainment",Star Jalsha
+http://103.209.173.14:9998/gAAAAABkvlA72I_qWODNMZfIXthcEPPMQhcrWkQrX_ibam4aYKbQWD2-YfGkjCg6z5u4wsY1SXACtuMiTTrmizNXWFKfkUY-zw==/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",Somoy TV
+http://103.209.173.14:9998/gAAAAABkvlA7NKkihGZTrV5vjJ3ltGBLC002nNbLEBhHPrtHRgSqxzKTLxFgRdqyrbd19I18xMSwPy7xY6Qy3Wtbw2uwnweUXQ==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",Ekattor TV HD
+http://103.209.173.14:9998/gAAAAABkvlA7JG9tSrygbZl8kPNWO2eRGD1h2Xg1oc0p5m18GH-7SC7wOGay9PX0LQlic1PDVE7j_WMGjZQY5Bsv5Y64DGKGpg==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",Independent TV
+http://103.209.173.14:9998/gAAAAABkvlA7k6gw5ULDTcs88qX3aK3RSehODATkpPh0qLFjNhzOS0Va25P-NPyGh5MwN67-bZfpygxRyxM_PTufdGvRofUeig==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",Channel 24
+http://103.209.173.14:9998/gAAAAABkvlA7eD9yaYO5p4doCL2hpaBADs3KVeUKPQ1TgFeYQys1pNju9ShC9EssT3E_GwUy8SBCK_-So9hZ5p5T9bEfY6iGng==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",DBC NEWS
+http://103.209.173.14:9998/gAAAAABkvlA7tUmCqxg9zJDdY6O4r6EPU1bVjWnRr3XSMlEUnOrAOu0e2v8Bnw1kzY36v4jWMHqgQB6DRXAxM9jbKLZeiWKq2w==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",ATN NEWS
+http://103.209.173.14:9998/gAAAAABkvlA7fFfowNSxSzkWyh5lSKG87D_2dbWcyVE93IvViP5Q4no9XHabOWX6uis0X1Diy6Ceo0wBie3yDV5fkuoJGBmgcg==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",NEWS 24 HD
+http://103.209.173.14:9998/gAAAAABkvlA76ccJuAB5-nNbEYhfi_tv-dMa9pUlq0xGTrUlTiUyvbuK4-JpMgqUU89BO5PIOSDLtdDyD6Dsy3M3xToFCrYC9g==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",Jamuna TV
+http://103.209.173.14:9998/gAAAAABkvlA7lzUjmCMu-Are2z_I1D7jce-t_2xXmWoTlW2dkjrLzhEVgMWZ8MxS8plvM_-fZLUrVkPc9rCXXEqtoX_WSxBdyQ==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",SATV HD
+http://103.209.173.14:9998/gAAAAABkvlA7hkLsBW4eJ2J2ApcDHJQvyLRD6C7kQZpLLs04q7ECqYhz3CNxj8vZoTVtwLLWaBgXWdRy1VMAGs-dHayNYJEu7g==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi News",Global TV HD
+http://103.209.173.14:9998/gAAAAABkvlA7stgLNRVFnRNq182nxKP7wF5KBSoPchx9v-t98ypBUsMZ0brFpqZPyoIPR32uVrlxnsezTv3xJIhWtQKy-UkmNw==/index.m3u8
+
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="International News",Aljazeera
+http://103.209.173.14:9998/gAAAAABkvlA7Qin63u4XRxa_DY5MeDCquKXGoQ7xXGQHK5THfaX3G_7KwxgK_pe_3004L1mHfjDKTXJm_D4zZ2928VJrhJbrqg==/index.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="International News",CNN
+http://103.209.173.14:9998/gAAAAABkvlA7xHxh-jz8oC6TMyjD9VLfl0dFMJUwd9_tTkIQ6_ixBdVhkMgZV74nHq0YhqKXkg_x-hZldzAkBcAiQQMELXXwNw==/index.m3u8
+#EXTINF:0 tvg-id="DW.al" group-title="International News",DW
+http://103.209.173.14:9998/gAAAAABkvlA7JmsKsAH1jF0OAiw2bzB_02cWVon6Obx86o9MqFAAk-oslyd9cmlnofHijwE3s2N24D20Q4t-NKoCUP9ZcbWOsQ==/index.m3u8
+#EXTINF:0 tvg-id="ZeeNews.uk" group-title="International News",Zee NEWS
+http://103.209.173.14:9998/gAAAAABkvlA7X6BYTzMRsJPGpuuFshZWVVMQE773pB3PV0cT7O_49zmn0kuP3j9g6Z4PnZS4p9fMGAZpIQdvBaIvGq97ZgHVmA==/index.m3u8
+#EXTINF:0 tvg-id="rtrpl" group-title="International News",RTR Planet
+http://103.209.173.14:9998/gAAAAABkvlA7n8IXvyML9W5Kze0wxp687A9s8kbNoC5YzV1vluFyDI296bIMWod4tAxvVhce9ASwMDXDBGqBa0uXFm-2iOm7_Q==/index.m3u8
+#EXTINF:0 tvg-id="euro" group-title="International News",Euro News
+http://103.209.173.14:9998/gAAAAABkvlA7eVgt-7qUMhePDjX4wyw2az4qLdflxeKiLhFUClXt8LPbIXopqWG8Z6tDkezeSsWWQdAG1pWuqHjQSXIzfaPQfQ==/index.m3u8
+#EXTINF:0 tvg-id="arirang-en" group-title="International News",Arirang
+http://103.209.173.14:9998/gAAAAABkvlA7sY1RJ3kMIK33x9L-I60zcA5S2N8qH_ZdNBP26tuOXvL2UVI3VE7bdCii3cjwPkD2q3kRnBfyJv0NtCAOdB3XJw==/index.m3u8
+#EXTINF:0 tvg-id="CGTN.cn" group-title="International News",CGTN
+http://103.209.173.14:9998/gAAAAABkvlA7fRoBr23fhKIi8H_la1dFJMoBh9zTB5adcMpn4DkMB7gQHTuJ3lqLOpyTw5pzw1UcR4VLVSlgqkhQmmZ95ioRrw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="International News",Channel NewsAsia
+http://103.209.173.14:9998/gAAAAABkvlA7ZCrc9PBmgQwEIgTgB7zPu7ifHR-3r8K0ZoW5OJtOJE0d3VzqkghmtpQakSOeua6R7Zudg_djxtQ8SIeQmtZwEw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="International News",Zee BUISNESS
+http://103.209.173.14:9998/gAAAAABkvlA7mp6d0LsXjyvIyhOttgmTCFhmsHU3ZxPdUbB36iKhlFCVAtVXBMIs7QH9YBWNX0hmCQCrET1NLQj5C9SXR2Wt3A==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="International News",KBS World 24
+http://103.209.173.14:9998/gAAAAABkvlA7r-gliG2SQChB-M0bQOI5VFAC7yvMSe22jdnby91f_A2GeJddNSMR54jxEgoVr2gDfn680oG83qLhqra3VVEFbw==/index.m3u8
+#EXTINF:0 tvg-id="tv5monde" group-title="International News",TV5 Monde
+http://103.209.173.14:9998/gAAAAABkvlA7T5RzKh2k-U2q3SYB0HamOTq7f06bpwRpnuTUWUbNO2Ej1LlywvME5W91moNjI_OHDsQK_0J6gnkfsiVqrqTmZg==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="International News",Aljazeera Arabic
+http://103.209.173.14:9998/gAAAAABkvlA7l_DgWJF7GC3oarhrIuoDNc2Hccq6VOyNeM6aI5kOr0w_AKU8l5FzMtQz81ySeGVsYgOscdrXucx-3Q9B768lEnB4u8GPrw0eWiQ0gwqEJ9A=/index.m3u8
+#EXTINF:0 tvg-id="Nhk.br" group-title="International News",NHK World Japan
+http://103.209.173.14:9998/gAAAAABkvlA7pHgYBlv2B_IThq6lSEDBgT4qEv0-7qCehG7njf38LJRY7pOR3gwNRq-cQLQ4tyr7i-sJt4pAwV9nirsDbiJppg==/index.m3u8
+#EXTINF:0 tvg-id="france24" group-title="International News",France 24
+http://103.209.173.14:9998/gAAAAABkvlA7j5tGYjV5bv03aPorvHiH5KlkTR62zamViYCmJz_NjkQdYkNJD9A8-rUqbK_ggLvzaLjmLp72S-j2_60-piM9ww==/index.m3u8
+
+#EXTINF:0 tvg-id="Channeli.uk" group-title="Bangladeshi Entertainment",Channel i
+http://103.209.173.14:9998/gAAAAABkvlA7bOKd7_AHaMX4TypESNFhnqgj0LtQlA29ytdMyCpDGnrPJ8fYa08SwHJ07iIgMNZTywFs0UwB_-7iOmeIBmqxOA==/index.m3u8
+#EXTINF:0 tvg-id="rtvint" group-title="Bangladeshi Entertainment",RTV
+http://103.209.173.14:9998/gAAAAABkvlA7XxBF-o4dXjJ9F0F3T1fzR6e7qUOVncSSFMFjkgXgtig_9mPp7HBBjcUUO-TVQon41wdz3mmDg7WHycXyc1F17w==/index.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Bangladeshi Entertainment",NTV
+http://103.209.173.14:9998/gAAAAABkvlA7vDLewIQfZPgVgIDVqvPlguCJ8vbr04O34zXLqUX_6zLKdX5X3nOTEHvcUBlkylSPXNyjLNzHrFS6XQ3BWhrjFA==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Bangla Vision
+http://103.209.173.14:9998/gAAAAABkvlA7gAP9zDFOBjrdyOvPamwLaPhLd8ubcBIn0t_V3NMXU-f8mYxSqwb2SbTLYBDzfLpflwac_F_wHdn9Rnm1-bK3wQ==/index.m3u8
+#EXTINF:0 tvg-id="ATNBanglaUK.uk" group-title="Bangladeshi Entertainment",ATN Bangla
+http://103.209.173.14:9998/gAAAAABkvlA7hbTnrze66xP5Ciu2KlYfJFtDOdO0NtfAc2_aYrFzm_c3a0gWvWwXRW8v6lvZvk9QhMzlL-gQ9nz_0FxJSfr0Kw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Ananda TV
+http://103.209.173.14:9998/gAAAAABkvlA7GbHT-pT8YDc9nRYfszxvW_MJ3578vUa2p2kaMuIlc6cjcOEbObi0mcxvNTkLWBP7cH2ayZ_46ir7JrrbkD-yDg==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Boishakhi TV
+http://103.209.173.14:9998/gAAAAABkvlA7kK7CeuxNWoAtQJ-dMWClB50k5sB_ct5w7Cvl3HQv1GBz3rYzX3-EaiKFeBU1GHLav36FJ40UyADb_VXr1hAPRg==/index.m3u8
+#EXTINF:0 tvg-id="Channel9.il" group-title="Bangladeshi Entertainment",Channel 9
+http://103.209.173.14:9998/gAAAAABkvlA7_WNYl98aMRuIEJnFl1BRDi3nyzmStsjPaUt4bl8zL2mwjsQ0ULkTbfoguDWVnCvjVrRGX3WTdEt679p4iJe12A==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Mohona TV
+http://103.209.173.14:9998/gAAAAABkvlA7oMRTNS51guuwp3358kZv277X0_a2xizXQFI4Hy6aAfW3PB6AfO2DVX-dSlHm9iQN82aiBB2bzu70OPWE_ZHyRg==/index.m3u8
+#EXTINF:0 tvg-id="MYTV.in" group-title="Bangladeshi Entertainment",My TV
+http://103.209.173.14:9998/gAAAAABkvlA7b4WpuHg2dZ-9JP01yU3yjF3HvIVOFAMYBQQFAxJ4qJuJnMStPDkMhgRc_o12HUAKddOcDqt4oIhLRdZtFkM4LQ==/index.m3u8
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Bangladeshi Entertainment",BTV HD
+http://103.209.173.14:9998/gAAAAABkvlA7GWGX89nm3pm4jz5aze8RX9LlakrIYnJXSlZ6XCmqnizB13Exh9LBQ-OMpZanb99dZVvGjRosofTGyTG1w91lQw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Bijoy TV
+http://103.209.173.14:9998/gAAAAABkvlA7NDeZISTPoNF_BBsInw762eM7baTaO-YzXT1wToG-zeotP683rvb1yPCj5xfEP0QYpTI8r5vfCR2jX2pxMrulbA==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Asian TV HD
+http://103.209.173.14:9998/gAAAAABkvlA7u8z2QYaOO-pWdxpHSNdVVeqsVXn9Lct4p__JRExC3c2wWgzWpEoBxa-cIeC8XEQOveXbzPtwG65vqbh-qzts-w==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Bangla TV HD
+http://103.209.173.14:9998/gAAAAABkvlA7vyVTJrQ7YHZCVm6YYmYg6OtBK83KYEXqJPGCP5YhUZAeUhAYGB6Kqivvtrhbn_w61LbRTfvWhvsZF89AMg0YSw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Desh TV
+http://103.209.173.14:9998/gAAAAABkvlA7MAhFIlspsSMg6-OOgmofquJ-FF5bEYCgYnZMSat2uqqMOQMp6THtKNjMJTJryEdLJ_iNnt0Joi6rVBpxLzVJgw==/index.m3u8
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Bangladeshi Entertainment",BTV World
+http://103.209.173.14:9998/gAAAAABkvlA7_BXjvcmGlLs7k4Te1hwJhPADU6MVTLkNmCj_zNw3nhYnLhgWTivXRhO_cAJgBhGwT4kr-UuBb8i7uoeO4-9F3g==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Ekushey TV
+http://103.209.173.14:9998/gAAAAABkvlA70ee45MfLCX76kw2aUkzCFPSOrTbpNFQhOwU1pv5umQPhc6gB21VZz-GNfFhM22QdkGJ-YZXgSDn-4dQh9hr67g==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",BTV Chittagong
+http://103.209.173.14:9998/gAAAAABkvlA77BSA99f_vfg-3Hy5b9w57YtJHvcPrMOVmGcMcyAZqUSEbHcVJA80zXeB0weVFVC0s5qjsiED7GWVZplCsVixWQ==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Nexus TV
+http://103.209.173.14:9998/gAAAAABkvlA7Jag3AUvPak6I921KmnMITbBnXJeN-Er3rEu_QPy0uo23boVFFnHDtS5aqbFDwp5yRYpfi3LORlx0-1g7kE1T9A==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangladeshi Entertainment",Sangshodh Bangladesh
+http://103.209.173.14:9998/gAAAAABkvlA7Nz2zsgF93ykb-f6EkEKcUkNeqWUqeztMQDuUsxsdWui3Za2RAov06j4NqynTHR4AN5Ba1Rtb5NhSpNc126NiaA==/index.m3u8
+
+#EXTINF:0 tvg-id="StarBharat.uk" group-title="Indian Entertainment",Star Bharat
+http://103.209.173.14:9998/gAAAAABkvlA7CRw3OAlQTiTM-vXFEir0jOikk2kyKVqiYeNdw-E808Nk1ZcrlGOoMZIrALdAP_UPWDSsDU8ADT8NzdpAX738Hg==/index.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Indian Entertainment",Sony MAX HD
+http://103.209.173.14:9998/gAAAAABkvlA7zAiWFxlsXGokfdobJNGhypv4Bbn78hPpn_ou5L88P-foJ07S-43mCgYzGPmpWaYj-mKglmPFJcNHSjEv1mz8FQ==/index.m3u8
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Indian Entertainment",Sony MAX SD
+http://103.209.173.14:9998/gAAAAABkvlA73BZTUFGwBH8t_B2F5oMbQFvWt8vidMDFsPd-ZSGONCLhoIzZoz6QKdTwqZjeThJi3FQiMVbK9JdYBX4HHajaUg==/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Indian Entertainment",Sony Entertainment HD
+http://103.209.173.14:9998/gAAAAABkvlA726jEacLp2ICymiKE2SBBPiOKcN89RVUc0Ymh1kORyFozxhB4vQnL6Lrozi0dX0XU2I9pAhwfOfgf_xhBV8vVh7FOf2LHDEaYLYz1M5IG2Fw=/index.m3u8
+#EXTINF:0 tvg-id="set" group-title="Indian Entertainment",Sony Entertainment
+http://103.209.173.14:9998/gAAAAABkvlA7N5yMzcx5a_DzKtlKhbPj03XnVp1hNPNueREzq3swpclwyZ_zNcZI1Vw9ADvhBOEhBbCPwLAbn0cmgNkRakLxDdSM0tcWIFGh6W1dn4gRovI=/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Entertainment",Sony SAB HD
+http://103.209.173.14:9998/gAAAAABkvlA7RPgiuZ8Qtj7NgqtKhbVllxu3gL9lEfPriJJPyN1P1LI4S3sT1FuH-qDVidoklf6mROkpVzPOwhU_8_6fDU7Nvw==/index.m3u8
+#EXTINF:0 tvg-id="SONYSAB.uk" group-title="Indian Entertainment",Sony SAB SD
+http://103.209.173.14:9998/gAAAAABkvlA7Y2pHcsa8GJiw25hLAv0oO5ydlA0TzjHUkAsrHmkgBU662rU74QmzlygNbbM01jDpy2iQ8qfwzHbnJYW2CQLz0Q==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Entertainment",Sony MAX2
+http://103.209.173.14:9998/gAAAAABkvlA7fQlPCzOqWeEVqYqUjxuN2XC9AbNOceCKS8M329arr9oN8L42GIIqeH43jxCUslH8ENFHSrgIFTyDFd5ppqGKsg==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Entertainment",Sony WAH
+http://103.209.173.14:9998/gAAAAABkvlA7wgHyHQR2b2X-w74g97i81VFtnJkp4gjQx9adYFjWuuD66tcb_UfGlzjUbRSEBqyHmzfcFnKG1_dUllI8xDhpuQ==/index.m3u8
+#EXTINF:0 tvg-id="SonyPal.in" group-title="Indian Entertainment",Sony PAL
+http://103.209.173.14:9998/gAAAAABkvlA7yXrayPLsgKJ5-PP0G2dmRirKPD7Or9L6Uh5eZG1v_PVvRht6Bnq9Id4CY3LehGfBkd69Q1DjM9X0UX75sesk7A==/index.m3u8
+#EXTINF:0 tvg-id="ZeeTV.uk" group-title="Indian Entertainment",Zee TV HD
+http://103.209.173.14:9998/gAAAAABkvlA7uPkLEkmwpuRdpi8EzxIoLMRqv61L6sC6tebGJGBvzU4lc_gnPLGVbC4JGdRh9O1iiEEb4XbSyKe9GbZMn88gXw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Entertainment",Zee Anmol
+http://103.209.173.14:9998/gAAAAABkvlA7esSeEzWkllX2y8uIwtm8NOEndgXHfYaGS0fwfqbmxg-vhBZlq5pV8d2wQORVir3MZq0yBol0LU6GMdyx6fAK5Q==/index.m3u8
+#EXTINF:0 tvg-id="Colors.uk" group-title="Indian Entertainment",Colors
+http://103.209.173.14:9998/gAAAAABkvlA7M_XCeqa7M0bs1TjQO-s6QQY7WL-KfIvpe-jXeC_6dzvw3Hf6s90rziOaBRzlQ09lTJkY3BavQwbeUOslTdTRhg==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Entertainment",Colors Rishtey
+http://103.209.173.14:9998/gAAAAABkvlA7p-i3Pmh_iopSMq5JHlNoU13-ADTJHYiBBiVM5mitVh3a2vT3m7NuoMIJ38UL9I94XDFZiMSwKulTlc2nTc6m5w==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Indian Entertainment",&TV HD
+http://103.209.173.14:9998/gAAAAABkvlA7J4B8u2WgiuTkd8xIk4G_a3VQzO7LJj83HB6GUiLcipYIVR57FcG1T7Wsf9HBUaQYx9GVEYl8xHV2RF93kneAaw==/index.m3u8
+#EXTINF:0 tvg-id="Pictures.in" group-title="Indian Entertainment",&Pictures HD
+http://103.209.173.14:9998/gAAAAABkvlA7KZAhCjbJ-XxqS08G7Zm6a8blnxU5pdD1pVx1syfNTT1wXS8PEfYSl9z19AIXpLbazJbe838H2o7xSDyxfM2TZA==/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="English Entertainment",Zee CAFÃ‰ HD
+http://103.209.173.14:9998/gAAAAABkvlA7SuMoPJ6qKqYVJ89gS2uPboaTD87Rx-DOOUq41dmi1Zd6jQbE0uPhfyLpQJ-7jhBSwlRvUKT3C5SLDo-V5KhCOw==/index.m3u8
+#EXTINF:0 tvg-id="ColorsInfinity.in" group-title="English Entertainment",Colors Infinity HD
+http://103.209.173.14:9998/gAAAAABkvlA723-FEZpRhBOcwX0XdC-6JyGJE55-IykqoutFcpxAvsT3_Jfr2fAEh1VuGd0RGybGUVaYUHN2qkoXtFzbXJryQG29ewHfzTK_ZnJcKHTH21Q=/index.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="English Entertainment",Comedy Central HD
+http://103.209.173.14:9998/gAAAAABkvlA7UMTBbV0Fv5BYDqqbiNy7_nKHuIylCQKOAgT-sBer5zLzmo7HAd9Sn6AaI3pLdmsVNzdmBTQVqq06TQgmBWSAauUBT-eQtiHxcFvfwmcDDzc=/index.m3u8
+
+#EXTINF:0 tvg-id="nickelod" group-title="Kids",Nick
+http://103.209.173.14:9998/gAAAAABkvlA7BIdTnowESZSID5N48zi7Cxk8DKiMEH6ElERSVmk26jN6NgiTi5FVKbspvsr-v2xuyebqk8hUeZM0i3Pazf8UwQ==/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Kids",Cartoon Network HD+
+http://103.209.173.14:9998/gAAAAABkvlA7UAtHugP458XQYJHqK-uBgg9yzZi2ocLKP_mGBPd-vlErTcJ2uEHH04khU3ZS2AdUYdGcNJ32EhLHKZFKqC93CQEZW94T2_IwY5BwoqAsOVc=/index.m3u8
+#EXTINF:0 tvg-id="cartoon" group-title="Kids",Cartoon Network SD
+http://103.209.173.14:9998/gAAAAABkvlA7aWJyHouEsjcWY5FySudvrL0hwJMPcmuHOhiaFWly_0t_V7d8c2ybQUoXhHAeQlqJSoVbKlcVpNYJH8Bib9opBXza_ahFTuqMtFG_8we8EfY=/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Kids",Sony Yay
+http://103.209.173.14:9998/gAAAAABkvlA7ud2dO_LpQxJ6YRJcZ_QfM7Gur0gi0pNTr5iL5UV4B2FLnK2N8z76S04jHGhdp_mcvZkFpUy-rYL0Ex2HsXHCZw==/index.m3u8
+#EXTINF:0 tvg-id="Sonic.in" group-title="Kids",Sonic
+http://103.209.173.14:9998/gAAAAABkvlA7VkYCWUO_FTt8QTDdqE4aBWrZNq_Ls5h0LqtJz4TY3VaTmIHMq6oOKCpZlrGL6qUfciBGmr010eP2CsTJGz4cPg==/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Kids",Discovery Kids
+http://103.209.173.14:9998/gAAAAABkvlA7tfhVePZHGLYJd2HA0qFt9sH9649YSAmV0_fJ2v9MOZuEgwh748yWn7vMv2DkT0pczK2pX6y-k565Rnq2PprIfg==/index.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Kids",Nick Junior
+http://103.209.173.14:9998/gAAAAABkvlA7MmvzsgswVvxFqTmaISukV0nuEsYkd1_wZuKV7lrcHEbbncuElgHwn8JSNFgjEQvp9KKZSZs9_P2kATpj49sXDQ==/index.m3u8
+#EXTINF:0 tvg-id="POGO.in" group-title="Kids",Pogo
+http://103.209.173.14:9998/gAAAAABkvlA7RMP-x1TeNnQFhIHd2O2oUnAjNnAQqg547Ivhp2v0xXlBnYbl-syqro7TpRGML6p2mNgFPqYZJX6wfIfZTlkuyw==/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bangla Movies",Zee Bangla Cinema
+http://103.209.173.14:9998/gAAAAABkvlA77kDwaISlN57N2u56Bd-TgBBIOMOpKv-Fa4nbyG2vs8Fn3og5bb8VsOe9V6euzmOFO1Nout4lE9oEySrIMJa2eoI6SjQ2zERvi3Xq68OG_cI=/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla Movies",Colors Bangla Cinema
+http://103.209.173.14:9998/gAAAAABkvlA7X8TIxZd9osWb0MGGhjPl2yqH7DornsAbfjqYxqYyk4KcoRtUEjBeBm-TWaOh9ekQN1R3Wby_1EJUeaaRS8GcHf4BUSQFeI9PkDmtc9tFyHc=/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla Movies",Movie Bangla
+http://103.209.173.14:9998/gAAAAABkvlA7XaujgYB6ED8L1iQ0YpGBN8w8P8WAJIiFn0CHcrHeoarcmN12UQVUzvpsO1WbJdO7atSdgRF9j6KsVAFdzwc6Og==/index.m3u8
+#EXTINF:0 tvg-id="JalshaMovies.in" group-title="Bangla Movies",Jalsha Movies
+http://103.209.173.14:9998/gAAAAABkvlA763BSn2yBsY70CBVoDr5ftrdfkHyq1nadjtaInasMohgBINbVMVi2ukNwBwUDyAmRgj9U9uJUI5gzAD2ZKoWL9w==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla Movies",toffee-v2 Movies
+http://103.209.173.14:9998/gAAAAABkvlA7OebWDucwRsQcn8IFXLEOuA7lIqsAd_6Jud4Y1fD4lIFt-LY_ZOFSm3ietBc-NECtm0KkZcdwVGckJqSVJSjKeA==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Bangla Movies",toffee-v2 Dramas
+http://103.209.173.14:9998/gAAAAABkvlA7pSML9i66y_q4BsugFUIUB1FEgo4s2BvP6eUZp5Obpp05aJ1WYN1dK4ik1mbYYBjamiLMjqAGECRNVZynFKWLxg==/index.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Indian Movies",Zee Cinema HD
+http://103.209.173.14:9998/gAAAAABkvlA7F9CIFp-SsdkiEYeYoZToAoWmVQ4erpb_si_Dprs43874BzH0QkVaOjxvQyC-AhGCwNSR3gAHQEzq4frAvuyq7g==/index.m3u8
+#EXTINF:0 tvg-id="B4UMovies.uk" group-title="Indian Movies",B4U Movies
+http://103.209.173.14:9998/gAAAAABkvlA7ARrxmgBv8Bek24tmPJ2vE-0iOe5uJkISMsdOKnChTSCeiM5RS2Xo9lYj5ZYC4S989NIQkWLH2Xr0rsg9_m4BeA==/index.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Indian Movies",Zee Action
+http://103.209.173.14:9998/gAAAAABkvlA7QluKU1N1vm29RYKlTsUW1sx0-FYDPq8geCApVJqDoQN-P1rkmW67zobKB69wsE0VUxhvV6dOlhL14IgL3sj63w==/index.m3u8
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Indian Movies",Zee Bollywood
+http://103.209.173.14:9998/gAAAAABkvlA7IT0E5QHzFHHXm2GVBUqYgt-SUCDjuqWmrkP6LnmUwKx_S0bdLfq7GmhVrTGnCdLMNrI-EHP_8hixezpG8cyqbw==/index.m3u8
+
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movies",Sony PIX HD
+http://103.209.173.14:9998/gAAAAABkvlA7V_m4PBToi8nNtutQ0uGQg0tBVm-n8qFJzCnEeAz_uX5HxC8gMGLEcLO_s6ir1HPbwmGJg8qrRVkhlfKCbTO_KQ==/index.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movies",Sony PIX SD
+http://103.209.173.14:9998/gAAAAABkvlA7yGUYUTMnlAsKUyvlcRrVB6SHgiuv42KDl9oamLN_zJYYlpAjHATQruyeddCxMqvrKUsq1Tl83AkkL0O74o3v3Q==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="English Movies",iFilm
+http://103.209.173.14:9998/gAAAAABkvlA7goeD4_YEkeIys35JQwlGPfXl4opwKdn76th7Nf4mskXB1JrHFvmixz9e8nKInG22kBLD5F5mlhKjQ9wAnSd81Q==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="English Movies",Lotus Macau
+http://103.209.173.14:9998/gAAAAABkvlA7g-VF06wM0G6v64mM0z6NfzHPOHJemHtu60pJE4el8f2yJjhLLDzevKg4cvvSpEULMbdt_XKeL61NhW5Vianp6w==/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Quran TV
+http://103.209.173.14:9998/gAAAAABkvlA75HWenKzrw8Uv14isrAO0XVwTzcro3aMbctQ2iseY75zpCwxuxGw9VM1cN-gRc1Zze7WyLuXOSMmoI5StaKyj1w==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Islamic",Sunnah TV
+http://103.209.173.14:9998/gAAAAABkvlA7hpBXapUggEVyDyhT641NHmRFekaX7Rqb8Ub4XLyijhKPO_g3ZFQ1HCV_5oS3aLrPd2jVqdFt7AGw48NLUFiAXg==/index.m3u8
+
+#EXTINF:0 tvg-id="Zoomtv.gr" group-title="Music",Zoom TV
+http://103.209.173.14:9998/gAAAAABkvlA7ZW8Woj2v3K4WL5oAgc0KRmU848djtCSYtY7uCS5ySMV44EqUPd4TTE81LrCB_CWh6_ep7bg_adILkQwd8iTwcQ==/index.m3u8
+#EXTINF:0 tvg-id="B4UMusic.uk" group-title="Music",B4U Music
+http://103.209.173.14:9998/gAAAAABkvlA7qnXC05CwdFkYO9Rkum3vJT5RCFki8DAzXIsxHMAfJLewQzdQpa_UXfnynouR-8PE5ooKFcDPSh062R3PNmFV0g==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Beats HD
+http://103.209.173.14:9998/gAAAAABkvlA740X-N_bFt-eAbuGtfhXaQQBSlQRdMV9r0VCvKWiyLbEKQjb3wbW1WIJesWKrZdvwDqgUOgD1TdpM6vzID9dHlw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Music",MB Music
+http://103.209.173.14:9998/gAAAAABkvlA7cWHu4RHIak31N-vSwUNLwSLy01zgfNv57KxTlCfLMWszvVA10k8ZLHw_yV70CWTbTzbcACigIHX4AAzvtWFd9Q==/index.m3u8
+#EXTINF:0 tvg-id="mtv-rus" group-title="Music",MTV
+http://103.209.173.14:9998/gAAAAABkvlA7aKVbnDidxSU9iox5FLW_ojDcQtCga1UmvTWaezwLBohSDDYWZdNmo8gScGhMq2ARPrvtWcspRjZo_nRkb93PdQ==/index.m3u8
+#EXTINF:0 tvg-id="Zing.uk" group-title="Music",Zing
+http://103.209.173.14:9998/gAAAAABkvlA74F6tDZQYMzY0Nq6BEiLECNqDy3l3NB1k8hJz5I3OXcvxcUCNba84Hf7DdYJ8PXhceCMosnumG0QP772Go0XtOA==/index.m3u8
+#EXTINF:0 tvg-id="VH1UK.uk" group-title="Music",VH1 HD
+http://103.209.173.14:9998/gAAAAABkvlA7lUlpU1VEqkbe3JjATOt6dKAZVCI1TvPD2gM-JED_CPO17x1_Pta3XuibTE5Dj1iwGORtsxl0UCxBjcUmGxJwQA==/index.m3u8
+
+#EXTINF:0 tvg-id="animal-hd" group-title="Infotainment",Animal Planet HD
+http://103.209.173.14:9998/gAAAAABkvlA7apLsiRfe9yu36tDP-jsOaK27n7EmvozH7l-F52lxeF1tJ5Rmd_INVQvIQrzBm2NQf3p59CCwXDoJ10fXDPditHbGvMa9JrduNhktcrj4Mk4=/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Infotainment",Animal Planet SD
+http://103.209.173.14:9998/gAAAAABkvlA7x239fUH2DgvmJb67PZr9U_vZLGkHpvhM9rEraC-oFP-H2nwPqaruVo6e_2LXV24V1Xho4ROB2ly5WfZSgq0WJIy_TeIqtb6DPmwA5qXty-g=/index.m3u8
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Infotainment",Discovery HD
+http://103.209.173.14:9998/gAAAAABkvlA7GV6k4FOeqsOokU3HSHrSQJ9Fz-oiFRLMK0ksPjljSDvNuvofiQNhajqqy-wgwDTwIXr4lpLhxh3qV4d-LrQTWQ==/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Infotainment",Discovery SD
+http://103.209.173.14:9998/gAAAAABkvlA7sTBfNMrthoXlkMAHec52AQKtIhHbnSI1v9WLxd-ea9Tszys4f52P5VwiYBHfmgdwSrE1fFXnb9zePmJR8QZ2_Q==/index.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Infotainment",Discovery Science
+http://103.209.173.14:9998/gAAAAABkvlA7seKxI2HjmE0m6nZ7js17Cd6HLd_6vnA9XfxSfBMxS0qFCL7YNvkIRtcg3OWZfw0nxaqzvHtYwtesL8TNTCT2nXkN5SOi0B0XLeOEHNaded4=/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Discovery Asia
+http://103.209.173.14:9998/gAAAAABkvlA72S-lNES67gNT1-w523ccfCNwAv1LQABudWHFFRk634YnjwCQqmRB0vKFKlJtrirHFWTwEhnf88PgKOJpF1nhNg==/index.m3u8
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Infotainment",Discovery Turbo
+http://103.209.173.14:9998/gAAAAABkvlA7Wa7eoOyE3BhGaYcv_gOQ2abNMIv884Rqo7ht9Hxt1omp5O4xi5RbAC97PuhLkKs3ypx5Dzl90_VWHhp3XpQC1Q==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Discovery Investigation HD
+http://103.209.173.14:9998/gAAAAABkvlA72cpAi4R7NaDwziG6H1CJNU41ytDowtGfCvtIe1eJ0lqBZmFHXxO86ZCDs_bWFFN4jeAWqFwLI4FnFG6lii3M1sXjN0QJf6OcwpDxn5rsnlM=/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Infotainment",Discovery Investigation SD
+http://103.209.173.14:9998/gAAAAABkvlA7Wj5GggnxmPkS4Pw4qoYPU0IvBe89QczBUwjNnlpjZlHd0wWG_Pv-LLhMO0TPG3QyOzCW-9ATCoiEVDcC3BcgNJFGZI1ZxqFkC5vs9dzOF90=/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia-hd" group-title="Infotainment",TLC HD
+http://103.209.173.14:9998/gAAAAABkvlA7z8NWOn3tD3et2t9DhYpydwvoQC-jND-paIqz_Ka0iPIgs3G1X4OMsbuHfcgQ_Ol0HRxOS4maWzzNmvKNYY5aHA==/index.m3u8
+#EXTINF:0 tvg-id="tlc-russia" group-title="Infotainment",TLC SD
+http://103.209.173.14:9998/gAAAAABkvlA7eihUD9RsKdCY12jprb8nW4D7Ro3CHeE5Er7AoMOgnXiHkPKes99as8nKNJoFJVmrmfF4v0OPYlGMu8jbJKGj4g==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",History TV
+http://103.209.173.14:9998/gAAAAABkvlA7cAumFSPICxcZvuAmY4PC0oQa4-1B5zzvoSZM-0iVk3H6QnJeaFbN_8HjX69LXUtzwnxS4UsASgaQCV_AIG7kPw==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Sony BBC Earth HD
+http://103.209.173.14:9998/gAAAAABkvlA7_L5HTMKGMWMU9bCBknik8DYqlPlDQfuc8lO5PYU1FqWJ2-uRx2MlVxypPCmgGHWaJ3kmJ7HqASksibSdHDQLbbYAsiiHPiqrSywJjjKPjE4=/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Sony BBC Earth SD
+http://103.209.173.14:9998/gAAAAABkvlA7z2jmwX7ETZxp2Prxojogs6ky7vP2i69J7WidyWjTsmwPpMEpkDUna2EgqZPYGjH0nQ5l7divEw0_XwZe5ozfsQ==/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Tech Storm
+http://103.209.173.14:9998/gAAAAABkvlA7Apr6mdTHeLDniL7bUmKEKoUCCVpnBB8qUbr-LjTzMZOQAG3Jm38SQgXm2qK0d5jQWid-P1YTE4MGsaXyZa24aQ==/index.m3u8
+#EXTINF:0 tvg-id="natgeowild" group-title="Infotainment",National Geographic WILD
+http://103.209.173.14:9998/gAAAAABkvlA7g-9gT_PCArTCOILd9CQQrOcTJcsgdfEs5fjl68z30Neah8qIcLi4Fw2E7cZeUPxUKsF7dsgsZ24UXkb7KqueSg==/index.m3u8
+#EXTINF:0 tvg-id="natgeo" group-title="Infotainment",National Geographic
+http://103.209.173.14:9998/gAAAAABkvlA72PUvwhNdbfdPHcdZKPfJLad1DRX_x3D2uct4SrNKLYHlSbLiEtvNIDBY6KZj21sQCLsRA8-VrXzb4yPkfLmPbw==/index.m3u8
+#EXTINF:0 tvg-id="fox-life" group-title="Infotainment",FOX Life
+http://103.209.173.14:9998/gAAAAABkvlA7PMYZ27RB9zi068HUCJCIxERchqVhb15eqFSz_jFy4jwRBsdjsQELgQyRneUTRDE817zrNipHSL9XBdTKehKDsg==/index.m3u8
