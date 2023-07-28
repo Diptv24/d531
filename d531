@@ -5,12 +5,18 @@ http://113.212.111.246:8080/hls/col2.m3u8
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 ,Star Sports Select 1
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
+#EXTINF:-1 , SKY SPORTS CRICKET
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/playlist.m3u8
+
 #EXTINF:-1 ,Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 #EXTINF:-1 ,PTV SPORTS HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
 #EXTINF:-1 ,STAR SPORTS 1 HD
 http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 ,STAR SPORTS HINDI 1 HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-1/chunks.m3u8?nimblesessionid=34077572
+
 #EXTINF:-1 ,Bein Sports 1
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-1/chunks.m3u8
 #EXTINF:-1 ,SONY SIX HD
