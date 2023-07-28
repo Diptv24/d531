@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 ,GAZI TV
 http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:-1,T-SPORTS HD
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
+#EXTINF:-1,T-SPORTS HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,RTA SPORTS
 https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1 ,STAR SPORTS 1 HD
