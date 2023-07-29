@@ -54,12 +54,11 @@ https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/inde
 #EXTINF:-1 , STAR JALSA HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha/chunks.m3u8?nimblesessionid=34077807
 #EXTINF:-1 , STAR JALSA HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha/chunks.m3u8?nimblesessionid=34266565
-
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha/chunks.m3u8
 #EXTINF:-1 ,ZEE BANGLA HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-bangla/chunks.m3u8
 #EXTINF:-1 , STAR PLUS HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-plus/chunks.m3u8?nimblesessionid=34266665
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-plus/chunks.m3u8
 #EXTINF:-1 ,ZEE TV HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-tv/chunks.m3u8
 #EXTINF:-1 ,COLORS HD
@@ -68,6 +67,10 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyhd/chunks.m3u8
 #EXTINF:-1 ,SONY SAB H
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sony-sab/chunks.m3u8
+#EXTINF:-1 , STAR GOLD SELECT HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold-select/chunks.m3u8
+#EXTINF:-1 , STAR GOLD HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold/chunks.m3u8
 #EXTINF:-1 ,Nick
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/nick/chunks.m3u8
 #EXTINF:-1 ,NAT GEO WILD
