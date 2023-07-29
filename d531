@@ -36,21 +36,18 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-1/chunks.m3u8
 #EXTINF:-1 ,SONY SIX HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/chunks.m3u8
-#EXTINF:-1 , ASTRO SUPERSPORT 2
-http://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
-#EXTINF:-1 , ESPN 2
-http://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8
+
 #EXTINF:-1 , FOX SPORTS 1
 http://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
-#EXTINF:-1 ,
+Shahin Dipu:
+#EXTINF:-1 , Sports 18 Khel
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 ,
+#EXTINF:-1 , Sports18 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 ,
-
-#EXTINF:-1 ,
-
-
+#EXTINF:-1 , Jio Cinema 6
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 , STAR JALSA HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha/chunks.m3u8?nimblesessionid=34077807
