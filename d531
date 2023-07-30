@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTINF:-1 , BTV HD
 http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF:-1, SBC TV
+http://dpny5.1234.uno:6061/asports/index.m3u8
+#EXTINF:-1, ASPORTS HD
+http://dpny5.1234.uno:6061/asports/index.m3u8
+#EXTINF:-1, WILLOOW EXRA
+http://tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=40967&extension=m3u8&play_token=qA0yeixJVX
+
 #EXTINF:-1,T-SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,T-SPORTS HD
