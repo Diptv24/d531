@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, STAR SPORTS 3
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=34457126
 #EXTINF:-1 , BTV HD
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1, SBC TV
