@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="CRI",PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:0 tvg-id="TenCricket.in" group-title="Without category",TEN CRICKET
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4619.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",ASTRO CRICKET
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4734.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",FOX CRICKET HD (501)
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4164.ts
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Without category",SKY SPORTS CRICKET HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2731.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SS CRICKET HD (DSTV)
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4526.ts
+#EXTINF:0 tvg-id="WillowCricket.us" group-title="Without category",WILLOW CRICKET HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1411.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",BEIN CRICKET HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4575.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",MAQ CRICKET US
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4681.ts
+#EXTINF:0 tvg-id="fox-crime" group-title="Without category",FOX CRIME
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1442.ts
+#EXTINF:0 tvg-id="avi" group-title="Without category",Criminal Network (2023)
+http://tv-atvonlinebd.xyz:8880/movie/7546778/7546778/13786.mp4
+#EXTINF:0 tvg-id="avi" group-title="Without category",Crimes Aaj Kal S01 E01
+http://tv-atvonlinebd.xyz:8880/series/7546778/7546778/13330.mp4
+
 #EXTINF:-1, STAR SPORTS 3
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=34457126
 #EXTINF:-1 , BTV HD
