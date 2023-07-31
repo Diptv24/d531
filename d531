@@ -2,7 +2,100 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="CRI",PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
 https://playeriptv.com/app
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="SPORT",PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
 
+#EXTINF:0 tvg-id="ext" group-title="Without category",T SPORTS
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1404.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",T SPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2317.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",TEN SPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1553.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SONY SPORTS 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1528.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SONY SPORTS TEN 1 FHD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/13365.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SONY SPORTS 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1548.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SONY SPORTS TEN 2 FHD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/13366.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SONY SPORTS 3 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1549.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SONY SPORTS TEN 3 FHD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/13367.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SONY SPORTS 5 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1529.ts
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Without category",STAR SPORTS 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1551.ts
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Without category",STAR SPORTS 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1552.ts
+#EXTINF:0 tvg-id="StarSportsHindiHD1.in" group-title="Without category",STAR SPORTS 1 HD HINDI
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4527.ts
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Without category",STAR SPORTS SELECT 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1526.ts
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="Without category",STAR SPORTS SELECT 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1550.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SPORTS18 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1572.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",A SPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2496.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",PTV SPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1400.ts
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Without category",SKY SPORTS CRICKET HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2731.ts
+#EXTINF:0 tvg-id="esp" group-title="Without category",EUROSPORT
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4895.ts
+#EXTINF:0 tvg-id="esp-hd" group-title="Without category",EUROSPORT HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2952.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",RTA SPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/13887.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",FAST SPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/13734.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SSC SPORT 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4646.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Without category",BEIN SPORTS 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2310.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Without category",BEIN SPORTS 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2312.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Without category",BEIN SPORTS 3 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2334.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",BEIN SPORTS PREMIUM 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4683.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",BEIN SPORTS PREMIUM 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4768.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",BEIN SPORTS PREMIUM 3 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4769.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",BEIN SPORTS TENNIS
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/1793.ts
+#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Without category",SKY SPORTS FOOTBALL HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4581.ts
+#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Without category",SKY SPORTS MAIN EVENT HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4690.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",SKY SPORTS PREMIER LEAUGE HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4692.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",DUBAI SPORTS 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4620.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",DUBAI SPORTS 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4724.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",DUBAI SPORTS 3 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4725.ts
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Without category",BT SPORTS 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2314.ts
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Without category",BT SPORTS 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2815.ts
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Without category",BT SPORTS 3 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4626.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",FREE SPORTS HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4899.ts
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Without category",AD SPORTS 1 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2342.ts
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Without category",AD SPORTS 2 HD
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2746.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",RED BULL SPORTS
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/2748.ts
+#EXTINF:0 tvg-id="ext" group-title="Without category",EDGESPORTS
+http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/13861.ts
 #EXTINF:0 tvg-id="TenCricket.in" group-title="Without category",TEN CRICKET
 http://tv-atvonlinebd.xyz:8880/live/7546778/7546778/4619.ts
 #EXTINF:0 tvg-id="ext" group-title="Without category",ASTRO CRICKET
