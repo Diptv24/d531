@@ -65,11 +65,13 @@ http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="DipuBdix",Star Sports 1 HD
-http://172.20.2.5:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+http://172.20.2.5:8082/Star-Sports-1/tracks-v1/index.fmp4.m3u8?token=f9922bad6a9bc3b677ecc6f439e7b2e90101c36c-4f9dc080527cea35d42b84bf2589c9e5-1691089260-1691078460
 
 #EXTINF:-1 group-title="DipuBdix",Star Sports 2 HD
 http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="DipuBdix",Star Sports Select 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
 #EXTINF:-1 group-title="DipuBdix",Star Sports Select 2 HD
 http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 
