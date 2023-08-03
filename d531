@@ -3021,3 +3021,9 @@ http://208.86.19.13:81/519.stream/index.m3u8?
 http://208.86.19.13:81/522.stream/index.m3u8?
 #EXTINF:-1,CH-644
 http://208.86.19.13:81/644.stream/index.m3u8?
+#EXTINF:-1,CH-704
+http://208.86.19.13:81/704.stream/index.m3u8?
+#EXTINF:-1,CH-720
+http://208.86.19.13:81/720.stream/index.m3u8?
+#EXTINF:-1,CH-727
+http://208.86.19.13:81/727.stream/index.m3u8?
