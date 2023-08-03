@@ -90,70 +90,72 @@ http://172.20.2.5:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=0886a7e63ebd238a4
 
 #EXTINF:-1 group-title="DipuBdix",Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38ca21316e764b3fd8c9f07e3d3-b6440fc4c5f8b33cec9c2c00ea4e07a4-1681329593-1681318793
-
+#EXTINF:0 tvg-id="ext" group-title="Without category",Ekattor HD
+http://172.20.2.5:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",Independent Tv
+http://172.20.2.5:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",NEWS 24 HD
+http://172.20.2.5:8082/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",CHANNEL-I
+http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ntv" group-title="Without category",NTV
+http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",RTV HD
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",SATV HD
+http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BANGLA VISION
+http://172.20.2.5:8082/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",BAISHAKHI TV
+http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",GAAN BANGLA HD
+http://172.20.2.5:8082/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MOHONA TV HD
+http://172.20.2.5:8082/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Without category",MYTV HD
+http://172.20.2.5:8082/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="DipuBdix",Dbc 
 http://172.20.2.5:8082/DBC-NEWS/preview.mp4?token=0d7efbd71ddfe32413f49f56eb48bf10fbda59d3-ba44b98cf6552fba512885ae9c78a685-1681329651-1681318851
-
 #EXTINF:-1 group-title="DipuBdix",ATN NEWS
 http://172.20.2.5:8082/Atn-News/tracks-v1a1/mono.m3u8?token=bc63f741574ee6c7cb10e6db810b4c46a2ae51e0-6d9f949716c874d14dc200a8f855fae8-1681329689-1681318889
-
 #EXTINF:-1 group-title="DipuBdix",Somoy Tv
 http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=21be62673812e41c62ef16a7ebf31223bd914dcb-cdd506da570922a736b0e92fb13023e6-1681329721-1681318921
-
 #EXTINF:-1 group-title="DipuBdix",Channel 24
 http://172.20.2.5:8082/Channel24/tracks-v1a1/mono.m3u8?token=fd936b9c7910e0114288e0698596429f0639f079-3ce2012bea32ca891677346047229a3a-1681329759-1681318959
-
 #EXTINF:-1 group-title="DipuBdix",ATN BANGLA
 http://172.20.2.5:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=bbd10a1928b263601f9acb00f866cd1590f140be-b6e26ffd6623fc6457a44cfadf7b387b-1681329780-1681318980
-
 #EXTINF:-1 group-title="DipuBdix",Ekushey Tv
 http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
-
 #EXTINF:-1 group-title="DipuBdix",Nagorik tv 
 http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
-
 #EXTINF:-1 group-title="DipuBdix",Ananda Tv
 http://172.20.2.5:8082/anandotv/tracks-v1a1/mono.m3u8?token=f5365c7bcfaafd362e143921bd57c43aae50f150-7c8707baaff4368bccd4859027de8bf6-1681329980-1681319180
-
 #EXTINF:-1 group-title="DipuBdix",&pictures HD
 http://172.20.2.5:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=5e1dab53ff7c971cc34d885c02f08a21fbc38cf8-b805f40edd48e863137e9db19600441a-1681330020-1681319220
-
 #EXTINF:-1 group-title="DipuBdix",Sony Pix HD
 http://172.20.2.5:8082/SonyPix/tracks-v1a1/mono.m3u8?token=218821008e464128d55a0dfead69154eae593159-c5eb79dd9413df5b46e2bf94027b0058-1681330048-1681319248
-
 #EXTINF:-1 group-title="DipuBdix",Sony Max HD
 http://172.20.2.5:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=349bc19bb3b74d664fcfc74d7bfae2488ab02bb6-2dc60c27ef96ab4c445c784797f3deea-1681330087-1681319287
-
 #EXTINF:-1 group-title="DipuBdix",Colors India
 http://172.20.2.5:8082/colorsindia/tracks-v1a1/mono.m3u8?token=fe0fec684df8167520b8be5affc4a1342b223668-e21c34898c5780c67a3ea95ebe8ef74d-1681330106-1681319306
-
 #EXTINF:-1 group-title="DipuBdix",Sony Ent
 http://172.20.2.5:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=07b7b3034e1168c633e69f2dffa4dc044ab5e048-7dfb8a40574e5a1e1f0884f11ad91e41-1681330124-1681319324
-
 #EXTINF:-1 group-title="DipuBdix",Sony Sab HD
 http://172.20.2.5:8082/Sony_Sab/tracks-v1a1/mono.m3u8?token=0d6aed758fe27abb416fc464fb90111dfa5bd74b-c8b53d5c30264776409e4b6dba47a5d5-1681330142-1681319342
-
 #EXTINF:-1 group-title="DipuBdix",Star gold Romance 
 http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8?token=43aa7814d476e023cbf64776dd52d2c3b5fbf53f-e137a3caddb35cfee45a5e1455493318-1681330170-1681319370
-
 #EXTINF:-1 group-title="DipuBdix",Zee TV HD
 http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8?token=1c05dbe39846219228a69b7a90b9998164fdce59-ff9a3260ad4053c70c41cfc71360a045-1681330218-1681319418
-
 #EXTINF:-1 group-title="DipuBdix",9x Jalwa
 http://172.20.2.5:8082/9X-Jalwa/tracks-v1a1/mono.m3u8?token=7e8df4d0df8f041aa4862dd7428f03fa107d9820-3d8cd564d355ae54cde4c0e776208c6a-1681330251-1681319451
-
 #EXTINF:-1 group-title="DipuBdix",9XM
 http://172.20.2.5:8082/9XM/tracks-v1a1/mono.m3u8?token=d5486fd302c21c5b6c354a329e078eb8253b72cb-34f586a1a4d137ed1a54d979d635457d-1681330274-1681319474
-
 #EXTINF:-1 group-title="DipuBdix",Animal Plant HD
 http://172.20.2.5:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=c76041373be0771ed3a15881a653580ee7fd5c58-769267a0862a210940a90e0972c54401-1681330293-1681319493
-
 #EXTINF:-1 group-title="DipuBdix",Nat Geo Wild 
 http://172.20.2.5:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=2fa2606c2bde6b9506aaf16ef5d7d5a6712e021f-08b07acb2a9a20b628f77846f2261805-1681330314-1681319514
-
 #EXTINF:-1 group-title="DipuBdix",BBC EARTH 
 http://172.20.2.5:8082/Bbc-Earth/tracks-v1a1/mono.m3u8?token=33478fd5ec4fc28773e9ed9364c436374181a613-a94c5c336e1fd1899ed1a48f00e23277-1681330336-1681319536
-
 #EXTINF:-1 group-title="DipuBdix",Nick 
 http://172.20.2.5:8082/nike/tracks-v1a1/mono.m3u8?token=15e75ab5392a76bce032bfd57c6f5bdde4b35259-19ced3ee2395fb349d2d743bc0868289-1681330356-1681319556
 
