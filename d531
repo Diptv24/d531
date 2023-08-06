@@ -10,7 +10,7 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 #EXTINF:-1 group-title="Bangla Dipv24", Gazi Tv
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla Dipv24", Gazi TV HD 1
+#EXTINF:-1 group-title="Bangla Dipv24", Tsports
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="Bangla Dipv24", GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1/index.fmp4.m3u8?token=9eca8812411f18f7d7dd91534013e3f249a1a99c-ba16e1f2584a834348603cf948548a90-1687453373-1687442573
