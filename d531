@@ -3117,7 +3117,51 @@ http://208.86.19.13:81/720.stream/index.m3u8?
 #EXTINF:-1,CH-727
 http://208.86.19.13:81/727.stream/index.m3u8?
 #EXTM3U
+Shahin Dipu:
+#EXTINF:-1, Sky sports mix 
+http://107.150.62.146/skymix/index.m3u8
 
+#EXTINF:-1,Sky sports main event 
+http://107.150.62.146/skymainevent/index.m3u8
+
+#EXTINF:-1,Sky sports f1
+http://107.150.62.146/f1_low/index.m3u8
+
+
+#EXTINF:-1,Sportsnet 
+http://107.150.62.146/sn1/index.m3u8
+
+#EXTINF:-1,NBA 
+http://107.150.62.146/nbatv/index.m3u8
+
+#EXTINF:-1,TSN 1 
+http://107.150.62.146/tsn1/index.m3u8
+
+#EXTINF:-1,TSN 2 
+http://107.150.62.146/tsn2/index.m3u8
+
+#EXTINF:-1,TSN 3
+http://107.150.62.146/tsn3/index.m3u8
+
+#EXTINF:-1,TSN 4 
+http://107.150.62.146/tsn4/index.m3u8
+
+#EXTINF:-1,TSN 5
+http://107.150.62.146/tsn5/index.m3u8
+
+#EXTINF:-1,Sky sports arena 
+http://107.150.62.146/skyarena/index.m3u8
+
+#EXTINF:-1,Sky Sports glof
+http://107.150.62.146/skygolf/index.m3u8
+
+🏏L P L T20 🏏
+
+#EXTINF:-1, RTA sports🏏🏏
+http://fr.globalflix.net:80/call-me-in-bd/whatsapp-01971466614/354.m3u8
+
+#EXTINF:-1, RTA Sports🏏🏏
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1, STAR SPORTS 3
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=34457126
 #EXTINF:-1 , BTV HD
