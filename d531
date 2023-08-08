@@ -3081,6 +3081,7 @@ http://91.126.182.211:9981/stream/channelid/1052784018?profile=pass
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w4420244.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp", Love Nature
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist404p.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c02f85577db768820290745be6c4f476.webp". CMC
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c02f85577db768820290745be6c4f476.webp", CMC
 https://mediaplatform.streamingmediahosting.com/p/14215/sp/1421500/playManifest/entryId/0_obd393sh/format/applehttp/protocol/https/a.m3u8
 
