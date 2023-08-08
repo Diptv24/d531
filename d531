@@ -5,7 +5,8 @@ https://live.tsports.com/live/tsports_live_1080/index.m3u8
 https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 ,RTA SPORTS
 https://hls.rtasport.live/hls/stream.m3u8
-
+#EXTINF:-1 group-title="Bangla Dipv24", STAR SPORTS 3
+http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF:-1, WILLOW EXTRA
 http://tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=40967&extension=m3u8&play_token=qA0yeixJVX
 #EXTINF:-1, JIO ENGLISH 
@@ -92,8 +93,7 @@ http://103.102.27.173/live/tvfeed1001/index.m3u8
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1/index.fmp4.m3u8?token=9eca8812411f18f7d7dd91534013e3f249a1a99c-ba16e1f2584a834348603cf948548a90-1687453373-1687442573
 #EXTINF:-1 group-title="Bangla Dipv24", Nagorik tv
 http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
-#EXTINF:-1 group-title="Bangla Dipv24", NAGORIK TV
-http://172.17.50.112/live/antbd1002/index.m3u8
+...
 #EXTINF:-1 group-title="Bangla Dipv24", NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla Dipv24", Deepto TV
