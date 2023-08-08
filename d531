@@ -3077,11 +3077,42 @@ http://91.126.182.211:9981/stream/channelid/403421735?profile=pass
 http://168.228.194.33:48001/play/z008/index.m3u8
 #EXTINF:-1,BOING
 http://91.126.182.211:9981/stream/channelid/1052784018?profile=pass
-#EXTINF:-1, TOP LATINO TV
+#EXTINF:-1, TOP LATINO TV (CXTV)
 https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latin-tv.stream/chunklist_w4420244.m3u8
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp", Love Nature
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/89902ad1c93745ba04306321089fd39d.webp", Love Nature (CXTV)
 https://amg00090-blueantllc-lovenature-xumo-7ap4k.amagi.tv/playlist404p.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c02f85577db768820290745be6c4f476.webp", CMC
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c02f85577db768820290745be6c4f476.webp", CMC (CXTV)
 https://mediaplatform.streamingmediahosting.com/p/14215/sp/1421500/playManifest/entryId/0_obd393sh/format/applehttp/protocol/https/a.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec432b3a9f86ac0b68d68ce11c20dd99.webp", ABC NEWS (CXTV)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/fd15c014fe05063f466190fe351d91c5.webp", SABIT BRAZILA  (CXTV)
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ef8feda9cd8c44e5025aaf407cf9fbac.webp", PRESS TV (CXTV)
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6befe82041052a3099ed0680bf9ddc24.webp", BX DIRECT  (CXTV)
+https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+
+
+
+
+
+
+
 
