@@ -3094,6 +3094,24 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6befe82041052a3099ed0680bf9ddc24.webp", BX DIRECT  (CXTV)
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9a2a9c364cd1cca23387610e626e0fa7.webp", CGTN DOCUMENTORY (CXTV)
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/45d06aa9853eca087126b08d34e90543.webp", CINETV HITS  (CXTV)
+https://stmv1.conectastreaming.com/hitstv/hitstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26c5a30029b81339ef17a02aa420f64c.webp", RT DOCUMENTORY (CXTV)
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd20dc7ce12901f45a5f100a4cc97032.webp", DW GERMAN (CXTV)
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775da338d2d26bef54d0537d28580367.webp",  TV CNB (CXTV)
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
+#EXTINF:-1 tvg-logo=" ", TV2 NORTH SALTU (CXTV)
+https://cdn-lt-live.tv2nord.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/1/t/_FUn1YHQ6_P6lES4U6mmsA/index-s35.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f93afab217bd212b22e1f97197503c40.webp",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
 
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
@@ -3101,6 +3119,20 @@ https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
 
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+#EXTINF:-1 tvg-logo=" ",  (CXTV)
+
+
 
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
 
