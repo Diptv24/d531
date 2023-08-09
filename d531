@@ -3147,7 +3147,12 @@ https://cdn-lt-live.tv2nord.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956931/e/1_
 
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
 
-
+#EXTINF:-1 , ZEE TV HD
+http://str24.l9574.com/606.stream/index.m3u8?
+#EXTINF:-1 , INDEPENDENT TV
+http://str24.l9574.com/668.stream/index.m3u8?
+#EXTINF:-1 , ANANDA TV
+http://str24.l9574.com/669.stream/index.m3u8?
 
 
 
