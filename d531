@@ -3115,8 +3115,8 @@ https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
 https://cdn-lt-live.tv2nord.dk/env/cluster-1-e.live.nvp1/live/hls/p/1956931/e/1_h9yfe7h2/tl/main/st/1/t/_FUn1YHQ6_P6lES4U6mmsA/index-s35.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f93afab217bd212b22e1f97197503c40.webp",  (CXTV)
 
-#EXTINF:-1 tvg-logo=" ",  (CXTV)
-
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3887b3ba2258769221444dbb4e42a93d.webp", X PLUS TV (CXTV)
+http://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
 
 #EXTINF:-1 tvg-logo=" ",  (CXTV)
