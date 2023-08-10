@@ -21,17 +21,68 @@ http://bokasoka.net:8080/hls/sonyten2.m3u8
 http://bokasoka.net:8080/hls/sonyten3.m3u8
 #EXTINF:-1 group-title="Bokasoda Bdix", SONY TEN 5 HD
 http://bokasoka.net:8080/hls/sonysix.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SUN BANGLA
+http://bokasoka.net:8080/hls/sunbangla.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", INDEPENDENT TV
+http://bokasoka.net:8080/hls/indepen.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", Sony AATH
+http://bokasoka.net:8080/hls/Sony_Aath.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", GTV HD
+http://bokasoka.net:8080/hls/Gazi-TV.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", Travel XP Bangla
+http://bokasoka.net:8080/hls/travelxp.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", EKATTOR TV
+http://bokasoka.net:8080/hls/71.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", CHANNEL-I 
+http://bokasoka.net:8080/hls/channeli.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", MAASRANGA TV
+http://bokasoka.net:8080/hls/masranga.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", Somoy Tv
+http://bokasoka.net:8080/hls/somoy.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", Zee Bangla Cinema
+http://bokasoka.net:8080/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", COLORS BANGLA CINEMA
+http://bokasoka.net:8080/hls/colore-bangla-cinema.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", Jalsha Movies HD
+http://bokasoka.net:8080/hls/jalshamovies.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", COLORS BANGLA HD
+http://bokasoka.net:8080/hls/colorsbangla.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", ZEE BANGLA HD
+http://bokasoka.net:8080/hls/zeebanglahd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR JALSHA HD
+http://bokasoka.net:8080/hls/starjalsha.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SANGEET BANGLA
+http://bokasoka.net:8080/hls/sangeetbangla.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", Movie Bangla 
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", ENTER 10 BANGLA
+http://bokasoka.net:8080/hls/enterr10.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", PIX HD
+http://bokasoka.net:8080/hls/sonypixhd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix",  MOVIES NOW
+http://bokasoka.net:8080/hls/movies-now.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix",  STAR MOVIES HD
+http://bokasoka.net:8080/hls/starmovies.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", BBC EARTH HD
+http://bokasoka.net:8080/hls/bbcearth.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", MN+ HD
+http://bokasoka.net:8080/hls/mn+.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", ANIMAL PLANNT HD
+http://bokasoka.net:8080/hls/animalplanent.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", DISCOVERY HD
+http://bokasoka.net:8080/hls/discovery.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", NATIONAL GEOGRAPHIC GD
+http://bokasoka.net:8080/hls/ngohd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", NAT WILD HHD
+http://bokasoka.net:8080/hls/wild.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", ROMEDY NOW
+http://bokasoka.net:8080/hls/star-worldhd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", MNX HD
+http://bokasoka.net:8080/hls/mnx-hd.m3u8
 #EXTINF:-1 group-title="Bokasoda Bdix",
 
 #EXTINF:-1 group-title="Bokasoda Bdix",
 
-#EXTINF:-1 group-title="Bokasoda Bdix",
-
-#EXTINF:-1 group-title="Bokasoda Bdix",
-
-#EXTINF:-1 group-title="Bokasoda Bdix",
-
-#EXTINF:-1 group-title="Bokasoda Bdix",
 
 
 
