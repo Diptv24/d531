@@ -21,6 +21,8 @@ http://172.17.50.112/live/antbd1001/index.m3u8
 hhttp://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/chunks.m3u8
 #EXTINF:-1 ,STAR SPORTS 2 HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
+#EXTINF:-1, STAR SPORTS 3
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=36110974&rand=(random)
 #EXTINF:-1 ,Star Sports Select 1
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 #EXTINF:-1 , SKY SPORTS CRICKET
