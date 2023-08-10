@@ -79,12 +79,32 @@ http://bokasoka.net:8080/hls/wild.m3u8
 http://bokasoka.net:8080/hls/star-worldhd.m3u8
 #EXTINF:-1 group-title="Bokasoda Bdix", MNX HD
 http://bokasoka.net:8080/hls/mnx-hd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", COLORS HD
+http://bokasoka.net:8080/hls/colore-tv-hd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", ZEE CINEMA HD
+http://bokasoka.net:8080/hls/zeecinemahd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR PLUS HD
+http://bokasoka.net:8080/hls/starplus.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", CINEPLEX HD
+http://bokasoka.net:8080/hls/colorscineplex.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", Sony Entertainment 
+http://bokasoka.net:8080/hls/sonyen.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", MAX HD
+http://bokasoka.net:8080/hls/sony-maxhd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", ZEE TV HD
+http://bokasoka.net:8080/hls/zeetv.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR GOLD THIRILS
+http://bokasoka.net:8080/hls/stargold.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", 9XM
+http://bokasoka.net:8080/hls/9xm.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", GOLDMINES
+http://bokasoka.net:8080/hls/starbangla.m3u8
+
+#EXTINF:-1 group-title="Bokasoda Bdix", NICK
+http://bokasoka.net:8080/hls/nick.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SONY YAY
+http://bokasoka.net:8080/hls/sonyway.m3u8
 #EXTINF:-1 group-title="Bokasoda Bdix",
-
-#EXTINF:-1 group-title="Bokasoda Bdix",
-
-
-
 
 #EXTINF:-1,T-SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
