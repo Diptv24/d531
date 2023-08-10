@@ -1,4 +1,40 @@
 
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS 3
+http://bokasoka.net:8080/hls/starsports3.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS SELECT 1 HD
+http://bokasoka.net:8080/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS HINDI 1 HD
+http://bokasoka.net:8080/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS 2 HD
+http://bokasoka.net:8080/hls/starsports2.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS SELECT 2 HD
+http://bokasoka.net:8080/hls/select2.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", PTV SPORTS HD
+http://bokasoka.net:8080/hls/ptv.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SPORTS18 HD
+http://bokasoka.net:8080/hls/18.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SONY TEN 1 HD
+http://bokasoka.net:8080/hls/sonyten1.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SOMY TEN 2 HD
+http://bokasoka.net:8080/hls/sonyten2.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SONY TEN 3
+http://bokasoka.net:8080/hls/sonyten3.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix", SONY TEN 5 HD
+http://bokasoka.net:8080/hls/sonysix.m3u8
+#EXTINF:-1 group-title="Bokasoda Bdix",
+
+#EXTINF:-1 group-title="Bokasoda Bdix",
+
+#EXTINF:-1 group-title="Bokasoda Bdix",
+
+#EXTINF:-1 group-title="Bokasoda Bdix",
+
+#EXTINF:-1 group-title="Bokasoda Bdix",
+
+#EXTINF:-1 group-title="Bokasoda Bdix",
+
+
+
 #EXTINF:-1,T-SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,T-SPORTS HD
