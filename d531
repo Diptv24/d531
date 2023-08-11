@@ -1,4 +1,5 @@
-
+#EXTINF:-1, PPTV HD 36
+https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeMjJhOTBiZWY3NzkxMjk1ZjBlYwNTRiMDdiNTE5Yjk3Mjdm
 #EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS 3
 http://bokasoka.net:8080/hls/starsports3.m3u8
 #EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS SELECT 1 HD
