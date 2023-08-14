@@ -8,6 +8,9 @@ https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8
 https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8
 #EXTINF:-1, PPTV HD 36
 https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=bjeZjgzODRmYWU5YjhjNTE3YjgyNQN2E1MjE5NTEzNzViOTY4
+#EXTINF:-1 tvtvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiG7mjUZhLtc382kpzjHLs60C8TNqE5P3aIQ&usqp=CAU",BEIN SPORTS 
+http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
+
 #EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS 3
 http://bokasoka.net:8080/hls/starsports3.m3u8
 #EXTINF:-1 group-title="Bokasoda Bdix", STAR SPORTS SELECT 1 HD
