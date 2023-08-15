@@ -1,5 +1,55 @@
-#EXTINF:-1, JIO CINEMA HD
-https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_t2004/master_1080p.m3u8
+#EXTINF:-1,T-SPORTS HD
+https://live.tsports.com/live/tsports_live_1080/index.m3u8
+#EXTINF:-1,T-SPORTS HD
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 ,RTA SPORTS
+https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1 group-title="Bangla Dipv24", STAR SPORTS 3
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:-1, WILLOW EXTRA
+http://tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=40967&extension=m3u8&play_token=qA0yeixJVX
+#EXTINF:-1, JIO ENGLISH 
+http://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_t2003/master.m3u8
+#EXTINF:-1, DD NATIONAL 
+http://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
+#EXTINF:-1 , VIAPLAY XTRA
+http://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 ,STAR SPORTS HINDI 1 HD
+hhttp://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/chunks.m3u8
+#EXTINF:-1 ,STAR SPORTS 2 HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
+#EXTINF:-1, STAR SPORTS 3
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=36110974&rand=(random)
+#EXTINF:-1 ,Star Sports Select 1
+http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
+#EXTINF:-1 , SKY SPORTS CRICKET
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/playlist.m3u8
+#EXTINF:-1, SKY SPORTS FOOTBALL 
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/chunks.m3u8
+
+
+#EXTINF:-1 ,Ten Sports HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
+#EXTINF:-1 ,PTV SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
+#EXTINF:-1 ,WILLOW CRICKET
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8
+#EXTINF:-1 ,ESPN
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyespn/chunks.m3u8
+#EXTINF:-1 ,BEIN SPORTS 4
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-4/chunks.m3u8
+#EXTINF:-1 ,Bein Sports 1
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-1/chunks.m3u8
+#EXTINF:-1 ,SONY SIX HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/chunks.m3u8
+ 
+#EXTINF:-1 , Sports 18 Khel
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 , Sports18 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1, RTA SPORTS 
 http://fr.globalflix.net:80/call-me-in-bd/whatsapp-01971466614/354.m3u8
 #EXTINF:-1, TSN 5
@@ -118,58 +168,7 @@ http://bokasoka.net:8080/hls/nick.m3u8
 http://bokasoka.net:8080/hls/sonyway.m3u8
 #EXTINF:-1 group-title="Bokasoda Bdix",
 
-#EXTINF:-1,T-SPORTS HD
-https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1,T-SPORTS HD
-https://live.tsports.com/live/tsports_live_720/index.m3u8
-#EXTINF:-1 ,RTA SPORTS
-https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1 group-title="Bangla Dipv24", STAR SPORTS 3
-http://172.17.50.112/live/antbd1002/index.m3u8
-#EXTINF:-1, WILLOW EXTRA
-http://tvt3.xyz/play/live.php?mac=10:27:be:05:82:d6&stream=40967&extension=m3u8&play_token=qA0yeixJVX
-#EXTINF:-1, JIO ENGLISH 
-http://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_t2003/master.m3u8
-#EXTINF:-1, DD NATIONAL 
-http://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
-#EXTINF:-1 , VIAPLAY XTRA
-http://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-#EXTINF:-1 ,STAR SPORTS 1 HD
-http://172.17.50.112/live/antbd1001/index.m3u8
-#EXTINF:-1 ,STAR SPORTS HINDI 1 HD
-hhttp://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/chunks.m3u8
-#EXTINF:-1 ,STAR SPORTS 2 HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
-#EXTINF:-1, STAR SPORTS 3
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=36110974&rand=(random)
-#EXTINF:-1 ,Star Sports Select 1
-http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
-#EXTINF:-1 , SKY SPORTS CRICKET
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/playlist.m3u8
-#EXTINF:-1, SKY SPORTS FOOTBALL 
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/chunks.m3u8
 
-
-#EXTINF:-1 ,Ten Sports HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
-#EXTINF:-1 ,PTV SPORTS HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
-#EXTINF:-1 ,WILLOW CRICKET
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8
-#EXTINF:-1 ,ESPN
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyespn/chunks.m3u8
-#EXTINF:-1 ,BEIN SPORTS 4
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-4/chunks.m3u8
-#EXTINF:-1 ,Bein Sports 1
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-1/chunks.m3u8
-#EXTINF:-1 ,SONY SIX HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/chunks.m3u8
- 
-#EXTINF:-1 , Sports 18 Khel
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
-
-#EXTINF:-1 , Sports18 HD
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
  Dipu:
 #EXTINF:-1 group-title="DipuBdix",Tsports HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
