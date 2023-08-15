@@ -3322,8 +3322,8 @@ https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF:-1 group-title="Thaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO 29
 https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
-
-
+#EXTINF:-1 group-title="Thaitv" tvg-logo="https://mthai.com/app/uploads/2021/01/pptv36hd.png", PPTV HD
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
 #EXTINF:-1,CTB
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 #EXTINF:-1,CHANNEL 8
