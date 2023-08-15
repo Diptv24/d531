@@ -3320,4 +3320,21 @@ https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
 https://cdn6.goprimetime.info/feed/202306140918/chonehd/index.m3u8
 #EXTINF:-1 group-title="Thaitv" tvg-logo="https://mthai.com/app/uploads/2021/01/pptv36hd.png", PPTV 36 hd
 https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+#EXTINF:-1 group-title="Thaitv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png", MONO 29
+https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
 
+
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,CHANNEL 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+#EXTINF:-1,TVB ไทย
+https://edge6a.v2h-cdn.com/tvb_thai/tvb_thai.stream/chunklist_w1167255818.m3u8
+#EXTINF:-1,SIAM NEWS
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1,PHETCHABUN TV
+https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+#EXTINF:-1,MOUNCHON TV
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1,ZABB TV
+https://live1.thaitvstream.com/play/zabbtv/index.m3u8
