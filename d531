@@ -3353,7 +3353,10 @@ https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 https://video-weaver.bom01.hls.ttvnw.net/v1/playlist/Cp4Fwy2lBwDWyaYuHs4M2REAccnYy2_fuNExTlkg1USRnPbyYqkN7znwO2DznsLKu0bZBmGOkufWQQY8FXZBJLCI4zeVkp7hCf57ir82nC7QpYVqBk0sqZKEpG4T1bo_eudxbApDwqQGSTUuTltjejcUba1QFAGmNAUgEetd5gfCWHlAeTo3m6WZUM2bDCQuMx7wFP8bkgDptLq3R5ShU3m7dkTXrWc6wMbh7kP8CCVnGL1BoCYqo_SNymz4VaSIECCWx0PS9RjnnH4Sdk735E1AxL5m2HsarSa38ax_Ev8M0-xyxhCb8U4y5KG42slu-zef7VoGDZW8GD49PC5bntR2LySAapLfhrZjI1d_hDsNFZfQJlafqan7I94rFKIlyYQ7LcgybfNqIuWGRXrkElDYE9LN4CO2JCCprfQZawZlwYhc6eH2CoyKOweXG1kun2L2nqKW8w5JFUbUj_rWIiX2Q6Iyuz5LRrevwk03tB9fjHw9UpDL98Ai5ggbOoHAXiGsnkQ7XP4oIxFxNIVcihLx3lTJ-Z-T92OOcOGObga7ocgCu1IJDu8_2PaAFuolidOdwa3qBgeq_lULvObCy6ww0asnaV1QbcaHTYlA83qniLiT4ekA3de3O1rVvlDJ7C2yRdWS02CqaGipzU45qaX70RN6x0AemrC5k0VEzCda_-BIhNSNfPptC7xUXvwea00zNtsAXyB28nkgwEVHeVm0XwotvH_t5L3_c3tZC4rZp1NGDzh5nPScirShp-w2do5Y93tpTFCMLQvxFOj6GYUnaWG5aFIih0sAAlLww5m5_U_mZyMCvYZ9rZa_eQo3HaCenyuqStd0UiFgTok0pE9oLrA80zxg7DO5gXLJeSv72WKGJS-n87OVzZN1SqBO4hoMI4uG3gayBc6Puy8QIAEqCXVzLXdlc3QtMjClBw.m3u8
 EXTINF:-1, Siyatha Tv
 https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
-EXTINF:-1 tvg-logo-"https://gumlet.assettype.com/pratidintime/2021-12/9b4eadf2-dd1f-4c79-b5c5-ce0e0ef00610/PT_footer_logo.png", Pratidin Time
+EXTINF:-1 tvg-logo="https://gumlet.assettype.com/pratidintime/2021-12/9b4eadf2-dd1f-4c79-b5c5-ce0e0ef00610/PT_footer_logo.png", Pratidin Time
 http://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1, Zee Bangla (wbtv)
 https://www.webtvbd.com/download/bdix/zee_bangla.m3u8
+https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
+EXTINF:-1 tvg-logo="https://gumlet.assettype.com/pratidintime/2021-12/9b4eadf2-dd1f-4c79-b5c5-ce0e0ef00610/PT_footer_logo.png", Pratidin Time
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
