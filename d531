@@ -328,7 +328,12 @@ http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3
 http://103.209.173.14:9998/gAAAAABkvlA7u8z2QYaOO-pWdxpHSNdVVeqsVXn9Lct4p__JRExC3c2wWgzWpEoBxa-cIeC8XEQOveXbzPtwG65vqbh-qzts-w==/index.m3u8
 #EXTINF:-1 group-title="Bangla Dipv24", GAAN BANGLA HD
 http://172.20.2.5:8082/GaanBangla/tracks-v1a1/mono.m3u8
-
+EXTINF:-1 group-title="Bangla Dipv24", Aamar Bangla*
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+EXTINF:-1 group-title="Bangla Dipv24", Aamar Digital*
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+EXTINF:-1 group-title="Bangla Dipv24", MON TV Bangla* 
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="Bangla Dipv24", Ananda Tv
 http://172.20.2.5:8082/anandotv/tracks-v1a1/mono.m3u8?token=f5365c7bcfaafd362e143921bd57c43aae50f150-7c8707baaff4368bccd4859027de8bf6-1681329980-1681319180
 #EXTINF:-1 group-title="Bangla Dipv24", Ananda TV
