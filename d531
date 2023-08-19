@@ -2,6 +2,21 @@ EXTINF:-1 tvg-logo="https://siyathatv.lk/wp-content/uploads/2021/10/30x24-Siyath
 https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 #EXTINF:-1, TVG
 http://190.80.3.28/TVG/TVG.isml/index.m3u8
+
+
+#EXTINF:-1,TRUE PREMIER HD 1
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,TRUE PREMIER HD 3
+https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,NOVA SPORTS 1 HD
+http://185.188.188.235/live/novasport1/playlist.m3u8
+#EXTINF:-1,NOVA SPORTS 2 HD
+http://185.188.188.235/live/novasport2/playlist.m3u8
+#EXTINF:-1,Nova Sports 3 Hd
+http://185.188.188.235/live/novasport3/playlist.m3u8
+#EXTINF:-1,NOVA SPORTS 4
+http://185.188.188.235/live/novasport4/playlist.m3u8
+
 #EXTINF:-1,T-SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,T-SPORTS HD
