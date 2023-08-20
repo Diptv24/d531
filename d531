@@ -16,10 +16,16 @@ https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/131_.m3u8
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/128_.m3u8
 #EXTINF:-1, BEIN SPORTS 1EN 
 https://edge02.odtv.az/o4/beinsport/playlist.m3u8
-#EXTINF:-1, PREMIER SPORTS 4
-https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1, BEIN SPORTS EXTRA
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/223_.m3u8
 #EXTINF:-1, PREMIER SPORTS 2
 https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+
+#EXTINF:-1, PREMIER SPORTS 3
+https://cdn3.skygo.mn/live/disk1/SPSWORLD/HLS-FTA/SPSWORLD-avc1_600000=10000.m3u8
+#EXTINF:-1, PREMIER SPORTS 4
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+
 #EXTINF:-1, PREMIER SPORTS 5
 https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 #EXTINF:-1,TRUE PREMIER HD 1
