@@ -12,7 +12,7 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, BEIN SPORTS 1 TR
 https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://samitvhd.com/wp-content/uploads/2023/01/KSA_SPORTS-Channels-min.png", KSA SPORTS 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoO0_gy71XUv8ksz0frl--quwtze3diLpGA&usqp=CAU", KSA SPORTS 1
 https://edge.taghtia.com/sa/9.m3u8
 #EXTINF:-1 tvg-logo="https://samitvhd.com/wp-content/uploads/2023/01/KSA_SPORTS-Channels-min.png", KSA SPORTS 2
 https://edge.taghtia.com/sa/10.m3u8
