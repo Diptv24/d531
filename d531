@@ -2,8 +2,26 @@ EXTINF:-1 tvg-logo="https://siyathatv.lk/wp-content/uploads/2021/10/30x24-Siyath
 https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 #EXTINF:-1, TVG
 http://190.80.3.28/TVG/TVG.isml/index.m3u8
-
-
+#EXTINF:-1, US T10 live
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF:-1, CT SPORTS
+http://185.188.188.235/live/ctsport/playlist.m3u8
+#EXTINF:-1, TRUE SPORTS 2
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1, ESPN 2
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+#EXTINF:-1, BEIN SPORTS 1 PR
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/131_.m3u8
+#EXTINF:-1, BEIN SPORTS 3 PR
+https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/128_.m3u8
+#EXTINF:-1, BEIN SPORTS 1EN 
+https://edge02.odtv.az/o4/beinsport/playlist.m3u8
+#EXTINF:-1, PREMIER SPORTS 4
+https://cdn3.skygo.mn/live/disk1/SPSFight/HLS-FTA/SPSFight.m3u8
+#EXTINF:-1, PREMIER SPORTS 2
+https://cdn3.skygo.mn/live/disk1/SPSPlay/HLS-FTA/SPSPlay.m3u8
+#EXTINF:-1, PREMIER SPORTS 5
+https://cdn3.skygo.mn/live/disk1/SPSPlus/HLS-FTA/SPSPlus.m3u8
 #EXTINF:-1,TRUE PREMIER HD 1
 https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,TRUE PREMIER HD 3
@@ -16,7 +34,6 @@ http://185.188.188.235/live/novasport2/playlist.m3u8
 http://185.188.188.235/live/novasport3/playlist.m3u8
 #EXTINF:-1,NOVA SPORTS 4
 http://185.188.188.235/live/novasport4/playlist.m3u8
-
 #EXTINF:-1,T-SPORTS HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1,T-SPORTS HD
