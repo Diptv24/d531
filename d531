@@ -3423,3 +3423,47 @@ https://www.webtvbd.com/download/bdix/zee_bangla.m3u8
 https://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 EXTINF:-1 tvg-logo="https://gumlet.assettype.com/pratidintime/2021-12/9b4eadf2-dd1f-4c79-b5c5-ce0e0ef00610/PT_footer_logo.png", Pratidin Time
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+
+Shahin Dipu:
+#EXTINF:-1, KBS DRAMA
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Expires=1692803584&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS9rYnNuZHJhbWEtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MjgwMzU4NH19fV19&Signature=RK3cW9~-b0jKcPzRhnD3OVnFNzCGUbgQeFrg43duezepzr4koWIkzDrQXBWr-hjosDrvsZcdZUAepRzso0v~uZM6I-hi-Gf2RuH26KqeY4EX4PsgH0PKJvKimt2SCSLtW35rYlmrs6Cuf2GjSqvwNQIecWST-36PGG9vR5CBY-ZsNQLOhXcKwLsNvsc03VttqtLw4Ep6yLtMGCyZ9lmMG~Gl3y0A09zkUHFm86o96a7HTp3yHXJjtTBazYJDZZNxR2wi8Ik-CooAtg3Pzmf7SfvZWHm~eM0MRQ5xJQz-2MBHz5LyurV~eGf-ehY51HTzvg5QoNscJ7wmRGjJcsVGqQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+#EXTINF:-1, KBS LIFE
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Expires=1692806091&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEva2JzbmxpZmUtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MjgwNjA5MX19fV19&Signature=Zd6T6kxY1Z5w-7vbQoWhOggveNd43~r-S4JX8aX-omAebPWqfud4IPa5c7h4vuB5kf9NibSmUSRI15cdsAP9Va7XlPbhUvUSNCP-YzNhFIx7AfufYxxigpdwIo2urUkNq1MOg2Oq1pwtZrT-1RkTgo5ASjETPbSyhTlBVPRgH~uq7NYPUL5Xb9KVpo5v4BLK6ne6zklZUYq19Y2HZb6L1tnBkJ7w~AOQJEk~kchBFC6nfZdtYcaWBRo4bFtrqCzl6G-qY2Xox1RtoNqFBN-VTDPVq8-SLLhHsFzNm23l7AWLSt~vXt6xpiYAq~vL1F4w0VQucfIlBIo3Jsdyh3z1BA__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
+
+TV Network:
+#EXTINF:-1, PTV SPORTS
+http://175.107.244.52:4456/play/a042/index.m3u8
+
+#EXTINF:-1,GEO SUEPR
+http://175.107.244.52:4456/play/a06z/index.m3u8
+
+
+A SportsHD 
+http://175.107.244.52:4456/play/a04p/index.m3u8
+
+#EXTINF:-1,Ten Sports HD
+http://103.162.136.103:25461/live/FAH/fah/121.m3u8
+
+#EXTINF:-1,PTV Sports HD
+http://103.162.136.103:25461/live/FAH/fah/123.m3u8
+#EXTINF:-1,Geo Super
+http://103.162.136.103:25461/live/FAH/fah/98.m3u8
+#EXTINF:-1,Sony Ten 3 HD
+http://103.162.136.103:25461/live/FAH/fah/202.m3u8
+#EXTINF:-1,Sony Ten 2 HD
+http://103.162.136.103:25461/live/FAH/fah/184.m3u8
+#EXTINF:-1,Star Sports Select 1 HD
+http://103.162.136.103:25461/live/FAH/fah/215.m3u8
+#EXTINF:-1,Star Sports Select 2 HD
+http://103.162.136.103:25461/live/FAH/fah/216.m3u8
+#EXTINF:-1,Star Sports 1 HD
+http://103.162.136.103:25461/live/FAH/fah/218.m3u8
+#EXTINF:-1,Star Sports 2 HD
+http://103.162.136.103:25461/live/FAH/fah/220.m3u8
+#EXTINF:-1,Sony Six HD
+http://103.162.136.103:25461/live/FAH/fah/213
+
+
+
+
+
