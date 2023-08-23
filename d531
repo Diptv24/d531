@@ -3490,6 +3490,25 @@ https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-01/kbsnjoy-01_sd.m3u8?Expires=1692937141
 #EXTINF:-1 group-title="Korean Tv" tvg-logo="https://static.kbs.co.kr/contents/20230822140935/resources/vod/img/ch/img-kbsdrama-logo.png", KBS DRAMA
 https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-01/kbsndrama-01_sd.m3u8?Expires=1692937489&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMS9rYnNuZHJhbWEtMDFfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5MjkzNzQ4OX19fV19&Signature=X3Eniuvjsm0fnmm-9SsCgTzGu6-~1og7jLl-JDYHDGu7xguwAqKQ1saKEc9~Pz8G~oI-UKaQkv6BT3EFrkm0oKEHmG~UBHcdxiPUxg7NEzwwQjBc7miboqQP5GrfuwHntqfb8teNQAjasyH8-vcOMQDXBiyHl5o-OqcMETs~DgFDnor6-vo45RRqJAqC3C3a8B~m16qrsNnp1pqF~oCGI~lneULEKsgjAOFvBgYEYJdAZ~QlPEpYtoPSGz5CBmmKM~oi3hLEvfC7SdiNaBVHXzoKMHuD6f~BQ3QmSmU7V3FI2i7HE3q91kDAJX0FoBlMCqa1mDu2~LV1ddOP6V-F9g__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
 
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cn-cgtn-arabic-5595-300x225.jpg", CGTN ARABIC
+https://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="https://photos.live-tv-channels.org/tv-logo/chinese-hope-tv-6819-w360.webp", HOPE CHANNEL
+https://videodelivery.net/07c709813199692f475a30a22afa1c5a/manifest/video.m3u8
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cctv-russkij-2909-150x112.jpg", CCTV Russkij 
+https://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="", GEO TV
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="",
+
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="",
+
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="",
+
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="",
+
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="",
+
+#EXTINF:-1 group-title="Chines Tv" tvg-logo="",
 
 
 
