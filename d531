@@ -3509,6 +3509,3254 @@ https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e
 #EXTINF:-1 group-title="Chines Tv" tvg-logo="",
 
 #EXTINF:-1 group-title="Chines Tv" tvg-logo="",
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="toffee.m3u" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="toffee.m3u", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="Sports", Sony TEN 1 HD
+http://103.209.173.14:9966/toffee/stream/sony_ten1_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="Sports", Sony TEN 2 HD
+http://103.209.173.14:9966/toffee/stream/sony_ten2_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="Sports", Sony TEN 3 HD
+http://103.209.173.14:9966/toffee/stream/sony_ten3_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="Sports", Sony TEN 5 HD
+http://103.209.173.14:9966/toffee/stream/sony_six_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/49/logo/240x240/mobile_logo_559887001666781361.png" group-title="Sports", Sony TEN 1
+http://103.209.173.14:9966/toffee/stream/ten_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/50/logo/240x240/mobile_logo_832280001666781441.png" group-title="Sports", Sony TEN 2
+http://103.209.173.14:9966/toffee/stream/ten_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/51/logo/240x240/mobile_logo_066851001666781605.png" group-title="Sports", Sony TEN 3
+http://103.209.173.14:9966/toffee/stream/ten_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/351/logo/240x240/mobile_logo_027801001666782321.png" group-title="Sports", Sony TEN 5
+http://103.209.173.14:9966/toffee/stream/sony_six.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="Sports", EURO Sport HD
+http://103.209.173.14:9966/toffee/stream/euro_sports_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png" group-title="Sports", EURO Sport
+http://103.209.173.14:9966/toffee/stream/euro_sports_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/395/logo/240x240/mobile_logo_495999001673184134.png" group-title="Sports", Dubai Sport
+http://103.209.173.14:9966/toffee/stream/dubai_sports.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="Indian-Bangla Entertainment", Zee Bangla
+http://103.209.173.14:9966/toffee/stream/zee_bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="Indian-Bangla Entertainment", Sony AATH
+http://103.209.173.14:9966/toffee/stream/sony_aath.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="Indian-Bangla Entertainment", Colors Bangla
+http://103.209.173.14:9966/toffee/stream/colors_b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="Indian-Bangla Entertainment", Star Jalsha
+http://103.209.173.14:9966/toffee/stream/star_jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="Bangladeshi News", Somoy TV
+http://103.209.173.14:9966/toffee/stream/somoy_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="Bangladeshi News", Ekattor TV HD
+http://103.209.173.14:9966/toffee/stream/ekattor_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="Bangladeshi News", Independent TV
+http://103.209.173.14:9966/toffee/stream/independent.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="Bangladeshi News", Channel 24
+http://103.209.173.14:9966/toffee/stream/channel_24.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="Bangladeshi News", DBC NEWS
+http://103.209.173.14:9966/toffee/stream/dbc_news.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="Bangladeshi News", ATN NEWS
+http://103.209.173.14:9966/toffee/stream/atn_news.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png" group-title="Bangladeshi News", NEWS 24 HD
+http://103.209.173.14:9966/toffee/stream/news24hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="Bangladeshi News", Jamuna TV
+http://103.209.173.14:9966/toffee/stream/jamuna_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/232/logo/240x240/mobile_logo_731969001673183522.png" group-title="Bangladeshi News", SATV HD
+http://103.209.173.14:9966/toffee/stream/satv_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title="Bangladeshi News", Global TV HD
+http://103.209.173.14:9966/toffee/stream/global_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png" group-title="International News", Aljazeera
+http://103.209.173.14:9966/toffee/stream/aljazeera.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_373682001676354236.png" group-title="International News", CNN
+http://103.209.173.14:9966/toffee/stream/cnn.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/363/logo/240x240/mobile_logo_700739001655891233.png" group-title="International News", DW
+http://103.209.173.14:9966/toffee/stream/dw.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png" group-title="International News", Zee NEWS
+http://103.209.173.14:9966/toffee/stream/zee_news.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/662/logo/240x240/mobile_logo_851160001655891584.png" group-title="International News", RTR Planet
+http://103.209.173.14:9966/toffee/stream/rtr_planet.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/655/logo/240x240/mobile_logo_455321001655891572.png" group-title="International News", Euro News
+http://103.209.173.14:9966/toffee/stream/euro_news.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/372/logo/240x240/mobile_logo_311458001655891246.png" group-title="International News", Arirang
+http://103.209.173.14:9966/toffee/stream/arirang.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/668/logo/240x240/mobile_logo_867839001655891607.png" group-title="International News", CGTN
+http://103.209.173.14:9966/toffee/stream/cgtn.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/393/logo/240x240/mobile_logo_435300001673184707.png" group-title="International News", Channel NewsAsia
+http://103.209.173.14:9966/toffee/stream/channel_n_asia.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4569/logo/240x240/mobile_logo_422385001655892034.png" group-title="International News", Zee BUISNESS
+http://103.209.173.14:9966/toffee/stream/zee_business.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18099/logo/240x240/mobile_logo_684353001673241863.png" group-title="International News", KBS World 24
+http://103.209.173.14:9966/toffee/stream/kbs_world24.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/407/logo/240x240/mobile_logo_448662001655891393.png" group-title="International News", TV5 Monde
+http://103.209.173.14:9966/toffee/stream/tv5_monde.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/658/logo/240x240/mobile_logo_982797001673184503.png" group-title="International News", Aljazeera Arabic
+http://103.209.173.14:9966/toffee/stream/aljazeera_arabic.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/384/logo/240x240/mobile_logo_258111001655891294.png" group-title="International News", NHK World Japan
+http://103.209.173.14:9966/toffee/stream/nhk_world.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1768/logo/240x240/mobile_logo_079930001673184899.png" group-title="International News", France 24
+http://103.209.173.14:9966/toffee/stream/france24.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="Bangladeshi Entertainment", Channel i
+http://103.209.173.14:9966/toffee/stream/channel_i.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="Bangladeshi Entertainment", RTV
+http://103.209.173.14:9966/toffee/stream/rtv_b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="Bangladeshi Entertainment", NTV
+http://103.209.173.14:9966/toffee/stream/ntv_b.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="Bangladeshi Entertainment", Bangla Vision
+http://103.209.173.14:9966/toffee/stream/bangla_vision.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="Bangladeshi Entertainment", ATN Bangla
+http://103.209.173.14:9966/toffee/stream/atn_bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="Bangladeshi Entertainment", Ananda TV
+http://103.209.173.14:9966/toffee/stream/ananda_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="Bangladeshi Entertainment", Boishakhi TV
+http://103.209.173.14:9966/toffee/stream/boishakhi.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="Bangladeshi Entertainment", Channel 9
+http://103.209.173.14:9966/toffee/stream/channel_9.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="Bangladeshi Entertainment", Mohona TV
+http://103.209.173.14:9966/toffee/stream/mohona_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="Bangladeshi Entertainment", My TV
+http://103.209.173.14:9966/toffee/stream/my_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="Bangladeshi Entertainment", BTV HD
+http://103.209.173.14:9966/toffee/stream/btv_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="Bangladeshi Entertainment", Bijoy TV
+http://103.209.173.14:9966/toffee/stream/bijoy_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="Bangladeshi Entertainment", Asian TV HD
+http://103.209.173.14:9966/toffee/stream/asian_tv_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="Bangladeshi Entertainment", Bangla TV HD
+http://103.209.173.14:9966/toffee/stream/bangla_tv_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="Bangladeshi Entertainment", Desh TV
+http://103.209.173.14:9966/toffee/stream/desh_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="Bangladeshi Entertainment", BTV World
+http://103.209.173.14:9966/toffee/stream/btv_world.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png" group-title="Bangladeshi Entertainment", Ekushey TV
+http://103.209.173.14:9966/toffee/stream/ekushey_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png" group-title="Bangladeshi Entertainment", BTV Chittagong
+http://103.209.173.14:9966/toffee/stream/btv_ctg.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png" group-title="Bangladeshi Entertainment", Nexus TV
+http://103.209.173.14:9966/toffee/stream/nexus_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png" group-title="Bangladeshi Entertainment", Sangshodh Bangladesh
+http://103.209.173.14:9966/toffee/stream/btv_sangshodh.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18835/logo/240x240/mobile_logo_482266001683805730.png" group-title="Indian Entertainment", Star Gold
+http://103.209.173.14:9966/toffee/stream/star_gold.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title="Indian Entertainment", Star Plus
+http://103.209.173.14:9966/toffee/stream/star_plus.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title="Indian Entertainment", Star Bharat
+http://103.209.173.14:9966/toffee/stream/star_bharat.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="Indian Entertainment", Sony MAX HD
+http://103.209.173.14:9966/toffee/stream/set_max_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="Indian Entertainment", Sony MAX SD
+http://103.209.173.14:9966/toffee/stream/sony_max.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="Indian Entertainment", Sony Entertainment HD
+http://103.209.173.14:9966/toffee/stream/sony_entertainmnt_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="Indian Entertainment", Sony Entertainment
+http://103.209.173.14:9966/toffee/stream/sony_entertainment.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="Indian Entertainment", Sony SAB HD
+http://103.209.173.14:9966/toffee/stream/sony_sab_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/342/logo/240x240/mobile_logo_512950001666785776.png" group-title="Indian Entertainment", Sony SAB SD
+http://103.209.173.14:9966/toffee/stream/sony_sab.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Indian Entertainment", Sony MAX2
+http://103.209.173.14:9966/toffee/stream/sony_max_2.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="Indian Entertainment", Sony WAH
+http://103.209.173.14:9966/toffee/stream/sony_wah.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2421/logo/240x240/mobile_logo_799518001666784496.png" group-title="Indian Entertainment", Sony PAL
+http://103.209.173.14:9966/toffee/stream/sony_pal.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="Indian Entertainment", Zee TV HD
+http://103.209.173.14:9966/toffee/stream/zee_tv_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4567/logo/240x240/mobile_logo_165498001675857326.png" group-title="Indian Entertainment", Zee Anmol
+http://103.209.173.14:9966/toffee/stream/zee_anmol.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2425/logo/240x240/mobile_logo_844782001655891780.png" group-title="Indian Entertainment", Colors
+http://103.209.173.14:9966/toffee/stream/colors.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2436/logo/240x240/mobile_logo_637826001655891948.png" group-title="Indian Entertainment", Colors Rishtey
+http://103.209.173.14:9966/toffee/stream/colors_rishtey.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="Indian Entertainment", &TV HD
+http://103.209.173.14:9966/toffee/stream/and_tv_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="Indian Entertainment", &Pictures HD
+http://103.209.173.14:9966/toffee/stream/and_picture_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="English Entertainment", Zee CAFÉ HD
+http://103.209.173.14:9966/toffee/stream/zee_cafe_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2428/logo/240x240/mobile_logo_455256001655891827.png" group-title="English Entertainment", Colors Infinity HD
+http://103.209.173.14:9966/toffee/stream/colors_infinity_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2427/logo/240x240/mobile_logo_461931001655891802.png" group-title="English Entertainment", Comedy Central HD
+http://103.209.173.14:9966/toffee/stream/comedy_central_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="Kids", Nick
+http://103.209.173.14:9966/toffee/stream/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Kids", Cartoon Network HD+
+http://103.209.173.14:9966/toffee/stream/cartoon_network_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="Kids", Cartoon Network SD
+http://103.209.173.14:9966/toffee/stream/cartoon_network_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="Kids", Sony Yay
+http://103.209.173.14:9966/toffee/stream/sony_yay.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png" group-title="Kids", Sonic
+http://103.209.173.14:9966/toffee/stream/sonic.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Kids", Discovery Kids
+http://103.209.173.14:9966/toffee/stream/discovery_kids.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="Kids", Nick Junior
+http://103.209.173.14:9966/toffee/stream/nick_junior.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="Kids", Pogo
+http://103.209.173.14:9966/toffee/stream/pogo.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="Bangla Movies", Zee Bangla Cinema
+http://103.209.173.14:9966/toffee/stream/zee_bangla_cinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/10157/logo/240x240/mobile_logo_151189001655892087.png" group-title="Bangla Movies", Colors Bangla Cinema
+http://103.209.173.14:9966/toffee/stream/colors_bangla_cinema.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="Bangla Movies", Movie Bangla
+http://103.209.173.14:9966/toffee/stream/movie_bangla.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="Bangla Movies", Jalsha Movies
+http://103.209.173.14:9966/toffee/stream/jalsha_movies.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_226947001684477528.png" group-title="Bangla Movies", toffee-v2 Movies
+http://103.209.173.14:9966/toffee/stream/sports_live_01.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_746756001684756029.png" group-title="Bangla Movies", toffee-v2 Dramas
+http://103.209.173.14:9966/toffee/stream/toffee-v2_drama.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Indian Movies", Zee Cinema HD
+http://103.209.173.14:9966/toffee/stream/zee_cinema_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="Indian Movies", B4U Movies
+http://103.209.173.14:9966/toffee/stream/b4u_movies.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/355/logo/240x240/mobile_logo_569572001655891220.png" group-title="Indian Movies", Zee Action
+http://103.209.173.14:9966/toffee/stream/zee_action.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png" group-title="Indian Movies", Zee Bollywood
+http://103.209.173.14:9966/toffee/stream/zee_bolly.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="English Movies", Sony PIX HD
+http://103.209.173.14:9966/toffee/stream/sony_pix_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/397/logo/240x240/mobile_logo_049568001666785583.png" group-title="English Movies", Sony PIX SD
+http://103.209.173.14:9966/toffee/stream/sony_pix.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18098/logo/240x240/mobile_logo_508084001673240324.png" group-title="English Movies", iFilm
+http://103.209.173.14:9966/toffee/stream/iflim_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/389/logo/240x240/mobile_logo_466667001673185088.png" group-title="English Movies", Lotus Macau
+http://103.209.173.14:9966/toffee/stream/lotus_macau.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png" group-title="Islamic", Quran TV
+http://103.209.173.14:9966/toffee/stream/quran_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png" group-title="Islamic", Sunnah TV
+http://103.209.173.14:9966/toffee/stream/sunnah_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="Music", Zoom TV
+http://103.209.173.14:9966/toffee/stream/zoom_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="Music", B4U Music
+http://103.209.173.14:9966/toffee/stream/b4umusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="Music", MTV Beats HD
+http://103.209.173.14:9966/toffee/stream/mtv_beats_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="Music", MB Music
+http://103.209.173.14:9966/toffee/stream/movie_b_music.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" group-title="Music", MTV
+http://103.209.173.14:9966/toffee/stream/mtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="Music", Zing
+http://103.209.173.14:9966/toffee/stream/zing_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2433/logo/240x240/mobile_logo_609993001655891894.png" group-title="Music", VH1 HD
+http://103.209.173.14:9966/toffee/stream/vh1_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="Infotainment", Animal Planet HD
+http://103.209.173.14:9966/toffee/stream/animal_planet_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="Infotainment", Animal Planet SD
+http://103.209.173.14:9966/toffee/stream/animal_planet_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="Infotainment", Discovery HD
+http://103.209.173.14:9966/toffee/stream/discovery_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="Infotainment", Discovery SD
+http://103.209.173.14:9966/toffee/stream/discovery_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="Infotainment", Discovery Science
+http://103.209.173.14:9966/toffee/stream/discovery_science.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="Infotainment", Discovery Asia
+http://103.209.173.14:9966/toffee/stream/discovery_asia.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="Infotainment", Discovery Turbo
+http://103.209.173.14:9966/toffee/stream/discovery_turbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="Infotainment", Discovery Investigation HD
+http://103.209.173.14:9966/toffee/stream/discovery_india_id_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="Infotainment", Discovery Investigation SD
+http://103.209.173.14:9966/toffee/stream/discovery_india_id_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Infotainment", TLC HD
+http://103.209.173.14:9966/toffee/stream/tlc_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="Infotainment", TLC SD
+http://103.209.173.14:9966/toffee/stream/tlc_sd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="Infotainment", History TV
+http://103.209.173.14:9966/toffee/stream/history_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="Infotainment", Sony BBC Earth HD
+http://103.209.173.14:9966/toffee/stream/sony_bbc_earth_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png" group-title="Infotainment", Sony BBC Earth SD
+http://103.209.173.14:9966/toffee/stream/sony_bbc_earth.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4786/logo/240x240/mobile_logo_570626001655892054.png" group-title="Infotainment", Tech Storm
+http://103.209.173.14:9966/toffee/stream/tech_storm.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png" group-title="Infotainment", National Geographic WILD
+http://103.209.173.14:9966/toffee/stream/nat_geo_wild.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18840/logo/240x240/mobile_logo_024343001683805110.png" group-title="Infotainment", National Geographic
+http://103.209.173.14:9966/toffee/stream/nat_geo.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="Infotainment", FOX Life
+http://103.209.173.14:9966/toffee/stream/fox_life.m3u8
+
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="binge.m3u" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="binge.m3u", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/NKHVIcRl8J48wHjChJAEd2Vdt2gk2QPRSV.png" group-title="Binge", EPL Live 1
+http://103.209.173.14:9966/binge/stream/Stream1_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/FZmGfAO2NqGODbjKC6Yi5Cr9K7YDOyPdka.png" group-title="Binge", LaLiga Live 1
+http://103.209.173.14:9966/binge/stream/Stream1_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/Yy5q4QzqKCYKPT2Il9zRREzPbFZZrIZ1E0.png" group-title="Binge", Ligue 1
+http://103.209.173.14:9966/binge/stream/Stream1_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/g8oCNvYv7BJvJGG65KCvieyWs19fM8pWEN.png" group-title="Binge", Serie A Live 1
+http://103.209.173.14:9966/binge/stream/Stream1_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/aVihW3glhhgpt7HnNG7laZcEoaUI3ZZ9RY.png" group-title="Binge", Somoy News
+http://103.209.173.14:9966/binge/stream/nxd_somoy_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/qRP0bp0nqP8vD9kORnk3chSSTAZtLMJfRJ.png" group-title="Binge", Channel 24
+http://103.209.173.14:9966/binge/stream/nxd_channel_24_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/WWWC4AQwkXkE3IHzAVEZofi7FMXnqxDVxc.png" group-title="Binge", Independent TV
+http://103.209.173.14:9966/binge/stream/nxd_independent_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/GMZEUr5jQ0qeLhe2Nj5tBZuUaOY8OSOsko.png" group-title="Binge", Ekattor HD
+http://103.209.173.14:9966/binge/stream/nxd_ekattor_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/XneEguDUTC18N8yHJkb5ZokUT49x4SQMeC.png" group-title="Binge", DBC News HD
+http://103.209.173.14:9966/binge/stream/nxd_dbc_news_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/erv3OOsxLpNI4zevtojWQXtzV6Nrp49zwo.png" group-title="Binge", News 24 HD
+http://103.209.173.14:9966/binge/stream/nxd_news_24_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/Fn28l9bpuvwDoi8EKDfafUHlu3j5nIXjnY.png" group-title="Binge", ATN News
+http://103.209.173.14:9966/binge/stream/nxd_atn_news_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/d0ICoJt1RTfTeqsQqrb9jdz5CI9fARU3Eg.png" group-title="Binge", Jamuna TV
+http://103.209.173.14:9966/binge/stream/nxd_jamuna_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/wov9pmOJnqylvcZELuE4UN7TGDgbP4J6d2.png" group-title="Binge", Aljazeera
+http://103.209.173.14:9966/binge/stream/nxd_aljazeera_english_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/nFUGsTPRtmTmdwJhS7L5Co4nnIoXiWKhiq.png" group-title="Binge", Aljazeera Arabic
+http://103.209.173.14:9966/binge/stream/nxd_aljazeera_arabic_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/91mun1XROjtwJIZAh4qCX8Gd66RdXd9mMQ.jpg" group-title="Binge", Movie Bangla TV
+http://103.209.173.14:9966/binge/stream/nxd_movie_bangla_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/NyPFekgthC2J54pbaN69kO3MEPNLc02OHV.png" group-title="Binge", I Film English
+http://103.209.173.14:9966/binge/stream/nxd_ifilm_english_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/oU22JFaPQzBh8m4LfGcRJFdrOmXqXC1SgU.jpg" group-title="Binge", Channel I HD
+http://103.209.173.14:9966/binge/stream/nxd_channel_i_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/aVihW3glhhgpt7HnNG7laZcEoaUI3ZZ9RY.png" group-title="Binge", Somoy News
+http://103.209.173.14:9966/binge/stream/nxd_somoy_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/bEnmHYCcx4gInWOTxK2tpI7NUVvEMgyZFR.jpg" group-title="Binge", Nexus Television HD
+http://103.209.173.14:9966/binge/stream/nxd_nexus_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/QzTyMQKPa5jhcXFq1g6pZzeQNegNA8NANv.png" group-title="Binge", BTV HD
+http://103.209.173.14:9966/binge/stream/nxd_btv_hd_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/oUNLozE36aiZvtaUVxmAG4wiVtZ6Grx2a5.png" group-title="Binge", BTV World
+http://103.209.173.14:9966/binge/stream/nxd_btv_world_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/wxvdEKL0DiVeQ64VogrxUeD03E7j31pdEf.png" group-title="Binge", ATN Bangla
+http://103.209.173.14:9966/binge/stream/nxd_atn_bangla_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/CyldViji0X5d5R3QquaBt4xgytDZIDK28Z.png" group-title="Binge", NTV
+http://103.209.173.14:9966/binge/stream/nxd_ntv_sd_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/qRP0bp0nqP8vD9kORnk3chSSTAZtLMJfRJ.png" group-title="Binge", Channel 24
+http://103.209.173.14:9966/binge/stream/nxd_channel_24_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/WWWC4AQwkXkE3IHzAVEZofi7FMXnqxDVxc.png" group-title="Binge", Independent TV
+http://103.209.173.14:9966/binge/stream/nxd_independent_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/GMZEUr5jQ0qeLhe2Nj5tBZuUaOY8OSOsko.png" group-title="Binge", Ekattor HD
+http://103.209.173.14:9966/binge/stream/nxd_ekattor_tv_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/5F7llqUKAxInuiBR3BxMbWQW6nAK5LpVqL.jpg" group-title="Binge", Movie Bangla Music
+http://103.209.173.14:9966/binge/stream/nxd_mb_music_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/5O5ymsd49Vc21mIYmCi1eOKY9NNOXkYw1U.png" group-title="Binge", KBS World 24
+http://103.209.173.14:9966/binge/stream/nxd_kbs_world24_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/0CXcbQ3tzgPd1IHqmtcNcdo7r8ZkQPvOKN.png" group-title="Binge", TV5MONDE ASIE
+http://103.209.173.14:9966/binge/stream/nxd_tv5_monde_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/dYZwcopPrqaVaZkZOZSfgeMuy9Jsp5COCw.png" group-title="Binge", Dubai Sports
+http://103.209.173.14:9966/binge/stream/nxd_dubai_sports1_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/OuFjattCAwFwKcghoGV9n6rEYaNuZxYwgI.png" group-title="Binge", Sangsad Bangladesh TV
+http://103.209.173.14:9966/binge/stream/nxd_sangsad_bangladesh_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/1eveaMEtZsbzs8qqtYtJaBhhG0EoLzeGl6.png" group-title="Binge", Lotus Macau
+http://103.209.173.14:9966/binge/stream/nxd_lotus_macau_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/9G1uKNSMNlfeafjLHrnigjptS0Nk7RUQjv.png" group-title="Binge", Quran TV
+http://103.209.173.14:9966/binge/stream/nxd_saudi_quran_all.m3u8
+
+#EXTINF:-1 tvg-logo="https://web-api.binge.buzz/uploads/tv_channel_logo/thumbs/tE5BZxOUY9RPHIMlAbVUuQ6FHUWHaR9z3Q.png" group-title="Binge", Al Sunnah Al Nabawiyah
+http://103.209.173.14:9966/binge/stream/nxd_saudi_sunnah_all.m3u8
+
+
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="crichd.m3u" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="crichd.m3u", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/19.png" group-title="CricHD", Star Sports 1 HD
+http://103.209.173.14:9966/crichd/stream/star1in.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/51.gif" group-title="CricHD", Star Sports 1 Hindi HD
+http://103.209.173.14:9966/crichd/stream/starhindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/18.png" group-title="CricHD", PTV Sports
+http://103.209.173.14:9966/crichd/stream/ptvpk.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/20.png" group-title="CricHD", Willow HD
+http://103.209.173.14:9966/crichd/stream/willowusa.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/49.png" group-title="CricHD", SuperSport Cricket
+http://103.209.173.14:9966/crichd/stream/supercricket.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/50.gif" group-title="CricHD", TEN Sports
+http://103.209.173.14:9966/crichd/stream/tenspk.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/55.png" group-title="CricHD", Willow Xtra
+http://103.209.173.14:9966/crichd/stream/willowextra.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/56.png" group-title="CricHD", A Sports HD
+http://103.209.173.14:9966/crichd/stream/asportshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD", Sky Sports Main Event
+http://103.209.173.14:9966/crichd/stream/skysme.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/3.png" group-title="CricHD", Sky Sports Cricket
+http://103.209.173.14:9966/crichd/stream/skyscric.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/4.png" group-title="CricHD", Sky Sports Action
+http://103.209.173.14:9966/crichd/stream/skysact.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/5.png" group-title="CricHD", Sky Sports Golf
+http://103.209.173.14:9966/crichd/stream/skysgol.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/6.jpg" group-title="CricHD", Sky Sports Premier League
+http://103.209.173.14:9966/crichd/stream/skysprem.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/47.png" group-title="CricHD", Sky Sports Football
+http://103.209.173.14:9966/crichd/stream/skysfott.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/48.png" group-title="CricHD", Sky Sports Arena
+http://103.209.173.14:9966/crichd/stream/skysare.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/7.png" group-title="CricHD", Sky Sports F1
+http://103.209.173.14:9966/crichd/stream/skysfor1.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/8.png" group-title="CricHD", Sky Sports Mix
+http://103.209.173.14:9966/crichd/stream/skysmixx.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/9.png" group-title="CricHD", Sky Sports News
+http://103.209.173.14:9966/crichd/stream/skyspnews.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/10.gif" group-title="CricHD", TNT Sport 1
+http://103.209.173.14:9966/crichd/stream/bbtsp1.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/11.gif" group-title="CricHD", TNT Sport 2
+http://103.209.173.14:9966/crichd/stream/bbtsp2.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/12.gif" group-title="CricHD", TNT Sport 3
+http://103.209.173.14:9966/crichd/stream/bbtsp3.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/13.gif" group-title="CricHD", TNT Sport 4
+http://103.209.173.14:9966/crichd/stream/bbtespn.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/14.png" group-title="CricHD", EuroSport 1
+http://103.209.173.14:9966/crichd/stream/eurosp1.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/15.png" group-title="CricHD", EuroSport 2
+http://103.209.173.14:9966/crichd/stream/eurosp2.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/17.gif" group-title="CricHD", Viaplay Sports 1
+http://103.209.173.14:9966/crichd/stream/premieruk.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/28.gif" group-title="CricHD", Viaplay Sports 2
+http://103.209.173.14:9966/crichd/stream/hdchnl2.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/29.gif" group-title="CricHD", Viaplay Xtra
+http://103.209.173.14:9966/crichd/stream/hdchnl3.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/54.png" group-title="CricHD", LaLiga Tv
+http://103.209.173.14:9966/crichd/stream/laligauk.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/137.png" group-title="CricHD", Sky Sport 1 NZ
+http://103.209.173.14:9966/crichd/stream/sky1nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/138.png" group-title="CricHD", Sky Sport 2 NZ
+http://103.209.173.14:9966/crichd/stream/sky2nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/144.png" group-title="CricHD", Sky Sport 3 NZ
+http://103.209.173.14:9966/crichd/stream/sky3nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/139.png" group-title="CricHD", Sky Sport 4 NZ
+http://103.209.173.14:9966/crichd/stream/sky4nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/140.png" group-title="CricHD", Sky Sport 5 NZ
+http://103.209.173.14:9966/crichd/stream/sky5nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/141.png" group-title="CricHD", Sky Sport 6 NZ
+http://103.209.173.14:9966/crichd/stream/sky6nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/145.png" group-title="CricHD", Sky Sport 7 NZ
+http://103.209.173.14:9966/crichd/stream/sky7nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/142.png" group-title="CricHD", Sky Sport 8 NZ
+http://103.209.173.14:9966/crichd/stream/sky8nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/143.png" group-title="CricHD", Sky Sport 9 NZ
+http://103.209.173.14:9966/crichd/stream/sky9nz.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/143.png" group-title="CricHD", SuperSport Football
+http://103.209.173.14:9966/crichd/stream/superfotball.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/94.png" group-title="CricHD", SuperSport Premier League
+http://103.209.173.14:9966/crichd/stream/superpremier.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/95.png" group-title="CricHD", SuperSport Laliga
+http://103.209.173.14:9966/crichd/stream/superlaliga.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/96.png" group-title="CricHD", SuperSport Rugby
+http://103.209.173.14:9966/crichd/stream/supersrugby.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/97.png" group-title="CricHD", SuperSport Grandstand
+http://103.209.173.14:9966/crichd/stream/supergrandstand.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/98.jpg" group-title="CricHD", SuperSport Tennis
+http://103.209.173.14:9966/crichd/stream/supertennis.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/99.png" group-title="CricHD", SuperSport Action
+http://103.209.173.14:9966/crichd/stream/superactions.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/100.png" group-title="CricHD", SuperSport Golf
+http://103.209.173.14:9966/crichd/stream/supergolf.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/101.png" group-title="CricHD", SuperSport Maximo
+http://103.209.173.14:9966/crichd/stream/supermeximo.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/127.jpg" group-title="CricHD", SuperSport PSL
+http://103.209.173.14:9966/crichd/stream/superpsl.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/81.png" group-title="CricHD", Fox Cricket 501 HD
+http://103.209.173.14:9966/crichd/stream/fox501.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/102.png" group-title="CricHD", Fox 502 HD
+http://103.209.173.14:9966/crichd/stream/fox5022.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/103.png" group-title="CricHD", Fox 503 HD
+http://103.209.173.14:9966/crichd/stream/fox503.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/104.png" group-title="CricHD", Fox 504 HD
+http://103.209.173.14:9966/crichd/stream/fox504.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/105.png" group-title="CricHD", Fox 505 HD
+http://103.209.173.14:9966/crichd/stream/fox505.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/106.png" group-title="CricHD", Fox 506 HD
+http://103.209.173.14:9966/crichd/stream/fox506.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/106.png" group-title="CricHD", WWE Network
+http://103.209.173.14:9966/crichd/stream/wwe.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/147.png" group-title="CricHD", ESPN
+http://103.209.173.14:9966/crichd/stream/espnusa.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/148.png" group-title="CricHD", ESPN2
+http://103.209.173.14:9966/crichd/stream/espn2.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/21.jpg" group-title="CricHD", Geo Super
+http://103.209.173.14:9966/crichd/stream/geosp.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichdplayer.com/assets/uploads/channels/21.jpg" group-title="CricHD", Sony ESPN
+http://103.209.173.14:9966/crichd/stream/sonymax.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/23.png" group-title="CricHD", Sony SIX
+http://103.209.173.14:9966/crichd/stream/sonysixind.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/23.png" group-title="CricHD", Sky Sports Box Office
+http://103.209.173.14:9966/crichd/stream/hdchnl20.m3u8
+
+#EXTINF:-1 tvg-logo="https://crichd.tv/assets/uploads/channels/23.png" group-title="CricHD", Sony TEN 1
+http://103.209.173.14:9966/crichd/stream/ten1hd.m3u8
+
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="daddy.m3u" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="daddy.m3u", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ABC USA
+http://103.209.173.14:9966/daddy/stream/51.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", A&E USA
+http://103.209.173.14:9966/daddy/stream/302.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", AMC USA
+http://103.209.173.14:9966/daddy/stream/303.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Animal Planet
+http://103.209.173.14:9966/daddy/stream/304.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ACC Network USA
+http://103.209.173.14:9966/daddy/stream/666.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Astro SuperSport 1
+http://103.209.173.14:9966/daddy/stream/123.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Astro SuperSport 2
+http://103.209.173.14:9966/daddy/stream/124.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Astro SuperSport 3
+http://103.209.173.14:9966/daddy/stream/125.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Astro SuperSport 4
+http://103.209.173.14:9966/daddy/stream/126.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Astro SuperSport 5
+http://103.209.173.14:9966/daddy/stream/43.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 1 Premium
+http://103.209.173.14:9966/daddy/stream/134.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", AMC USA
+http://103.209.173.14:9966/daddy/stream/303.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 3 Premium
+http://103.209.173.14:9966/daddy/stream/139.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 1 Serbia
+http://103.209.173.14:9966/daddy/stream/429.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 2 Serbia
+http://103.209.173.14:9966/daddy/stream/430.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 3 Serbia
+http://103.209.173.14:9966/daddy/stream/431.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 4 Serbia
+http://103.209.173.14:9966/daddy/stream/581.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 1 Croatia
+http://103.209.173.14:9966/daddy/stream/432.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 2 Croatia
+http://103.209.173.14:9966/daddy/stream/433.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 3 Croatia
+http://103.209.173.14:9966/daddy/stream/434.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 4 Croatia
+http://103.209.173.14:9966/daddy/stream/580.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Alkass One
+http://103.209.173.14:9966/daddy/stream/781.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Alkass Two
+http://103.209.173.14:9966/daddy/stream/782.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Alkass Three
+http://103.209.173.14:9966/daddy/stream/783.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Alkass Four
+http://103.209.173.14:9966/daddy/stream/784.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ABS-CBN
+http://103.209.173.14:9966/daddy/stream/785.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arena Sport 1 BiH
+http://103.209.173.14:9966/daddy/stream/579.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Abu Dhabi Sports 1 UAE
+http://103.209.173.14:9966/daddy/stream/600.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Abu Dhabi Sports 2 UAE
+http://103.209.173.14:9966/daddy/stream/601.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Abu Dhabi Sports 1 Premium
+http://103.209.173.14:9966/daddy/stream/609.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Abu Dhabi Sports 2 Premium
+http://103.209.173.14:9966/daddy/stream/610.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Astro Cricket
+http://103.209.173.14:9966/daddy/stream/370.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Antena 3 Spain
+http://103.209.173.14:9966/daddy/stream/531.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ACC Network USA
+http://103.209.173.14:9966/daddy/stream/664.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Adult Swim
+http://103.209.173.14:9966/daddy/stream/295.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", AXN Movies Portugal
+http://103.209.173.14:9966/daddy/stream/717.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Arte DE
+http://103.209.173.14:9966/daddy/stream/725.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", AXS TV USA
+http://103.209.173.14:9966/daddy/stream/742.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ABCNY USA
+http://103.209.173.14:9966/daddy/stream/766.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BT Sport 1 HD
+http://103.209.173.14:9966/daddy/stream/31.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BT Sport 2 UK
+http://103.209.173.14:9966/daddy/stream/32.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BT Sport 3 UK
+http://103.209.173.14:9966/daddy/stream/33.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BT Sport 4 UK
+http://103.209.173.14:9966/daddy/stream/34.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA English 1
+http://103.209.173.14:9966/daddy/stream/61.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA English 2
+http://103.209.173.14:9966/daddy/stream/90.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA English 3
+http://103.209.173.14:9966/daddy/stream/46.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA 1
+http://103.209.173.14:9966/daddy/stream/91.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA 2
+http://103.209.173.14:9966/daddy/stream/92.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA 3
+http://103.209.173.14:9966/daddy/stream/93.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA 4
+http://103.209.173.14:9966/daddy/stream/94.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA 5
+http://103.209.173.14:9966/daddy/stream/95.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA 6
+http://103.209.173.14:9966/daddy/stream/96.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA 7
+http://103.209.173.14:9966/daddy/stream/97.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA Premium 1
+http://103.209.173.14:9966/daddy/stream/98.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA Premium 2
+http://103.209.173.14:9966/daddy/stream/99.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MENA Premium 3
+http://103.209.173.14:9966/daddy/stream/100.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MAX 4 France
+http://103.209.173.14:9966/daddy/stream/494.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MAX 5 France
+http://103.209.173.14:9966/daddy/stream/495.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MAX 6 France
+http://103.209.173.14:9966/daddy/stream/496.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MAX 7 France
+http://103.209.173.14:9966/daddy/stream/497.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MAX 8 France
+http://103.209.173.14:9966/daddy/stream/498.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MAX 9 France
+http://103.209.173.14:9966/daddy/stream/499.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN Sports MAX 10 France
+http://103.209.173.14:9966/daddy/stream/500.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS 1 France
+http://103.209.173.14:9966/daddy/stream/116.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS 2 France
+http://103.209.173.14:9966/daddy/stream/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS 3 France
+http://103.209.173.14:9966/daddy/stream/118.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS 1 Turkey
+http://103.209.173.14:9966/daddy/stream/62.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS 2 Turkey
+http://103.209.173.14:9966/daddy/stream/63.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS 3 Turkey
+http://103.209.173.14:9966/daddy/stream/64.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS 4 Turkey
+http://103.209.173.14:9966/daddy/stream/67.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BeIN Sports HD Qatar
+http://103.209.173.14:9966/daddy/stream/578.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BeIN SPORTS USA
+http://103.209.173.14:9966/daddy/stream/425.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS en Espa?ol
+http://103.209.173.14:9966/daddy/stream/372.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS Australia 1
+http://103.209.173.14:9966/daddy/stream/491.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS Australia 2
+http://103.209.173.14:9966/daddy/stream/492.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", beIN SPORTS Australia 3
+http://103.209.173.14:9966/daddy/stream/493.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Barca TV Spain
+http://103.209.173.14:9966/daddy/stream/522.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Benfica TV PT
+http://103.209.173.14:9966/daddy/stream/380.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Boomerang
+http://103.209.173.14:9966/daddy/stream/648.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BNT 1 Bulgaria
+http://103.209.173.14:9966/daddy/stream/476.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BNT 2 Bulgaria
+http://103.209.173.14:9966/daddy/stream/477.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BNT 3 Bulgaria
+http://103.209.173.14:9966/daddy/stream/478.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BR Fernsehen DE
+http://103.209.173.14:9966/daddy/stream/737.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", bTV Bulgaria
+http://103.209.173.14:9966/daddy/stream/479.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", bTV Action Bulgaria
+http://103.209.173.14:9966/daddy/stream/481.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", bTV Lady Bulgaria
+http://103.209.173.14:9966/daddy/stream/484.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BBC America (BBCA)
+http://103.209.173.14:9966/daddy/stream/305.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BET USA
+http://103.209.173.14:9966/daddy/stream/306.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Bravo USA
+http://103.209.173.14:9966/daddy/stream/307.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BBC News Channel HD
+http://103.209.173.14:9966/daddy/stream/349.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BBC One UK
+http://103.209.173.14:9966/daddy/stream/356.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BBC Two UK
+http://103.209.173.14:9966/daddy/stream/357.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BBC Three UK
+http://103.209.173.14:9966/daddy/stream/358.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BBC Four UK
+http://103.209.173.14:9966/daddy/stream/359.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BIG TEN Network (BTN USA)
+http://103.209.173.14:9966/daddy/stream/397.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cuatro Spain
+http://103.209.173.14:9966/daddy/stream/535.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 4 UK
+http://103.209.173.14:9966/daddy/stream/354.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 5 UK
+http://103.209.173.14:9966/daddy/stream/355.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CBS Sports Network (CBSSN)
+http://103.209.173.14:9966/daddy/stream/308.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ France
+http://103.209.173.14:9966/daddy/stream/121.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport France
+http://103.209.173.14:9966/daddy/stream/122.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Foot France
+http://103.209.173.14:9966/daddy/stream/463.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport360
+http://103.209.173.14:9966/daddy/stream/464.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal 11 Portugal
+http://103.209.173.14:9966/daddy/stream/540.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport Poland
+http://103.209.173.14:9966/daddy/stream/48.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport 2 Poland
+http://103.209.173.14:9966/daddy/stream/73.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CANAL+ SPORT 5 Poland
+http://103.209.173.14:9966/daddy/stream/75.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Premium Poland
+http://103.209.173.14:9966/daddy/stream/566.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Family Poland
+http://103.209.173.14:9966/daddy/stream/567.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Seriale Poland
+http://103.209.173.14:9966/daddy/stream/570.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport 1 Afrique
+http://103.209.173.14:9966/daddy/stream/486.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport 2 Afrique
+http://103.209.173.14:9966/daddy/stream/487.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport 3 Afrique
+http://103.209.173.14:9966/daddy/stream/488.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport 4 Afrique
+http://103.209.173.14:9966/daddy/stream/489.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Canal+ Sport 5 Afrique
+http://103.209.173.14:9966/daddy/stream/490.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CANAL9 Denmark
+http://103.209.173.14:9966/daddy/stream/805.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Combate Brasil
+http://103.209.173.14:9966/daddy/stream/89.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", C More Football Sweden
+http://103.209.173.14:9966/daddy/stream/747.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 1 HD
+http://103.209.173.14:9966/daddy/stream/622.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 2 HD
+http://103.209.173.14:9966/daddy/stream/623.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 3 HD
+http://103.209.173.14:9966/daddy/stream/624.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 4 HD
+http://103.209.173.14:9966/daddy/stream/625.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 5 HD
+http://103.209.173.14:9966/daddy/stream/626.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 6 HD
+http://103.209.173.14:9966/daddy/stream/627.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 7 HD
+http://103.209.173.14:9966/daddy/stream/628.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 8 HD
+http://103.209.173.14:9966/daddy/stream/629.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cosmote Sport 9 HD
+http://103.209.173.14:9966/daddy/stream/630.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 9 Israel
+http://103.209.173.14:9966/daddy/stream/546.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 10 Israe
+http://103.209.173.14:9966/daddy/stream/547.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 11 Israel
+http://103.209.173.14:9966/daddy/stream/548.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 12 Israel
+http://103.209.173.14:9966/daddy/stream/549.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 13 Israel
+http://103.209.173.14:9966/daddy/stream/551.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Channel 14 Israel
+http://103.209.173.14:9966/daddy/stream/552.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", C More Stars Sweden
+http://103.209.173.14:9966/daddy/stream/8111.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", C More First Sweden
+http://103.209.173.14:9966/daddy/stream/812.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", C More Hits Sweden
+http://103.209.173.14:9966/daddy/stream/813.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", C More Series Sweden
+http://103.209.173.14:9966/daddy/stream/814.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", COZI TV USA
+http://103.209.173.14:9966/daddy/stream/748.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CMT USA
+http://103.209.173.14:9966/daddy/stream/647.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CBS USA
+http://103.209.173.14:9966/daddy/stream/52.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CW USA
+http://103.209.173.14:9966/daddy/stream/300.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CNBC USA
+http://103.209.173.14:9966/daddy/stream/309.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Comedy Central
+http://103.209.173.14:9966/daddy/stream/310.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cartoon Network
+http://103.209.173.14:9966/daddy/stream/339.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CNN USA
+http://103.209.173.14:9966/daddy/stream/345.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cinemax USA
+http://103.209.173.14:9966/daddy/stream/374.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CTV Canada
+http://103.209.173.14:9966/daddy/stream/602.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CTV 2 Canada
+http://103.209.173.14:9966/daddy/stream/838.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Crime+ Investigation USA
+http://103.209.173.14:9966/daddy/stream/669.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Comet USA
+http://103.209.173.14:9966/daddy/stream/696.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cooking Channel USA
+http://103.209.173.14:9966/daddy/stream/697.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Cleo TV
+http://103.209.173.14:9966/daddy/stream/715.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", C SPAN 1
+http://103.209.173.14:9966/daddy/stream/750.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CBSNY USA
+http://103.209.173.14:9966/daddy/stream/767.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Citytv
+http://103.209.173.14:9966/daddy/stream/831.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CBC CA
+http://103.209.173.14:9966/daddy/stream/832.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN 1 Bar DE
+http://103.209.173.14:9966/daddy/stream/426.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN 2 Bar DE
+http://103.209.173.14:9966/daddy/stream/427.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN 1 Spain
+http://103.209.173.14:9966/daddy/stream/445.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN 2 Spain
+http://103.209.173.14:9966/daddy/stream/446.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN 3 Spain
+http://103.209.173.14:9966/daddy/stream/447.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN 4 Spain
+http://103.209.173.14:9966/daddy/stream/448.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN F1 ES
+http://103.209.173.14:9966/daddy/stream/537.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DAZN LaLiga
+http://103.209.173.14:9966/daddy/stream/538.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DR1 Denmark
+http://103.209.173.14:9966/daddy/stream/801.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DR2 Denmark
+http://103.209.173.14:9966/daddy/stream/802.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Digi Sport 1 Romania
+http://103.209.173.14:9966/daddy/stream/400.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Digi Sport 2 Romania
+http://103.209.173.14:9966/daddy/stream/401.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Digi Sport 3 Romania
+http://103.209.173.14:9966/daddy/stream/402.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Digi Sport 4 Romania
+http://103.209.173.14:9966/daddy/stream/403.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Diema Sport Bulgaria
+http://103.209.173.14:9966/daddy/stream/465.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Diema Sport 2 Bulgaria
+http://103.209.173.14:9966/daddy/stream/466.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Diema Sport 3 Bulgaria
+http://103.209.173.14:9966/daddy/stream/467.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Diema Bulgaria
+http://103.209.173.14:9966/daddy/stream/482.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Diema Family Bulgaria
+http://103.209.173.14:9966/daddy/stream/485.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Dubai Sports 1 UAE
+http://103.209.173.14:9966/daddy/stream/604.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Dubai Sports 2 UAE
+http://103.209.173.14:9966/daddy/stream/605.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Dubai Sports 3 UAE
+http://103.209.173.14:9966/daddy/stream/606.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Dubai Racing 1 UAE
+http://103.209.173.14:9966/daddy/stream/607.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Dubai Racing 2 UAE
+http://103.209.173.14:9966/daddy/stream/608.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DSTV Mzansi Magic
+http://103.209.173.14:9966/daddy/stream/786.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DSTV M-Net
+http://103.209.173.14:9966/daddy/stream/827.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", DSTV kykNET & kie
+http://103.209.173.14:9966/daddy/stream/828.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Discovery Life Channel
+http://103.209.173.14:9966/daddy/stream/311.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Disney Channel
+http://103.209.173.14:9966/daddy/stream/312.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Discovery Channel
+http://103.209.173.14:9966/daddy/stream/313.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Discovery Family
+http://103.209.173.14:9966/daddy/stream/657.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Disney XD
+http://103.209.173.14:9966/daddy/stream/314.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Destination America
+http://103.209.173.14:9966/daddy/stream/651.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Disney JR
+http://103.209.173.14:9966/daddy/stream/652.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Dave
+http://103.209.173.14:9966/daddy/stream/348.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN USA
+http://103.209.173.14:9966/daddy/stream/44.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN2 USA
+http://103.209.173.14:9966/daddy/stream/45.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPNU USA
+http://103.209.173.14:9966/daddy/stream/316.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN 1 NL
+http://103.209.173.14:9966/daddy/stream/379.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN 2 NL
+http://103.209.173.14:9966/daddy/stream/386.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 1 Poland
+http://103.209.173.14:9966/daddy/stream/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 2 Poland
+http://103.209.173.14:9966/daddy/stream/72.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 3 Poland
+http://103.209.173.14:9966/daddy/stream/428.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 1 Portugal
+http://103.209.173.14:9966/daddy/stream/455.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 2 Portugal
+http://103.209.173.14:9966/daddy/stream/456.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 3 Portugal
+http://103.209.173.14:9966/daddy/stream/457.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 4 Portugal
+http://103.209.173.14:9966/daddy/stream/458.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eleven Sports 5 Portugal
+http://103.209.173.14:9966/daddy/stream/459.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 1 UK
+http://103.209.173.14:9966/daddy/stream/41.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 2 UK
+http://103.209.173.14:9966/daddy/stream/42.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 1 Poland
+http://103.209.173.14:9966/daddy/stream/57.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 2 Poland
+http://103.209.173.14:9966/daddy/stream/58.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 1 Spain
+http://103.209.173.14:9966/daddy/stream/524.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 2 Spain
+http://103.209.173.14:9966/daddy/stream/525.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 1 Italy
+http://103.209.173.14:9966/daddy/stream/878.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", EuroSport 2 Italy
+http://103.209.173.14:9966/daddy/stream/879.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eurosport 1 Bulgaria
+http://103.209.173.14:9966/daddy/stream/469.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Eurosport 2 Bulgaria
+http://103.209.173.14:9966/daddy/stream/470.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN Premium Argentina
+http://103.209.173.14:9966/daddy/stream/387.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN Brasil
+http://103.209.173.14:9966/daddy/stream/81.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN2 Brasil
+http://103.209.173.14:9966/daddy/stream/82.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN3 Brasil
+http://103.209.173.14:9966/daddy/stream/83.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN4 Brasil
+http://103.209.173.14:9966/daddy/stream/85.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN SUR
+http://103.209.173.14:9966/daddy/stream/149.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN2 SUR
+http://103.209.173.14:9966/daddy/stream/150.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPN Deportes
+http://103.209.173.14:9966/daddy/stream/375.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ESPNews
+http://103.209.173.14:9966/daddy/stream/288.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", E! Entertainment Television
+http://103.209.173.14:9966/daddy/stream/315.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", E4 Channel
+http://103.209.173.14:9966/daddy/stream/363.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Sports 1 USA
+http://103.209.173.14:9966/daddy/stream/39.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Sports 2 USA
+http://103.209.173.14:9966/daddy/stream/758.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Soccer Plus
+http://103.209.173.14:9966/daddy/stream/756.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Cricket
+http://103.209.173.14:9966/daddy/stream/369.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Deportes USA
+http://103.209.173.14:9966/daddy/stream/643.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Sports 502 AU
+http://103.209.173.14:9966/daddy/stream/820.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Sports 503 AU
+http://103.209.173.14:9966/daddy/stream/821.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Sports 504 AU
+http://103.209.173.14:9966/daddy/stream/822.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Sports 505 AU
+http://103.209.173.14:9966/daddy/stream/823.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Sports 506 AU
+http://103.209.173.14:9966/daddy/stream/824.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX Sports 507 AU
+http://103.209.173.14:9966/daddy/stream/825.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Sports Argentina
+http://103.209.173.14:9966/daddy/stream/767.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Sports 2 Argentina
+http://103.209.173.14:9966/daddy/stream/788.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Sports 3 Argentina
+http://103.209.173.14:9966/daddy/stream/789.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Sports Premium MX
+http://103.209.173.14:9966/daddy/stream/830.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FilmBox Premium Poland
+http://103.209.173.14:9966/daddy/stream/568.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fight Network
+http://103.209.173.14:9966/daddy/stream/757.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Business
+http://103.209.173.14:9966/daddy/stream/297.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX HD Bulgaria
+http://103.209.173.14:9966/daddy/stream/483.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOX USA
+http://103.209.173.14:9966/daddy/stream/54.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FX USA
+http://103.209.173.14:9966/daddy/stream/317.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FXX USA
+http://103.209.173.14:9966/daddy/stream/298.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Freeform
+http://103.209.173.14:9966/daddy/stream/301.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox News
+http://103.209.173.14:9966/daddy/stream/347.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FX Movie Channel
+http://103.209.173.14:9966/daddy/stream/381.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FYI
+http://103.209.173.14:9966/daddy/stream/665.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Film4 UK
+http://103.209.173.14:9966/daddy/stream/688.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fashion TV
+http://103.209.173.14:9966/daddy/stream/744.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FETV - Family Entertainment Television
+http://103.209.173.14:9966/daddy/stream/751.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", FOXNY USA
+http://103.209.173.14:9966/daddy/stream/768.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Fox Weather Channel
+http://103.209.173.14:9966/daddy/stream/775.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", GOL PLAY Spain
+http://103.209.173.14:9966/daddy/stream/530.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", GOLF Channel USA
+http://103.209.173.14:9966/daddy/stream/318.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Game Show Network
+http://103.209.173.14:9966/daddy/stream/319.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Gol Mundial 1
+http://103.209.173.14:9966/daddy/stream/292.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Gold UK
+http://103.209.173.14:9966/daddy/stream/687.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Galavisi?n USA
+http://103.209.173.14:9966/daddy/stream/743.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", CBC CA
+http://103.209.173.14:9966/daddy/stream/699.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Grit Channel
+http://103.209.173.14:9966/daddy/stream/752.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Globo SP
+http://103.209.173.14:9966/daddy/stream/760.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Globo RIO
+http://103.209.173.14:9966/daddy/stream/761.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Global CA
+http://103.209.173.14:9966/daddy/stream/836.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", The Hallmark Channel
+http://103.209.173.14:9966/daddy/stream/320.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Hallmark Movies & Mysterie
+http://103.209.173.14:9966/daddy/stream/296.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO USA
+http://103.209.173.14:9966/daddy/stream/321.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO2 USA
+http://103.209.173.14:9966/daddy/stream/689.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO Comedy USA
+http://103.209.173.14:9966/daddy/stream/690.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO Family USA
+http://103.209.173.14:9966/daddy/stream/691.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO Latino USA
+http://103.209.173.14:9966/daddy/stream/692.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO Signature USA
+http://103.209.173.14:9966/daddy/stream/693.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO Zone USA
+http://103.209.173.14:9966/daddy/stream/694.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HBO Poland
+http://103.209.173.14:9966/daddy/stream/569.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", History USA
+http://103.209.173.14:9966/daddy/stream/312.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Headline News
+http://103.209.173.14:9966/daddy/stream/323.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HGTV
+http://103.209.173.14:9966/daddy/stream/382.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HOT3 Israel
+http://103.209.173.14:9966/daddy/stream/553.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", HR Fernsehen DE
+http://103.209.173.14:9966/daddy/stream/740.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ITV 1 UK
+http://103.209.173.14:9966/daddy/stream/350.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ITV 2 UK
+http://103.209.173.14:9966/daddy/stream/351.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ITV 3 UK
+http://103.209.173.14:9966/daddy/stream/352.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ITV 4 UK
+http://103.209.173.14:9966/daddy/stream/353.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Italia 1 Italy
+http://103.209.173.14:9966/daddy/stream/854.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Investigation Discovery (ID USA)
+http://103.209.173.14:9966/daddy/stream/324.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ION USA
+http://103.209.173.14:9966/daddy/stream/325.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", IFC TV USA
+http://103.209.173.14:9966/daddy/stream/656.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Kanal 4 Denmark
+http://103.209.173.14:9966/daddy/stream/803.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Kanal 5 Denmark
+http://103.209.173.14:9966/daddy/stream/804.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Kabel Eins (Kabel 1) DE
+http://103.209.173.14:9966/daddy/stream/731.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", LaLiga SmartBank TV
+http://103.209.173.14:9966/daddy/stream/539.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", L'Equipe France
+http://103.209.173.14:9966/daddy/stream/645.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", La Sexta Spain
+http://103.209.173.14:9966/daddy/stream/534.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Liverpool TV (LFC TV)
+http://103.209.173.14:9966/daddy/stream/826.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Lifetime Network
+http://103.209.173.14:9966/daddy/stream/326.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Lifetime Movies Network
+http://103.209.173.14:9966/daddy/stream/389.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Longhorn Network USA
+http://103.209.173.14:9966/daddy/stream/667.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", La7 Italy
+http://103.209.173.14:9966/daddy/stream/855.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", LA7d HD+ Italy
+http://103.209.173.14:9966/daddy/stream/856.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Match Football 1 Russia
+http://103.209.173.14:9966/daddy/stream/136.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Match Football 2 Russia
+http://103.209.173.14:9966/daddy/stream/137.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Match Football 3 Russia
+http://103.209.173.14:9966/daddy/stream/138.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Match Premier Russia
+http://103.209.173.14:9966/daddy/stream/573.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Match TV Russia
+http://103.209.173.14:9966/daddy/stream/127.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ????! ???? Russia
+http://103.209.173.14:9966/daddy/stream/395.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Movistar Laliga
+http://103.209.173.14:9966/daddy/stream/84.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Movistar Liga de Campeones
+http://103.209.173.14:9966/daddy/stream/435.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Movistar Deportes Spain
+http://103.209.173.14:9966/daddy/stream/436.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Movistar Deportes 2 Spain
+http://103.209.173.14:9966/daddy/stream/438.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Movistar Deportes 3 Spain
+http://103.209.173.14:9966/daddy/stream/526.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Movistar Deportes 4 Spain
+http://103.209.173.14:9966/daddy/stream/527.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Movistar Golf Spain
+http://103.209.173.14:9966/daddy/stream/528.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Motowizja Poland
+http://103.209.173.14:9966/daddy/stream/563.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MSG USA
+http://103.209.173.14:9966/daddy/stream/765.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MSNBC
+http://103.209.173.14:9966/daddy/stream/327.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Magnolia Network
+http://103.209.173.14:9966/daddy/stream/299.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MTV UK
+http://103.209.173.14:9966/daddy/stream/367.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MTV USA
+http://103.209.173.14:9966/daddy/stream/371.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MUTV UK
+http://103.209.173.14:9966/daddy/stream/377.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MAVTV USA
+http://103.209.173.14:9966/daddy/stream/646.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Max Sport 1 Croatia
+http://103.209.173.14:9966/daddy/stream/779.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Max Sport 2 Croatia
+http://103.209.173.14:9966/daddy/stream/780.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Marquee Sports Network
+http://103.209.173.14:9966/daddy/stream/770.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Max Sport 1 Bulgaria
+http://103.209.173.14:9966/daddy/stream/472.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Max Sport 2 Bulgaria
+http://103.209.173.14:9966/daddy/stream/473.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Max Sport 3 Bulgaria
+http://103.209.173.14:9966/daddy/stream/474.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Max Sport 4 Bulgaria
+http://103.209.173.14:9966/daddy/stream/475.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MLB Network USA
+http://103.209.173.14:9966/daddy/stream/399.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MASN USA
+http://103.209.173.14:9966/daddy/stream/829.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MY9TV USA
+http://103.209.173.14:9966/daddy/stream/654.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Motor Trend
+http://103.209.173.14:9966/daddy/stream/661.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", METV USA
+http://103.209.173.14:9966/daddy/stream/662.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MDR DE
+http://103.209.173.14:9966/daddy/stream/733.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Mundotoro TV Spain
+http://103.209.173.14:9966/daddy/stream/749.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", MTV Denmark
+http://103.209.173.14:9966/daddy/stream/806.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NHL Network USA
+http://103.209.173.14:9966/daddy/stream/663.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sport Bulgaria
+http://103.209.173.14:9966/daddy/stream/468.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sport Serbia
+http://103.209.173.14:9966/daddy/stream/582.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports 1 Greece
+http://103.209.173.14:9966/daddy/stream/631.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports 2 Greece
+http://103.209.173.14:9966/daddy/stream/632.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports 3 Greece
+http://103.209.173.14:9966/daddy/stream/633.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports 4 Greece
+http://103.209.173.14:9966/daddy/stream/634.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports 5 Greece
+http://103.209.173.14:9966/daddy/stream/635.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports 6 Greece
+http://103.209.173.14:9966/daddy/stream/636.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports Premier League Greece
+http://103.209.173.14:9966/daddy/stream/599.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports Start Greece
+http://103.209.173.14:9966/daddy/stream/637.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports Prime Greece
+http://103.209.173.14:9966/daddy/stream/638.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova Sports News Greece
+http://103.209.173.14:9966/daddy/stream/639.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NESN USA
+http://103.209.173.14:9966/daddy/stream/762.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBC USA
+http://103.209.173.14:9966/daddy/stream/53.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBA TV USA
+http://103.209.173.14:9966/daddy/stream/404.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBC Sports Chicago
+http://103.209.173.14:9966/daddy/stream/776.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBC Sports Philadelphia
+http://103.209.173.14:9966/daddy/stream/777.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBC Sports Washington
+http://103.209.173.14:9966/daddy/stream/778.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NFL Network
+http://103.209.173.14:9966/daddy/stream/405.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBC Sports Bay Area
+http://103.209.173.14:9966/daddy/stream/753.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBC Sports Boston
+http://103.209.173.14:9966/daddy/stream/754.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBC Sports California
+http://103.209.173.14:9966/daddy/stream/755.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NBCNY USA
+http://103.209.173.14:9966/daddy/stream/769.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nova TV Bulgaria
+http://103.209.173.14:9966/daddy/stream/480.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", National Geographic (NGC)
+http://103.209.173.14:9966/daddy/stream/328.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NICK JR
+http://103.209.173.14:9966/daddy/stream/329.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NICK
+http://103.209.173.14:9966/daddy/stream/330.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nick Music
+http://103.209.173.14:9966/daddy/stream/666.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nicktoons
+http://103.209.173.14:9966/daddy/stream/649.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NDR DE
+http://103.209.173.14:9966/daddy/stream/736.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", NewsNation USA
+http://103.209.173.14:9966/daddy/stream/292.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Newsmax USA
+http://103.209.173.14:9966/daddy/stream/613.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Nat Geo Wild USA
+http://103.209.173.14:9966/daddy/stream/745.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Noovo CA
+http://103.209.173.14:9966/daddy/stream/835.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", New! CWPIX 11
+http://103.209.173.14:9966/daddy/stream/771.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", OnTime Sports
+http://103.209.173.14:9966/daddy/stream/611.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", OnTime Sports 2
+http://103.209.173.14:9966/daddy/stream/612.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ONE 1 HD Israel
+http://103.209.173.14:9966/daddy/stream/541.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ONE 2 HD Israel
+http://103.209.173.14:9966/daddy/stream/542.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Orange Sport 1 Romania
+http://103.209.173.14:9966/daddy/stream/439.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Orange Sport 2 Romania
+http://103.209.173.14:9966/daddy/stream/440.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Orange Sport 3 Romania
+http://103.209.173.14:9966/daddy/stream/441.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Orange Sport 4 Romania
+http://103.209.173.14:9966/daddy/stream/442.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Oprah Winfrey Network (OWN)
+http://103.209.173.14:9966/daddy/stream/331.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Oxygen True Crime
+http://103.209.173.14:9966/daddy/stream/332.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Polsat Poland
+http://103.209.173.14:9966/daddy/stream/562.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Polsat Sport Poland
+http://103.209.173.14:9966/daddy/stream/47.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Polsat Sport Extra Poland
+http://103.209.173.14:9966/daddy/stream/50.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Polsat Sport News Poland
+http://103.209.173.14:9966/daddy/stream/129.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Polsat News Poland
+http://103.209.173.14:9966/daddy/stream/443.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Polsat Film Poland
+http://103.209.173.14:9966/daddy/stream/564.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Porto Canal Portugal
+http://103.209.173.14:9966/daddy/stream/718.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ProSieben (PRO7) DE
+http://103.209.173.14:9966/daddy/stream/730.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", PTV Sports
+http://103.209.173.14:9966/daddy/stream/450.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Premier Brasil
+http://103.209.173.14:9966/daddy/stream/88.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Prima Sport 1
+http://103.209.173.14:9966/daddy/stream/583.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Prima Sport 2
+http://103.209.173.14:9966/daddy/stream/584.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Prima Sport 3
+http://103.209.173.14:9966/daddy/stream/585.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Prima Sport 4
+http://103.209.173.14:9966/daddy/stream/586.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Paramount Network
+http://103.209.173.14:9966/daddy/stream/334.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", POP TV USA
+http://103.209.173.14:9966/daddy/stream/653.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RTE 1
+http://103.209.173.14:9966/daddy/stream/364.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RTE 2
+http://103.209.173.14:9966/daddy/stream/365.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RMC Sport 1 France
+http://103.209.173.14:9966/daddy/stream/119.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RMC Sport 2 France
+http://103.209.173.14:9966/daddy/stream/120.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RTP 1 Portugal
+http://103.209.173.14:9966/daddy/stream/719.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RTP 2 Portugal
+http://103.209.173.14:9966/daddy/stream/720.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RTP 3 Portugal
+http://103.209.173.14:9966/daddy/stream/721.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Rai 1 Italy
+http://103.209.173.14:9966/daddy/stream/850.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Rai 2 Italy
+http://103.209.173.14:9966/daddy/stream/851.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Rai 3 Italy
+http://103.209.173.14:9966/daddy/stream/852.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Rai 3 Italy
+http://103.209.173.14:9966/daddy/stream/853.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Rai Sport Italy
+http://103.209.173.14:9966/daddy/stream/882.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Rai Premium Italy
+http://103.209.173.14:9966/daddy/stream/858.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Real Madrid TV Spain
+http://103.209.173.14:9966/daddy/stream/523.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RDS CA
+http://103.209.173.14:9966/daddy/stream/839.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RDS 2 CA
+http://103.209.173.14:9966/daddy/stream/840.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RDS Info CA
+http://103.209.173.14:9966/daddy/stream/841.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Ring Bulgaria
+http://103.209.173.14:9966/daddy/stream/471.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", RTL7 Netherland
+http://103.209.173.14:9966/daddy/stream/390.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Racing Tv UK
+http://103.209.173.14:9966/daddy/stream/554.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Reelz Channel
+http://103.209.173.14:9966/daddy/stream/293.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Football UK
+http://103.209.173.14:9966/daddy/stream/35.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Arena UK
+http://103.209.173.14:9966/daddy/stream/36.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Action UK
+http://103.209.173.14:9966/daddy/stream/37.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Main Event
+http://103.209.173.14:9966/daddy/stream/38.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky sports Premier League
+http://103.209.173.14:9966/daddy/stream/130.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports F1 UK
+http://103.209.173.14:9966/daddy/stream/60.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Cricket
+http://103.209.173.14:9966/daddy/stream/65.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Golf UK
+http://103.209.173.14:9966/daddy/stream/70.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Golf Italy
+http://103.209.173.14:9966/daddy/stream/574.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport MotoGP Italy
+http://103.209.173.14:9966/daddy/stream/575.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Tennis Italy
+http://103.209.173.14:9966/daddy/stream/576.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport F1 Italy
+http://103.209.173.14:9966/daddy/stream/577.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports News UK
+http://103.209.173.14:9966/daddy/stream/366.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports MIX UK
+http://103.209.173.14:9966/daddy/stream/449.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Top Event DE
+http://103.209.173.14:9966/daddy/stream/556.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Mix DE
+http://103.209.173.14:9966/daddy/stream/557.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Bundesliga 1 HD
+http://103.209.173.14:9966/daddy/stream/558.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Austria 1 HD
+http://103.209.173.14:9966/daddy/stream/559.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SportsNet New York (SNY)
+http://103.209.173.14:9966/daddy/stream/759.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Football Italy
+http://103.209.173.14:9966/daddy/stream/460.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport UNO Italy
+http://103.209.173.14:9966/daddy/stream/461.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Arena Italy
+http://103.209.173.14:9966/daddy/stream/462.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sports Racing UK
+http://103.209.173.14:9966/daddy/stream/554.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky UNO Italy
+http://103.209.173.14:9966/daddy/stream/881.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 1 NZ
+http://103.209.173.14:9966/daddy/stream/588.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 2 NZ
+http://103.209.173.14:9966/daddy/stream/589.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 3 NZ
+http://103.209.173.14:9966/daddy/stream/590.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 4 NZ
+http://103.209.173.14:9966/daddy/stream/591.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 5 NZ
+http://103.209.173.14:9966/daddy/stream/592.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 6 NZ
+http://103.209.173.14:9966/daddy/stream/593.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 7 NZ
+http://103.209.173.14:9966/daddy/stream/594.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 8 NZ
+http://103.209.173.14:9966/daddy/stream/595.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 9 NZ
+http://103.209.173.14:9966/daddy/stream/596.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Select NZ
+http://103.209.173.14:9966/daddy/stream/587.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport TV1 Portugal
+http://103.209.173.14:9966/daddy/stream/49.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport TV2 Portugal
+http://103.209.173.14:9966/daddy/stream/74.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport TV4 Portugal
+http://103.209.173.14:9966/daddy/stream/289.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport TV3 Portugal
+http://103.209.173.14:9966/daddy/stream/454.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport TV5 Portugal
+http://103.209.173.14:9966/daddy/stream/290.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport TV6 Portugal
+http://103.209.173.14:9966/daddy/stream/291.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SIC Portugal
+http://103.209.173.14:9966/daddy/stream/722.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SEC Network USA
+http://103.209.173.14:9966/daddy/stream/385.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SporTV Brasil
+http://103.209.173.14:9966/daddy/stream/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SporTV2 Brasil
+http://103.209.173.14:9966/daddy/stream/79.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SporTV3 Brasil
+http://103.209.173.14:9966/daddy/stream/80.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport Klub 1 Serbia
+http://103.209.173.14:9966/daddy/stream/101.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport Klub 2 Serbia
+http://103.209.173.14:9966/daddy/stream/102.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport Klub 3 Serbia
+http://103.209.173.14:9966/daddy/stream/103.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport Klub 4 Serbia
+http://103.209.173.14:9966/daddy/stream/104.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport Klub HD Serbia
+http://103.209.173.14:9966/daddy/stream/453.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sportsnet Ontario
+http://103.209.173.14:9966/daddy/stream/406.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sportsnet One
+http://103.209.173.14:9966/daddy/stream/411.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sportsnet West
+http://103.209.173.14:9966/daddy/stream/407.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sportsnet East
+http://103.209.173.14:9966/daddy/stream/408.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sportsnet 360
+http://103.209.173.14:9966/daddy/stream/409.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sportsnet World
+http://103.209.173.14:9966/daddy/stream/410.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Grandstand
+http://103.209.173.14:9966/daddy/stream/412.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport PSL
+http://103.209.173.14:9966/daddy/stream/413.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Premier league
+http://103.209.173.14:9966/daddy/stream/414.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport LaLiga
+http://103.209.173.14:9966/daddy/stream/415.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Variety 1
+http://103.209.173.14:9966/daddy/stream/416.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Variety 2
+http://103.209.173.14:9966/daddy/stream/417.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Variety 3
+http://103.209.173.14:9966/daddy/stream/418.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Variety 4
+http://103.209.173.14:9966/daddy/stream/419.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Action
+http://103.209.173.14:9966/daddy/stream/420.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Rugby
+http://103.209.173.14:9966/daddy/stream/421.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Golf
+http://103.209.173.14:9966/daddy/stream/422.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Tennis
+http://103.209.173.14:9966/daddy/stream/423.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Motorsport
+http://103.209.173.14:9966/daddy/stream/424.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Supersport Football
+http://103.209.173.14:9966/daddy/stream/56.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport Cricket
+http://103.209.173.14:9966/daddy/stream/368.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SuperSport MaXimo 1
+http://103.209.173.14:9966/daddy/stream/572.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sporting TV Portugal
+http://103.209.173.14:9966/daddy/stream/716.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SportDigital Fussball
+http://103.209.173.14:9966/daddy/stream/571.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Spectrum Sportsnet LA
+http://103.209.173.14:9966/daddy/stream/764.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport1+ Germany
+http://103.209.173.14:9966/daddy/stream/640.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport1 Germany
+http://103.209.173.14:9966/daddy/stream/641.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", S4C UK
+http://103.209.173.14:9966/daddy/stream/670.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SAT.1 DE
+http://103.209.173.14:9966/daddy/stream/729.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Premiere UK
+http://103.209.173.14:9966/daddy/stream/671.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Select UK
+http://103.209.173.14:9966/daddy/stream/672.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Hits UK
+http://103.209.173.14:9966/daddy/stream/673.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Greats UK
+http://103.209.173.14:9966/daddy/stream/674.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Animation UK
+http://103.209.173.14:9966/daddy/stream/675.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Family UK
+http://103.209.173.14:9966/daddy/stream/676.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Action UK
+http://103.209.173.14:9966/daddy/stream/677.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", The Hallmark
+http://103.209.173.14:9966/daddy/stream/678.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Thriller UK
+http://103.209.173.14:9966/daddy/stream/679.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", The Hallmark
+http://103.209.173.14:9966/daddy/stream/680.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Sci-Fi Horror UK
+http://103.209.173.14:9966/daddy/stream/681.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Collection Italy
+http://103.209.173.14:9966/daddy/stream/859.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Uno Italy
+http://103.209.173.14:9966/daddy/stream/860.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Action Italy
+http://103.209.173.14:9966/daddy/stream/861.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", 8Sky Cinema Comedy Italy
+http://103.209.173.14:9966/daddy/stream/862.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Uno +24 Italy
+http://103.209.173.14:9966/daddy/stream/863.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Romance Italy
+http://103.209.173.14:9966/daddy/stream/864.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Family Italy
+http://103.209.173.14:9966/daddy/stream/865.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Due +24 Italy
+http://103.209.173.14:9966/daddy/stream/866.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Cinema Drama Italy
+http://103.209.173.14:9966/daddy/stream/867.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", 8Sky Cinema Suspense Italy
+http://103.209.173.14:9966/daddy/stream/868.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport 24 Italy
+http://103.209.173.14:9966/daddy/stream/869.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Sport Calcio Italy
+http://103.209.173.14:9966/daddy/stream/870.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Calcio 1 (251) Italy
+http://103.209.173.14:9966/daddy/stream/871.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Calcio 2 (252) Italy
+http://103.209.173.14:9966/daddy/stream/872.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Calcio 3 (253) Italy
+http://103.209.173.14:9966/daddy/stream/873.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Calcio 4 (254) Italy
+http://103.209.173.14:9966/daddy/stream/874.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Calcio 5 (255) Italy
+http://103.209.173.14:9966/daddy/stream/875.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Calcio 6 (256) Italy
+http://103.209.173.14:9966/daddy/stream/876.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Calcio 7 (257) Italy
+http://103.209.173.14:9966/daddy/stream/877.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Serie Italy
+http://103.209.173.14:9966/daddy/stream/880.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", StarzPlay CricLife 1 HD
+http://103.209.173.14:9966/daddy/stream/284.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", StarzPlay CricLife 2 HD
+http://103.209.173.14:9966/daddy/stream/283.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", StarzPlay CricLife 3 HD
+http://103.209.173.14:9966/daddy/stream/282.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Showcase UK
+http://103.209.173.14:9966/daddy/stream/682.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Arts UK
+http://103.209.173.14:9966/daddy/stream/683.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Comedy UK
+http://103.209.173.14:9966/daddy/stream/684.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Crime
+http://103.209.173.14:9966/daddy/stream/685.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky History
+http://103.209.173.14:9966/daddy/stream/686.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport 1
+http://103.209.173.14:9966/daddy/stream/614.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport 2
+http://103.209.173.14:9966/daddy/stream/615.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport 3
+http://103.209.173.14:9966/daddy/stream/616.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport 4
+http://103.209.173.14:9966/daddy/stream/617.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport 5
+http://103.209.173.14:9966/daddy/stream/618.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport Extra 1
+http://103.209.173.14:9966/daddy/stream/619.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport Extra 2
+http://103.209.173.14:9966/daddy/stream/620.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SSC Sport Extra 3
+http://103.209.173.14:9966/daddy/stream/621.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 1 Israel
+http://103.209.173.14:9966/daddy/stream/140.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 2 Israel
+http://103.209.173.14:9966/daddy/stream/141.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 3 Israel
+http://103.209.173.14:9966/daddy/stream/142.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 4 Israel
+http://103.209.173.14:9966/daddy/stream/143.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 5 Israel
+http://103.209.173.14:9966/daddy/stream/144.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 5 PLUS Israel
+http://103.209.173.14:9966/daddy/stream/145.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 5 Live Israel
+http://103.209.173.14:9966/daddy/stream/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 5 Star Israel
+http://103.209.173.14:9966/daddy/stream/147.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sport 5 Gold Israel
+http://103.209.173.14:9966/daddy/stream/148.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Science Channel
+http://103.209.173.14:9966/daddy/stream/294.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Showtime USA
+http://103.209.173.14:9966/daddy/stream/333.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Showtime SHOxBET USA
+http://103.209.173.14:9966/daddy/stream/685.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Starz
+http://103.209.173.14:9966/daddy/stream/335.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Witness HD
+http://103.209.173.14:9966/daddy/stream/361.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sixx DE
+http://103.209.173.14:9966/daddy/stream/732.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sky Atlantic
+http://103.209.173.14:9966/daddy/stream/362.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SYFY USA
+http://103.209.173.14:9966/daddy/stream/373.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Sundance TV
+http://103.209.173.14:9966/daddy/stream/658.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SWR DE
+http://103.209.173.14:9966/daddy/stream/735.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SUPER RTL DE
+http://103.209.173.14:9966/daddy/stream/738.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", SR Fernsehen DE
+http://103.209.173.14:9966/daddy/stream/739.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Smithsonian Channel
+http://103.209.173.14:9966/daddy/stream/601.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TSN1
+http://103.209.173.14:9966/daddy/stream/111.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TSN2
+http://103.209.173.14:9966/daddy/stream/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TSN3
+http://103.209.173.14:9966/daddy/stream/113.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TSN4
+http://103.209.173.14:9966/daddy/stream/114.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TSN5
+http://103.209.173.14:9966/daddy/stream/115.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVN HD Poland
+http://103.209.173.14:9966/daddy/stream/565.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVN24 Poland
+http://103.209.173.14:9966/daddy/stream/444.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVP1 Poland
+http://103.209.173.14:9966/daddy/stream/560.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVP2 Poland
+http://103.209.173.14:9966/daddy/stream/561.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Telecinco Spain
+http://103.209.173.14:9966/daddy/stream/532.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVE La 1 Spain
+http://103.209.173.14:9966/daddy/stream/533.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVE La 2 Spain
+http://103.209.173.14:9966/daddy/stream/536.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVI Portugal
+http://103.209.173.14:9966/daddy/stream/723.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVI Reality Portugal
+http://103.209.173.14:9966/daddy/stream/724.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Teledeporte Spain (TDP)
+http://103.209.173.14:9966/daddy/stream/529.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TYC Sports Argentina
+http://103.209.173.14:9966/daddy/stream/746.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVP Sport Poland
+http://103.209.173.14:9966/daddy/stream/128.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TNT Brasil
+http://103.209.173.14:9966/daddy/stream/87.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TNT Sports Argentina
+http://103.209.173.14:9966/daddy/stream/388.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TNT Sports HD Chile
+http://103.209.173.14:9966/daddy/stream/642.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis Channel
+http://103.209.173.14:9966/daddy/stream/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Ten Sports PK
+http://103.209.173.14:9966/daddy/stream/741.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TUDN USA
+http://103.209.173.14:9966/daddy/stream/66.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Telemundo
+http://103.209.173.14:9966/daddy/stream/131.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TBS USA
+http://103.209.173.14:9966/daddy/stream/336.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TLC
+http://103.209.173.14:9966/daddy/stream/337.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TNT USA
+http://103.209.173.14:9966/daddy/stream/338.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVA Sports
+http://103.209.173.14:9966/daddy/stream/833.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVA Sports 2
+http://103.209.173.14:9966/daddy/stream/834.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Travel Channel
+http://103.209.173.14:9966/daddy/stream/340.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TruTV USA
+http://103.209.173.14:9966/daddy/stream/341.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVLAND
+http://103.209.173.14:9966/daddy/stream/342.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TCM USA
+http://103.209.173.14:9966/daddy/stream/644.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TMC Channel USA
+http://103.209.173.14:9966/daddy/stream/698.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", The Food Network
+http://103.209.173.14:9966/daddy/stream/384.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", The Weather Channel
+http://103.209.173.14:9966/daddy/stream/394.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVP INFO
+http://103.209.173.14:9966/daddy/stream/452.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TeenNick
+http://103.209.173.14:9966/daddy/stream/650.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV ONE USA
+http://103.209.173.14:9966/daddy/stream/660.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV2 Bornholm Denmark
+http://103.209.173.14:9966/daddy/stream/807.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV2 Sport X Denmark
+http://103.209.173.14:9966/daddy/stream/808.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV3 Sport Denmark
+http://103.209.173.14:9966/daddy/stream/809.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV2 Sport Denmark
+http://103.209.173.14:9966/daddy/stream/810.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV2 Denmark
+http://103.209.173.14:9966/daddy/stream/817.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV2 Zulu
+http://103.209.173.14:9966/daddy/stream/818.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TV3+ Denmark
+http://103.209.173.14:9966/daddy/stream/819.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", TVO CA
+http://103.209.173.14:9966/daddy/stream/842.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 1
+http://103.209.173.14:9966/daddy/stream/700.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 2
+http://103.209.173.14:9966/daddy/stream/701.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 3
+http://103.209.173.14:9966/daddy/stream/702.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 4
+http://103.209.173.14:9966/daddy/stream/703.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 5
+http://103.209.173.14:9966/daddy/stream/704.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 6
+http://103.209.173.14:9966/daddy/stream/705.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 7
+http://103.209.173.14:9966/daddy/stream/706.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 8
+http://103.209.173.14:9966/daddy/stream/707.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 9
+http://103.209.173.14:9966/daddy/stream/708.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 10
+http://103.209.173.14:9966/daddy/stream/709.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 11
+http://103.209.173.14:9966/daddy/stream/710.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 12
+http://103.209.173.14:9966/daddy/stream/711.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 13
+http://103.209.173.14:9966/daddy/stream/712.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 14
+http://103.209.173.14:9966/daddy/stream/713.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Tennis+ 15
+http://103.209.173.14:9966/daddy/stream/714.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", USA Network
+http://103.209.173.14:9966/daddy/stream/343.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Universal Kids USA
+http://103.209.173.14:9966/daddy/stream/668.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Univision
+http://103.209.173.14:9966/daddy/stream/132.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Unimas
+http://103.209.173.14:9966/daddy/stream/133.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Viaplay Sports 1 UK
+http://103.209.173.14:9966/daddy/stream/451.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Viaplay Sports 2 UK
+http://103.209.173.14:9966/daddy/stream/550.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Viaplay Xtra UK
+http://103.209.173.14:9966/daddy/stream/597.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", #Vamos Spain
+http://103.209.173.14:9966/daddy/stream/521.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", V Film Premiere
+http://103.209.173.14:9966/daddy/stream/815.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", V Film Family
+http://103.209.173.14:9966/daddy/stream/816.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", VH1 USA
+http://103.209.173.14:9966/daddy/stream/344.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Veronica NL Netherland
+http://103.209.173.14:9966/daddy/stream/378.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", VTV+ Uruguay
+http://103.209.173.14:9966/daddy/stream/391.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", VICE TV
+http://103.209.173.14:9966/daddy/stream/659.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Willow Cricket
+http://103.209.173.14:9966/daddy/stream/346.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Willow XTRA
+http://103.209.173.14:9966/daddy/stream/598.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", WWE Network
+http://103.209.173.14:9966/daddy/stream/376.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Win Sports+ Columbia
+http://103.209.173.14:9966/daddy/stream/392.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", WETV USA
+http://103.209.173.14:9966/daddy/stream/655.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", WDR DE
+http://103.209.173.14:9966/daddy/stream/734.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", YES Network USA
+http://103.209.173.14:9966/daddy/stream/763.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Yes Movies Action Israel
+http://103.209.173.14:9966/daddy/stream/543.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Yes Movies Kids Israel
+http://103.209.173.14:9966/daddy/stream/544.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Yes Movies Comedy Israel
+http://103.209.173.14:9966/daddy/stream/545.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Yas TV UAE
+http://103.209.173.14:9966/daddy/stream/609.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Yes TV CA
+http://103.209.173.14:9966/daddy/stream/837.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Ziggo Sport Docu NL
+http://103.209.173.14:9966/daddy/stream/383.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Ziggo Sport Select NL
+http://103.209.173.14:9966/daddy/stream/393.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Ziggo Sport Racing NL
+http://103.209.173.14:9966/daddy/stream/396.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", Ziggo Sport Voetbal NL
+http://103.209.173.14:9966/daddy/stream/398.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", BBC 1 DE
+http://103.209.173.14:9966/daddy/stream/727.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", ZDF Info DE
+http://103.209.173.14:9966/daddy/stream/728.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", 20 Mediaset Italy
+http://103.209.173.14:9966/daddy/stream/857.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", 6'eren Denmark
+http://103.209.173.14:9966/daddy/stream/800.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", #0 Spain
+http://103.209.173.14:9966/daddy/stream/437.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", 5 USA
+http://103.209.173.14:9966/daddy/stream/360.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Daddy", 3sat DE
+http://103.209.173.14:9966/daddy/stream/726.m3u8
+
+
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="private-server1.m3u" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="private-server1.m3u", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/live.jpg" group-title="Sports - SERVER1", 1Live
+http://103.209.173.14:9966/private-server1/stream/1LIVE.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/geosuper.jpg" group-title="Sports - SERVER1", Geo Super
+http://103.209.173.14:9966/private-server1/stream/GEO-SUPER.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/foxsports1.jpg" group-title="Sports - SERVER1", Fox Sports Cricket
+http://103.209.173.14:9966/private-server1/stream/FOX-SPORTS-CRICKET.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/skycricket.jpg" group-title="Sports - SERVER1", Sky Sports Cricket
+http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-CRICKET.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/skymainevent.jpg" group-title="Sports - SERVER1", Sky Sports Main Event
+http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-MAIN-EVENT.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/skyfootball.jpg" group-title="Sports - SERVER1", Sky Sports Football Hd
+http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-FOOTBALL-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/skyfootball.jpg" group-title="Sports - SERVER1", Sky Sports Arena
+http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-ARENA.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/skypremierleague.jpg" group-title="Sports - SERVER1", Sky Sports Premier Leage
+http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-PREMIER-LEAGE.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/Willow-Xtra.jpg" group-title="Sports - SERVER1", Willow Extra
+http://103.209.173.14:9966/private-server1/stream/willow-extra.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/willowhd.jpg" group-title="Sports - SERVER1", Willow Cricket
+http://103.209.173.14:9966/private-server1/stream/willow-cricket.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/super-cricker-live.jpg" group-title="Sports - SERVER1", Super Cricket
+http://103.209.173.14:9966/private-server1/stream/super-cricket.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ARENA-SPORTS-1-HD.jpg" group-title="Sports - SERVER1", Arena Sports 4 Hd
+http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-4-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ARENA-SPORTS-1-HD.jpg" group-title="Sports - SERVER1", Arena Sports 1 Hd
+http://103.209.173.14:9966/private-server1/stream/ARENA-SPORTS-1-HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/tensports.jpg" group-title="Sports - SERVER1", Ten Ckicket Pk
+http://103.209.173.14:9966/private-server1/stream/ten-ckicket-pk.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein1.jpg" group-title="Sports - SERVER1", Bein 1
+http://103.209.173.14:9966/private-server1/stream/bein-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein2.jpg" group-title="Sports - SERVER1", Bein 2
+http://103.209.173.14:9966/private-server1/stream/bein-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein3.jpg" group-title="Sports - SERVER1", Bein 3
+http://103.209.173.14:9966/private-server1/stream/bein-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/bein4.jpg" group-title="Sports - SERVER1", Bein 4
+http://103.209.173.14:9966/private-server1/stream/bein-4.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/beinpremium2.jpg" group-title="Sports - SERVER1", Bein Premium 2
+http://103.209.173.14:9966/private-server1/stream/bein-premium-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/eurosports.png" group-title="Sports - SERVER1", Euro 1
+http://103.209.173.14:9966/private-server1/stream/euro-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/eurosports2.jpg" group-title="Sports - SERVER1", Euro 2
+http://103.209.173.14:9966/private-server1/stream/euro-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sonysixhd.jpg" group-title="Sports - SERVER1", Sony Six Hd
+http://103.209.173.14:9966/private-server1/stream/sony-six-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten1hd.jpg" group-title="Sports - SERVER1", Ten1 Hd
+http://103.209.173.14:9966/private-server1/stream/ten1-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten2hd.jpg" group-title="Sports - SERVER1", Sony Ten2
+http://103.209.173.14:9966/private-server1/stream/sony-ten2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ten3hd.jpg" group-title="Sports - SERVER1", Ten3
+http://103.209.173.14:9966/private-server1/stream/ten3.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starselect1.jpg" group-title="Sports - SERVER1", Star Sport Select1Hd
+http://103.209.173.14:9966/private-server1/stream/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starselect2.jpg" group-title="Sports - SERVER1", Select2
+http://103.209.173.14:9966/private-server1/stream/select2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starsports2.jpg" group-title="Sports - SERVER1", Star Sports 2
+http://103.209.173.14:9966/private-server1/stream/STAR-SPORTS-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starsports1.jpg" group-title="Sports - SERVER1", Star Sports 1
+http://103.209.173.14:9966/private-server1/stream/STAR-SPORTS-1.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starsports3.jpg" group-title="Sports - SERVER1", Star Sports 3
+http://103.209.173.14:9966/private-server1/stream/STAR-SPORTS-3.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ptvsports.jpg" group-title="Sports - SERVER1", Ptv
+http://103.209.173.14:9966/private-server1/stream/PTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sports.jpg" group-title="Sports - SERVER1", Tv13
+http://103.209.173.14:9966/private-server1/stream/tv13.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sports.jpg" group-title="Sports - SERVER1", Tv14
+http://103.209.173.14:9966/private-server1/stream/tv14.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/adsports1.jpg" group-title="Sports - SERVER1", Adsports1
+http://103.209.173.14:9966/private-server1/stream/Adsports1.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/adsports2.jpg" group-title="Sports - SERVER1", Adsports2
+http://103.209.173.14:9966/private-server1/stream/Adsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/banglatalkies.jpg" group-title="Music - SERVER1", Bangla Talkies
+http://103.209.173.14:9966/private-server1/stream/BANGLA-TALKIES.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sangeetbangla.jpg" group-title="Music - SERVER1", Sangeet Bangla
+http://103.209.173.14:9966/private-server1/stream/sangeet-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/atnmusic.jpg" group-title="Music - SERVER1", Atn Music
+http://103.209.173.14:9966/private-server1/stream/ATN-MUSIC.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/b4umusic.jpg" group-title="Music - SERVER1", B4U
+http://103.209.173.14:9966/private-server1/stream/b4u.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/bindass.jpg" group-title="Music - SERVER1", Bindass
+http://103.209.173.14:9966/private-server1/stream/bindass.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starbharat.jpg" group-title="Hindi - SERVER1", Star Varot
+http://103.209.173.14:9966/private-server1/stream/star-varot.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/stargold.jpg" group-title="Hindi - SERVER1", Star Gold
+http://103.209.173.14:9966/private-server1/stream/star-gold.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/Dhinchaak.jpg" group-title="Hindi - SERVER1", Dhinchaak
+http://103.209.173.14:9966/private-server1/stream/Dhinchaak.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sonymax2.png" group-title="Hindi - SERVER1", Sony Max2
+http://103.209.173.14:9966/private-server1/stream/sony-max2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/colorscineplex.jpg" group-title="Hindi - SERVER1", Colorscineplex
+http://103.209.173.14:9966/private-server1/stream/colorscineplex.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starplushd.jpg" group-title="Hindi - SERVER1", Star Plus
+http://103.209.173.14:9966/private-server1/stream/star-plus.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/zeecinemahd.jpg" group-title="Hindi - SERVER1", Zeecinemahd
+http://103.209.173.14:9966/private-server1/stream/ZeeCinemaHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/colorshd.jpg" group-title="Hindi - SERVER1", Colorsindia
+http://103.209.173.14:9966/private-server1/stream/colorsindia.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/zeetvhd.jpg" group-title="Hindi - SERVER1", Zee Tv Hd
+http://103.209.173.14:9966/private-server1/stream/zee-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starworld.jpg" group-title="Hindi - SERVER1", Star Worldhd
+http://103.209.173.14:9966/private-server1/stream/star-worldhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/zeeacion.jpg" group-title="Hindi - SERVER1", Zeeaction
+http://103.209.173.14:9966/private-server1/stream/zeeaction.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/tlchd.jpg" group-title="Hindi - SERVER1", Tlc Hd
+http://103.209.173.14:9966/private-server1/stream/tlc-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sonymaxhd.jpg" group-title="Hindi - SERVER1", Sony Max
+http://103.209.173.14:9966/private-server1/stream/Sony-Max.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sonytv.jpg" group-title="Hindi - SERVER1", Sonytvhd
+http://103.209.173.14:9966/private-server1/stream/SonyTVHD.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sonysabhd.jpg" group-title="Hindi - SERVER1", Sony Sub
+http://103.209.173.14:9966/private-server1/stream/SONY-SUB.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sonypix.jpg" group-title="English - SERVER1", Sony Pix Hd
+http://103.209.173.14:9966/private-server1/stream/sony-pix-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/mnxhd.jpg" group-title="English - SERVER1", Mnx Hd
+http://103.209.173.14:9966/private-server1/stream/mnx-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/andflixhd.jpg" group-title="Movies - SERVER1", And Flix
+http://103.209.173.14:9966/private-server1/stream/AND-FLIX.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/moviesnowhd.jpg" group-title="Movies - SERVER1", Movies Now
+http://103.209.173.14:9966/private-server1/stream/movies-now.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starmovieshd.jpg" group-title="Movies - SERVER1", Star Movies Hd
+http://103.209.173.14:9966/private-server1/stream/star-movies-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/mnplushd.jpg" group-title="Movies - SERVER1", Mn Hd
+http://103.209.173.14:9966/private-server1/stream/mn-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/globaltv.png" group-title="Bangla - SERVER1", Globla Tv
+http://103.209.173.14:9966/private-server1/stream/GLOBLA-TV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/btvworld.jpg" group-title="Bangla - SERVER1", Btv World
+http://103.209.173.14:9966/private-server1/stream/btv-world.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/btv.jpg" group-title="Bangla - SERVER1", Btv
+http://103.209.173.14:9966/private-server1/stream/btv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/shangsadbangladesh.jpg" group-title="Bangla - SERVER1", Sangsad Tv
+http://103.209.173.14:9966/private-server1/stream/sangsad-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/deshtv.jpg" group-title="Bangla - SERVER1", Desh Tv
+http://103.209.173.14:9966/private-server1/stream/DESH-TV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/enterr10.jpg" group-title="Bangla - SERVER1", Enterr10 Bangla
+http://103.209.173.14:9966/private-server1/stream/enterr10-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/starjalshahd.jpg" group-title="Bangla - SERVER1", Jalsha
+http://103.209.173.14:9966/private-server1/stream/jalsha.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/zeebanglahd.jpg" group-title="Bangla - SERVER1", Zee Bangla
+http://103.209.173.14:9966/private-server1/stream/zee-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sonyaath.jpg" group-title="Bangla - SERVER1", Sonyaath
+http://103.209.173.14:9966/private-server1/stream/Sonyaath.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/sunbangla.jpg" group-title="Bangla - SERVER1", Sunbangla
+http://103.209.173.14:9966/private-server1/stream/sunbangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/zeebanglacinema.jpg" group-title="Bangla - SERVER1", Zee Bangla Cinema
+http://103.209.173.14:9966/private-server1/stream/zee-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/jalshamovies.jpg" group-title="Bangla - SERVER1", Jalsha Movies
+http://103.209.173.14:9966/private-server1/stream/jalsha-movies.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/colorsbangla.jpg" group-title="Bangla - SERVER1", Colore Bangla Cinema
+http://103.209.173.14:9966/private-server1/stream/colore-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/nexustv.jpg" group-title="Bangla - SERVER1", Nexus
+http://103.209.173.14:9966/private-server1/stream/nexus.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/duronto.jpg" group-title="Bangla - SERVER1", Duronto Tv
+http://103.209.173.14:9966/private-server1/stream/duronto-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/dbc.jpg" group-title="Bangla - SERVER1", Dbc News
+http://103.209.173.14:9966/private-server1/stream/DBC-NEWS.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/maasranga.jpg" group-title="Bangla - SERVER1", Maasranga
+http://103.209.173.14:9966/private-server1/stream/maasranga.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ekattortv.jpg" group-title="Bangla - SERVER1", Ekattor Tv
+http://103.209.173.14:9966/private-server1/stream/Ekattor-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/atnnews.jpg" group-title="Bangla - SERVER1", Atn News
+http://103.209.173.14:9966/private-server1/stream/Atn-News.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/independenttv.jpg" group-title="Bangla - SERVER1", Independent Tv
+http://103.209.173.14:9966/private-server1/stream/Independent-Tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/jamunatv.jpg" group-title="Bangla - SERVER1", Jamuna Tv
+http://103.209.173.14:9966/private-server1/stream/jamuna-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/somoy.jpg" group-title="Bangla - SERVER1", Somoy Tv
+http://103.209.173.14:9966/private-server1/stream/Somoy-TV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/news24.jpg" group-title="Bangla - SERVER1", News24Bd
+http://103.209.173.14:9966/private-server1/stream/News24bd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/channel24.jpg" group-title="Bangla - SERVER1", Channel24
+http://103.209.173.14:9966/private-server1/stream/Channel24.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/atnbangla.jpg" group-title="Bangla - SERVER1", Atn Bangla
+http://103.209.173.14:9966/private-server1/stream/ATN-Bangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/channeli.jpg" group-title="Bangla - SERVER1", Channel I
+http://103.209.173.14:9966/private-server1/stream/Channel-i.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ekushey.jpg" group-title="Bangla - SERVER1", Ekushey Tv
+http://103.209.173.14:9966/private-server1/stream/Ekushey-TV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/ntv.jpg" group-title="Bangla - SERVER1", Ntv
+http://103.209.173.14:9966/private-server1/stream/Ntv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/rtv.jpg" group-title="Bangla - SERVER1", Rtv
+http://103.209.173.14:9966/private-server1/stream/RTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/satv.jpg" group-title="Bangla - SERVER1", Satv
+http://103.209.173.14:9966/private-server1/stream/SATV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/asiantv.jpg" group-title="Bangla - SERVER1", Asiantv
+http://103.209.173.14:9966/private-server1/stream/AsianTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/banglatv.jpg" group-title="Bangla - SERVER1", Bangla Tv
+http://103.209.173.14:9966/private-server1/stream/bangla-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/banglavision.jpg" group-title="Bangla - SERVER1", Banglavision
+http://103.209.173.14:9966/private-server1/stream/BanglaVision.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/boishakhi.jpg" group-title="Bangla - SERVER1", Boishakhi
+http://103.209.173.14:9966/private-server1/stream/Boishakhi.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/deeptotv.jpg" group-title="Bangla - SERVER1", Depto Bangla
+http://103.209.173.14:9966/private-server1/stream/depto-bangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/gaanbangla.jpg" group-title="Bangla - SERVER1", Gaanbangla
+http://103.209.173.14:9966/private-server1/stream/GaanBangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/mohonatv.jpg" group-title="Bangla - SERVER1", Mohonatv
+http://103.209.173.14:9966/private-server1/stream/MohonaTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/mytv.jpg" group-title="Bangla - SERVER1", Mytv
+http://103.209.173.14:9966/private-server1/stream/MyTV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/nagorik.jpg" group-title="Bangla - SERVER1", Nagorik Tv
+http://103.209.173.14:9966/private-server1/stream/nagorik-tv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/anandotv.jpg" group-title="Bangla - SERVER1", Anandotv
+http://103.209.173.14:9966/private-server1/stream/anandotv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/xplorhd.jpg" group-title="Bangla - SERVER1", Xplore
+http://103.209.173.14:9966/private-server1/stream/Xplore.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/andflixhd.jpg" group-title="Bangla - SERVER1", And Flix
+http://103.209.173.14:9966/private-server1/stream/AND-FLIX.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/andprivehd.jpg" group-title="Bangla - SERVER1", Andpictures
+http://103.209.173.14:9966/private-server1/stream/andpictures.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/wowcinema.jpg" group-title="Bangla - SERVER1", Wow Cinema
+http://103.209.173.14:9966/private-server1/stream/Wow-Cinema.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/zoommusic.jpg" group-title="Bangla - SERVER1", Zoom
+http://103.209.173.14:9966/private-server1/stream/Zoom.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/musicmasti.jpg" group-title="Bangla - SERVER1", Masti Music
+http://103.209.173.14:9966/private-server1/stream/Masti-Music.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/9xm.jpg" group-title="Music - SERVER1", 9Xm
+http://103.209.173.14:9966/private-server1/stream/9XM.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/9xjalwa.jpg" group-title="Bangla - SERVER1", It Care 9Xm Jalwa
+http://103.209.173.14:9966/private-server1/stream/it-care-9xm-jalwa.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/bflixmovies.jpg" group-title="Bangla - SERVER1", Bflix
+http://103.209.173.14:9966/private-server1/stream/bflix.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/cgtn.jpg" group-title="Bangla - SERVER1", Cgtn News
+http://103.209.173.14:9966/private-server1/stream/Cgtn-News.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/aljazeera.jpg" group-title="Bangla - SERVER1", Aljazeera
+http://103.209.173.14:9966/private-server1/stream/Aljazeera.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/voanews.jpg" group-title="Bangla - SERVER1", Voa News
+http://103.209.173.14:9966/private-server1/stream/Voa_news.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/dw.jpg" group-title="Bangla - SERVER1", Dw
+http://103.209.173.14:9966/private-server1/stream/Dw.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/foxsports1.jpg" group-title="Sports - SERVER1", Fox Sports Cricket
+http://103.209.173.14:9966/private-server1/stream/FOX-SPORTS-CRICKET.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server1/logo/skycricket.jpg" group-title="Sports - SERVER1", Sky Sports Cricket
+http://103.209.173.14:9966/private-server1/stream/SKY-SPORTS-CRICKET.m3u8
+
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="private-server3.m3u" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="private-server3.m3u", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/andpictures-hd.jpg" group-title="Hindi - SERVER3", & Pictures HD
+http://103.209.173.14:9966/private-server3/stream/andpictures.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/colors-tv-hd.jpg" group-title="Hindi - SERVER3", Colors HD
+http://103.209.173.14:9966/private-server3/stream/colore-tv-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/zeecinemahd.jpg" group-title="Hindi - SERVER3", Zee Cinema HD
+http://103.209.173.14:9966/private-server3/stream/zeecinemahd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/starplus.jpg" group-title="Hindi - SERVER3", Star Plus HD
+http://103.209.173.14:9966/private-server3/stream/starplus.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/colorscineplex.jpg" group-title="Hindi - SERVER3", Colors Cineplex
+http://103.209.173.14:9966/private-server3/stream/colorscineplex.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sonyen.png" group-title="Hindi - SERVER3", Sony HD
+http://103.209.173.14:9966/private-server3/stream/sonyen.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sony-maxhd.jpg" group-title="Hindi - SERVER3", Sony MAX HD
+http://103.209.173.14:9966/private-server3/stream/sony-maxhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/zeetv.png" group-title="Hindi - SERVER3", Zee TV HD
+http://103.209.173.14:9966/private-server3/stream/zeetv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/stargold.jpg" group-title="Hindi - SERVER3", Star GOLD Thrills
+http://103.209.173.14:9966/private-server3/stream/stargold.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/9xm.png" group-title="Hindi - SERVER3", 9XM
+http://103.209.173.14:9966/private-server3/stream/9xm.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sonypixhd.jpg" group-title="English - SERVER3", Sony PIX HD
+http://103.209.173.14:9966/private-server3/stream/sonypixhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/movies-now.jpg" group-title="English - SERVER3", Movies Now HD
+http://103.209.173.14:9966/private-server3/stream/movies-now.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/starmovies.jpg" group-title="English - SERVER3", Star Movies HD
+http://103.209.173.14:9966/private-server3/stream/starmovies.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/bbcearth.jpg" group-title="English - SERVER3", BBC Earth HD
+http://103.209.173.14:9966/private-server3/stream/bbcearth.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/mn+.jpg" group-title="English - SERVER3", MN+
+http://103.209.173.14:9966/private-server3/stream/mn+.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/animalplanent.jpg" group-title="English - SERVER3", Animal Planet HD
+http://103.209.173.14:9966/private-server3/stream/animalplanent.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/dis.png" group-title="English - SERVER3", Discovery HD
+http://103.209.173.14:9966/private-server3/stream/discovery.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/Nat_Geo_HD.png" group-title="English - SERVER3", National Geographic HD
+http://103.209.173.14:9966/private-server3/stream/ngohd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/wild.png" group-title="English - SERVER3", National Geographic WILD HD
+http://103.209.173.14:9966/private-server3/stream/wild.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/romedy.png" group-title="English - SERVER3", Romedy NOW
+http://103.209.173.14:9966/private-server3/stream/star-worldhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/mnx-hd.jpg" group-title="English - SERVER3", MNX HD
+http://103.209.173.14:9966/private-server3/stream/mnx-hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/bbcworld.jpg" group-title="English - SERVER3", BBC News
+http://103.209.173.14:9966/private-server3/stream/bbcworld.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sony-5.png" group-title="Sports - SERVER3", Sony SIX HD
+http://103.209.173.14:9966/private-server3/stream/sonysix.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/star_sports3.jpg" group-title="Sports - SERVER3", Star Sports 3
+http://103.209.173.14:9966/private-server3/stream/starsports3.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/Star_Sports_Select_1_HD.jpg" group-title="Sports - SERVER3", Star Sports Select 1 HD
+http://103.209.173.14:9966/private-server3/stream/Star_Sport_Select1HD.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/stersports1hd.jpg" group-title="Sports - SERVER3", Star Sports 1 HD
+http://103.209.173.14:9966/private-server3/stream/stersports1hd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/ster-sport-2hd.png" group-title="Sports - SERVER3", Star Sports 2 HD
+http://103.209.173.14:9966/private-server3/stream/starsports2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sony-3.png" group-title="Sports - SERVER3", Sony TEN 3 HD
+http://103.209.173.14:9966/private-server3/stream/sonyten3.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/select2.jpg" group-title="Sports - SERVER3", Star Sports Select 2 HD
+http://103.209.173.14:9966/private-server3/stream/select2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sony-2.png" group-title="Sports - SERVER3", Sony TEN 2 HD
+http://103.209.173.14:9966/private-server3/stream/sonyten2.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sony-1.png" group-title="Sports - SERVER3", Sony TEN 1 HD
+http://103.209.173.14:9966/private-server3/stream/sonyten1.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/PTV_Sports.png" group-title="Sports - SERVER3", PTV
+http://103.209.173.14:9966/private-server3/stream/ptv.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/18.png" group-title="Sports - SERVER3", Sports 18 HD
+http://103.209.173.14:9966/private-server3/stream/18.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sunbangla.jpg" group-title="Bangla - SERVER3", Sun Bangla
+http://103.209.173.14:9966/private-server3/stream/sunbangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/indepen.png" group-title="Bangla - SERVER3", Independent Television
+http://103.209.173.14:9966/private-server3/stream/indepen.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/Sony_Aath.png" group-title="Bangla - SERVER3", Sony Aath
+http://103.209.173.14:9966/private-server3/stream/Sony_Aath.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/gtv.jpg" group-title="Bangla - SERVER3", Gazi TV HD
+http://103.209.173.14:9966/private-server3/stream/Gazi-TV.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/travelxphd.jpg" group-title="Bangla - SERVER3", Travel XP
+http://103.209.173.14:9966/private-server3/stream/travelxp.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/71.jpg" group-title="Bangla - SERVER3", Ekattor TV HD
+http://103.209.173.14:9966/private-server3/stream/71.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/channeli.jpg" group-title="Bangla - SERVER3", Channel I
+http://103.209.173.14:9966/private-server3/stream/channeli.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/maasranga.jpg" group-title="Bangla - SERVER3", Maasranga TV
+http://103.209.173.14:9966/private-server3/stream/masranga.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/somoytv.jpg" group-title="Bangla - SERVER3", Somoy TV
+http://103.209.173.14:9966/private-server3/stream/somoy.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/Zee_Bangla_Cinema.jpg" group-title="Bangla - SERVER3", Zee Bangla Cinema
+http://103.209.173.14:9966/private-server3/stream/zee-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/colore-bangla-cinema.jpg" group-title="Bangla - SERVER3", Colors Bangla Cinema
+http://103.209.173.14:9966/private-server3/stream/colore-bangla-cinema.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/jalsha_movies.jpg" group-title="Bangla - SERVER3", Jalsha Movies HD
+http://103.209.173.14:9966/private-server3/stream/jalshamovies.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/colorsbangla.jpg" group-title="Bangla - SERVER3", Colors Bangla HD
+http://103.209.173.14:9966/private-server3/stream/colorsbangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/zeebanglahd.jpg" group-title="Bangla - SERVER3", Zee Bangla HD
+http://103.209.173.14:9966/private-server3/stream/zeebanglahd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/starjalsha.jpg" group-title="Bangla - SERVER3", Star Jalsha HD
+http://103.209.173.14:9966/private-server3/stream/starjalsha.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/zeecinemahd.jpg" group-title="Hindi - SERVER3", Zee Cinema HD
+http://103.209.173.14:9966/private-server3/stream/zeecinemahd.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/starplus.jpg" group-title="Hindi - SERVER3", Star Plus HD
+http://103.209.173.14:9966/private-server3/stream/starplus.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/starbangla.jpg" group-title="Bangla - SERVER3", Star Bangla
+http://103.209.173.14:9966/private-server3/stream/starbangla.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/sonyyay.jpg" group-title="Cartoon - SERVER3", Sony YAY!
+http://103.209.173.14:9966/private-server3/stream/sonyway.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/nick.jpg" group-title="Cartoon - SERVER3", NICK
+http://103.209.173.14:9966/private-server3/stream/nick.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/madani.jpg" group-title="Others - SERVER3", Madani TV HD
+http://103.209.173.14:9966/private-server3/stream/madani.m3u8
+
+#EXTINF:-1 tvg-logo="http://103.209.173.14:9966/private-server3/logo/quraantv.jpg" group-title="Others - SERVER3", Quran TV
+http://103.209.173.14:9966/private-server3/stream/qurqntv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
