@@ -6747,7 +6747,30 @@ http://103.209.173.14:9966/private-server3/stream/qurqntv.m3u8
 
 
 
+Hastag Tv 2.0:
+#EXTINF:-1, Premier Sports 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/b7eff456-7a0c-48fd-8308-eb569293f7ee.m3u8
 
+#EXTINF:-1,Sky sports cricket 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/7578cc16-1b9f-493e-bc3e-906de9572e5a.m3u8
+
+#EXTINF:-1, Willow 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
+#EXTINF:-1, Super sports cricket 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
+#EXTINF:-1, Sky sports cricket 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/7578cc16-1b9f-493e-bc3e-906de9572e5a.m3u8
+
+Europe UEFA Europa Conference League
+
+ Hibernian VS Aston Villa
+
+#EXTINF:-1, SPORTS 1
+https://us.catchystream.xyz/playlist/stream_1.m3u8
+#EXTINF:-1, SPORTS 2
+https://realbitsport.com/n-1.m3u8
+#EXTINF:-1,SPORTS 3
+https://webudit.cdnhks.lol/lb/premium103/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
 
 
 
