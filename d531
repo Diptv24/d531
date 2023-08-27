@@ -54,37 +54,37 @@ http://103.209.173.14:9966/private-server1/stream/Somoy-TV.m3u8
 http://103.209.173.14:9966/private-server3/stream/somoy.m3u8
 
 
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 http://172.20.2.5:8082/Channel24/tracks-v1a1/mono.m3u8?token=fd936b9c7910e0114288e0698596429f0639f079-3ce2012bea32ca891677346047229a3a-1681329759-1681318959
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24 Ch-3
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24 Ch-4
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24 Ch-1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 http://103.209.173.14:9998/gAAAAABkvlA7eD9yaYO5p4doCL2hpaBADs3KVeUKPQ1TgFeYQys1pNju9ShC9EssT3E_GwUy8SBCK_-So9hZ5p5T9bEfY6iGng==/index.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 http://172.20.2.5:8082/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 http://103.209.173.14:9966/toffee/stream/channel_24.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/channel-24-logo-B70391F779-seeklogo.com.png", Channel 24
 http://103.209.173.14:9966/binge/stream/nxd_channel_24_all.m3u8
-#EXTINF:-1,CHANNEL 52
+#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/channel-52.png", CHANNEL 52
 http://208.86.19.13:81/503.stream/index.m3u8?
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/jamuna-tv.jpg", Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,Jamuna TV Ch-1
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/jamuna-tv.jpg", Jamuna TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,JAMUNA TV
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/jamuna-tv.jpg", Jamuna TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/jamuna-tv.jpg", Jamuna TV
 http://103.209.173.14:9966/toffee/stream/jamuna_tv.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/jamuna-tv.jpg", Jamuna TV
 http://103.209.173.14:9966/binge/stream/nxd_jamuna_tv_all.m3u8
-#EXTINF:-1,Jamuna Tv
+#EXTINF:-1 tvg-logo="https://www.onlinechannels.live/wp-content/uploads/2020/12/jamuna-tv.jpg", Jamuna TV
 http://103.209.173.14:9966/private-server1/stream/jamuna-tv.m3u8
 #EXTINF:-1,News 24 Ch-3
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
