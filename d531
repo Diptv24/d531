@@ -1,3 +1,44 @@
+💜mo3ad للسيرفرات💜iptv:
+#EXTINF:-1, True sport 1 
+http://ip2121.com:8081/live/eng1/playlist.m3u8
+#EXTINF:-1, True sport 2
+http://ip2121.com:8081/live/eng2/playlist.m3u8
+#EXTINF:-1, MBC 2
+http://154.58.202.18:8080/mbc2/index.m3u8
+#EXTINF:-1, MBC 1
+http://154.58.202.18:8080/mbc1/index.m3u8
+#EXTINF:-1, MBC 3
+http://154.58.202.18:8080/mbc3/index.m3u8
+#EXTINF:-1, MBC 4
+http://154.58.202.18:8080/mbc4/index.m3u8
+#EXTINF:-1, MBC max
+http://154.58.202.18:8080/mbcmax/index.m3u8
+#EXTINF:-1, MBC action 
+http://154.58.202.18:8080/mbcaction/index.m3u8
+#EXTINF:-1, MBC drama
+http://154.58.202.18:8080/mbcdrama/index.m3u8
+#EXTINF:-1, MBC iraq
+http://154.58.202.18:8080/mbciraq/index.m3u8
+#EXTINF:-1, MBC 5 
+http://154.58.202.18:8080/mbc5/index.m3u8
+#EXTINF:-1, Osn kids
+http://154.58.202.18:8080/osn_kids/index.m3u8
+#EXTINF:-1, One 
+http://154.58.202.18:8080/ONE/index.m3u8
+#EXTINF:-1, Nbn
+http://154.58.202.18:8080/nbn/index.m3u8
+#EXTINF:-1, Rotana classic 
+http://154.58.202.18:8080/rotana_classic/index.m3u8
+#EXTINF:-1, Nick
+http://154.58.202.18:8080/nick/index.m3u8
+#EXTINF:-1, Ibc
+http://154.58.202.18:8080/lbc/index.m3u8
+#EXTINF:-1, DMC FHD
+http://154.58.202.18:8080/DMC/index.m3u8
+#EXTINF:-1, EURO SPORTS 2
+http://185.188.188.235/live/eurosport2/playlist.m3u8
+#EXTINF:-1, EURO SPORTS 1
+http://185.188.188.235/live/eurosport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", Tsports HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", TSPORTS HD
