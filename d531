@@ -2,7 +2,7 @@
 
 #EXTINF:-1, EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjD4fQLtJQAmGDXJ5Ep-1w6dNGbAf6MmURkQ&usqp=CAU",E-TEN BANGLA
+#EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
 https://iptvbd.live/test/1080.m3u8
 
 
