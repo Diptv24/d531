@@ -1,4 +1,7 @@
 💜mo3ad للسيرفرات💜iptv:
+
+#EXTINF:-1, EKATTOR TV
+http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, True sport 1 
 http://ip2121.com:8081/live/eng1/playlist.m3u8
 #EXTINF:-1, True sport 2
