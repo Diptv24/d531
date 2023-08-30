@@ -19,6 +19,9 @@ https://cdn-global.lolokoko.tv/canalplussport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://samitvhd.com/wp-content/uploads/2023/01/ssc-channels-min.png", SSC SPORTS 1
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/159_.m3u8
 
+#EXTINF:-1, ATN SPORTS
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
+
 #EXTINF:-1 tvg-logo="https://samitvhd.com/wp-content/uploads/2023/01/ssc-channels-min.png",SSC SPORTS 2
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/222_.m3u8
 #EXTINF:-1 tvg-logo="https://samitvhd.com/wp-content/uploads/2023/01/ssc-channels-min.png",SSC SPORTS 3
