@@ -10,6 +10,33 @@ https://iptvbd.live/test/1080.m3u8
 http://103.141.2.37:25461/web/web/592
 #EXTINF:-1, T Sports
 http://103.102.27.173/live/tvfeed1001/index.m3u8
+
+Asia Cup
+Nepel VS Pakistan
+
+#EXTINF:-1,Astro Cricket
+http://asu.worldtvip.co/astrocricket/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Toffe
+http://rana-pk.xyz/ASIA/play.m3u8
+#EXTINF:-1,Star Sports 1 Hindi
+https://wwe.jiocdn.store/live/wpin480p.m3u8
+#EXTINF:-1,Ptv Sports
+http://cpk-1.asu.lol:8080/pk_ptv_sports/tracks-v1a1/mono.m3u8?token=bynishad
+#EXTINF:-1,Ten Sports
+http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
+#EXTINF:-1,Star Sports 1
+http://103.141.2.37:25461/web/web/580
+#EXTINF:-1,Gazi Tv
+http://103.141.2.37:25461/web/web/592
+#EXTINF:-1,Star Sports Tamil
+https://vdo.panelchs.com:3593/hybrid/play.m3u8
+#EXTINF:-1,TNT Sports 1
+http://ku.worldtvip.co/uk_bt_sports_1_hd/tracks-v1a1/mono.m3u8?token=05ac7edb4c2ccb2e31433ca2f0c40ce1
+#EXTINF:-1,Radio Commentary
+https://prod-3-80-140-229.wostreaming.net/humfm-fm1062mp3-ibc1?session-id=7841b2546b45dd29e43717d086a59297
+#EXTINF:-1,T Sports
+http://103.102.27.173/live/tvfeed1001/index.m3u8
+
 #EXTINF:-1, TEN SPORT
 http://103.134.2.145:5500/play/a035/index.m3u8
 #EXTINF:-1, ssc1
