@@ -6,33 +6,33 @@ http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
 http://103.141.2.37:25461/web/web/603
 #EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
 https://iptvbd.live/test/1080.m3u8
-EXTINF:-1, Gtv
+#EXTINF:-1, Gtv
 http://103.141.2.37:25461/web/web/592
-EXTINF:-1, T Sports
+#EXTINF:-1, T Sports
 http://103.102.27.173/live/tvfeed1001/index.m3u8
-EXTINF:-1, TEN SPORT
+#EXTINF:-1, TEN SPORT
 http://103.134.2.145:5500/play/a035/index.m3u8
-EXTINF:-1, ssc1
+#EXTINF:-1, ssc1
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/159_.m3u8
-EXTINF:-1, Sony Ten 1
+#EXTINF:-1, Sony Ten 1
 http://103.141.2.37:25461/web/web/585
-EXTINF:-1, Sony Ten 3
+#EXTINF:-1, Sony Ten 3
 http://103.141.2.37:25461/web/web/582
-EXTINF:-1, Star sports Select 2
+#EXTINF:-1, Star sports Select 2
 http://103.141.2.37:25461/web/web/583
-EXTINF:-1, Star sports Select 1
+#EXTINF:-1, Star sports Select 1
 http://103.141.2.37:25461/web/web/579
-EXTINF:-1, Star Sports 1 HindiHD
+#EXTINF:-1, Star Sports 1 HindiHD
 http://103.134.2.145:5500/play/a006/index.m3u8
-EXTINF:-1, Star Sports 1 HD
+#EXTINF:-1, Star Sports 1 HD
 http://103.141.2.37:25461/web/web/580
-EXTINF:-1, Star Sport-2 HD
+#EXTINF:-1, Star Sport-2 HD
 http://103.141.2.37:25461/web/web/581
-EXTINF:-1, Star Sports 3
+#EXTINF:-1, Star Sports 3
 http://103.141.2.37:25461/web/web/578
-EXTINF:-1, Ster Sports 5 HD
+#EXTINF:-1, Ster Sports 5 HD
 http://103.141.2.37:25461/web/web/577
-EXTINF:-1, EUROSPORT HD
+#EXTINF:-1, EUROSPORT HD
 http://103.134.2.145:5500/play/a01g/index.m3u8
 #EXTINF:-1, Star Jalsha
 http://103.141.2.37:25461/web/web/603
