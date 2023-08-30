@@ -2,6 +2,8 @@
 
 #EXTINF:-1, EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1, Star Jalsha
+http://103.141.2.37:25461/web/web/603
 #EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
 https://iptvbd.live/test/1080.m3u8
 
