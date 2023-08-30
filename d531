@@ -9,6 +9,8 @@ http://103.141.2.38/hls/starsports3.m3u8
 #EXTINF:-1, SPORTS 2
 http://185.188.188.235/live/sport2/playlist.m3u8
 
+#EXTINF:-1, PALSAT SPORTS 1
+https://cdn-global.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
 #EXTINF:-1, PALSAT SPORTS 2
 https://cdn-global.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 
