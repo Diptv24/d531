@@ -6,8 +6,14 @@ http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
 https://iptvbd.live/test/1080.m3u8
 #EXTINF:-1, STAR SPORTS 3
 http://103.141.2.38/hls/starsports3.m3u8
+#EXTINF:-1, SPORTS 2
+http://185.188.188.235/live/sport2/playlist.m3u8
 
+#EXTINF:-1, PALSAT SPORTS 2
+https://cdn-global.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
 
+#EXTINF:-1, CANAL SPORTS 2
+https://cdn-global.lolokoko.tv/canalplussport2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://samitvhd.com/wp-content/uploads/2023/01/ssc-channels-min.png", SSC SPORTS 1
 https://y.fwzr.xyz:25463/37oQekDBNTkVBj9kqZHh/159_.m3u8
 
