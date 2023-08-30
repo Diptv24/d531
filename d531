@@ -4,8 +4,8 @@
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
 https://iptvbd.live/test/1080.m3u8
-
-
+#EXTINF:-1, STAR SPORTS 3
+http://103.141.2.38/hls/starsports3.m3u8
 #EXTINF:-1, True sport 1 
 http://ip2121.com:8081/live/eng1/playlist.m3u8
 #EXTINF:-1, True sport 2
