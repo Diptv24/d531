@@ -11,6 +11,9 @@ http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/7cc28bb7-f165-4e2
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/372-3722400_indias-leading-sports-network-ten-sports-unveils-ten.png", TEN SPORTS HD
 http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6Sb6Fdu575gszmWczVSDiSvjiubH2av3vA&usqp=CAU", RTA SPORTS
+https://hls.rtasport.live/hls/stream.m3u8
+
 #EXTINF:-1, Star Sports 1 hd
 http://103.141.2.38/hls/starsports1.m3u8
 #EXTINF:-1, Star Sports 2 hd
