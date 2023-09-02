@@ -13,6 +13,18 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6Sb6Fdu575gszmWczVSDiSvjiubH2av3vA&usqp=CAU", RTA SPORTS
 https://hls.rtasport.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMnzdYcrE5xf6xdiOqrtibNkTSvFIaWBrrA&usqp=CAU", GEO SUPER
+http://103.162.136.103:25461/FAH/fah/98
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYwmYjxKfVpxk7yxUHg0JhyOeq2FwoI3-gQ&usqp=CAU", WATAN HD
+http://103.162.136.103:25461/FAH/fah/152
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png", ASPORTS HD
+http://103.162.136.103:25461/FAH/fah/482
+#EXTINF:-1 tvg-logo="https://b5.crichd.tv/assets/uploads/channels/99.png", SUPER SPORTS ACTION
+http://103.162.136.103:25461/FAH/fah/544
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
 
 #EXTINF:-1, Star Sports 1 hd
 http://103.141.2.38/hls/starsports1.m3u8
