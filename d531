@@ -3,55 +3,55 @@
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
 http://103.141.2.37:25461/web/web/592
-#EXTINF:-1,CHANNEL-I
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
 http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
-#EXTINF:-1,CHANNEL-I
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
 http://str24.l9574.com/510.stream/index.m3u8?
-#EXTINF:-1,CHANNEL I
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8?
-#EXTINF:-1,Somoy Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy Tv
 http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1,Somoy Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy Tv
 http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8?token=21be62673812e41c62ef16a7ebf31223bd914dcb-cdd506da570922a736b0e92fb13023e6-1681329721-1681318921
-#EXTINF:-1,Somoy Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy Tv
 http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Somoy Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy Tv
 http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png", Channel 24
 http://172.20.2.5:8082/Channel24/tracks-v1a1/mono.m3u8?token=fd936b9c7910e0114288e0698596429f0639f079-3ce2012bea32ca891677346047229a3a-1681329759-1681318959
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png", Channel 24
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png",Channel 24
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png",Channel 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png",Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png",Channel 24
 http://172.20.2.5:8082/Channel24/tracks-v1a1/mono.m3u8
-#EXTINF:-1, NEWS 24
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png", NEWS 24
 http://172.20.2.5:8082/News24bd/index.fmp4.m3u8
-#EXTINF:-1,MOHONA TV HD
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png", MOHONA TV HD
 http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
-#EXTINF:-1, TSPORTS HD 
+#EXTINF:-1 tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", Tsports HD
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
-#EXTINF:-1, EKATTOR TV
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png", EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1,CHANNEL 52
+#EXTINF:-1 tvg-logo="", CHANNEL 52
 http://208.86.19.13:81/503.stream/index.m3u8?
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 tvg-logo="", Jamuna TV
 http://iptvbd.jagobd.com:1931/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 tvg-logo="", Jamuna TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1 tvg-logo="", Jamuna TV
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1,NEWS 24 HD
+#EXTINF:-1 tvg-logo="", NEWS 24 HD
 http://172.20.2.5:8082/News24bd/tracks-v1a1/mono.m3u8
-#EXTINF:-1,The Channel Tv
+#EXTINF:-1 tvg-logo="", The Channel Tv
 http://iptvbd.jagobd.com:1931/live-orgin/thechanneltv.stream/chunks.m3u8
-#EXTINF:-1,Ekushey Tv
+#EXTINF:-1 tvg-logo="", Ekushey Tv
 http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
-#EXTINF:-1,Ekushey Tv
+#EXTINF:-1 tvg-logo="", Ekushey Tv
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Ekushey TV
 https://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
