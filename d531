@@ -4030,10 +4030,10 @@ http://103.162.136.103:25461/FAH/fah/152
 http://103.162.136.103:25461/FAH/fah/482
 #EXTINF:-1 tvg-logo="https://b5.crichd.tv/assets/uploads/channels/99.png", SUPER SPORTS ACTION
 http://103.162.136.103:25461/FAH/fah/544
-
-
-
-
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/372-3722400_indias-leading-sports-network-ten-sports-unveils-ten.png", TEN SPORTS HD
+http://212.46.43.64/pk_tensports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc534a39-d741-41c6-bd1a-651381b15e99/dfpmqx5-57888dbe-d72c-4bc4-b4fe-f53894c8c78b.png/v1/fill/w_1279,h_625/astro_cricket_screen_bug_logo_by_tv4malaysia_dfpmqx5-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU5NiIsInBhdGgiOiJcL2ZcL2RjNTM0YTM5LWQ3NDEtNDFjNi1iZDFhLTY1MTM4MWIxNWU5OVwvZGZwbXF4NS01Nzg4OGRiZS1kNzJjLTRiYzQtYjRmZS1mNTM4OTRjOGM3OGIucG5nIiwid2lkdGgiOiI8PTMyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.78JECR0nmenNX44m3icPSyZi2L3P7he8W97IPyu81lU", ASTRO CRICKET HD
+https://atc.hopto.org/Cricket-Astro-cricket/tracks-v1a1/mono.m3u8
 
 
 
