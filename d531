@@ -161,56 +161,59 @@ http://iptvbd.jagobd.com:1931/live-orgin/nrb-eu.stream/chunks.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqM0KMtOl-PRU5Pcd2BnVOPZAGcq6z_HUTQuh00Z=s900-c-k-c0x00ffffff-no-rj", NRB IPTV
 https://tempe.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="", Jago News
+#EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/common/logo.png", Jago News
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1,Bangla Jago
+#EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/common/logo.png", Jago News
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-#EXTINF:-1,Jago FM (94.4)
+#EXTINF:-1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/38/15638/JagoFM94.4_5.png", Jago FM (94.4)
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
-#EXTINF:-1,Jago News
-http://bd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",Movie Bangla
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png",MOVIE BANGLA
 http://iptvbd.jagobd.com:1931/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="", Matri Bhumi HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Mathrubhumi_news.svg/1200px-Mathrubhumi_news.svg.png", Matri Bhumi HD
 http://bdip.ddns.net:1895/live/bangladesh/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Boishakhi Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png", Boishakhi Tv
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="", Boishakhi Tv
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png", Boishakhi Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1,Boishakhi Backup
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png", Boishakhi Tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="", CHANNEL 9 HD [BD] (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/111.m3u8
-#EXTINF:-1 tvg-logo="", NAN TV [BD]
+#EXTINF:-1 tvg-logo="https://nantvbd.com/wp-content/uploads/2022/09/nantv_facebook_logo_360px.png", NAN TV
 https://bd.jagobd.com:444/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1,Nan IPTV [BD]
+#EXTINF:-1 tvg-logo="https://nantvbd.com/wp-content/uploads/2022/09/nantv_facebook_logo_360px.png", NAN TV
 https://tempe.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="",Nandan TV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NFY7IIuJrsa9S3t2zkOCwn4yiwVAxBRauvwQlpjlmsrIOvBhhkj9oT50-qqhpPPKbgQ", Nandan TV
 http://nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1,Nan Tv
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NFY7IIuJrsa9S3t2zkOCwn4yiwVAxBRauvwQlpjlmsrIOvBhhkj9oT50-qqhpPPKbgQ", Nandan TV
 http://iptvbd.jagobd.com:1931/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1,NANDAN IPTV
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/NFY7IIuJrsa9S3t2zkOCwn4yiwVAxBRauvwQlpjlmsrIOvBhhkj9oT50-qqhpPPKbgQ", Nandan TV
 http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="", ANNANDA BARTA
+#EXTINF:-1 tvg-logo="https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-1/272793079_106434418616527_1890998386970765848_n.jpg?stp=cp0_dst-jpg_e15_p120x120_q65&_nc_cat=104&ccb=1-7&_nc_sid=5fac6f&_nc_ohc=AoJ0jjDWeMkAX9-X_3z&_nc_ht=scontent.fcgp7-1.fna&oh=00_AfBG6pYS3yb3-_v2Gxm-_i9d2hmY7eOzsE5yc5Wt0-cL1g&oe=64F766AB", ANNANDA BARTA
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w1725375788.m3u8
-#EXTINF:-1 tvg-logo="", VARENDRA TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwxJ8F68mGuahoVdCI93rDLunEcd_ciFUPfFQ=s240-c-k-c0xffffffff-no-rj-mo", VARENDRA TV
 https://tempskyview.jagobd.com:441/live-orgin/varendratv.stream/chunks.m3u8
-#EXTINF:-1,Varendra Tv
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwxJ8F68mGuahoVdCI93rDLunEcd_ciFUPfFQ=s240-c-k-c0xffffffff-no-rj-mo", VARENDRA TV
 http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
-#EXTINF:-1,Varendra TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwxJ8F68mGuahoVdCI93rDLunEcd_ciFUPfFQ=s240-c-k-c0xffffffff-no-rj-mo", VARENDRA TV
 https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF:-1,Varendra TV
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJwxJ8F68mGuahoVdCI93rDLunEcd_ciFUPfFQ=s240-c-k-c0xffffffff-no-rj-mo", VARENDRA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/varendratv.stream/chunks.m3u8
-#EXTINF:-1,Bangladesh Betar (88.8)
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/OtosItLn7ivfftyJxG6uqT0OGvu12LwKEn6iLcLjFJjryOaP2rKjgnU2ET3lykB7ni4", Bangladesh Betar (88.8)
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
-#EXTINF:-1 tvg-logo="", BANGLA 21 TV
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/bangla-21-tv-2017.jpg", BANGLA 21 TV
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="", IQRA BANGLA BD
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/5yvzQPKjduMnNGFtduPObHaPgPs4e7JDEul4Yg04nCv22gPM6VdATdU-asKTxNNfLIkNWPhCNQ=s900-c-k-c0x00ffffff-no-rj", IQRA BANGLA BD
 http://208.86.19.13:81/507.stream/index.m3u8
+
+
+
+
+
 #EXTINF:-1,Discovery HD [BANGLA]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/167.m3u8
 #EXTINF:-1,SANGEET BANGLA
