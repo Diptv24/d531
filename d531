@@ -1,8 +1,10 @@
 
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", Tsports HD
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
-#EXTINF:-1 group-title="Bangla Channels"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
 http://103.141.2.37:25461/web/web/592
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
+https://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 group-title="Bangla Channels"tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
 http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels"tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
