@@ -3956,13 +3956,14 @@ https://atc.hopto.org/Cricket-Astro-cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="China TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Xing_Kong.svg/revision/latest/scale-to-width-down/200?cb=20230402103445", STAR CHINA TV
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1693567941-cdn", PPTV HD 36
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png", NBT 2
+https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/02/7flix-logo.png", 7FLEX
+http://61.19.242.134/feed/202306140918/LC5/playlist.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/1200px-MCOT_Ch9_Logo.png", MCOT HD 30
+https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 
 
 
