@@ -144,6 +144,10 @@ http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png", Boishakhi Tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/Boishakhi_TV_plus_logo.png/revision/latest/scale-to-width-down/1185?cb=20221020103718", Boishakhi Tv PLus
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+
+
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="", CHANNEL 9 HD [BD] (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/111.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://nantvbd.com/wp-content/uploads/2022/09/nantv_facebook_logo_360px.png", NAN TV
@@ -2463,21 +2467,887 @@ https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1,ZABB TV
 https://live1.thaitvstream.com/play/zabbtv/index.m3u8
-#EXTINF:-1,GEO SUEPR
-http://175.107.244.52:4456/play/a06z/index.m3u8
+==============================================================================================================================================
+#EXTINF:-1,山西卫视
+http://live.cooltv.top/tv/tide.php?id=sxiws2
+#EXTINF:-1,纪实人文
+http://live.cooltv.top/tv/bestv.php?id=28
+#EXTINF:-1,哈哈炫动
+http://live.cooltv.top/tv/bestv.php?id=19
+#EXTINF:-1,莲花卫视
+http://live.cooltv.top/tv/lotus.php
+#EXTINF:-1,有线新闻台
+http://61.10.2.140/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1,有线财经资讯台
+http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1,耀才财经台
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1,RTHK32
+http://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1,V2BEAT
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1,澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1,澳门资讯
+http://live4.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1,澳门卫星
+http://live4.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1,澳门综艺
+http://live4.tdm.com.mo:1935/ch6/hd_ch6.live/playlist.m3u8
+#EXTINF:-1,澳门体育
+http://live4.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1,澳视澳门
+http://live4.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1,美国中文电视
+https://jpts.sinovision.net/livestream.m3u8
+#EXTINF:-1,大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1,大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1,Bloomberg TV+
+http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1,RT新闻
+https://rt-rtd.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1,RT纪录
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1,DW
+http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1,Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1,France 24
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_091/HD/playlist.m3u8
+#EXTINF:-1,CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1,NHK World
+http://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1,Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,好消息综合台
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1,好消息真理台
+http://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1,好消息3
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1,好消息5
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1,好消息天堂敬拜
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1,好消息牧者频道
+http://live.streamingfast.net/osmflivech47.m3u8
+#EXTINF:-1,好消息亲近神诗歌音乐
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1,好消息华语讲员
+http://live.streamingfast.net/osmflivech21.m3u8
+#EXTINF:-1,好消息现代诗歌
+http://live.streamingfast.net/osmflivech28.m3u8
+#EXTINF:-1,好消息空中圣经学院
+http://live.streamingfast.net/osmflivech27.m3u8
+#EXTINF:-1,Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,百视TV
+http://live.cooltv.top/tv/bestv.php?id=27
+#EXTINF:-1,黄河电视台
+http://live.cooltv.top/tv/tide.php?id=sxhh
+#EXTINF:-1,山西社会与法治
+http://live.cooltv.top/tv/tide.php?id=sxshfz
+#EXTINF:-1,山西经济与科技
+http://live.cooltv.top/tv/tide.php?id=sxjj
+#EXTINF:-1,山西影视
+http://live.cooltv.top/tv/tide.php?id=sxys
+#EXTINF:-1,山西文体生活
+http://live.cooltv.top/tv/tide.php?id=sxwtsh
+#EXTINF:-1,上海新闻综合
+http://live.cooltv.top/tv/bestv.php?id=20
+#EXTINF:-1,上海都市
+http://live.cooltv.top/tv/bestv.php?id=18
+#EXTINF:-1,上海外语
+http://live.cooltv.top/tv/bestv.php?id=17
+#EXTINF:-1,安徽影视
+http://live.cooltv.top/tv/anhui.php?id=ahys
+#EXTINF:-1,安徽经济生活
+http://live.cooltv.top/tv/anhui.php?id=ahjjsh
+#EXTINF:-1,安徽综艺体育
+http://live.cooltv.top/tv/anhui.php?id=ahzyty
+#EXTINF:-1,安徽农业科教
+http://live.cooltv.top/tv/anhui.php?id=ahnykj
+#EXTINF:-1,安徽公共
+http://live.cooltv.top/tv/anhui.php?id=ahgg
+#EXTINF:-1,安徽国际
+http://live.cooltv.top/tv/anhui.php?id=ahgj
+#EXTINF:-1,青海经视
+http://stream.qhbtv.com/qhsh/playlist.m3u8
+#EXTINF:-1,青海都市
+http://stream.qhbtv.com/qhds/playlist.m3u8
+#EXTINF:-1,晋中综合
+http://jzlive.jztvnews.com:90/live/jzzh.m3u8
+#EXTINF:-1,晋中公共
+http://jzlive.jztvnews.com:90/live/jzgg.m3u8
+#EXTINF:-1,四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
+#EXTINF:-1,浙江新闻
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+#EXTINF:-1,之江纪录
+http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+#EXTINF:-1,浙江国际
+http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江教科影视
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1,浙江民生休闲
+http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1,浙江经济生活
+http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1,浙江钱江频道
+http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1,苏州4k
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1,云南都市
+http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
+#EXTINF:-1,云南娱乐
+http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
+#EXTINF:-1,云南康旅
+http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
+#EXTINF:-1,云南少儿
+http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
+#EXTINF:-1,云南国际
+http://tvlive.ynradio.com/live/yunnanguoji/playlist.m3u8
+#EXTINF:-1,河北影视剧
+https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+#EXTINF:-1,河北经济生活
+https://event.pull.hebtv.com/jishi/jingjishenghuo.m3u8
+#EXTINF:-1,河北农民
+https://event.pull.hebtv.com/jishi/nongminpindao.m3u8
+#EXTINF:-1,河北都市
+https://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=0a371e84fa6980927f5b617687e1ad11
+#EXTINF:-1,河北公共
+https://event.pull.hebtv.com/jishi/gonggongpindao.m3u8
+#EXTINF:-1,重庆新闻
+http://live.cooltv.top/tv/cqtv.php?id=3
+#EXTINF:-1,太原教育台
+http://live.cooltv.top/tv/tide.php?id=tyjypd
+#EXTINF:-1,太原新闻综合
+http://live.cooltv.top/tv/tide.php?id=tyxwzh
+#EXTINF:-1,太原经济生活
+http://live.cooltv.top/tv/tide.php?id=tyjjsh
+#EXTINF:-1,太原社教法制
+http://live.cooltv.top/tv/tide.php?id=tysjfz
+#EXTINF:-1,太原影视
+http://live.cooltv.top/tv/tide.php?id=tyys
+#EXTINF:-1,太原文体
+http://live.cooltv.top/tv/tide.php?id=tywt
+#EXTINF:-1,大连新闻综合
+http://live.cooltv.top/tv/tide.php?id=dlzh
+#EXTINF:-1,大连生活
+http://live.cooltv.top/tv/tide.php?id=dlsh
+#EXTINF:-1,大连文体
+http://live.cooltv.top/tv/tide.php?id=dlwt
+#EXTINF:-1,大连少儿
+http://live.cooltv.top/tv/tide.php?id=dlse
+#EXTINF:-1,南宁新闻综合
+http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+#EXTINF:-1,南宁都市生活
+http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+#EXTINF:-1,南宁影视娱乐
+http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+#EXTINF:-1,南宁公共
+http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+#EXTINF:-1,南京娱乐
+http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8
+#EXTINF:-1,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+#EXTINF:-1,南京信息
+http://live.nbs.cn/channels/njtv/xxpd/500k.m3u8
+#EXTINF:-1,成都新闻综合
+http://live.cooltv.top/tv/cdtv.php?id=cdxwzh
+#EXTINF:-1,成都经济
+http://live.cooltv.top/tv/cdtv.php?id=cdjjzx
+#EXTINF:-1,成都都市
+http://live.cooltv.top/tv/cdtv.php?id=cddssh
+#EXTINF:-1,成都影视
+http://live.cooltv.top/tv/cdtv.php?id=cdyswy
+#EXTINF:-1,成都公共
+http://live.cooltv.top/tv/cdtv.php?id=cdgg
+#EXTINF:-1,成都少儿
+http://live.cooltv.top/tv/cdtv.php?id=cdse
+#EXTINF:-1,扬州新闻综合
+http://live.cooltv.top/tv/yz.php?id=1
+#EXTINF:-1,扬州城市
+http://live.cooltv.top/tv/yz.php?id=2
+#EXTINF:-1,扬州生活
+http://live.cooltv.top/tv/yz.php?id=3
+#EXTINF:-1,绍兴新闻综合
+http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+#EXTINF:-1,绍兴公共
+http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+#EXTINF:-1,绍兴文化影视
+http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+#EXTINF:-1,福州新闻综合
+http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+#EXTINF:-1,福州生活
+http://live.zohi.tv:80/video/s10001-fztv-3/index.m3u8
+#EXTINF:-1,福州少儿
+http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
+#EXTINF:-1,通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
+#EXTINF:-1,房山电视台
+https://live.funhillrm.com/2/playlist.m3u8
+#EXTINF:-1,石景山电视台
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1,粤听·移动应急电台
+http://live.cooltv.top/tv/yueting.php?id=2518
+#EXTINF:-1,粤听·太平洋之声
+http://live.cooltv.top/tv/yueting.php?id=2520
+#EXTINF:-1,The Hit List
+http://rfcmedia.streamguys1.com/srhitlist.mp3
+#EXTINF:-1,Dance One
+http://rfcmedia.streamguys1.com/srdanceone.mp3
+#EXTINF:-1,Disco Beats
+http://rfcmedia.streamguys1.com/srdiscobeats.mp3
+#EXTINF:-1,Today's Country Hits
+http://rfcmedia.streamguys1.com/srtodayscountryhits.mp3
+#EXTINF:-1,TED Talks
+http://tunein.streamguys1.com/TEDTalks
+#EXTINF:-1,Star Talk Radio
+http://tunein.streamguys1.com/StarTalkRadio
+#EXTINF:-1,AsiaFM 亚洲热歌台
+http://hot.asiafm.net:8000/asiafm
+#EXTINF:-1,AsiaFM 亚洲音乐台
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1,AsiaFM 亚洲经典台
+http://goldfm.cn:8000/goldfm
+#EXTINF:-1,AsiaFM 亚洲天空台
+http://funradio.cn:8000/funradio
+#EXTINF:-1,AsiaFM HD音乐台
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1,AsiaFM 亚洲粤语台
+http://yyt.asiafm.net:8000/asiafm
+#EXTINF:-1,Big B Radio - 中文流行
+http://cpop.bigbradio.net/s
+#EXTINF:-1,Big B Radio - 韩语流行
+http://kpop.bigbradio.net/s
+#EXTINF:-1,Big B Radio - 日语流行
+http://jpop.bigbradio.net/s
+#EXTINF:-1,Big B Radio - 亚洲流行
+http://apop.bigbradio.net/s
+#EXTINF:-1,Modern Radio
+http://play.redefine.ltd/Stream1/FM1058-1.m3u8
+#EXTINF:-1,电音电台
+http://play.redefine.ltd/Stream3/FM1058-3.m3u8
+#EXTINF:-1,古典音乐台
+http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+#EXTINF:-1,萤火虫网络台
+http://211.149.226.193:8066/1022.mp3
+#EXTINF:-1,动感音悦台
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1,潮流音悦台
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1,警广之声
+http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
+#EXTINF:-1,天籁之音-经典正流行
+http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+#EXTINF:-1,天籁之音 Hi-Fi Radio
+http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+#EXTINF:-1,天籁之音-国风
+http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+#EXTINF:-1,民谣 蓝调
+http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+#EXTINF:-1,舞迷心窍
+http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
+#EXTINF:-1,心灵音乐馆
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1,80后音悦台
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1,经典FM
+http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+#EXTINF:-1,格莱美音乐台
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1,卷卷猫电台
+http://stream3.hndt.com/now/PHucVOu2/playlist.m3u8
+#EXTINF:-1,有声文摘
+http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+#EXTINF:-1,安全百科
+http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+#EXTINF:-1,民谣音乐台
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1,天籁古典
+http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+#EXTINF:-1,摇滚天空台
+http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+#EXTINF:-1,国乐悠扬
+http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+#EXTINF:-1,英语资讯广播 CGTN Radio
+http://sk.cri.cn/am846.m3u8
+#EXTINF:-1,环球资讯广播
+https://live-play.cctvnews.cctv.com/cctvaudio/hqzx.m3u8
+#EXTINF:-1,华语环球广播
+http://sk.cri.cn/hyhq.m3u8
+#EXTINF:-1,南海之声
+https://sk.cri.cn/nhzs.m3u8
+#EXTINF:-1,世界华声
+http://sk.cri.cn/hxfh.m3u8
+#EXTINF:-1,轻松调频
+http://sk.cri.cn/915.m3u8
+#EXTINF:-1,经济之声
+http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+#EXTINF:-1,文艺之声
+http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+#EXTINF:-1,阅读之声
+http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+#EXTINF:-1,台海之声
+http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+#EXTINF:-1,中国乡村之声
+http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+#EXTINF:-1,老年之声
+http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+#EXTINF:-1,民族之声
+http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+#EXTINF:-1,香港之声
+http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+#EXTINF:-1,大湾区之声
+http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+#EXTINF:-1,神州之声
+http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+#EXTINF:-1,中国交通广播
+http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+#EXTINF:-1,中国交通广播（湖南）
+http://live.cooltv.top/tv/ytradio.php?id=752
+#EXTINF:-1,中国交通广播（四川）
+http://live.cooltv.top/tv/ytradio.php?id=749
+#EXTINF:-1,维吾尔语广播
+http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+#EXTINF:-1,藏语广播
+http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+#EXTINF:-1,哈萨克语广播
+http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+#EXTINF:-1,上海交通广播
+http://live.cooltv.top/tv/news1296.php?id=1
+#EXTINF:-1,五星体育广播
+http://live.cooltv.top/tv/news1296.php?id=6
+#EXTINF:-1,上海故事广播
+http://live.cooltv.top/tv/news1296.php?id=10
+#EXTINF:-1,上海戏曲广播
+http://live.cooltv.top/tv/news1296.php?id=11
+#EXTINF:-1,天津静海区综合广播·交通广播网
+http://starfish.bj.aliyun.001.qingting.fm:8000/jingdianFM1008
+#EXTINF:-1,海峡之声·新闻广播
+http://vos.com.cn/live/liveNew/800k/tzwj_video.m3u8
+#EXTINF:-1,海峡之声·闽南话广播
+http://47.107.255.25:1935/live/liveMn/800k/tzwj_video.m3u8
+#EXTINF:-1,中国华艺广播
+http://47.107.255.25:1935/live/chbc/800k/tzwj_video.m3u8
+#EXTINF:-1,News938潇湘之声
+http://live.cooltv.top/tv/ytradio.php?id=526
+#EXTINF:-1,金鹰955电台
+http://live.cooltv.top/tv/ytradio.php?id=523
+#EXTINF:-1,湖南电台综合广播
+http://live.cooltv.top/tv/ytradio.php?id=525
+#EXTINF:-1,京津冀之声
+https://brtv-radiolive.rbc.cn/alive/fm1006.m3u8
+#EXTINF:-1,北京交通广播
+https://brtv-radiolive.rbc.cn/alive/fm1039.m3u8
+#EXTINF:-1,北京外语广播
+https://brtv-radiolive.rbc.cn/alive/fm923.m3u8
+#EXTINF:-1,北京文艺广播
+https://brtv-radiolive.rbc.cn/alive/fm876.m3u8
+#EXTINF:-1,北京故事广播
+https://brtv-radiolive.rbc.cn/alive/am603.m3u8
+#EXTINF:-1,北京体育广播
+https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+#EXTINF:-1,扬州交通广播
+http://live.cooltv.top/tv/yz.php?id=jt
+#EXTINF:-1,扬州新闻广播
+http://live.cooltv.top/tv/yz.php?id=xw
+#EXTINF:-1,苏州生活广播
+http://live.cooltv.top/tv/ytradio.php?id=696
+#EXTINF:-1,苏州儿童广播
+http://live.cooltv.top/tv/ytradio.php?id=695
+#EXTINF:-1,苏州新闻综合广播
+http://live.cooltv.top/tv/ytradio.php?id=694
+#EXTINF:-1,苏州交通经济广播
+http://live.cooltv.top/tv/ytradio.php?id=698
+#EXTINF:-1,南京体育广播
+http://hls.njgb.com/live_hls/3/playlist.m3u8
+#EXTINF:-1,南京新闻综合广播
+http://hls.njgb.com/live_hls/1/playlist.m3u8
+#EXTINF:-1,南京交通广播
+http://hls.njgb.com/live_hls/2/playlist.m3u8
+#EXTINF:-1,南京经济广播
+http://hls.njgb.com/live_hls/6/playlist.m3u8
+#EXTINF:-1,武汉新闻广播
+http://stream.appwuhan.com/xwpdzb/sd/live.m3u8
+#EXTINF:-1,武汉交通广播
+http://stream.appwuhan.com/jtpdzb/sd/live.m3u8
+#EXTINF:-1,武汉经济广播
+http://stream.appwuhan.com/cjpdzb/sd/live.m3u8
+#EXTINF:-1,河北旅游文化广播
+https://radio.pull.hebtv.com/live/hebly.m3u8
+#EXTINF:-1,石家庄新闻广播
+http://pluslive2.sjzntv.cn/aac_xwgb/playlist.m3u8
+#EXTINF:-1,石家庄经济广播
+http://pluslive2.sjzntv.cn/aac_jjgb/playlist.m3u8
+#EXTINF:-1,石家庄交通广播
+http://pluslive2.sjzntv.cn/aac_jtgb/playlist.m3u8
+#EXTINF:-1,石家庄绿色广播
+http://pluslive2.sjzntv.cn/aac_lsgb/playlist.m3u8
+#EXTINF:-1,绍兴之声
+http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
+#EXTINF:-1,绍兴交通广播
+http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
+#EXTINF:-1,万州综合广播
+http://123.146.162.24:8013/tslslive/L4cvRM0/hls/live_sd.m3u8
+#EXTINF:-1,万州交通广播
+http://123.146.162.24:8013/tslslive/gBEcw39/hls/live_sd.m3u8
+#EXTINF:-1,宁波新闻综合广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts04_920.m3u8
+#EXTINF:-1,宁波老少广播·阳光904
+http://ihzlh.linker.cc/ihzlh/zjnb_ts05_904.m3u8
+#EXTINF:-1,宁波交通广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts01_939.m3u8
+#EXTINF:-1,宁波经济广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts03_1029.m3u8
+#EXTINF:-1,深圳新闻广播先锋898
+http://satpili-live-hls.mp.sztv.com.cn/satlive/sat_FM898.m3u8
+#EXTINF:-1,惠州综合广播
+http://stream.hztvmg.com/gbtest2/sd/live.m3u8
+#EXTINF:-1,福州左海之声
+http://live.zohi.tv/audio/s10001-FM901/index.m3u8
+#EXTINF:-1,福州交通之声
+http://live.zohi.tv/audio/s10001-FM876/index.m3u8
+#EXTINF:-1,福州新闻广播
+http://live.zohi.tv/audio/s10001-FM944/index.m3u8
+#EXTINF:-1,南宁综合广播
+http://hls.nntv.cn/nnradio/FM1014.m3u8
+#EXTINF:-1,南宁交通音乐广播
+http://hls.nntv.cn/nnradio/FM1074.m3u8
+#EXTINF:-1,开州之声
+http://183.64.174.171:10124/tlgb.m3u8
+#EXTINF:-1,太原综合广播
+http://live.cooltv.top/tv/tide.php?id=tyzhgb
+#EXTINF:-1,太原经济广播
+http://live.cooltv.top/tv/tide.php?id=tyjjgb
+#EXTINF:-1,太原交通广播
+http://live.cooltv.top/tv/tide.php?id=tyjtgb
+#EXTINF:-1,太原老年之声
+http://live.cooltv.top/tv/tide.php?id=tylnzs
+#EXTINF:-1,晋中综合广播
+http://jzlive.jztvnews.com:90/live/fm1034.m3u8
+#EXTINF:-1,晋中交通文艺广播
+http://jzlive.jztvnews.com:90/live/fm921.m3u8
+#EXTINF:-1,宜昌新闻综合广播
+http://play.3xgd.com/fm/xwt.m3u8
+#EXTINF:-1,宜昌交通广播
+http://play.3xgd.com/fm/jtt.m3u8
+#EXTINF:-1,欢乐调频
+http://starfish.bj.aliyun.007.qingting.fm:8000/huanletiaopin
+#EXTINF:-1,房山电台
+http://live.funhillrm.com/3/sd/live.m3u8
+#EXTINF:-1,HitFM北部
+http://live.cooltv.top/tv/hitfm_backup.php?id=1
+#EXTINF:-1,HitFM南部
+http://live.cooltv.top/tv/hitfm_backup.php?id=3
+#EXTINF:-1,HitFM中部
+http://live.cooltv.top/tv/hitfm_backup.php?id=2
+#EXTINF:-1,HitFM花东
+http://live.cooltv.top/tv/hitfm_backup.php?id=5
+#EXTINF:-1,HitFM宜兰
+http://live.cooltv.top/tv/hitfm_backup.php?id=4
+#EXTINF:-1,PopRadio台北流行广播
+http://live.cooltv.top/tv/popradio_backup.php?id=1
+#EXTINF:-1,PopRadio好听广播
+http://live.cooltv.top/tv/popradio_backup.php?id=2
+#EXTINF:-1,港都983
+http://live.cooltv.top/tv/bestradio_backup.php?id=3
+#EXTINF:-1,好事903
+http://live.cooltv.top/tv/bestradio_backup.php?id=2
+#EXTINF:-1,好事989
+http://live.cooltv.top/tv/bestradio_backup.php?id=1
+#EXTINF:-1,好事935
+http://live.cooltv.top/tv/bestradio_backup.php?id=4
+#EXTINF:-1,A-Line Radio 网路音乐台
+http://live.cooltv.top/tv/appleline.php?id=aline
+#EXTINF:-1,青春电台
+http://live.cooltv.top/tv/appleline.php?id=ch04
+#EXTINF:-1,正港电台
+http://live.cooltv.top/tv/appleline.php?id=ch05
+#EXTINF:-1,阳光电台
+http://live.cooltv.top/tv/appleline.php?id=young
+#EXTINF:-1,CityFM台南知音
+http://fm971.cityfm.tw:8080/971.mp3
+#EXTINF:-1,CityFM城市广播
+http://fm929.cityfm.tw:8080/929.mp3
+#EXTINF:-1,CityFM台北健康
+http://fm901.cityfm.tw:8080/901.mp3
+#EXTINF:-1,CityFM大苗栗广播
+http://fm983.cityfm.tw:8080/983.mp3
+#EXTINF:-1,KissRadio大众广播
+http://live.cooltv.top/tv/kissradio_backup.php
+#EXTINF:-1,台北爱乐FM99.7
+http://live.cooltv.top/tv/e-classical.php?id=onair
+#EXTINF:-1,台北爱乐Kids
+http://live.cooltv.top/tv/e-classical.php?id=kids
+#EXTINF:-1,台北爱乐Jazz
+http://live.cooltv.top/tv/e-classical.php?id=jazz
+#EXTINF:-1,台北乐UR Classical
+http://live.cooltv.top/tv/e-classical.php?id=urclassical
+#EXTINF:-1,台北爱乐Oldies but Goodies
+http://live.cooltv.top/tv/e-classical.php?id=goodies
+#EXTINF:-1,台湾古典音乐台
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1,BravoFM台北都会音乐台
+https://onair.bravo913.com.tw:9130/live.mp3
+#EXTINF:-1,台中古典音乐台
+https://onair.family977.com.tw:8977/live.mp3
+#EXTINF:-1,光华之声
+http://live.cooltv.top/tv/kwongwah.php
+#EXTINF:-1,汉声广播电台FM
+http://live.cooltv.top/tv/voh.php?id=1
+#EXTINF:-1,汉声广播电台AM
+http://live.cooltv.top/tv/voh.php?id=2
+#EXTINF:-1,复兴电台
+http://live.cooltv.top/tv/fhbs.php
+#EXTINF:-1,环宇广播
+http://stream.rcs.revma.com/srn5f9kmwxhvv
+#EXTINF:-1,M-Radio全国广播
+http://stream.rcs.revma.com/044q61ha7a0uv
+#EXTINF:-1,中广音乐网
+http://n07.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1,中广新闻网
+http://n12.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1,中广流行网
+http://n14.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1,AsiaFM亚洲电台
+http://stream.rcs.revma.com/xpgtqc74hv8uv
+#EXTINF:-1,AsiaFM亚太电台
+http://stream.rcs.revma.com/kydend74hv8uv
+#EXTINF:-1,FlyRadio飞扬调频
+http://stream.rcs.revma.com/e0tdah74hv8uv
+#EXTINF:-1,News98新闻台
+http://n12.rcs.revma.com/55tyxsy4qtzuv
+#EXTINF:-1,飞碟电台
+http://n08.rcs.revma.com/em90w4aeewzuv
+#EXTINF:-1,全国治安交通台
+http://stream.pbs.gov.tw:1935/live/PBS/playlist.m3u8
+#EXTINF:-1,警察广播高雄分台
+http://stream.pbs.gov.tw:1935/live/KSS/playlist.m3u8
+#EXTINF:-1,警察广播台北分台
+http://stream.pbs.gov.tw:1935/live/TPS/playlist.m3u8
+#EXTINF:-1,警察广播台中分台
+http://stream.pbs.gov.tw:1935/live/TCS/playlist.m3u8
+#EXTINF:-1,警察广播台南分台
+http://stream.pbs.gov.tw:1935/live/TNS/playlist.m3u8
+#EXTINF:-1,警察广播台东分台
+http://stream.pbs.gov.tw:1935/live/TTS/playlist.m3u8
+#EXTINF:-1,警察广播新竹分台
+http://stream.pbs.gov.tw:1935/live/SCS/playlist.m3u8
+#EXTINF:-1,警察广播花莲分台
+http://stream.pbs.gov.tw:1935/live/HLS/playlist.m3u8
+#EXTINF:-1,警察广播宜兰分台
+http://stream.pbs.gov.tw:1935/live/ELS/playlist.m3u8
+#EXTINF:-1,国立教育电台
+http://wowza.ner.gov.tw/live/_definst_/1/playlist.m3u8
+#EXTINF:-1,台中广播电台
+http://211.20.119.101:8081
+#EXTINF:-1,正声综合
+http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live2/playlist.m3u8
+#EXTINF:-1,正声FM104.1
+http://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/playlist.m3u8
+#EXTINF:-1,轻松电台
+http://stream.rcs.revma.com/k41z6wadu5hvv
+#EXTINF:-1,RTI国语
+http://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+#EXTINF:-1,飞特电台
+https://phate.io/listen.ogg
+#EXTINF:-1,正义电台
+http://211.20.119.103:8081
+#EXTINF:-1,太阳电台
+http://211.20.119.102:8081
+#EXTINF:-1,Ai FM
+https://23693.live.streamtheworld.com/AI_FMAAC.aac
+#EXTINF:-1,CAPITAL 958
+https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+#EXTINF:-1,988
+https://23693.live.streamtheworld.com/988_FMAAC.aac
+#EXTINF:-1,MY
+https://astro1.rastream.com/myfm
+#EXTINF:-1,Melody
+https://astro3.rastream.com/melody
+#EXTINF:-1,8FM
+https://mediaprima.rastream.com/mediaprima-onefm
+#EXTINF:-1,YES 933
+https://22393.live.streamtheworld.com/YES933_PREM.aac
+#EXTINF:-1,LOVE 972
+https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+#EXTINF:-1,法国国际广播电台
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1,美国之音
+http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+#EXTINF:-1,自由亚洲电台
+http://rfahls-i.akamaihd.net/hls/live/226232/RFALive_1/index.m3u8
+#EXTINF:-1,CNA 938
+https://14033.live.streamtheworld.com/938NOW_PREM.aac
+#EXTINF:-1,n p r | News and Culture
+https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+#EXTINF:-1,n p r | Eclectic24
+https://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+#EXTINF:-1,n p r | WUNC
+http://216.246.39.189/wunc-source
+#EXTINF:-1,n p r | KJZZ
+http://kjzz.streamguys1.com/kjzz_aac_high
+#EXTINF:-1,n p r | WLRN
+https://hls.wlrn.mobi/live/WLRNFMAAC/live/WLRNFMAAC256/playlist.m3u8
+#EXTINF:-1,n p r | WBEZ
+http://stream.wbez.org/wbezlinear
+#EXTINF:-1,n p r | MPR News
+http://nis.stream.publicradio.org/nis.mp3
+#EXTINF:-1,n p r | KCRW News
+http://kcrw.streamguys1.com/kcrw_192k_mp3_news
+#EXTINF:-1,n p r | KCRW LIVE
+http://kcrw.streamguys1.com/kcrw_192k_mp3_on_air
+#EXTINF:-1,n p r | WOSU
+http://wosu.streamguys1.com/NPR_256
+#EXTINF:-1,n p r | WAMU
+http://hls-1.wamu.org/itunes/256/playlist.m3u8
+#EXTINF:-1,n p r | WBUR
+http://wowza-stream.wbur.org/hls/smil:wbur.smil/hls/wbur256/playlist.m3u8
+#EXTINF:-1,n p r | KPBS
+http://kpbs-wowza.streamguys1.com/live/smil:kpbs.smil/live/kpbs256kaac.stream/playlist.m3u8
+#EXTINF:-1,n p r | KUT
+http://kut-hls.streamguys1.com/kut1/256/playlist.m3u8
+#EXTINF:-1,n p r | GPB
+http://gpb-hls.streamguys1.com/itunes256/playlist.m3u8
+#EXTINF:-1,n p r | WUWM
+http://wuwm.streamguys1.com/live
+#EXTINF:-1,n p r | WKNO
+http://17993.live.streamtheworld.com:3690/WKNOFM_ADP.aac
+#EXTINF:-1,n p r | KUAZ
+http://streaming.azpm.org/kuaz192.mp3
+#EXTINF:-1,n p r | WCMU
+http://26293.live.streamtheworld.com:3690/WCMUFM_ADP.aac
+#EXTINF:-1,n p r | WCBE
+http://24153.live.streamtheworld.com:3690/WCBEFM_ADP.aac
+#EXTINF:-1,n p r | KBIA
+http://26313.live.streamtheworld.com:3690/KBIAFMAAC_256.aac
+#EXTINF:-1,n p r | WVRO
+http://26293.live.streamtheworld.com:3690/WRVOFM_ADP.aac
+#EXTINF:-1,n p r | NCPR
+http://ncpr-ice.streamguys1.com/ncpr-256k.aac
+#EXTINF:-1,n p r | Radio IQ
+http://wvtf-ice.streamguys1.com/radioiq-aac-256
+#EXTINF:-1,n p r | WVPE
+http://26293.live.streamtheworld.com:3690/WVPEFM_ADP.aac
+#EXTINF:-1,n p r | KNPR
+http://18823.live.streamtheworld.com/KNPRFM_ADP_SC
+#EXTINF:-1,FOX News Radio
+http://tunein.streamguys1.com/foxnews
+#EXTINF:-1,CNNi
+http://tunein.ord.streamguys1.com/secure-CNNi
+#EXTINF:-1,Al Jazeera
+http://tunein.ord.streamguys1.com/secure-aljazeera-english
+#EXTINF:-1,Bloomberg TV
+http://tunein.streamguys1.com/BloombergTV
+#EXTINF:-1,ESPN
+http://tunein.streamguys1.com/ESPNTV
+#EXTINF:-1,ESPN Radio
+http://tunein.streamguys1.com/ESPNRadio
+#EXTINF:-1,VOA Global English
+http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+#EXTINF:-1,阿里郎电台(视频)
+http://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1,阿里郎电台(音频)
+http://amdlive-ch03.ctnd.com.edgesuite.net/arirang_3ch/arirang_3ch_audio/playlist.m3u8
+#EXTINF:-1,音乐之声
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1,经典音乐广播
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1,动感101
+http://live.cooltv.top/tv/news1296.php?id=4
+#EXTINF:-1,Love Radio
+http://live.cooltv.top/tv/news1296.php?id=7
+#EXTINF:-1,KFM981
+http://live.cooltv.top/tv/news1296.php?id=9
+#EXTINF:-1,经典947
+http://live.cooltv.top/tv/news1296.php?id=8
+#EXTINF:-1,江苏音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=415
+#EXTINF:-1,南京音乐广播
+http://hls.njgb.com/live_hls/4/playlist.m3u8
+#EXTINF:-1,南京城市管理广播
+http://hls.njgb.com/live_hls/5/playlist.m3u8
+#EXTINF:-1,南京cool radio
+http://hls.njgb.com/live_hls/8/playlist.m3u8
+#EXTINF:-1,北京音乐广播
+https://brtv-radiolive.rbc.cn/alive/fm974.m3u8
+#EXTINF:-1,芒果时空音乐电台
+http://live.cooltv.top/tv/ytradio.php?id=524
+#EXTINF:-1,芒果音乐台
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+#EXTINF:-1,南宁乡村生活广播经典1049
+http://hls.nntv.cn/nnradio/FM1049.m3u8
+#EXTINF:-1,南宁故事广播快乐895
+http://hls.nntv.cn/nnradio/FM895.m3u8
+#EXTINF:-1,苏州音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=697
+#EXTINF:-1,北京经典969
+http://live.funhillrm.com/4/sd/live.m3u8
+#EXTINF:-1,河北汽车音乐台
+https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+#EXTINF:-1,山东经典音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=703
+#EXTINF:-1,经典948
+http://live.cooltv.top/tv/iqilu.php?id=948
+#EXTINF:-1,甘肃青春调频
+http://live.cooltv.top/tv/ytradio.php?id=485
+#EXTINF:-1,甘肃都市调频
+http://live.cooltv.top/tv/ytradio.php?id=484
+#EXTINF:-1,海峡之声·文化生活广播
+http://47.107.255.25:1935/live/liveSh/800k/tzwj_video.m3u8
+#EXTINF:-1,宜昌音乐生活广播
+http://play.3xgd.com/fm/qct.m3u8
+#EXTINF:-1,南昌经济生活广播
+http://live.cooltv.top/tv/nctv.php?id=7
+#EXTINF:-1,宁波音乐广播
+http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+#EXTINF:-1,PlayFM甬江之声
+http://netlive.zhxwzx.com/live/1001.m3u8
+#EXTINF:-1,楚天音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=533
+#EXTINF:-1,广西音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=590
+#EXTINF:-1,广西经济广播·女主播电台
+http://live.cooltv.top/tv/ytradio.php?id=587
+#EXTINF:-1,四川城市之音
+http://live.cooltv.top/tv/ytradio.php?id=450
+#EXTINF:-1,河北音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=381
+#EXTINF:-1,郑州音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=717
+#EXTINF:-1,河南音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=395
+#EXTINF:-1,河南BigRadio
+http://live.cooltv.top/tv/ytradio.php?id=1173
+#EXTINF:-1,开封音乐广播
+http://live.dxhmt.cn:9081/gb/10200-4.m3u8
+#EXTINF:-1,广东音乐之声
+http://live.cooltv.top/tv/ytradio.php?id=489
+#EXTINF:-1,海南音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=543
+#EXTINF:-1,重庆音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=372
+#EXTINF:-1,黑龙江音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=552
+#EXTINF:-1,福建汽车音乐广播
+http://live.cooltv.top/tv/ytradio.php?id=471
+#EXTINF:-1,福州音乐广播
+http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+#EXTINF:-1,成都文化休闲广播·radio946
+http://live.cooltv.top/tv/cdgb.php?id=946
+#EXTINF:-1,AsiaFM 亚洲音乐台
+http://asiafm.vip:8000/fm965
+#EXTINF:-1,WHIZ Radio 海口音乐广播
+http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
+#EXTINF:-1,青岛音乐体育广播
+http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
+#EXTINF:-1,青岛摩登音乐调频
+http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+#EXTINF:-1,绍兴私家车音乐广播
+http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
+#EXTINF:-1,扬州经济音乐广播
+http://live.cooltv.top/tv/yz.php?id=jjyy
+#EXTINF:-1,武汉音乐广播
+http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+#EXTINF:-1,武汉青少广播·M-radio
+http://stream.appwuhan.com/sepdzb/sd/live.m3u8
+#EXTINF:-1,烟台音乐广播
+http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
+#EXTINF:-1,惠州音乐广播
+http://stream.hztvmg.com/test17/playlist.m3u8
+#EXTINF:-1,年代959
+http://live.cooltv.top/tv/ytradio.php?id=2397
+#EXTINF:-1,太原音乐广播
+http://live.cooltv.top/tv/tide.php?id=tyyygb
+#EXTINF:-1,石家庄音乐广播
+http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
+#EXTINF:-1,崇州电台年代音乐1022
+http://live.cooltv.top/tv/cdgb.php?id=433-1315
+#EXTINF:-1,凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+#EXTINF:-1,凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
+#EXTINF:-1,CCTV-1 综合
+https://piccpndali.v.myalicdn.com/audio/cctv1_2.m3u8
+#EXTINF:-1,CCTV-2 财经
+https://piccpndali.v.myalicdn.com/audio/cctv2_2.m3u8
+#EXTINF:-1,CCTV-3 综艺
+https://piccpndali.v.myalicdn.com/audio/cctv3_2.m3u8
+#EXTINF:-1,CCTV-4 (亚洲)
+https://piccpndali.v.myalicdn.com/audio/cctv4_2.m3u8
+#EXTINF:-1,CCTV-4 (欧洲)
+https://piccpndali.v.myalicdn.com/audio/cctveurope_2.m3u8
+#EXTINF:-1,CCTV-4 (美洲)
+https://piccpndali.v.myalicdn.com/audio/cctvamerica_2.m3u8
+#EXTINF:-1,CCTV-5 体育
+https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8
+#EXTINF:-1,CCTV-5+ 体育赛事
+https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8
+#EXTINF:-1,CCTV-6 电影
+https://piccpndali.v.myalicdn.com/audio/cctv6_2.m3u8
+#EXTINF:-1,CCTV-7 国防军事
+https://piccpndali.v.myalicdn.com/audio/cctv7_2.m3u8
+#EXTINF:-1,CCTV-8 电视剧
+https://piccpndali.v.myalicdn.com/audio/cctv8_2.m3u8
+#EXTINF:-1,CCTV-9 纪录
+https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8
+#EXTINF:-1,CCTV-10 科教
+https://piccpndali.v.myalicdn.com/audio/cctv10_2.m3u8
+#EXTINF:-1,CCTV-11 戏曲
+https://piccpndali.v.myalicdn.com/audio/cctv11_2.m3u8
+#EXTINF:-1,CCTV-12 社会与法
+https://piccpndali.v.myalicdn.com/audio/cctv12_2.m3u8
+#EXTINF:-1,CCTV-13 新闻
+https://piccpndali.v.myalicdn.com/audio/cctv13_2.m3u8
+#EXTINF:-1,CCTV-14 少儿
+https://piccpndali.v.myalicdn.com/audio/cctv14_2.m3u8
+#EXTINF:-1,CCTV-15 音乐
+https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+#EXTINF:-1,CCTV-16奥林匹克
+https://piccpndali.v.myalicdn.com/audio/cctv16_2.m3u8
+#EXTINF:-1,CCTV-17农业农村
+https://piccpndali.v.myalicdn.com/audio/cctv17_2.m3u8
+#EXTINF:-1,CGTN
+http://stream.zeno.fm/ambvmys65rquv
+#EXTINF:-1,贵州卫视
+https://piccpndali.v.myalicdn.com/audio/guizhou_2.m3u8
+#EXTINF:-1,香港卫视
+https://piccpndali.v.myalicdn.com/audio/xianggangweishi_2.m3u8
+#EXTINF:-1,青海卫视
+https://piccpndali.v.myalicdn.com/audio/qinghai_2.m3u8
+#EXTINF:-1,北京新闻
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv9_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,北京文艺
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv2_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,北京纪实科教
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv3_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,北京影视
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,北京财经
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,北京体育休闲
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv6_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,北京生活
+https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
+#EXTINF:-1,CETV-1
+https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
+#EXTINF:-1,CETV2
+https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
+#EXTINF:-1,中国教育3
+https://piccpndali.v.myalicdn.com/audio/cetv3_2.m3u8
+#EXTINF:-1,CETV-4空中课堂
+https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
+#EXTINF:-1,第一财经
+http://a1live.livecdn.yicai.com/live/radio_tv.m3u8
 
-
-A SportsHD 
-http://175.107.244.52:4456/play/a04p/index.m3u8
-#EXTINF:-1,Geo Super
-http://103.162.136.103:25461/live/FAH/fah/98.m3u8
-#EXTINF:-1,GEO TV
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1,Willow
-http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
-
-
-
+================================================================================================================================
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
@@ -3419,8 +4289,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Varendra Tv
 http://iptvbd.jagobd.com:1931/live-orgin/varendratv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boishakhi Plus
-http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Boishakhi Tv
 http://iptvbd.jagobd.com:1931/live-orgin/boishakhitv-org.stream/playlist.m3u8
@@ -3926,6 +4795,16 @@ http://116.202.231.21/hls/RedLine_beIN_Sports_4.m3u8
 http://116.202.231.21/hls/RedLine_beIN_Sports_5.m3u8
 #EXTINF:-1, Asports
 http://tv.bdiptv24.online/live/star2/jointelegram@freeiptv25.m3u8
+#EXTINF:-1,GEO SUEPR
+http://175.107.244.52:4456/play/a06z/index.m3u8
+#EXTINF:-1,A SportsHD 
+http://175.107.244.52:4456/play/a04p/index.m3u8
+#EXTINF:-1,Geo Super
+http://103.162.136.103:25461/live/FAH/fah/98.m3u8
+#EXTINF:-1,GEO TV
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1,Willow
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png", SUPER SPORTS CRICKET
 http://pakin2.worldtvip.co:9090/za_ss_cricket/index.m3u8?token=4d23a66803f624f0038d1348d8e77da9
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png", SUPER SPORTS CRICKET
@@ -3953,6 +4832,8 @@ http://103.162.136.103:25461/FAH/fah/544
 http://212.46.43.64/pk_tensports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dc534a39-d741-41c6-bd1a-651381b15e99/dfpmqx5-57888dbe-d72c-4bc4-b4fe-f53894c8c78b.png/v1/fill/w_1279,h_625/astro_cricket_screen_bug_logo_by_tv4malaysia_dfpmqx5-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTU5NiIsInBhdGgiOiJcL2ZcL2RjNTM0YTM5LWQ3NDEtNDFjNi1iZDFhLTY1MTM4MWIxNWU5OVwvZGZwbXF4NS01Nzg4OGRiZS1kNzJjLTRiYzQtYjRmZS1mNTM4OTRjOGM3OGIucG5nIiwid2lkdGgiOiI8PTMyNjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.78JECR0nmenNX44m3icPSyZi2L3P7he8W97IPyu81lU", ASTRO CRICKET HD
 https://atc.hopto.org/Cricket-Astro-cricket/tracks-v1a1/mono.m3u8
+
+================================================================================================================================================================================
 
 #EXTINF:-1 group-title="China TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Xing_Kong.svg/revision/latest/scale-to-width-down/200?cb=20230402103445", STAR CHINA TV
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
