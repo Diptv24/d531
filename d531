@@ -4837,22 +4837,23 @@ https://atc.hopto.org/Cricket-Astro-cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="China TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Xing_Kong.svg/revision/latest/scale-to-width-down/200?cb=20230402103445", STAR CHINA TV
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1693567941-cdn", PPTV HD 36
-https://cdn6.goprimetime.info/feed/202306140918/chpptvhd/index.m3u8
+
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1693567941-cdn", PPTV HD 36
 https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeZDEwYTA3MzAwYzM2MzAwMWQ1MANDkyZTg2MDFhMmJlYjdk
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png", NBT 2
-https://cdn6.goprimetime.info/feed/202306140918/chnbt/index.m3u8
+https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=cjeNzY0NGI0MGU5MWI2NmM0ZjAyYwNjlkYjE2MDRkMmM4ZmQ2
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/02/7flix-logo.png", 7FLEX
 http://61.19.242.134/feed/202306140918/LC5/playlist.m3u8
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/1200px-MCOT_Ch9_Logo.png", MCOT HD 30
 https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://mono29.com/app/uploads/2018/05/LOGO-1.png", MONO 29 HD
-https://cdn6.goprimetime.info/feed/202306140918/chmono29/index.m3u8
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://mono29.com/app/uploads/2018/05/LOGO-1.png", MONO 29 HD
 https://s0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=cjeYWE0M2FjY2ZlZThkYTdlOWVhNAODc1YmVmZDEzMmE2MzJk
-
-
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CHANNEL 3 HD
+https://s0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeZWQ1ZjJmYjY0ZGJiYWM0MzQxZQMTY5NDI4MWVlZjU0ZWEy
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/thai-tv5-hd-9304.webp", CHANNEL 5 HD
+https://s0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=cjeZDZmMGI4MGUxNDRlYzlhMzhiMQNDE0MWQ2ODBjYWEyYjc0
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cartoon-club-tv-8728-w360.webp", CARTOON CLUB
+https://s0.cdn.vet/live/ch31/i/ch31i.m3u8?sid=cjeOWQwNTgyMmM3Njk0MmJkYzc5MgNWFlMDFmNTkxMDM0NGZk
 
 
 
