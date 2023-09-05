@@ -4856,10 +4856,11 @@ http://123.6.9.146/live/jz-cctv-5/live.m3u8
 http://123.6.9.146/live/jz-cctv-6/live.m3u8
 #EXTINF:-1 group-title="China TV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/6/10/1654828698005_552.png", CCTV 7 M&D
 http://123.6.9.146/live/jz-cctv-7/live.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/18/1647597680980_785.png", CCTV 9
+https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8
+#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg", CCTV 10
+https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8
+=========================================================================================================================================
 
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1693567941-cdn", PPTV HD 36
 https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeZDEwYTA3MzAwYzM2MzAwMWQ1MANDkyZTg2MDFhMmJlYjdk
@@ -4877,7 +4878,6 @@ https://s0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeZWQ1ZjJmYjY0ZGJiYWM0MzQxZQMTY5NDI
 https://s0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=cjeZDZmMGI4MGUxNDRlYzlhMzhiMQNDE0MWQ2ODBjYWEyYjc0
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cartoon-club-tv-8728-w360.webp", CARTOON CLUB
 https://s0.cdn.vet/live/ch31/i/ch31i.m3u8?sid=cjeOWQwNTgyMmM3Njk0MmJkYzc5MgNWFlMDFmNTkxMDM0NGZk
-
 
 
 
