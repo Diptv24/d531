@@ -4811,6 +4811,11 @@ http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea
 http://pakin2.worldtvip.co:9090/za_ss_cricket/index.m3u8?token=4d23a66803f624f0038d1348d8e77da9
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png", SUPER SPORTS CRICKET
 http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png", SUPER SPORTS GRANDSTAND
+http://webudit.cdnhks.lol/lb/premium412/index.m3u8?|Referer=https://streamservicehd.click/&e=.m3u8/&user-agent=Android
+
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9lc_FobeYlzKCLX5rICcaSxe5hXJVTONQWg&usqp=CAU"", SONY LIV
 https://dai.google.com/linear/hls/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png", SUPER SPORTS VARITY 1
@@ -4839,6 +4844,22 @@ https://atc.hopto.org/Cricket-Astro-cricket/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="China TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/Xing_Kong.svg/revision/latest/scale-to-width-down/200?cb=20230402103445", STAR CHINA TV
 http://210.210.155.37/x6bnqe/s/s94/index2.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/18/1647586299749_488.png", CCTV 1
+http://123.6.9.146/live/jz-cctv-1/live.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2022/3/18/1647589588472_235.png", CCTV 3
+http://123.6.9.146/live/jz-cctv-3/live.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://cdn.imgbin.com/8/21/24/imgbin-china-central-television-cctv-4-cgtn-russian-cctv-channels-tlevision-channel-others-wRiRRpZdrb6JN6Ge1vs3khbPb.jpg", CCTV 4
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/90/CCTV-5%2B_Logo.png", CCTV 5
+http://123.6.9.146/live/jz-cctv-5/live.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://w7.pngwing.com/pngs/511/418/png-transparent-cctv-movie-live-broadcast-watch-online-cctv-tv-station.png", CCTV 6 MOVIE
+http://123.6.9.146/live/jz-cctv-6/live.m3u8
+#EXTINF:-1 group-title="China TV" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2022/6/10/1654828698005_552.png", CCTV 7 M&D
+http://123.6.9.146/live/jz-cctv-7/live.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1693567941-cdn", PPTV HD 36
 https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeZDEwYTA3MzAwYzM2MzAwMWQ1MANDkyZTg2MDFhMmJlYjdk
