@@ -4336,26 +4336,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://iptvbd.jagobd.com:1931/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1, GEO TV
-http://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1, GEO TEZ
-http://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/TEZ/Live1/chunks.m3u8
-#EXTINF:-1, GEO KAHINI
-http://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1, GEO NEWS
-http://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
-#EXTINF:-1, ARY NEWS
-http://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
-#EXTINF:-1,92NEWS HD
-http://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,92 News (1)
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1,RT News 4K
-http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-#EXTINF:-1,DW NEWS
-http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
-#EXTINF:-1,DUNYA NEWS
-http://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1102151518_b950272.m3u8
+
 #EXTINF:-1,SOMY TEN 2 HD
 http://bokasoka.net:8080/hls/sonyten2.m3u8
 #EXTINF:-1,INDEPENDENT TV
@@ -4891,12 +4872,33 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
 
-
-
-
-#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://live.aryqtv.tv/assets/images/ary-qtv-logo.png", ARY QTV
+===========================================================================================================================================
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png", GEO TV
+http://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tez_pk.png", GEO TEZ
+http://jk3lz82elw79-hls-live.5centscdn.com/TEZ/955ad3298db330b5ee880c2c9e6f23a0.sdp/TEZ/Live1/chunks.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="", GEO KAHINI
+http://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_kahani_pk.png", GEO NEWS
+http://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd46bf.sdp/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png", ARY NEWS
+http://6zklx4wryw9b-hls-live.5centscdn.com/arynewsweb/app.stream/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png", 92NEWS HD
+http://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/num/92-news-pk.png", 92 News
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/1200px-Russia-today-logo.svg.png", RT News 4K
+http://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW NEWS
+http://iptvbd.jagobd.com:1931/live-orgin/dwnews.stream/chunks.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dunya_news_tv_pk.png", DUNYA NEWS
+http://pkimob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/chunklist_w1102151518_b950272.m3u8
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ary_qtv.png", ARY QTV
 https://aryqtv.aryzap.com/5e05797abf2478ae46f083324b988e7c/64f96b17/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/main.m3u8
-#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://cimages.mjunoon.tv:10088/madani-channel-live.webp?v=229215029", MADANI TV
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-pk.png", MADANI TV
 https://cdn5.mjunoon.tv:8087/web/Madni-121/live/121H/chunks.m3u8?nimblesessionid=377012321&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNjoyNjozMCBBTSZoYXNoX3ZhbHVlPTBURExrSVo1azFMMlNJenRMcUlPWlE9PSZ2YWxpZG1pbnV0ZXM9MQ==
-#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://cimages.mjunoon.tv:10088/samaa-tv-live.webp?v=530201801", SAMA NEWS
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samaa-tv-pk.svg", SAMA NEWS
 https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8?nimblesessionid=377012433&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNjozMjozNiBBTSZoYXNoX3ZhbHVlPUNCNkc0WW0xUHJ1dk02K0xTZTlXOVE9PSZ2YWxpZG1pbnV0ZXM9MQ==
+
+
+
