@@ -4891,3 +4891,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
 
+
+
+
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://live.aryqtv.tv/assets/images/ary-qtv-logo.png", ARY QTV
+https://aryqtv.aryzap.com/5e05797abf2478ae46f083324b988e7c/64f96b17/v1/0183ea2a0eec0b8ed5941a38bc76/0183ea2a4e470b8ed5aa4d793457/main.m3u8
+
