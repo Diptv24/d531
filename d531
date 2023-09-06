@@ -4877,6 +4877,17 @@ https://s0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=cjeZDZmMGI4MGUxNDRlYzlhMzhiMQNDE0MWQ
 https://s0.cdn.vet/live/ch31/i/ch31i.m3u8?sid=cjeOWQwNTgyMmM3Njk0MmJkYzc5MgNWFlMDFmNTkxMDM0NGZk
 
 ============================================================================================================================================
-#EXTINF:-1, GEM SERIES
-https://gg.hls2.xyz/live/IR%20-%20GEM%20Series/chunks.m3u8?nimblesessionid=1960283&wmsAuthSign=c2VydmVyX3RpbWU9OS81LzIwMjMgNDoxOTo1NiBBTSZoYXNoX3ZhbHVlPWFJRk01OTBMK2JRVTI2N2dNN2t6OFE9PSZ2YWxpZG1pbnV0ZXM9NQ==
+#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40d7d18ac1b8c2e6b87ecf0e3410cad7.webp", Tv Osório
+https://serv2.videovox.pw/video13154/video13154/playlist.m3u8
+#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp", Rouge TV
+https://edge15.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aae5dde5753781182166ccca527ff1a0.webp", SIC TV
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e09566ba67685210144b055327ccf1e.webp", COMBATE GLOBAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
+
+#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
+
+#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
 
