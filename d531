@@ -4899,6 +4899,6 @@ https://aryqtv.aryzap.com/5e05797abf2478ae46f083324b988e7c/64f96b17/v1/0183ea2a0
 https://cdn5.mjunoon.tv:8087/web/Madni-121/live/121H/chunks.m3u8?nimblesessionid=377012321&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNjoyNjozMCBBTSZoYXNoX3ZhbHVlPTBURExrSVo1azFMMlNJenRMcUlPWlE9PSZ2YWxpZG1pbnV0ZXM9MQ==
 #EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/ss/samaa-tv-pk.svg", SAMA NEWS
 https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8?nimblesessionid=377012433&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNjozMjozNiBBTSZoYXNoX3ZhbHVlPUNCNkc0WW0xUHJ1dk02K0xTZTlXOVE9PSZ2YWxpZG1pbnV0ZXM9MQ==
-
-
+#EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png", PLAY TV
+https://cdn5.mjunoon.tv:8087/web/playtv-154/live/154M/chunks.m3u8?nimblesessionid=377012619&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNjo0Nzo0NCBBTSZoYXNoX3ZhbHVlPUxrS2Q4QjduRFdaMUpUVzhabjE5cGc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
