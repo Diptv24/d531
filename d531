@@ -2770,8 +2770,6 @@ http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b621735136
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Ekushey Tv
 http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Dbc
-http://172.20.2.5:8082/DBC-NEWS/preview.mp4?token=0d7efbd71ddfe32413f49f56eb48bf10fbda59d3-ba44b98cf6552fba512885ae9c78a685-1681329651-1681318851
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", SATV HD
 http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8
@@ -2781,9 +2779,6 @@ http://172.20.2.5:8082/BanglaVision/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", ATN BANGLA
 http://172.20.2.5:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=bbd10a1928b263601f9acb00f866cd1590f140be-b6e26ffd6623fc6457a44cfadf7b387b-1681329780-1681318980
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", ATN BANGLA
-http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", ATN BANGLA
 http://172.20.2.5:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
@@ -3037,8 +3032,6 @@ http://172.20.2.5:8082/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", MYTV HD
 http://172.20.2.5:8082/MyTV/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Dbc
-http://172.20.2.5:8082/DBC-NEWS/preview.mp4?token=0d7efbd71ddfe32413f49f56eb48bf10fbda59d3-ba44b98cf6552fba512885ae9c78a685-1681329651-1681318851
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", &pictures HD
 http://172.20.2.5:8082/And-Pictures/tracks-v1a1/mono.m3u8?token=5e1dab53ff7c971cc34d885c02f08a21fbc38cf8-b805f40edd48e863137e9db19600441a-1681330020-1681319220
