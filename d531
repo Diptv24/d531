@@ -4132,12 +4132,10 @@ http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", T Sports
 http://103.102.27.173/live/tvfeed1005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
-http://bokasoka.net:8080/hls/Gazi-TV.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png", Gazi Tv
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  MAASRANGA TV
-http://bokasoka.net:8080/hls/masranga.m3u8
+
 #EXTINF:-1, EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
@@ -4337,44 +4335,14 @@ http://iptvbd.jagobd.com:1931/live-orgin/fr24.stream/chunks.m3u8
 #EXTINF:-1,NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1,SOMY TEN 2 HD
-http://bokasoka.net:8080/hls/sonyten2.m3u8
-#EXTINF:-1,INDEPENDENT TV
-http://bokasoka.net:8080/hls/indepen.m3u8
-#EXTINF:-1,GTV HD
-http://bokasoka.net:8080/hls/Gazi-TV.m3u8
-#EXTINF:-1,EKATTOR TV
-http://bokasoka.net:8080/hls/71.m3u8
-#EXTINF:-1,CHANNEL-I
-http://bokasoka.net:8080/hls/channeli.m3u8
-#EXTINF:-1,MAASRANGA TV
-http://bokasoka.net:8080/hls/masranga.m3u8
-#EXTINF:-1,PIX HD
-http://bokasoka.net:8080/hls/sonypixhd.m3u8
-#EXTINF:-1,BBC EARTH HD
-http://bokasoka.net:8080/hls/bbcearth.m3u8
-#EXTINF:-1,MN+ HD
-http://bokasoka.net:8080/hls/mn+.m3u8
-#EXTINF:-1,ROMEDY NOW
-http://bokasoka.net:8080/hls/star-worldhd.m3u8
-#EXTINF:-1,MNX HD
-http://bokasoka.net:8080/hls/mnx-hd.m3u8
-#EXTINF:-1,CINEPLEX HD
-http://bokasoka.net:8080/hls/colorscineplex.m3u8
-#EXTINF:-1,MAX HD
-http://bokasoka.net:8080/hls/sony-maxhd.m3u8
-#EXTINF:-1,9XM
-http://bokasoka.net:8080/hls/9xm.m3u8
-#EXTINF:-1,GOLDMINES
-http://bokasoka.net:8080/hls/starbangla.m3u8
+
 #EXTINF:-1,VIAPLAY XTRA
 http://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
 #EXTINF:-1,Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 #EXTINF:-1,PTV SPORTS HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8
-#EXTINF:-1,PTV SPORTS HD
-http://bokasoka.net:8080/hls/ptv.m3u8
+
 #EXTINF:-1, RTA SPORTS
 http://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1,Star Sports Select 1
