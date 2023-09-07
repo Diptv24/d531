@@ -4255,3 +4255,76 @@ https://cdn5.mjunoon.tv:8087/web/SAMAA-173/live/173H/chunks.m3u8?nimblesessionid
 #EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/pp/play-entertainment-pk.png", PLAY TV
 https://cdn5.mjunoon.tv:8087/web/playtv-154/live/154M/chunks.m3u8?nimblesessionid=377012619&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjMgNjo0Nzo0NCBBTSZoYXNoX3ZhbHVlPUxrS2Q4QjduRFdaMUpUVzhabjE5cGc9PSZ2YWxpZG1pbnV0ZXM9MQ==
 
+
+
+Shahin Dipu, [9/6/2023 10:28 PM]
+#EXTINF:-1, Soudi Tv
+https://cllive.itworkscdn.net/ksa1live/token=nva=1694032066~dirs=1~hash=0de7978e094b7a1c9d752/ksa1.smil/ksa1_source_chunks_dvr.m3u8
+
+Shahin Dipu, [9/6/2023 10:31 PM]
+#EXTINF:-1, Oman Sport
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b4500000.m3u8
+
+Shahin Dipu, [9/6/2023 10:34 PM]
+#EXTINF:-1, Alkass Sports 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1e/master1080.m3u8
+
+#EXTINF:-1, Alkass Sports 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2e/master1080.m3u8
+
+Shahin Dipu, [9/6/2023 10:35 PM]
+#EXTINF:-1, Alkass Sports 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3e/master1080.m3u8
+
+Shahin Dipu, [9/6/2023 10:36 PM]
+#EXTINF:-1, Alkass Sports 4
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/chunklist_b6128000_sleng.m3u8
+
+Shahin Dipu, [9/6/2023 10:37 PM]
+#EXTINF:-1, Alkass Sports 5
+https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/chunklist_b5128000_sleng.m3u8
+
+Shahin Dipu, [9/6/2023 10:43 PM]
+#EXTINF:-1, Rakuten Tv
+https://rakuten-actionmovies-7-fr.plex.wurl.tv/1200.m3u8
+
+Shahin Dipu, [9/6/2023 10:46 PM]
+#EXTINF:-1, RT FRANCE
+https://rt-fra.rttv.com/live/rtfrance/playlist_4500Kb.m3u8
+
+Shahin Dipu, [9/6/2023 11:02 PM]
+#EXTINF:-1, AZ TV
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8
+
+Shahin Dipu, [9/6/2023 11:03 PM]
+
+
+Shahin Dipu, [9/6/2023 11:05 PM]
+#EXTINF:-1, MBC 2
+https://free1.freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.ts?token=TEYLVUAKRwsXAAZXAlIEWlBRVVVaA1FUV1BUUFcCUgcHUFIEVlBXAVcWGhdDFRRdUw5sXV1HXAVaGhATFwZGO14AQQ4RU0cdF0BfWFVDXAkEWgcECFxeD1UaEBYNBxZeFVZRDQNURx0XUU5BVRMIWV48V1FPDAVSQAxcEwgPGEZYCjxQVg8EX1EWDBcAQ0oaWxBDFgMLE1sOGhAEDRdGBUMBQQ4RU1YIBxYaF1MOE1ZGEUoWA0ckc0AaEAMcF1EKRA0MWhFYR0VGFhoXWRI5SlcQR0ZcBAtSEBQIRFRBGEZaBRtrUA0LX1BXQlxfDxUaCEEDFhVHC1gMX0YJFjxEDVNGWRYHUlUHF0k=
+
+Shahin Dipu, [9/6/2023 11:06 PM]
+#EXTINF:-1, MBC 2
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_37_0.m3u8
+
+Shahin Dipu, [9/6/2023 11:06 PM]
+#EXTINF:-1, MBC BOLLYWOOD 
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
+
+Shahin Dipu, [9/7/2023 7:58 AM]
+#EXTINF:-1, Asports
+http://dpny5.1234.uno:6061/asports/index.m3u8
+
+#EXTINF:-1, Star Sports 1 HD
+http://dpny5.1234.uno:6061/starsports1/index.m3u8
+
+#EXTINF:-1, Gazi Tv
+http://dpny5.1234.uno:6061/gazitv/index.m3u8
+
+Shahin Dipu, [9/7/2023 8:01 AM]
+#EXTINF:-1, PTV SPORTS 
+http://dpny1.1234.uno:6061/ptvsports/index.m3u8
+
+Shahin Dipu, [9/7/2023 8:02 AM]
+#EXTINF:-1, Star Sports Tamil hd
+http://dpny2.1234.uno:6061/starsportstamil/tracks-v1a1/mono.m3u8
