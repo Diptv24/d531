@@ -4320,6 +4320,8 @@ http://dpny5.1234.uno:6061/starsports1/index.m3u8
 
 #EXTINF:-1, Gazi Tv
 http://dpny5.1234.uno:6061/gazitv/index.m3u8
+#EXTINF:-1, EURO SPORTS
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/70318f9c-3b14-4a97-8460-061548b5b26f/2.m3u8
 
 Shahin Dipu, [9/7/2023 8:01 AM]
 #EXTINF:-1, PTV SPORTS 
