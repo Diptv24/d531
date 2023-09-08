@@ -4124,3 +4124,17 @@ http://dpny1.1234.uno:6061/ptvsports/index.m3u8
 Shahin Dipu, [9/7/2023 8:02 AM]
 #EXTINF:-1, Star Sports Tamil hd
 http://dpny2.1234.uno:6061/starsportstamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png", SPORTS TV 1
+http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viaplay-xtra-uk.svg", VIAPLAY EXTRA
+https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-us.svg",ESPN 
+http://fadder.eletrinho.shop:2095/live/espn/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-2-us.svg", ESPN 2
+http://fadder.eletrinho.shop:2095/live/espn2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-3-america-latina-us.png", ESPN 3
+http://fadder.eletrinho.shop:2095/live/espn3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/espn-4-us.svg", ESPN 4
+http://fadder.eletrinho.shop:2095/live/espn4/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-06.svg", SPORT 1
+http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
