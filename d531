@@ -3,8 +3,6 @@
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png", BANGLA VISION (Ayna)
-https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1694183329~exp=1694213329~acl=/banglavision/*~data=103.114.10.179-WEB~hmac=689a57261706dc14b3f70ba5fa366db8ebab6fd7d960a090d9adc21271d98f64
 #EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png", Bangla Vision
 https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1694183329~exp=1694213329~acl=/banglavision/*~data=103.114.10.179-WEB~hmac=689a57261706dc14b3f70ba5fa366db8ebab6fd7d960a090d9adc21271d98f64
 #EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Desh_tv_logo.jpg/640px-Desh_tv_logo.jpg", Desh Tv
