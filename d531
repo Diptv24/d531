@@ -8,6 +8,8 @@ http://103.141.2.37:25461/web/web/592
 http://172.20.2.5:8082/Gazi-Tv/tracks-a1/index.fmp4.m3u8?token=de14db1ab621e10abbc9bb83747aaae732d0edc5-905b69ae923fe3c90b4dc93bb1bd4f5d-1693863702-1693852902
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
 https://iptvbd.live/test/1080.m3u8
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nagorik-tv-bd.png", NAGORIK TV
+http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
 #EXTINF:-1 group-title="Bangla Channels"tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
 http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels"tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png", Somoy Tv
