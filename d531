@@ -4167,3 +4167,22 @@ http://fadder.eletrinho.shop:2095/live/espn3/chunks.m3u8
 http://fadder.eletrinho.shop:2095/live/espn4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-06.svg", SPORT 1
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
+
+
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg", ARY DIGITAL
+https://tvs2.aynaott.com/ARYDigitalAsiaHD/tracks-v1a1/mono.m3u8?hdnts=st=1694188475~exp=1694218475~acl=/ARYDigitalAsiaHD/*~data=103.114.10.176-WEB~hmac=da26e64ad7f4b29f1b3770e8aa34882229fa42628ad6649c76d07ad77b23534e
+
+
+
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/212f672e-2426-46b3-af8e-42f64114cdee_180x180_ARYMusik.jpg",  ARY MUZIK
+https://tvs2.aynaott.com/ARYMusik/tracks-v1a1/mono.m3u8?hdnts=st=1694188638~exp=1694218638~acl=/ARYMusik/*~data=103.114.10.179-WEB~hmac=99d4cd3e2d22657ab5b5372258685370bae94db0c0ac827e2415becb1aff1bfd
+
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e666ec64-9ce0-46d2-a86c-61fced11d54d_180x180_ARYNewsAsia.jpg",  ARY NEWS 
+https://tvs2.aynaott.com/ARYNewsAsia/tracks-v1a1/mono.m3u8?hdnts=st=1694188688~exp=1694218688~acl=/ARYNewsAsia/*~data=103.114.10.179-WEB~hmac=0ba79dd9073ca974026041a5477f4c8e8d2c737bedcd88b8248785ef741a0430
+
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d0ef5ac-a2b3-46b6-add6-9c47155ad8b6_180x180_ARYZindagi.jpg", ARY ZINDEGHI
+https://tvs2.aynaott.com/ARYZindagi/tracks-v1a1/mono.m3u8?hdnts=st=1694188730~exp=1694218730~acl=/ARYZindagi/*~data=103.114.10.179-WEB~hmac=d181103a5b1fcf4e4aac678175f58bff60615bdaab08b300a3cecadd95412a29
+
+
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc0a5605-e69b-4bfc-83ad-8fbf9cb19026_180x180_ARYQTV.jpg",  ARY QTV
+https://tvs2.aynaott.com/ARYQTV/tracks-v1a1/mono.m3u8?hdnts=st=1694188774~exp=1694218774~acl=/ARYQTV/*~data=103.114.10.179-WEB~hmac=7297241dea626f2b69c9d18458b6b63b9d89f3cd3507b7c7cbdd967fb80f70ba
