@@ -8,41 +8,27 @@ https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1694183329~
 Shahin Dipu, [9/8/2023 8:36 PM]
 #EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Desh_tv_logo.jpg/640px-Desh_tv_logo.jpg", Desh Tv
 https://tvs1.aynaott.com/deshtv/tracks-v1a1/mono.m3u8?hdnts=st=1694183599~exp=1694213599~acl=/deshtv/*~data=103.114.10.183-WEB~hmac=7f18ba5a918294962c8c22d4a82282487536f26d5cd11626f583e933aa8e6785
-
 #EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png", Channel 9
 https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1694183706~exp=1694213706~acl=/channel9/*~data=103.114.10.183-WEB~hmac=83fc16b51d2faaecf8048ac86c0d44390b60e08a084439a4cbddbc858200ce5a
-
 #EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/58/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Bijoy tv
 https://tvs1.aynaott.com/bijoytv/tracks-a1/mono.m3u8?hdnts=st=1694183743~exp=1694213743~acl=/bijoytv/*~data=103.114.10.183-WEB~hmac=8defeae4b20679d07d5c765eac176b93b23d925f5aa7abe79710d9a6d7afad3a
-
-
 #EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", Nexus Tv
 https://tvs1.aynaott.com/nexustv/tracks-v1a1/mono.m3u8?hdnts=st=1694183862~exp=1694213862~acl=/nexustv/*~data=103.114.10.183-WEB~hmac=4c81047c519f2489127131874a4918e4483b8e4b2dc6cf9362093bfbcf664631
-
-#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png", NTV
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png", NTV
 https://tvs2.aynaott.com/ntv/tracks-v1a1/index-1694181600-now.m3u8?hdnts=st=1694183848~exp=1694213848~acl=/ntv/*~data=103.114.10.183-WEB~hmac=e4b89bec8deb74fe804f9d8502b510dd00ac3b1b9a07a64b26da4c9952c49b1d
-#EXTINF:-1 group-title="Bangla Channels"tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
 https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1694181600-now.m3u8?hdnts=st=1694183842~exp=1694213842~acl=/channeli/*~data=103.114.10.183-WEB~hmac=52adef13431e3127c2960963370ddb22f5e0e4156fa034e7ff1dffd85b45a311
-
-
-ETV
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png", Ekushey Tv
 https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8?hdnts=st=1694183845~exp=1694213845~acl=/etv/*~data=103.114.10.183-WEB~hmac=de8bdc67830ed4d641a5fa84f8c9aa6e95b3db362c313691a1f9db832d9deaa6
-
-
-Ananda tv
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",Ananda tv
 https://tvs1.aynaott.com/anandatv/tracks-v1a1/mono.m3u8?hdnts=st=1694183969~exp=1694213969~acl=/anandatv/*~data=103.114.10.183-WEB~hmac=0628b614d5db891dcd8b03fbb98cc4333740649f620ab537d8b64de516d235fb
-
-Global Tv
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png", Global Tv
 https://tvs1.aynaott.com/globaltvhd/tracks-v1a1/mono.m3u8?hdnts=st=1694183990~exp=1694213990~acl=/globaltvhd/*~data=103.114.10.183-WEB~hmac=d27bc15924917e8b41146794eb5d9253ea88999d6e096f0dc9e5e857b99cf71d
-
-Duronto Tv
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duronto Tv
 https://tvs1.aynaott.com/durontotv/tracks-v1a1/mono.m3u8?hdnts=st=1694184029~exp=1694214029~acl=/durontotv/*~data=103.114.10.183-WEB~hmac=cc6df62cc2d55533f3b680e5344b4deacfa920b49e3eeabe22ab7cd425e368fc
-
-Ekhon Tv
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png", Ekhon Tv
 https://tvs1.aynaott.com/ekhontv/tracks-v1a1/mono.m3u8?hdnts=st=1694184041~exp=1694214041~acl=/ekhontv/*~data=103.114.10.183-WEB~hmac=98749e3f91b5a1b926507ad9bf2f119b0397b4d04ff03ab70e79532774e29d34
-
-Shahin Dipu, [9/8/2023 8:42 PM]
-Maasranga Tv
+#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://visiontech.com.bd/wp-content/uploads/2020/10/Massranga-logo.jpg", Maasranga Tv
 https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8?hdnts=st=1694184146~exp=1694214146~acl=/maasrangatv/*~data=103.114.10.183-WEB~hmac=96fc430a02492e53122f6b6e3aaac4bd183585265d9dda3ed64907d2007df2fd
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
 http://103.141.2.37:25461/web/web/592
