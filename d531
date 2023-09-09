@@ -3,32 +3,6 @@
 https://live.tsports.com/live/tsports_live_1080/index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png", Bangla Vision
-https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1694183329~exp=1694213329~acl=/banglavision/*~data=103.114.10.179-WEB~hmac=689a57261706dc14b3f70ba5fa366db8ebab6fd7d960a090d9adc21271d98f64
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Desh_tv_logo.jpg/640px-Desh_tv_logo.jpg", Desh Tv
-https://tvs1.aynaott.com/deshtv/tracks-v1a1/mono.m3u8?hdnts=st=1694183599~exp=1694213599~acl=/deshtv/*~data=103.114.10.183-WEB~hmac=7f18ba5a918294962c8c22d4a82282487536f26d5cd11626f583e933aa8e6785
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png", Channel 9
-https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1694183706~exp=1694213706~acl=/channel9/*~data=103.114.10.183-WEB~hmac=83fc16b51d2faaecf8048ac86c0d44390b60e08a084439a4cbddbc858200ce5a
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/58/%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png", Bijoy tv
-https://tvs1.aynaott.com/bijoytv/tracks-a1/mono.m3u8?hdnts=st=1694183743~exp=1694213743~acl=/bijoytv/*~data=103.114.10.183-WEB~hmac=8defeae4b20679d07d5c765eac176b93b23d925f5aa7abe79710d9a6d7afad3a
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png", Nexus Tv
-https://tvs1.aynaott.com/nexustv/tracks-v1a1/mono.m3u8?hdnts=st=1694183862~exp=1694213862~acl=/nexustv/*~data=103.114.10.183-WEB~hmac=4c81047c519f2489127131874a4918e4483b8e4b2dc6cf9362093bfbcf664631
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png", NTV
-https://tvs2.aynaott.com/ntv/tracks-v1a1/index-1694181600-now.m3u8?hdnts=st=1694183848~exp=1694213848~acl=/ntv/*~data=103.114.10.183-WEB~hmac=e4b89bec8deb74fe804f9d8502b510dd00ac3b1b9a07a64b26da4c9952c49b1d
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png", CHANNEL-I
-https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1694181600-now.m3u8?hdnts=st=1694183842~exp=1694213842~acl=/channeli/*~data=103.114.10.183-WEB~hmac=52adef13431e3127c2960963370ddb22f5e0e4156fa034e7ff1dffd85b45a311
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png", Ekushey Tv
-https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8?hdnts=st=1694183845~exp=1694213845~acl=/etv/*~data=103.114.10.183-WEB~hmac=de8bdc67830ed4d641a5fa84f8c9aa6e95b3db362c313691a1f9db832d9deaa6
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png",Ananda tv
-https://tvs1.aynaott.com/anandatv/tracks-v1a1/mono.m3u8?hdnts=st=1694183969~exp=1694213969~acl=/anandatv/*~data=103.114.10.183-WEB~hmac=0628b614d5db891dcd8b03fbb98cc4333740649f620ab537d8b64de516d235fb
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e0/Global_Television_Bangladesh_Logo_2.png", Global Tv
-https://tvs1.aynaott.com/globaltvhd/tracks-v1a1/mono.m3u8?hdnts=st=1694183990~exp=1694213990~acl=/globaltvhd/*~data=103.114.10.183-WEB~hmac=d27bc15924917e8b41146794eb5d9253ea88999d6e096f0dc9e5e857b99cf71d
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duronto Tv
-https://tvs1.aynaott.com/durontotv/tracks-v1a1/mono.m3u8?hdnts=st=1694184029~exp=1694214029~acl=/durontotv/*~data=103.114.10.183-WEB~hmac=cc6df62cc2d55533f3b680e5344b4deacfa920b49e3eeabe22ab7cd425e368fc
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png", Ekhon Tv
-https://tvs1.aynaott.com/ekhontv/tracks-v1a1/mono.m3u8?hdnts=st=1694184041~exp=1694214041~acl=/ekhontv/*~data=103.114.10.183-WEB~hmac=98749e3f91b5a1b926507ad9bf2f119b0397b4d04ff03ab70e79532774e29d34
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://visiontech.com.bd/wp-content/uploads/2020/10/Massranga-logo.jpg", Maasranga Tv
-https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8?hdnts=st=1694184146~exp=1694214146~acl=/maasrangatv/*~data=103.114.10.183-WEB~hmac=96fc430a02492e53122f6b6e3aaac4bd183585265d9dda3ed64907d2007df2fd
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
 http://103.141.2.37:25461/web/web/592
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
@@ -4168,175 +4142,19 @@ http://fadder.eletrinho.shop:2095/live/espn4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-06.svg", SPORT 1
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
 
-
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/430113ef-93d6-4c9c-964c-bcbde277c3d6_180x180_ARYDigitalAsiaHD.jpg", ARY DIGITAL
-https://tvs2.aynaott.com/ARYDigitalAsiaHD/tracks-v1a1/mono.m3u8?hdnts=st=1694188475~exp=1694218475~acl=/ARYDigitalAsiaHD/*~data=103.114.10.176-WEB~hmac=da26e64ad7f4b29f1b3770e8aa34882229fa42628ad6649c76d07ad77b23534e
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/212f672e-2426-46b3-af8e-42f64114cdee_180x180_ARYMusik.jpg",  ARY MUZIK
-https://tvs2.aynaott.com/ARYMusik/tracks-v1a1/mono.m3u8?hdnts=st=1694188638~exp=1694218638~acl=/ARYMusik/*~data=103.114.10.179-WEB~hmac=99d4cd3e2d22657ab5b5372258685370bae94db0c0ac827e2415becb1aff1bfd
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e666ec64-9ce0-46d2-a86c-61fced11d54d_180x180_ARYNewsAsia.jpg",  ARY NEWS 
-https://tvs2.aynaott.com/ARYNewsAsia/tracks-v1a1/mono.m3u8?hdnts=st=1694188688~exp=1694218688~acl=/ARYNewsAsia/*~data=103.114.10.179-WEB~hmac=0ba79dd9073ca974026041a5477f4c8e8d2c737bedcd88b8248785ef741a0430
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/5d0ef5ac-a2b3-46b6-add6-9c47155ad8b6_180x180_ARYZindagi.jpg", ARY ZINDEGHI
-https://tvs2.aynaott.com/ARYZindagi/tracks-v1a1/mono.m3u8?hdnts=st=1694188730~exp=1694218730~acl=/ARYZindagi/*~data=103.114.10.179-WEB~hmac=d181103a5b1fcf4e4aac678175f58bff60615bdaab08b300a3cecadd95412a29
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc0a5605-e69b-4bfc-83ad-8fbf9cb19026_180x180_ARYQTV.jpg",  ARY QTV
-https://tvs2.aynaott.com/ARYQTV/tracks-v1a1/mono.m3u8?hdnts=st=1694188774~exp=1694218774~acl=/ARYQTV/*~data=103.114.10.179-WEB~hmac=7297241dea626f2b69c9d18458b6b63b9d89f3cd3507b7c7cbdd967fb80f70ba
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png",  ATN BANGLA 
-https://tvs2.aynaott.com/atnbangla/tracks-v1a1/index-1694188800-now.m3u8?hdnts=st=1694189029~exp=1694219029~acl=/atnbangla/*~data=103.114.10.181-WEB~hmac=bdced63ebfec70c91258c0489854c73573e6a34ee44ccfa586aeee34b74e3ca7
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a41f0388-395e-47ec-9db8-477a3fd09d05_180x180_95c38a1d-7287-4c2d-83fe-e2536874e546.png",  ATN NEWS
-https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8?hdnts=st=1694189189~exp=1694219189~acl=/atnnews/*~data=103.114.10.183-WEB~hmac=c08e3cadcf8a89a56bad5f49ad6132b080f247a2c5659575970d87d240ef47bf
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e7b18800-7965-4246-9167-3a575869f224_180x180_akash8.jpg", AKASH BANGLA
-https://tvs1.aynaott.com/aakaashBangla/tracks-v1a1/mono.m3u8?hdnts=st=1694189309~exp=1694219309~acl=/aakaashBangla/*~data=103.114.10.181-WEB~hmac=01749d1f59647416ccd6f57a8a1aa142328cf6272a07e8e0e44c052b8b087ec1
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg", Dhoom Tv
-https://tvs1.aynaott.com/dhoom/tracks-v1a1/mono.m3u8?hdnts=st=1694189358~exp=1694219358~acl=/dhoom/*~data=103.114.10.181-WEB~hmac=7b50b4dc56cb71cddc9eff64d7c46da38408ec3b01491e91220ce5230feef587
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png", BTV NATIONAL HD
-https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8?hdnts=st=1694189480~exp=1694219480~acl=/btvhd/*~data=103.114.10.181-WEB~hmac=ed337217fa807a161233257714ea1c2334999684cac2bfe6829f829284dbf225
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png", Baishakhi Tv
-https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.m3u8?hdnts=st=1694189615~exp=1694219615~acl=/boishakhitv/*~data=103.114.10.181-WEB~hmac=0036ed06345b7b2da40b6e60f6ceef2deda961c27b6de83d98039399a42074f6
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a259cc0d-630a-4ed1-b6d6-1d4006ed4815_180x180_49e7eff6-56c8-4b4b-8181-e2c14e4426c4.png",  MYTV HD
-https://tvs1.aynaott.com/mytv/tracks-v1a1/mono.m3u8?hdnts=st=1694189677~exp=1694219677~acl=/mytv/*~data=103.114.10.181-WEB~hmac=b9128e8fcff01b1a2e84e690f0942974168ddf28e9b391eb40700fd4b8f41eed
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/358c5626-ce3c-4788-ad82-be5c77596b88_180x180_47579c04-9261-4973-b128-310e87592def.png",  Mohona Tv 
-https://tvs1.aynaott.com/mohonatv/tracks-v1a1/mono.m3u8?hdnts=st=1694189736~exp=1694219736~acl=/mohonatv/*~data=103.114.10.181-WEB~hmac=fde093f36f8e366f7bc8770d64404c3ed4e01476f7c8696ebeb48f7b0d53f7c5
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/1a6ad6ed-400c-45a2-91e0-c98e36546b6b_180x180_29254c7a-99b4-4c0a-b861-3cbebaadfcfc.png", CHANNEL 24
-https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8?hdnts=st=1694189847~exp=1694219847~acl=/channel24/*~data=103.114.10.181-WEB~hmac=334c56fd7ea99467193cafc5c3b0eb9fcad9586a63e8b19fc386490216cb9f22
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/7927c5b9-8dfd-4cbf-b9d6-bbd3e90a4eb1_180x180_3c294836-ce5c-46e2-b2e1-c9b4b9783997.png", GAAN BANGLA HD
-https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?hdnts=st=1694189901~exp=1694219901~acl=/gaanbangla/*~data=103.114.10.181-WEB~hmac=3ab875ea53a15c48a925fc114b53d47051139fd8b568a8096fbc2dd527f9b65e
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/dc95386d-f418-4c84-bd9f-7d1442fba3f2_180x180_f4cf8821-b1d1-44c5-b35f-c95d1e054aac.png", Ekattor Tv
-https://tvs1.aynaott.com/ekattorbdtv/tracks-v1a1/mono.m3u8?hdnts=st=1694189960~exp=1694219960~acl=/ekattorbdtv/*~data=103.114.10.183-WEB~hmac=4fefbeb13d9519cc42ae62524fd067d908176ea329f23f9b8fade2109d3370bf
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png", ASIAN TV
-https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.m3u8?hdnts=st=1694190035~exp=1694220035~acl=/asiantv/*~data=103.114.10.183-WEB~hmac=d544fd74194b56cc1106e7278cd1c0e370db7c972af794b5c67445bb524b4e28
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/84a0fb8c-85cf-4d12-8504-8f9050437def_180x180_dbfdc900-49fd-4129-9575-ad0f08105fd4.png",  SATV HD
-https://tvs1.aynaott.com/satv/tracks-v1a1/mono.m3u8?hdnts=st=1694190084~exp=1694220084~acl=/satv/*~data=103.114.10.181-WEB~hmac=b2aaa5627147f7cd2f3db97eb64ac1a3caf8cef88ebed72e00ded42ed7d1d913
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f9214b86-4bb5-47e9-9488-adb2bd14bf27_180x180_8b1db7bb-4597-4257-8846-567df3961cc2.png", JAMUNA TV
-https://tvs1.aynaott.com/jamunatv/tracks-v1a1/mono.m3u8?hdnts=st=1694190252~exp=1694220252~acl=/jamunatv/*~data=103.114.10.183-WEB~hmac=6a63cb67dbb9bab39f62d455bff02342bacdc141c607596547ed762279b39bb6
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/643115b9-65ab-4c34-8dd7-49597230504d_180x180_tsports.png", TSPORTS HD 
-https://tvs2.aynaott.com/tsportshd/tracks-a1/mono.m3u8?hdnts=st=1694190288~exp=1694220288~acl=/tsportshd/*~data=103.114.10.183-WEB~hmac=b3e34242add1d598a51a6e31624e3cd7ddee507057b804f847eab2fa9dd217d9
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png",  DBC NEWS 
-https://tvs1.aynaott.com/dbcnews/tracks-v1a1/mono.m3u8?hdnts=st=1694190345~exp=1694220345~acl=/dbcnews/*~data=103.114.10.183-WEB~hmac=3bed3235fdd622a285f8ce61c327fd43f4a53e22553c7a656222b5d3f1217e7f
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f31caca9-3389-4331-a693-ac83c42b4a35_180x180_51796aab-e2a7-4290-b7b3-f0c3870de87a.png", NEWS 24 HD
-https://tvs1.aynaott.com/news24/tracks-v1a1/mono.m3u8?hdnts=st=1694190387~exp=1694220387~acl=/news24/*~data=103.114.10.183-WEB~hmac=fd601490f2c5fa3433550b714156ccae4b97e538404033e882775e8f68559af2
-#EXTINF:-1 group-title="Ayna Tv" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e44d6140-a2c6-4528-a7d3-09d0a5337423_180x180_89fc9e6f-b77b-4bde-90f8-865c243422d6.png", Bangla Tv
-https://tvs1.aynaott.com/banglatv/tracks-v1a1/mono.m3u8?hdnts=st=1694190434~exp=1694220434~acl=/banglatv/*~data=103.114.10.181-WEB~hmac=bbc3c7e3ef88cae2d44776287b32e869feb677905d3b7362ea3aef0430cb21f1
+#EXTINF:-1, Tigo Sports 
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist_1024x576.m3u8
 
 
-Shahin Dipu:
-#EXTINF:-1 group-title="Ayna Tv", STAR SPORTS 1 HD
-https://tvs1.aynaott.com/sspts1/tracks-v1a1/mono.m3u8?hdnts=st=1694190571~exp=1694220571~acl=/sspts1/*~data=103.114.10.183-WEB~hmac=67aeee9d01c17ab280a66dc32e96813d52ef67c08b5df4a026551e369a85cf4b
+#EXTINF:-1,Premier Sports
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/b7eff456-7a0c-48fd-8308-eb569293f7ee.m3u8
 
-#EXTINF:-1 group-title="Ayna Tv", History HD
-https://tvs2.aynaott.com/historyen/tracks-v1a1/mono.m3u8?hdnts=st=1694191055~exp=1694221055~acl=/historyen/*~data=103.114.10.176-WEB~hmac=2e5f0e31077fd57fa39bc89ae660030aee32c894bd0801e1b8d398a53328d6cc
+#EXTINF:-1, Sky sports cricket 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/7578cc16-1b9f-493e-bc3e-906de9572e5a.m3u8
 
-#EXTINF:-1 group-title="Ayna Tv", PTV SPORTS HD
-https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1694191113~exp=1694221113~acl=/Ptvsports/*~data=103.114.10.176-WEB~hmac=2466fec7842ddd53d065e757e7434bfd47ac8c8b88decaaa9b4ac1794b1a529d
+#EXTINF:-1, Willow 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea2-9a8b-ce7040c71378.m3u8
 
-#EXTINF:-1 group-title="Ayna Tv", MTV HD
-https://tvs1.aynaott.com/mtv/tracks-v1a1/mono.m3u8?hdnts=st=1694191158~exp=1694221158~acl=/mtv/*~data=103.114.10.176-WEB~hmac=043e2c4fe91b525cec41f297373832c23fca8e209e4192be891d0ca4a27ce0bf
-
-#EXTINF:-1 group-title="Ayna Tv", Discovery Kids
-https://tvs1.aynaott.com/discovery_kids/tracks-v1a1/mono.m3u8?hdnts=st=1694191180~exp=1694221180~acl=/discovery_kids/*~data=103.114.10.176-WEB~hmac=944896b081781055e9cb4c68f31a30e34c7d7d2e567aa377e80b493721be301f
-
-#EXTINF:-1 group-title="Ayna Tv", Discovery Turbo
-https://tvs1.aynaott.com/discovery_turbo/tracks-v1a1/mono.m3u8?hdnts=st=1694191200~exp=1694221200~acl=/discovery_turbo/*~data=103.114.10.183-WEB~hmac=3f968ea40bc13b8dd3abc9d8d94f8ea1d57342aee01b3f77e012ef1a5f1bb587
-
-#EXTINF:-1 group-title="Ayna Tv", Animal Plant Hd
-https://tvs1.aynaott.com/animal_planet_hd/tracks-v1a1/mono.m3u8?hdnts=st=1694191231~exp=1694221231~acl=/animal_planet_hd/*~data=103.114.10.183-WEB~hmac=e412338136cb123333f0ea71d3f900e09ffd8c2bf0496c2442b89aa35f3bb0c2
-
-#EXTINF:-1 group-title="Ayna Tv", Discovery ID
-https://tvs1.aynaott.com/id_hd_source/tracks-v1a1/mono.m3u8?hdnts=st=1694191262~exp=1694221262~acl=/id_hd_source/*~data=103.114.10.183-WEB~hmac=12b572b2eebd0e214feda9c8e4b55bd2787a8a6c83e981d4c0df9d1665aa9e8e
-
-#EXTINF:-1 group-title="Ayna Tv", TLC HD
-https://tvs1.aynaott.com/tlc_hd/tracks-v1a1/mono.m3u8?hdnts=st=1694191285~exp=1694221285~acl=/tlc_hd/*~data=103.114.10.183-WEB~hmac=7ba203090220e275ffbb159cc8992c94c15de0d7dd8ced7cd158b8bfdbe664d9
-
-#EXTINF:-1 group-title="Ayna Tv", Al Jazeera 
-https://tvs1.aynaott.com/discovery_hd/tracks-v1a1/mono.m3u8?hdnts=st=1694191316~exp=1694221316~acl=/discovery_hd/*~data=103.114.10.183-WEB~hmac=48d707364329276179209b52e0808ef12337c7a3e2a96c11b35ea5e6e6675ab1
-
-#EXTINF:-1 group-title="Ayna Tv", DW NEWS
-https://tvs1.aynaott.com/dwnews/tracks-v1a1/mono.m3u8?hdnts=st=1694191349~exp=1694221349~acl=/dwnews/*~data=103.114.10.183-WEB~hmac=3e472514cfed0d12d51f091d05dbd2d8527a9bff023844ea5fc4ea473340cef2
-
-#EXTINF:-1 group-title="Ayna Tv", Cartoon Network 
-https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8?hdnts=st=1694191384~exp=1694221384~acl=/cartoonnetwork/*~data=103.114.10.183-WEB~hmac=e54ddeebf6d6dd2aeabd81b4237b2a0ca51bc7cccf5c1f1956cf7d341a0557ff
-
-#EXTINF:-1 group-title="Ayna Tv", BBC NEWS 
-https://tvs1.aynaott.com/bbcnews/tracks-v1a1/mono.m3u8?hdnts=st=1694191383~exp=1694221383~acl=/bbcnews/*~data=103.114.10.183-WEB~hmac=0aa04a629ddbc07792550fbbe6abfeb93147b7ed892f5b18dff420d68213f37c
-
-#EXTINF:-1 group-title="Ayna Tv", PBS KIDS
-https://tvs2.aynaott.com/pbskids/tracks-v1a1/mono.m3u8?hdnts=st=1694191420~exp=1694221420~acl=/pbskids/*~data=103.114.10.183-WEB~hmac=6620587efefc0592391aee21e3127296cfbfa1c0071c88450fa0d7414d1a08e0
-
-#EXTINF:-1 group-title="Ayna Tv", HBO
-https://tvs2.aynaott.com/hbo/tracks-v1a1/mono.m3u8?hdnts=st=1694191445~exp=1694221445~acl=/hbo/*~data=103.114.10.176-WEB~hmac=6ab1e9983e8535a37c4105fa4ee57dea08366f21ad95de30b6701ddb445412b2
-
-#EXTINF:-1 group-title="Ayna Tv", SONY TEN 1 HD
-https://tvs2.aynaott.com/Ten1HD/tracks-v1a1/index-1694188800-now.m3u8?hdnts=st=1694191491~exp=1694221491~acl=/Ten1HD/*~data=103.114.10.176-WEB~hmac=e5e4be00b755d68953ba40dd759ebc92c2e723b88aef628416a5e65f64fc905b
-
-
-#EXTINF:-1 group-title="Ayna Tv", Sony Sports 5 
-https://tvs1.aynaott.com/SonySix/tracks-v1a1/mono.m3u8?hdnts=st=1694191543~exp=1694221543~acl=/SonySix/*~data=103.114.10.176-WEB~hmac=5f5901824e1ddf391f5c193056afe69d6093afd4d842d438ba9fecab0943300a
-
-#EXTINF:-1 group-title="Ayna Tv", Sony Ten 3 
-https://tvs1.aynaott.com/Ten3/tracks-v1a1/mono.m3u8?hdnts=st=1694191586~exp=1694221586~acl=/Ten3/*~data=103.114.10.176-WEB~hmac=9321f8145194bdde4df213c7e2cae672668c57cb64bd10bb6b78137fe3a05b9d
-
-#EXTINF:-1 group-title="Ayna Tv", Sony Sports 5 HD
-https://tvs2.aynaott.com/SonySixHD/tracks-v1a1/index-1694188800-now.m3u8?hdnts=st=1694191640~exp=1694221640~acl=/SonySixHD/*~data=103.114.10.176-WEB~hmac=7a6c439fde366b4033f8cd51509d9fb68810576c0b6d45d65c349786dafbb0c3
-
-#EXTINF:-1 group-title="Ayna Tv", SONY SPORTS 2 HD
-https://tvs1.aynaott.com/Ten2HD/tracks-v1a1/mono.m3u8?hdnts=st=1694191684~exp=1694221684~acl=/Ten2HD/*~data=103.114.10.181-WEB~hmac=a8e108ec98383a46402f973753c3a9aa70ce0ac5e161714efca29b508b3d22df
-
-#EXTINF:-1 group-title="Ayna Tv", ZEE BANGLA HD
-https://tvs2.aynaott.com/ZeeBanglaHD/tracks-v1a1/index-1694188800-now.m3u8?hdnts=st=1694191730~exp=1694221730~acl=/ZeeBanglaHD/*~data=103.114.10.181-WEB~hmac=310d118f2c47b31012f03bec85e1544a610431967004b96f197d64b29ab7a820
-
-#EXTINF:-1 group-title="Ayna Tv", ZEE TV HD
-https://tvs2.aynaott.com/ZeeTvHD/tracks-v1a1/index-1694188800-now.m3u8?hdnts=st=1694191752~exp=1694221752~acl=/ZeeTvHD/*~data=103.114.10.181-WEB~hmac=b54a21615a9c070ec0647b3fb14407f95e52ef447fa2edb9fce925ddbcdc6727
-
-#EXTINF:-1 group-title="Ayna Tv", ZEE CAFE HD
-https://tvs1.aynaott.com/ZeeCafeHD/tracks-v1a1/mono.m3u8?hdnts=st=1694191781~exp=1694221781~acl=/ZeeCafeHD/*~data=103.114.10.183-WEB~hmac=db590e2b45d8d21402620dd4c8194dc80b2bf8b6192a6c11ff28774a8878dc52
-
-
-#EXTINF:-1 group-title="Ayna Tv", ZING
-https://tvs1.aynaott.com/zing/tracks-v1a1/mono.m3u8?hdnts=st=1694191838~exp=1694221838~acl=/zing/*~data=103.114.10.183-WEB~hmac=13bdf258c8ca3cf90a4ec9bb4d44a41c1415c8d5f50af0ef3947a7e7cd7533a3
-
-#EXTINF:-1 group-title="Ayna Tv", ZEE NEWS
-https://tvs1.aynaott.com/zeenews/tracks-v1a1/mono.m3u8?hdnts=st=1694191866~exp=1694221866~acl=/zeenews/*~data=103.114.10.183-WEB~hmac=584feaa8aa09e9a8b6e3bef8e922f7d4bc5455fe1f216620321a620dadc42d32
-
-#EXTINF:-1 group-title="Ayna Tv", &TV HD
-https://tvs1.aynaott.com/AndTV/tracks-v1a1/mono.m3u8?hdnts=st=1694191896~exp=1694221896~acl=/AndTV/*~data=103.114.10.183-WEB~hmac=7dff413321469fce0a001d85a1fdcb686abca8cf0bae0e6d3b5b786f79cf6ea5
-
-#EXTINF:-1 group-title="Ayna Tv", ZEE BANGLA SD
-https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8?hdnts=st=1694191932~exp=1694221932~acl=/ZeeBangla/*~data=103.114.10.176-WEB~hmac=039de38e10fd6c7d49c3d54a53aca3c890c047b0909acda422730d48c83bbf58
-
-#EXTINF:-1 group-title="Ayna Tv", Baby TV
-https://tvs1.aynaott.com/babytv/tracks-v1a1/mono.m3u8?hdnts=st=1694191995~exp=1694221995~acl=/babytv/*~data=103.114.10.176-WEB~hmac=4d9e8fea0421e5a219b086eee8c07cb6989f6065c09785c4606621910f8763c2
-
-#EXTINF:-1 group-title="Ayna Tv", ESPN
-https://tvs2.aynaott.com/espn/tracks-v1a1/mono.m3u8?hdnts=st=1694192031~exp=1694222031~acl=/espn/*~data=103.114.10.181-WEB~hmac=b959ab9eb825ccac80edb82bc747863f0ba561127fb0c06b5bd4374f7afc15d8
-
-#EXTINF:-1 group-title="Ayna Tv", MASTTI
-https://tvs1.aynaott.com/mastimusic/tracks-v1a1/mono.m3u8?hdnts=st=1694192079~exp=1694222079~acl=/mastimusic/*~data=103.114.10.181-WEB~hmac=83e3baf44b58bf105b6f4672ed299c35ea7b52e4d4e164bca0f871052b2be648
-
-#EXTINF:-1 group-title="Ayna Tv", 9X JALWA
-https://tvs1.aynaott.com/9xjalwa/tracks-v1a1/mono.m3u8?hdnts=st=1694192115~exp=1694222115~acl=/9xjalwa/*~data=103.114.10.183-WEB~hmac=f87f966d1a46ee984a12a56c8fd9c73393c54d5f73fa85e88c9a1dcfefdc0ef8
-
-#EXTINF:-1 group-title="Ayna Tv", FOX NEWS 
-https://tvs1.aynaott.com/foxnews/tracks-v1a1/mono.m3u8?hdnts=st=1694192146~exp=1694222146~acl=/foxnews/*~data=103.114.10.183-WEB~hmac=af4beb367b7c7f0d50927eaa6178f0629055dff842cdea6f8d6c449d9716828b
-
-#EXTINF:-1 group-title="Ayna Tv", Travel Xp
-https://tvs1.aynaott.com/travelxp/tracks-v1a1/mono.m3u8?hdnts=st=1694192172~exp=1694222172~acl=/travelxp/*~data=103.114.10.183-WEB~hmac=98c02002aa377a68727788ededc6dc4d08c0457084793d1818ceac3eb773254d
-
-#EXTINF:-1 group-title="Ayna Tv", Dillagiii Tv
-https://tvs1.aynaott.com/Dillagiii/tracks-v1a1/mono.m3u8?hdnts=st=1694192256~exp=1694222256~acl=/Dillagiii/*~data=103.114.10.176-WEB~hmac=effe7e1ffeca703e90f4e25fa3b85e03622827f49dff54104b0b0a9ee2705e88
-
-#EXTINF:-1 group-title="Ayna Tv", Music India
-https://tvs1.aynaott.com/MusicIndia/tracks-v1a1/mono.m3u8?hdnts=st=1694192314~exp=1694222314~acl=/MusicIndia/*~data=103.114.10.176-WEB~hmac=675e65eae52dafa207c38b876aed5314c338a8618b07e41bb9a17a95771814be
-
-#EXTINF:-1 group-title="Ayna Tv", News Time
-https://tvs1.aynaott.com/NewsTime/tracks-v1a1/mono.m3u8?hdnts=st=1694192342~exp=1694222342~acl=/NewsTime/*~data=103.114.10.176-WEB~hmac=9d18032da18a143a3cdb055c8c5d975f157d089ec56f8e42b513f6b9bc579771
-
-#EXTINF:-1 group-title="Ayna Tv", Rplus
-https://tvs1.aynaott.com/Rplus/tracks-v1a1/mono.m3u8?hdnts=st=1694192375~exp=1694222375~acl=/Rplus/*~data=103.114.10.176-WEB~hmac=bbc05020b0a603d1afb318d1317597cc0c0b09f89a3c9354ca2b29563b6031c0
-
-#EXTINF:-1 group-title="Ayna Tv", Rupshi Bangla 
-https://tvs1.aynaott.com/RupshiBangla/tracks-v1a1/mono.m3u8?hdnts=st=1694192422~exp=1694222422~acl=/RupshiBangla/*~data=103.114.10.176-WEB~hmac=76ed245623ee87ad55345cc5917e1ff3ff43be2f9d154bcbe94859e57c486c51
-
-#EXTINF:-1 group-title="Ayna Tv", Rplus Gold
-https://tvs1.aynaott.com/RplusGold/tracks-v1a1/mono.m3u8?hdnts=st=1694192456~exp=1694222456~acl=/RplusGold/*~data=103.114.10.176-WEB~hmac=93bc7b58e2350aaf4e5d134522a20ec6e1d68a4aa5f24252cf58118df7490b9b
-
-#EXTINF:-1 group-title="Ayna Tv", Revolt
-https://tvs1.aynaott.com/revolt/tracks-v1a1/mono.m3u8?hdnts=st=1694192834~exp=1694222834~acl=/revolt/*~data=103.114.10.183-WEB~hmac=ea8b80ffa2a9a13c24d551996758d41f6a5fea0ded5e8cce0ceeb273fb130fcb
+#EXTINF:-1, Super sports cricket 
+http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
 
