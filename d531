@@ -4410,6 +4410,65 @@ https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 
 
 
+#EXTINF:-1,MBC 3 
+http://154.58.202.18:8080/mbc3/index.m3u8
+
+#EXTINF:-1,MBC 4 
+http://154.58.202.18:8080/mbc4/index.m3u8
+
+#EXTINF:-1,MBC action 
+http://154.58.202.18:8080/mbcaction/index.m3u8
+
+#EXTINF:-1,MBC drama 
+http://154.58.202.18:8080/mbcdrama/index.m3u8
+
+#EXTINF:-1,MBC 5 
+http://154.58.202.18:8080/mbc5/index.m3u8
+
+#EXTINF:-1,Osn kids 
+http://154.58.202.18:8080/osn_kids/index.m3u8
+
+#EXTINF:-1,Eurosport1 HD 
+http://151.248.16.100:4444/Eurosport1/index.m3u8
+
+#EXTINF:-1,Discovery HD 
+http://151.248.16.100:4444/Discovery/index.m3u8
+
+#EXTINF:-1,Disney HD 
+http://151.248.16.100:4444/Disney/index.m3u8
+
+#EXTINF:-1,AnimalPlanet HD 
+http://151.248.16.100:4444/AnimalPlanet/index.m3u8
+
+#EXTINF:-1,Rotana classic 
+http://154.58.202.18:8080/rotana_classic/index.m3u8
+
+#EXTINF:-1,Lbc 
+http://154.58.202.18:8080/lbc/index.m3u8
+
+#EXTINF:-1,DiscoveryScience HD 
+http://151.248.16.100:4444/DiscoveryScience/index.m3u8
+
+#EXTINF:-1,BabyTV 
+http://151.248.16.100:4444/BabyTV/index.m3u8
+
+#EXTINF:-1,NationalGeographic HD 
+http://151.248.16.100:4444/NationalGeographic/index.m3u8
+
+#EXTINF:-1,CartoonNetwork HD 
+http://151.248.16.100:4444/CartoonNetwork/index.m3u8
+
+#EXTINF:-1,Eurosport2 HD 
+http://151.248.16.100:4444/Eurosport2/index.m3u8
+
+#EXTINF:-1,Eurosport1 HD 
+http://151.248.16.100:4444/Eurosport1/index.m3u8
+
+#EXTINF:-1,DMC FHD 
+http://154.58.202.18:8080/DMC/index.m3u8
+
+#EXTINF:-1,ESPN1 HD 
+http://151.248.16.100:4444/ESPN1/index.m3u8
 
 
 #EXTINF:-1 group-title="Ihub Server", PTV SPORTS 
