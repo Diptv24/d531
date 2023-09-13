@@ -3958,13 +3958,13 @@ http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/7cc28bb7-f165-4e2
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/372-3722400_indias-leading-sports-network-ten-sports-unveils-ten.png", TEN SPORTS HD
 http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6Sb6Fdu575gszmWczVSDiSvjiubH2av3vA&usqp=CAU", RTA SPORTS
+#EXTINF:-1 group-title="Ihub Server" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm6Sb6Fdu575gszmWczVSDiSvjiubH2av3vA&usqp=CAU", RTA SPORTS
 https://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMnzdYcrE5xf6xdiOqrtibNkTSvFIaWBrrA&usqp=CAU", GEO SUPER
+#EXTINF:-1 group-title="Ihub Server" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuMnzdYcrE5xf6xdiOqrtibNkTSvFIaWBrrA&usqp=CAU", GEO SUPER
 http://103.162.136.103:25461/FAH/fah/98
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYwmYjxKfVpxk7yxUHg0JhyOeq2FwoI3-gQ&usqp=CAU", WATAN HD
+#EXTINF:-1 group-title="Ihub Server" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKYwmYjxKfVpxk7yxUHg0JhyOeq2FwoI3-gQ&usqp=CAU", WATAN HD
 http://103.162.136.103:25461/FAH/fah/152
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png", ASPORTS HD
+#EXTINF:-1 group-title="Ihub Server" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png", ASPORTS HD
 http://103.162.136.103:25461/FAH/fah/482
 #EXTINF:-1 tvg-logo="https://b5.crichd.tv/assets/uploads/channels/99.png", SUPER SPORTS ACTION
 http://103.162.136.103:25461/FAH/fah/544
@@ -3994,23 +3994,7 @@ https://media.hndyjyfw.gov.cn/live/jz-cctv-9/live.m3u8
 #EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv10.jpg", CCTV 10
 https://media.hndyjyfw.gov.cn/live/jz-cctv-10/live.m3u8
 =========================================================================================================================================
-
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1693567941-cdn", PPTV HD 36
-https://s0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeZDEwYTA3MzAwYzM2MzAwMWQ1MANDkyZTg2MDFhMmJlYjdk
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png", NBT 2
-https://s0.cdn.vet/live/ch11/i/ch11i.m3u8?sid=cjeNzY0NGI0MGU5MWI2NmM0ZjAyYwNjlkYjE2MDRkMmM4ZmQ2
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://mumbrella.com.au/wp-content/uploads/2016/02/7flix-logo.png", 7FLEX
-http://61.19.242.134/feed/202306140918/LC5/playlist.m3u8
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/MCOT_Ch9_Logo.png/1200px-MCOT_Ch9_Logo.png", MCOT HD 30
-https://cdn6.goprimetime.info/feed/202306140918/chmcothd/index.m3u8
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://mono29.com/app/uploads/2018/05/LOGO-1.png", MONO 29 HD
-https://s0.cdn.vet/live/ch38/i/ch38i.m3u8?sid=cjeYWE0M2FjY2ZlZThkYTdlOWVhNAODc1YmVmZDEzMmE2MzJk
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Ch3HDLogo.png", CHANNEL 3 HD
-https://s0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeZWQ1ZjJmYjY0ZGJiYWM0MzQxZQMTY5NDI4MWVlZjU0ZWEy
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/thai-tv5-hd-9304.webp", CHANNEL 5 HD
-https://s0.cdn.vet/live/ch5/i/ch5i.m3u8?sid=cjeZDZmMGI4MGUxNDRlYzlhMzhiMQNDE0MWQ2ODBjYWEyYjc0
-#EXTINF:-1 group-title="Thailand TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cartoon-club-tv-8728-w360.webp", CARTOON CLUB
-https://s0.cdn.vet/live/ch31/i/ch31i.m3u8?sid=cjeOWQwNTgyMmM3Njk0MmJkYzc5MgNWFlMDFmNTkxMDM0NGZk
+==
 
 ============================================================================================================================================
 #EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40d7d18ac1b8c2e6b87ecf0e3410cad7.webp", Tv Osório
@@ -4021,12 +4005,7 @@ https://edge15.vedge.infomaniak.com/livecast/rougetv.stream/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e09566ba67685210144b055327ccf1e.webp", COMBATE GLOBAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
-
-#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
-
-#EXTINF:-1 group-title="Brazil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp",
-
+=
 ===========================================================================================================================================
 #EXTINF:-1 group-title="PAKISTAN TV" tvg-logo="https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png", GEO TV
 http://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
@@ -4114,13 +4093,13 @@ Shahin Dipu, [9/6/2023 11:06 PM]
 https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 
 Shahin Dipu, [9/7/2023 7:58 AM]
-#EXTINF:-1, Asports
+#EXTINF:-1 group-title="Ihub Server",  Asports
 http://dpny5.1234.uno:6061/asports/index.m3u8
 
-#EXTINF:-1, Star Sports 1 HD
+#EXTINF:-1 group-title="Ihub Server", Star Sports 1 HD
 http://dpny5.1234.uno:6061/starsports1/index.m3u8
 
-#EXTINF:-1, Gazi Tv
+#EXTINF:-1 group-title="Ihub Server", Gazi Tv
 http://dpny5.1234.uno:6061/gazitv/index.m3u8
 #EXTINF:-1, EURO SPORTS
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/70318f9c-3b14-4a97-8460-061548b5b26f/2.m3u8
@@ -4163,65 +4142,99 @@ http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/60e1e48b-6e6b-4ea
 #EXTINF:-1, Super sports cricket 
 http://62.182.85.213:8089/live/Z0E8ld964aFDuVe/MD4Efa09Cr2k8uG/1c6542f1-dfd5-409f-a202-66dce8330c58.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="Russian" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cgtn-russian-5062-150x112.jpg", CGTN Russian
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 
-#EXTINF:-1 group-title="Russian" tvg-logo="",
 
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1 group-title="Russian" tvg-logo="",
-
-#EXTINF:-1, GTV
-https://m3u-editor.com/serve/iptv-by-aftab-22/928115433.m3u8
-#EXTINF:-1, Toffee
-https://m3u-editor.com/serve/iptv-by-aftab-22/929043260.m3u8
-#EXTINF:-1, GTV Server2
-https://m3u-editor.com/serve/iptv-by-aftab-22/929044360.m3u8
-#EXTINF:-1, TLT LIVE
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 #EXTINF:-1, PTV NATIONAL 
 https://ptvbkp.nayatel.com/transcoder/ptvnationaltrc_source/playlist.m3u8
 
 
 
 
+
+#EXTINF:-1 group-title="Ihub Server", PTV SPORTS 
+http://cdn.ihub.live:8082/PTVSports/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", STAR SPORTS 1 HD
+http://cdn.ihub.live:8082/j-starsports-1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", STAR SPORTS 2 HD
+http://cdn.ihub.live:8082/StarSports2HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", Ten 1 HD
+http://cdn.ihub.live:8082/SonyTen1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", TEN 2 HD
+http://cdn.ihub.live:8082/SonyTen2/tracks-v1a1/mono.m3u8)
+
+
+#EXTINF:-1 group-title="Ihub Server", Ten 3
+http://cdn.ihub.live:8082/SonyTen3/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", Star. Sports SL 2
+http://cdn.ihub.live:8082/StarSportsSelect2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", Star Sports SL 1
+http://cdn.ihub.live:8082/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", Sports18 HD
+http://cdn.ihub.live:8082/Sports18HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", Independent Tv
+http://cdn.ihub.live:8082/j-IndependentTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", Channel 24
+http://cdn.ihub.live:8082/j-Channel24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", DBC NEWS
+http://cdn.ihub.live:8082/j-DBCNews/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", Somoy Tv
+http://cdn.ihub.live:8082/j-SomoyTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", Ananda Tv 
+http://cdn.ihub.live:8082/j-AnandaTv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", Asian Tv
+http://cdn.ihub.live:8082/j-AsianTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", ATN Bangla 
+http://cdn.ihub.live:8082/j-ATNBangla/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", Bangla VISION 
+http://cdn.ihub.live:8082/j-BanglaVision/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", Baishakhi tv
+http://cdn.ihub.live:8082/j-BoishakhiTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", Channel-i 
+http://cdn.ihub.live:8082/j-ChannelI/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", Jamuna Tv
+http://cdn.ihub.live:8082/j-JamunaTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", MyTv  HD
+http://cdn.ihub.live:8082/j-MyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Ihub Server", RTV 
+http://cdn.ihub.live:8082/j-RTV/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="Ihub Server", SATV
+http://cdn.ihub.live:8082/j-SATV/tracks-v1a1/mono.m3u8?token=703c9785ba2865bda45f0c5897297d3b02838685-6a32ba290a3a3c825f3bdc54b5b9535c-1694580689-1694569889
+
+#EXTINF:-1 group-title="Ihub Server", Gazi Tv
+http://cdn.ihub.live:8082/GaziTV/tracks-v1a1/mono.m3u8?token=dbf6392373e8b20a9544de319536910ee5a49097-eb8031f2b9d4e09b7d37e7459d4cba53-1694586551-1694575751
 
 
 
