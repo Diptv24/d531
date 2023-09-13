@@ -4231,11 +4231,10 @@ http://cdn.ihub.live:8082/j-RTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Ihub Server", SATV
-http://cdn.ihub.live:8082/j-SATV/tracks-v1a1/mono.m3u8?token=703c9785ba2865bda45f0c5897297d3b02838685-6a32ba290a3a3c825f3bdc54b5b9535c-1694580689-1694569889
+http://cdn.ihub.live:8082/j-SATV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ihub Server", Gazi Tv
-http://cdn.ihub.live:8082/GaziTV/tracks-v1a1/mono.m3u8?token=dbf6392373e8b20a9544de319536910ee5a49097-eb8031f2b9d4e09b7d37e7459d4cba53-1694586551-1694575751
-
+http://cdn.ihub.live:8082/GaziTV/tracks-v1a1/mono.m3u8
 
 
 
