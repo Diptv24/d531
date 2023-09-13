@@ -25,6 +25,9 @@ http://172.20.2.5:8082/Channel24/tracks-v1a1/mono.m3u8?token=fd936b9c7910e011428
 http://iptvbd.jagobd.com:1931/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png", NEWS 24
 http://172.20.2.5:8082/News24bd/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png", Ekhon Tv
+http://iptvbd.jagobd.com:1931/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png", MOHONA TV HD
 http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", Tsports HD
