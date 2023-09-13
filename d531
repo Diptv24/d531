@@ -11,7 +11,7 @@ http://203.80.191.3:8089/jamio/gazitv//playlist.m3u8
 http://103.141.2.37:25461/web/web/592
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/tracks-a1/index.fmp4.m3u8?token=de14db1ab621e10abbc9bb83747aaae732d0edc5-905b69ae923fe3c90b4dc93bb1bd4f5d-1693863702-1693852902
-#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://shorturl.at/aswH1",E-TEN BANGLA
 https://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nagorik-tv-bd.png", NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
