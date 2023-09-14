@@ -222,32 +222,7 @@ http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38c
 http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR SPORTS 2 HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
-#EXTINF:-1,Star Sports Select 1
-http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://172.20.2.5:8082/Star-Sports-1/tracks-v1/index.fmp4.m3u8?token=f9922bad6a9bc3b677ecc6f439e7b2e90101c36c-4f9dc080527cea35d42b84bf2589c9e5-1691089260-1691078460
-#EXTINF:-1,Star Sports 2 HD
-http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
-http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
-#EXTINF:-1,Star Sports Select 2 HD
-http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR SPORTS SELECT 1
-http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1,STAR SPORTS 1
-http://103.102.27.173/live/tvfeed1003/index.m3u8
-#EXTINF:-1,STAR SPORTS 1 SL
-http://103.102.27.173/live/tvfeed1004/index.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
-http://103.162.136.103:25461/live/FAH/fah/215.m3u8
-#EXTINF:-1,Star Sports Select 2 HD
-http://103.162.136.103:25461/live/FAH/fah/216.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://103.162.136.103:25461/live/FAH/fah/218.m3u8
-#EXTINF:-1,Star Sports 2 HD
-http://103.162.136.103:25461/live/FAH/fah/220.m3u8
+
 #EXTINF:-1,Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 #EXTINF:-1,Sony Ten 1 HD
@@ -2670,12 +2645,10 @@ http://103.61.73.220:8000/play/a072
 http://chanel.dekhaott.com/Tsportshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,gtv 1
 http://103.118.76.146:1935/dhakacdn/gtv.stream/chunklist_w1059767291.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://cdn.ihub.live:8082/j-starsports-1/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,StarS1 HD-Rs19
 http://103.86.134.34:9981/stream/channelid/174631324.ts?ticket=94609391ED99432E610AB8ABD2C8FA48F307D336&profile=pass
-#EXTINF:-1,Star Sports 1 HD Tamil
-http://20.2.72.221/asiacup/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:-1,StarS1 HindiHD-Rs19
 http://103.61.73.220:8000/play/a041
 #EXTINF:-1,StarSports2 HD-Rs19
@@ -2909,29 +2882,7 @@ http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS 3
-http://172.17.50.112/live/antbd1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS 1 HD
-http://172.17.50.112/live/antbd1001/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports 1 HD
-http://172.20.2.5:8082/Star-Sports-1/tracks-v1/index.fmp4.m3u8?token=f9922bad6a9bc3b677ecc6f439e7b2e90101c36c-4f9dc080527cea35d42b84bf2589c9e5-1691089260-1691078460
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Sports 2 HD
-http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Sports Select 1 HD
-http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Sports Select 2 HD
-http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS1 HD
-http://172.17.50.112/live/fifa2022/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS SELECT 1
-http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Sony Ten 1 HD
 http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
@@ -2942,35 +2893,90 @@ http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Sony Ten 3 HD
 http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS 3
-http://172.17.50.112/live/antbd1002/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS 1 HD
-http://172.17.50.112/live/antbd1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", TSPORTS HD
 http://172.20.2.5:8082/T-Sports/tracks-v1/index.fmp4.m3u8?token=870740907a1ac5de20e814864c4401f1ef856346-1a868a91af53cb935111a960bda15678-1687201525-1687190725
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1 HD
+http://172.20.2.5:8082/Star-Sports-1/tracks-v1/index.fmp4.m3u8?token=f9922bad6a9bc3b677ecc6f439e7b2e90101c36c-4f9dc080527cea35d42b84bf2589c9e5-1691089260-1691078460
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", STAR SPORTS 1
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", STAR SPORTS 1 HD
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1 hd
+http://103.141.2.38/hls/starsports1.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1 HD
+http://103.162.136.103:25461/live/FAH/fah/218.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1 HD
+http://cdn.ihub.live:8082/j-starsports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1 HD Tamil
+http://20.2.72.221/asiacup/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star sports 1
+http://103.141.2.38/hls/stersports1hd.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1
+http://103.141.2.37:25461/web/web/580
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1 HindiHD
+http://103.134.2.145:5500/play/a006/index.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png", Star Sports 1 HD
+http://dpny5.1234.uno:6061/starsports1/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS1 HD
-http://172.17.50.112/live/fifa2022/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", STAR SPORTS SELECT 1
+=====================================================
+
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245", STAR SPORTS 2 HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245", Star Sports 2 HD
+http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245", Star Sports 2 HD
+http://103.162.136.103:25461/live/FAH/fah/220.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245", Star Sports 2 hd
+http://103.141.2.38/hls/starsports2.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245", STAR SPORTS 2 HD
+http://cdn.ihub.live:8082/StarSports2HD/tracks-v1a1/mono.m3u8
+
+
+=======================================================
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png", STAR SPORTS 3
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png", STAR SPORTS 3
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=36110974&rand=(random)
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png", Star Sports 3
+http://103.141.2.38/hls/starsports3.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/0/0e/%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0_%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95%E0%A7%87%E0%A6%9F.png", Star Sports 3
+http://103.141.2.37:25461/web/web/578
+
+
+=========================================================
+
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", Star Sports Select 1
+http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", Star Sports Select 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", STAR SPORTS SELECT 1
 http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", Star Sports Select 1 HD
+http://103.162.136.103:25461/live/FAH/fah/215.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", Star sports Select 1
+http://103.141.2.37:25461/web/web/579
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", Star Sports SL 1
+http://cdn.ihub.live:8082/StarSportsSelect1/tracks-v1a1/mono.m3u8
+=============================================================================
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/ikFI9", Star Sports Select 2 HD
+http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/ikFI9", Star Sports Select 2 HD
+http://103.162.136.103:25461/live/FAH/fah/216.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/ikFI9", Star sports Select 2
+http://103.141.2.37:25461/web/web/583
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/ikFI9", Star Sports SL 2
+http://cdn.ihub.live:8082/StarSportsSelect2/tracks-v1a1/mono.m3u8
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Tsports HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Sports 1 HD
-http://172.20.2.5:8082/Star-Sports-1/tracks-v1/index.fmp4.m3u8?token=f9922bad6a9bc3b677ecc6f439e7b2e90101c36c-4f9dc080527cea35d42b84bf2589c9e5-1691089260-1691078460
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Sports 2 HD
-http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Sports Select 1 HD
-http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Sports Select 2 HD
-http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Star Jalsha Hd
 http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=20074513f021c2839e05422980f0188b4f232d9d-b3cfdfa97155652eb6a4c35f2827ae3f-1681329552-1681318752
@@ -3140,14 +3146,7 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR JALSA HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR SPORTS 2 HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR SPORTS 3
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=36110974&rand=(random)
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", Star Sports Select 1
-http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
@@ -3161,11 +3160,6 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", Bein Sports 1
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR SPORTS 2 HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR SPORTS 3
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=36110974&rand=(random)
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", SKY SPORTS CRICKET
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/playlist.m3u8
@@ -3179,8 +3173,6 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", BEIN SPORTS 4
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", Star Sports Select 1
-http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
@@ -3212,11 +3204,6 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", SONY ENT
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyhd/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR SPORTS 2 HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR SPORTS 3
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=36110974&rand=(random)
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", NAT GEO WILD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/natg/chunks.m3u8
@@ -3791,8 +3778,7 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 
 #EXTINF:-1, RTA SPORTS
 http://hls.rtasport.live/hls/stream.m3u8
-#EXTINF:-1,Star Sports Select 1
-http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
+
 #EXTINF:-1,Ten Sports HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 #EXTINF:-1,Bein Sports 1
@@ -3801,25 +3787,12 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1,Sports18 HD
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1,Star Sports 1 HD
-http://172.20.2.5:8082/Star-Sports-1/tracks-v1/index.fmp4.m3u8?token=f9922bad6a9bc3b677ecc6f439e7b2e90101c36c-4f9dc080527cea35d42b84bf2589c9e5-1691089260-1691078460
-#EXTINF:-1,Star Sports 2 HD
-http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports Select 1 HD
-http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
-#EXTINF:-1,Star Sports Select 2 HD
-http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, GEO SUEPR
 http://175.107.244.52:4456/play/a06z/index.m3u8
 #EXTINF:-1, A SportsHD 
 http://175.107.244.52:4456/play/a04p/index.m3u8
-#EXTINF:-1, Star Sports 1 hd
-http://103.141.2.38/hls/starsports1.m3u8
-#EXTINF:-1, Star Sports 2 hd
-http://103.141.2.38/hls/starsports2.m3u8
-#EXTINF:-1, Star Sports 3
-http://103.141.2.38/hls/starsports3.m3u8
+
 #EXTINF:-1, BEIN sports ENGLISH 1 
 http://116.202.231.21/hls/RedLine_beIN_Sports_English_1.m3u8
 #EXTINF:-1, bein sport premium 1
@@ -3944,8 +3917,7 @@ http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 #EXTINF:-1,  PTV sports 
 http://103.141.2.38/hls/ptv.m3u8
-#EXTINF:-1, Star sports 1 
-http://103.141.2.38/hls/stersports1hd.m3u8
+
 #EXTINF:-1, Sports 18
 http://103.141.2.38/hls/18.m3u8
 #EXTINF:-1, NEWS 24
@@ -4068,8 +4040,7 @@ http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 #EXTINF:-1,  PTV sports 
 http://103.141.2.38/hls/ptv.m3u8
-#EXTINF:-1, Star sports 1 
-http://103.141.2.38/hls/stersports1hd.m3u8
+
 #EXTINF:-1, Sports 18
 http://103.141.2.38/hls/18.m3u8
 #EXTINF:-1, Star Jalsha
@@ -4090,10 +4061,7 @@ https://iptvbd.live/test/1080.m3u8
 http://103.141.2.37:25461/web/web/592
 #EXTINF:-1,Ten Sports
 http://pakin2.worldtvip.co:9090/ind2_ten_sports_pk/tracks-v1a1/mono.m3u8?token=bynishad
-#EXTINF:-1,Star Sports 1
-http://103.141.2.37:25461/web/web/580
-#EXTINF:-1,Star Sports Tamil
-https://vdo.panelchs.com:3593/hybrid/play.m3u8
+
 #EXTINF:-1,Radio Commentary
 https://prod-3-80-140-229.wostreaming.net/humfm-fm1062mp3-ibc1?session-id=7841b2546b45dd29e43717d086a59297
 #EXTINF:-1,T Sports
@@ -4104,22 +4072,11 @@ http://103.134.2.145:5500/play/a035/index.m3u8
 http://103.141.2.37:25461/web/web/585
 #EXTINF:-1,Sony Ten 3
 http://103.141.2.37:25461/web/web/582
-#EXTINF:-1,Star sports Select 2
-http://103.141.2.37:25461/web/web/583
-#EXTINF:-1,Star sports Select 1
-http://103.141.2.37:25461/web/web/579
-#EXTINF:-1,Star Sports 1 HindiHD
-http://103.134.2.145:5500/play/a006/index.m3u8
-#EXTINF:-1,Star Sport-2 HD
-http://103.141.2.37:25461/web/web/581
-#EXTINF:-1,Star Sports 3
-http://103.141.2.37:25461/web/web/578
-#EXTINF:-1,Ster Sports 5 HD
-http://103.141.2.37:25461/web/web/577
+
+
 #EXTINF:-1,EUROSPORT HD
 http://103.134.2.145:5500/play/a01g/index.m3u8
-#EXTINF:-1,STAR SPORTS 3
-http://103.141.2.38/hls/starsports3.m3u8
+
 #EXTINF:-1,SPORTS 2
 http://185.188.188.235/live/sport2/playlist.m3u8
 #EXTINF:-1,ATN SPORTS
@@ -4163,12 +4120,7 @@ http://185.188.188.235/live/eurosport2/playlist.m3u8
 #EXTINF:-1,EURO SPORTS 1
 http://185.188.188.235/live/eurosport/playlist.m3u8
 
-#EXTINF:-1, Star Sports 1 hd
-http://103.141.2.38/hls/starsports1.m3u8
-#EXTINF:-1, Star Sports 2 hd
-http://103.141.2.38/hls/starsports2.m3u8
-#EXTINF:-1, Star Sports 3
-http://103.141.2.38/hls/starsports3.m3u8
+
 #EXTINF:-1, BEIN sports ENGLISH 1 
 http://116.202.231.21/hls/RedLine_beIN_Sports_English_1.m3u8
 #EXTINF:-1, bein sport premium 1
@@ -4355,8 +4307,6 @@ Shahin Dipu, [9/7/2023 7:58 AM]
 #EXTINF:-1 group-title="Ihub Server",  Asports
 http://dpny5.1234.uno:6061/asports/index.m3u8
 
-#EXTINF:-1 group-title="Ihub Server", Star Sports 1 HD
-http://dpny5.1234.uno:6061/starsports1/index.m3u8
 
 #EXTINF:-1 group-title="Ihub Server", Gazi Tv
 http://dpny5.1234.uno:6061/gazitv/index.m3u8
@@ -4368,8 +4318,7 @@ Shahin Dipu, [9/7/2023 8:01 AM]
 http://dpny1.1234.uno:6061/ptvsports/index.m3u8
 
 Shahin Dipu, [9/7/2023 8:02 AM]
-#EXTINF:-1, Star Sports Tamil hd
-http://dpny2.1234.uno:6061/starsportstamil/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png", SPORTS TV 1
 http://fadder.eletrinho.shop:2095/live/sportv1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/vv/viaplay-xtra-uk.svg", VIAPLAY EXTRA
@@ -4475,12 +4424,6 @@ http://151.248.16.100:4444/ESPN1/index.m3u8
 http://cdn.ihub.live:8082/PTVSports/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Ihub Server", STAR SPORTS 1 HD
-http://cdn.ihub.live:8082/j-starsports-1/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 group-title="Ihub Server", STAR SPORTS 2 HD
-http://cdn.ihub.live:8082/StarSports2HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Ihub Server", Ten 1 HD
@@ -4495,12 +4438,7 @@ http://cdn.ihub.live:8082/SonyTen2/tracks-v1a1/mono.m3u8)
 http://cdn.ihub.live:8082/SonyTen3/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 group-title="Ihub Server", Star. Sports SL 2
-http://cdn.ihub.live:8082/StarSportsSelect2/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1 group-title="Ihub Server", Star Sports SL 1
-http://cdn.ihub.live:8082/StarSportsSelect1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Ihub Server", Sports18 HD
 http://cdn.ihub.live:8082/Sports18HD/tracks-v1a1/mono.m3u8
