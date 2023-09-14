@@ -4493,7 +4493,10 @@ http://cdn.ihub.live:8082/j-SATV/tracks-v1a1/mono.m3u8
 http://cdn.ihub.live:8082/GaziTV/tracks-v1a1/mono.m3u8
 
 
-
+#EXTINF:-1, TNT SPORTS 1
+http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2505/index.m3u8
+#EXTINF:-1, TNT SPORTS 2
+http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2506/index.m3u8
 
 
 
