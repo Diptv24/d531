@@ -4492,6 +4492,8 @@ http://cdn.ihub.live:8082/j-SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Ihub Server", Gazi Tv
 http://cdn.ihub.live:8082/GaziTV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/trt-diyanet-9535-w360.webp", DIYANET TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/D0s36ucrQ1ie2_2.m3u8
 
 #EXTINF:-1, TNT SPORTS 1
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2505/index.m3u8
