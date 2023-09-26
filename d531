@@ -2,6 +2,8 @@
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Bdix category", Gazi Tv
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
+https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 #EXTINF:-1, GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
 #EXTINF:-1, Star Sports 1 HD
@@ -4499,7 +4501,110 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", NAT GEO WILD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/natg/chunks.m3u8
 
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket English
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Eng_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Hindi
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Hin_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Tamil
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Tam_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Telugu
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Tel_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Malayalam
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Mal_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Kannada
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Kan_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Marathi
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Mar_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Gujarati
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Guj_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Bengali
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Ben_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Bhojpuri
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Bhoj_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JC Cricket Punjabi
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JC_Cricket_Punj_IDC_AND/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 1 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD1_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 2 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD2_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 3 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD3_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 4 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD4_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 5 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD5_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 6 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD6_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 7 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD7_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 8 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 9 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD9_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 10 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD10_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 11 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD11_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 12 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD12_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 13 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD13_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 14 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD14_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://iili.io/JJYSSGn.md.png" group-title="Live Events", JV Sports 15 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD15_DIG_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts1033" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-74232-la6z41u8-v3/imageContent-74232-la6z41u8-m5.png" group-title="Sports", Sports 18 1 HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-logo="https://iili.io/JJYPOuf.md.png" group-title="Sports", Sports 18 Khel
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts52" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-155-j5frd2uo-v1/imageContent-155-j5frd2uo-m1.png" group-title="Entertainment", Colors HD
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts305" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11287-j9j4tl2w-v2/imageContent-11287-j9j4tl2w-m3.png" group-title="Entertainment", Colors Bangla HD
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts612" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png" group-title="Entertainment", Colors Kannada HD
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Kannada_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts308" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-16764-jcix3xpc-v2/imageContent-16764-jcix3xpc-m2.PNG" group-title="Entertainment", Colors Marathi HD
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Marathi_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/RIS_Thumbnail-v3/RIS_Thumbnail.png" group-title="Entertainment", Colors Rishtey
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Rishtey_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts107" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-340-j5jmiei0-v1/imageContent-340-j5jmiei0-m1.png" group-title="Entertainment", Colors Gujarati
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Gujarati_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts674" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG" group-title="Entertainment", Colors Tamil HD
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Tamil_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts115" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-355-j5jndjn4-v1/imageContent-355-j5jndjn4-m2.png" group-title="Entertainment", Colors Oriya
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Oriya_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts187" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png" group-title="Entertainment", Colors Infinity HD
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts307" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11296-j9j5ux7s-v2/imageContent-11296-j9j5ux7s-m3.png" group-title="Entertainment", Comedy Central HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Comedy_Central_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts533" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18308-jcqnzl68-v1/imageContent-18308-jcqnzl68-m1.PNG" group-title="Entertainment", Colors Super
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts61" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-183-j5fsqz5c-v2/imageContent-183-j5fsqz5c-m2.png" group-title="Movies", Colors Cineplex HD
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-logo="https://iili.io/JJY4ccg.md.png" group-title="Movies", Colors Cineplex Superhits
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts1000" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71752-l5hqgxso-v2/imageContent-71752-l5hqgxso-m1.png" group-title="Movies", Colors Cineplex Bollywood
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts667" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31454-jmirfosw-v2/imageContent-31454-jmirfosw-m2.png" group-title="Movies", Colors Kannada Cinema
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts692" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35306-jqxwmaeo-v1/imageContent-35306-jqxwmaeo-m2.png" group-title="Movies", Colors Gujarati Cinema
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Colors_Gujarati_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts406" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png" group-title="Music", MTV HD Plus
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts236" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1018-j5nhzme0-v1/imageContent-1018-j5nhzme0-m1.png" group-title="Music", MTV Beats
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/MTV_Beats_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts405" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11607-j9jznhvc-v1/imageContent-11607-j9jznhvc-m1.png" group-title="Music", MTV Beats HD
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-logo="https://iili.io/JJYgQ1e.png" group-title="Music", Clubbing TV
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Clubbing_TV_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts118" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png" group-title="Kids", Nick Junior
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts127" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8018-j7a7n1a8-v1/imageContent-8018-j7a7n1a8-m1.png" group-title="Kids", Sonic Nickelodeon
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF: -1 tvg-id="ts433" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png" group-title="Kids", Nick HD Plus
+https://prod-ent-live-gm.jiocinema.com:443/bpk-tv/Nick_HD_Plus_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", HBO
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/hbo/chunks.m3u8
