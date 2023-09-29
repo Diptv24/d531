@@ -4628,3 +4628,190 @@ http://fadder.eletrinho.shop:2095/live/espn3/chunks.m3u8
 http://fadder.eletrinho.shop:2095/live/espn4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-06.svg", SPORT 1
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="CRI:" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="CRI:", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 1 (FHD)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/122979.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 2 FHD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/122980.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 3 FHD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/158898.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 3 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/158897.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SUPER SPORTS CRICKET (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/158442.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SUPER SPORTS (CRICKET)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/2496.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/124269.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET (4K).
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/114479.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/23566.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/12.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI:ASTRO CRICKET HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/2494.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: WILLOW CRICKET
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/215.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: WILLOW CRICKET.
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/23943.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: WILLOW CRICKET XTRA
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/5040.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TNT SPORT 1
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/23564.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TNT SPORT 2.
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/23565.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TNT Sports 3 FHD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/148090.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: PTV SPORTS
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/89.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: PTV SPORTS (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/61674.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: A Sports ARY
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/43444.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: A SPORTS ARY (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/43447.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: GEO SUPER
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/101.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TEN SPORTS
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/98.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TEN CRICKET (FHD)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/196594.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TEN CRICKET
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/9886.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORT 1 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/148.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 3 FHD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/158898.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 3 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/158897.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SUPER SPORTS CRICKET (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/158442.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Star Sport-2  (FHD)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/9398.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 2 (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/124284.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS HINDI HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/211.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Star Sport 1 HINDI (FHD)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/9399.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 1 HINDI (4K)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/124287.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS SELECT 1 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/238.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS SELECT 2 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/148801.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS TAMIL 1 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/9722.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS TELUGU 1 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/177843.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 3
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/1080.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: T SPORTS FHD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/18452.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: T SPORTS.
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/130714.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: RTA Sports
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/1039.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY TEN 1 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/154.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY Ten 2 HD.
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/31314.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY Ten 2 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/192.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY TEN 3 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/146.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY TEN 4 (FHD)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/29469.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY 5 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/176.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY ESPN HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/155.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Jio Cricket HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/158899.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Sky Sport 1 HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/150854.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Sky Sport 3 CRICKET FHD.
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/24018.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Carib SportsMax Cricket
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/142048.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: FLOW SPORTS
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/34489.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: ATN Plus Cricket
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/85829.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: FOX CRICKET 501
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/1856.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: EUROSPORTS
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/216.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Sports 18 Khel
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/151091.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Fast Sports HD
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/87460.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SPORTS 18 (FHD)
+http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/213049.m3u8
+
