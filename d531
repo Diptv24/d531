@@ -4814,3 +4814,15 @@ http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/87460.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SPORTS 18 (FHD)
 http://livetvbox.live:8080/live/NChv3US3g2/vBjgZg8cxB/213049.m3u8
 
+#EXTINF:-1, STAR SPORTS 1 HD
+http://odm391.xyz:80/live/AF31F885020534A/BM01th91jI/34493.m3u8
+#EXTINF:-1, ESPN
+http://41.205.93.154/ESPN/index.m3u8
+#EXTINF:-1, ESPN
+http://143.244.60.30/ESPN/index.m3u8
+#EXTINF:-1, ESPN 2
+http://fadder.eletrinho.shop:2095/live2/espn2/chunks.m3u8
+#EXTINF:-1, ESPN 4
+http://fadder.eletrinho.shop:2095/live2/espn4/chunks.m3u8
+#EXTINF:-1, ESPN
+http://fadder.eletrinho.shop:2095/live2/espn/chunks.m3u8
