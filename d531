@@ -81,7 +81,7 @@ https://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nagorik-tv-bd.png", NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8?token=b011d5207c70ba8d119024149e21af0ff02c4c15-566749c95642afc6e2327155449021f3-1694971260-1694960460
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png", EKATTOR TV
-http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.m3u8
+http://172.20.2.5:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png", NEWS 24
 http://172.20.2.5:8082/News24bd/index.fmp4.m3u8?token=5aad826d8aef365de1dca95276b1153c5bbc91aa-59f13a264e5e13c468566f81aa68fefc-1694971871-1694961071
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nagorik-tv-bd.png", NAGORIK TV
