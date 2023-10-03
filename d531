@@ -4629,7 +4629,131 @@ http://fadder.eletrinho.shop:2095/live/espn4/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://artmotion.net/wp-content/uploads/2023/04/tv-logo-me-ngjyra-06.svg", SPORT 1
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
 #EXTM3U
+💜mo3ad للسيرفرات💜iptv:
+#EXTINF:-1 group-title="154 IP", MBC 1 
+http://154.58.202.18:8080/mbc1/index.m3u8
 
+#EXTINF:-1 group-title="154 IP", MBC 3 
+http://154.58.202.18:8080/mbc3/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", MBC 4 
+http://154.58.202.18:8080/mbc4/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", MBC action 
+http://154.58.202.18:8080/mbcaction/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", MBC drama 
+http://154.58.202.18:8080/mbcdrama/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", MBC 5 
+http://154.58.202.18:8080/mbc5/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Osn kids 
+http://154.58.202.18:8080/osn_kids/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Eurosport1 HD 
+http://151.248.16.100:4444/Eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Discovery HD 
+http://151.248.16.100:4444/Discovery/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Disney HD 
+http://151.248.16.100:4444/Disney/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", AnimalPlanet HD 
+http://151.248.16.100:4444/AnimalPlanet/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Rotana classic 
+http://154.58.202.18:8080/rotana_classic/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Lbc 
+http://154.58.202.18:8080/lbc/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", DiscoveryScience HD 
+http://151.248.16.100:4444/DiscoveryScience/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", BabyTV 
+http://151.248.16.100:4444/BabyTV/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", NationalGeographic HD 
+http://151.248.16.100:4444/NationalGeographic/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", CartoonNetwork HD 
+http://151.248.16.100:4444/CartoonNetwork/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Eurosport2 
+HD http://151.248.16.100:4444/Eurosport2/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", Eurosport1 
+HD http://151.248.16.100:4444/Eurosport1/index.m3u8
+
+#EXTINF:-1 group-title="154 IP", DMC FHD 
+http://154.58.202.18:8080/DMC/index.m3u8
+
+EXTINF:-1,MTV80
+http://151.248.16.100:4444/MTV80/index.m3u8
+#EXTINF:-1,n-tv
+http://151.248.16.100:4444/n-tv/index.m3u8
+#EXTINF:-1,MTV HD
+http://151.248.16.100:4444/MTV/index.m3u8
+#EXTINF:-1,ESPN1 HD
+http://151.248.16.100:4444/ESPN1/index.m3u8
+#EXTINF:-1,NPO1 HD
+http://151.248.16.100:4444/NPO1/index.m3u8
+#EXTINF:-1,NPO2 HD
+http://151.248.16.100:4444/NPO2/index.m3u8
+#EXTINF:-1,BabyTV
+http://151.248.16.100:4444/BabyTV/index.m3u8
+#EXTINF:-1,ZDF HD
+http://151.248.16.100:4444/ZDF/index.m3u8
+#EXTINF:-1,DiscoveryScience HD
+http://151.248.16.100:4444/DiscoveryScience/index.m3u8
+#EXTINF:-1,ComedyCentral HD
+http://151.248.16.100:4444/ComedyCentral/index.m3u8
+#EXTINF:-1,ESPN2 HD
+http://151.248.16.100:4444/ESPN2/index.m3u8
+#EXTINF:-1,NationalGeographic HD
+http://151.248.16.100:4444/NationalGeographic/index.m3u8
+#EXTINF:-1 group-title="154 IP",Dusk
+http://151.248.16.100:4444/Dusk/index.m3u8
+#EXTINF:-1 group-title="154 IP",SUPERRTL
+http://151.248.16.100:4444/SUPERRTL/index.m3u8
+#EXTINF:-1 group-title="154 IP",Nicktoons
+http://151.248.16.100:4444/Nicktoons/index.m3u8
+#EXTINF:-1 group-title="154 IP",CartoonNetwork HD
+http://151.248.16.100:4444/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="154 IP",Nick_Jr
+http://151.248.16.100:4444/Nick_Jr/index.m3u8
+#EXTINF:-1 group-title="154 IP",VOX
+http://151.248.16.100:4444/VOX/index.m3u8
+#EXTINF:-1 group-title="154 IP",History HD
+http://151.248.16.100:4444/History/index.m3u8
+#EXTINF:-1 group-title="154 IP",TLC HD
+http://151.248.16.100:4444/TLC/index.m3u8
+#EXTINF:-1 group-title="154 IP",Fox HD
+http://151.248.16.100:4444/Fox/index.m3u8
+#EXTINF:-1 group-title="154 IP",Eurosport2 HD
+http://151.248.16.100:4444/Eurosport2/index.m3u8
+#EXTINF:-1 group-title="154 IP",Eurosport1 HD
+http://151.248.16.100:4444/Eurosport1/index.m3u8
+#EXTINF:-1 group-title="154 IP",Disney HD
+http://151.248.16.100:4444/Disney/index.m3u8
+#EXTINF:-1 group-title="154 IP",Discovery HD
+http://151.248.16.100:4444/Discovery/index.m3u8
+#EXTINF:-1 group-title="154 IP",AnimalPlanet HD
+http://151.248.16.100:4444/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="154 IP",DasErste
+http://151.248.16.100:4444/DasErste/index.m3u8
+#EXTINF:-1 group-title="154 IP",KabelEins
+http://151.248.16.100:4444/KabelEins/index.m3u8
+#EXTINF:-1 group-title="154 IP",MTV90s
+http://151.248.16.100:4444/MTV90s/index.m3u8
+#EXTINF:-1 group-title="154 IP",Pro7MAXX
+http://151.248.16.100:4444/Pro7MAXX/index.m3u8
+
+
+#EXTINF:-1 group-title="154 IP",ESPN1 HD 
+http://151.248.16.100:4444/ESPN1/index.m3u8
 #PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="CRI:" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
 
 #EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="CRI:", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
