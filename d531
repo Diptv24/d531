@@ -2,6 +2,14 @@
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
+https://Telegram~sami_rian1@edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=2Atv27noIKbzGh825BAgBg&expires=1696650967&user=904698ac33f1493f863243acd18ff0a7
+#EXTINF:-1, FOX SPORTS CRICKET
+https://gfduenkie.site/chunklist/hlsch23.m3u8
+#EXTINF:-1, Sky sports live
+https://work.ovo-line.com/live/rugby/chunks.m3u8
+#EXTINF:-1, T sports bd
+http://103.7.4.54/ICCWORLDCUP/index.m3u8?token=7du8JE0_2OUbF0
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
 https://live.tsports.com/mobile_hls/tsports_live_2/auto.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV
