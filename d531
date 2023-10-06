@@ -26,6 +26,8 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245", STAR SPORTS 2 HD
 http://cdn.ihub.live:8082/StarSports2HD/index.m3u8?token=8ee7aa7e52c292fc48d842da916dd454ed342ccf-2341886718a0ef54a053816184d873f5-1695229038-1695218238
+#EXTINF:-1, STAR SPORTS 3
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=42957018&rand=(random)
 #EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", Star Sports Select 1
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
 #EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9", Star Sports Select 1 HD
