@@ -1,6 +1,7 @@
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD (PLEX)
 https://stream2.sunplex.live/T-SPORTS/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, AFG VS BANGLADESH
+https://sportsleading.online/live/stream_e1.m3u8
 #EXTINF:-1, TSPORTS
 https://m3u-editor.com/serve/iptv-by-aftab25/952090713.m3u8
 #EXTINF:-1, RABBITOLE BD
