@@ -1,11 +1,13 @@
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD (PLEX)
 https://stream2.sunplex.live/T-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1, AFG VS BANGLADESH
-https://sportsleading.online/live/stream_e1.m3u8
-#EXTINF:-1, TSPORTS
-https://m3u-editor.com/serve/iptv-by-aftab25/952090713.m3u8
-#EXTINF:-1, RABBITOLE BD
-https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Pu6gFgEmrtxvEmwCBmLS0wRxdxYHsf7-JqiYrsKKM8n5a-6thGlF7gALRcBg09r-Xnyt858luWUxYPCESFmmAQ/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+
+#EXTINF:-1, Gazi TV HD (AYNA)
+https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Gazi TV HD BDIX
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TSports HD BDIX
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD (AKASH)
 http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
