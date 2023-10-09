@@ -1,7 +1,29 @@
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD (PLEX)
 https://stream2.sunplex.live/T-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Gazi TV HD (AYNA)
-https://tvs2.aynaott.com/gtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GAZI TV HD
+http://103.141.2.38/hls/Gazi-TV.m3u8
+#EXTINF:-1, PTV SPORTS HD
+http://103.141.2.38/hls/ptv.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://103.141.2.38/hls/starsports2.m3u8
+#EXTINF:-1, STAR SPORTS 3
+http://103.141.2.38/hls/starsports3.m3u8
+#EXTINF:-1, S.SPORTS SELECT 1 HD
+http://103.141.2.38/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1, S.SPORTS SELECT 2 HD
+http://103.141.2.38/hls/select2.m3u8
+#EXTINF:-1, SONY SIX HD
+http://103.141.2.38/hls/sonysix.m3u8
+#EXTINF:-1, SONY TEN 1 HD
+http://103.141.2.38/hls/sonyten1.m3u8
+#EXTINF:-1, SONY TEM 2 HD
+http://103.141.2.38/hls/sonyten2.m3u8
+#EXTINF:-1, SONY TEM 3 HD
+http://103.141.2.38/hls/sonyten3.m3u8
+#EXTINF:-1, SPORTS18 HD
+http://103.141.2.38/hls/18.m3u8
+#EXTINF:-1, SHOWBUY PRIME
+http://alvetv.com/mbtv/sptv/index.m3u8
 #EXTINF:-1, Gazi TV HD BDIX
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSports HD BDIX
