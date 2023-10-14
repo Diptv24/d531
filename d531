@@ -5064,4 +5064,5 @@ https://gobezwoo.xyz/chunklist/hlsch21.m3u8
 
 #EXTINF:-1, PTV HOME HD
 https://z2cltd.akamaized.net/mini01/channels/live/ptv-home-live-separate-beamh8jiryuorn-8-9/audio_clear_eng_stereo.m3u8
-
+#EXTINF:-1 tvg-logo=https://upload.wikimedia.org/wikipedia/commons/0/03/Logo%2Barryadia%2Bmorocco.png", MOROCCO SPORTS
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
