@@ -5028,41 +5028,26 @@ https://sportsleading.online/live/stream_e3.m3u8
 https://sportsleading.online/live/stream_e2.m3u8
 #EXTINF:-1, AUSTRALIA🆚PAKISTAN🏏
 https://sportsleading.online/live/stream_e1.m3u8
-Shahin Dipu:
-#EXTINF:-1, Super Sports Rugby
-https://gobezwoo.xyz/chunklist/hlsch9.m3u8
-
-#EXTINF:-1, Sky Sports Arena
-https://gobezwoo.xyz/chunklist/hlsch8.m3u8
-
-#EXTINF:-1, Hub Premier 4
-https://gobezwoo.xyz/chunklist/hlsch7.m3u8
-
-#EXTINF:-1, Super Sports Laliga
-https://gobezwoo.xyz/chunklist/hlsch6.m3u8
-
-#EXTINF:-1, Super Sports PL
-https://gobezwoo.xyz/chunklist/hlsch5.m3u8
-
-#EXTINF:-1, Super Sports Laliga
-https://gobezwoo.xyz/chunklist/hlsch4.m3u8
-
-#EXTINF:-1, TNT SPORTS 2
-https://gobezwoo.xyz/chunklist/hlsch2.m3u8
-
-#EXTINF:-1, TNT SPORTS 
-https://gobezwoo.xyz/chunklist/hlsch1.m3u8
-
-#EXTINF:-1, TSN 4
-https://gobezwoo.xyz/chunklist/hlsch12.m3u8
-
-#EXTINF:-1, Fox Sports 
-https://gobezwoo.xyz/chunklist/hlsch15.m3u8
-
-#EXTINF:-1, Fox NFL
-https://gobezwoo.xyz/chunklist/hlsch21.m3u8
-
 #EXTINF:-1, PTV HOME HD
 https://z2cltd.akamaized.net/mini01/channels/live/ptv-home-live-separate-beamh8jiryuorn-8-9/audio_clear_eng_stereo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Logo%2Barryadia%2Bmorocco.png", MOROCCO SPORTS
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1, ARENA SPORTS 1
+http://93.155.227.38:90/m3u8/arenasport1.m3u8
+#EXTINF:-1, ARENA SPORTS 2
+http://93.155.227.38:90/m3u8/arenasport2.m3u8
+#EXTINF:-1, ARENA SPORTS 3
+http://93.155.227.38:90/m3u8/arenasport3.m3u8
+#EXTINF:-1, ARENA SPORTS 4
+http://93.155.227.38:90/m3u8/arenasport4.m3u8
+#EXTINF:-1, ARENA SPORTS 5
+http://93.155.227.38:90/m3u8/arenasport5.m3u8
+#EXTINF:-1, DEIMA SPORTS 2
+http://93.155.227.38:90/m3u8/diemasport2hd.m3u8
+#EXTINF:-1, DEIMA SPORTS 3
+http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
+#EXTINF:-1, SPORT 1
+http://185.188.188.235/live/sport1/playlist.m3u8
+#EXTINF:-1, SPORT 2
+http://185.188.188.235/live/sport2/playlist.m3u8
+
