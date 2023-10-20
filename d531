@@ -1,3 +1,16 @@
+#EXTINF:-1, Willow Xtra
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+
+#EXTINF:-1, Star Sports 1 HD
+https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TEN SPORTS HD
+https://isp.sananda.online/Tensorts/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TLT SPORTS
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1, Fox 501
+https://isp.sananda.online/Fox/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ARG VS PARAGUAY 
 https://sportsleading.online/live/stream_1.m3u8
 #EXTINF:-1, SPORT TV
