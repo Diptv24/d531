@@ -1,47 +1,3 @@
-
-#EXTINF:-1, SKY SPORTS 3 NZ
-https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
-#EXTINF:-1, Willow Xtra
-https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
-
-#EXTINF:-1, Star Sports 1 HD
-https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, TEN SPORTS HD
-https://isp.sananda.online/Tensorts/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, TLT SPORTS
-http://cdn.live247stream.com/thelight/tv/playlist.m3u8
-#EXTINF:-1, Fox 501
-https://isp.sananda.online/Fox/tracks-v1a1/mono.m3u8
-#EXTINF:-1, ARG VS PARAGUAY 
-https://sportsleading.online/live/stream_1.m3u8
-#EXTINF:-1, SPORT TV
-https://sycosohan.fun/Brazil-vs-Venezuela/Sohan-Vai.m3u8
-#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD (PLEX)
-https://stream2.sunplex.live/T-SPORTS/tracks-v1a1/mono.m3u8
-#EXTINF:-1, GAZI TV HD
-http://103.141.2.38/hls/Gazi-TV.m3u8
-#EXTINF:-1, PTV SPORTS HD
-http://103.141.2.38/hls/ptv.m3u8
-#EXTINF:-1, STAR SPORTS 2 HD
-http://103.141.2.38/hls/starsports2.m3u8
-#EXTINF:-1, STAR SPORTS 3
-http://103.141.2.38/hls/starsports3.m3u8
-#EXTINF:-1, S.SPORTS SELECT 1 HD
-http://103.141.2.38/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1, S.SPORTS SELECT 2 HD
-http://103.141.2.38/hls/select2.m3u8
-#EXTINF:-1, SONY SIX HD
-http://103.141.2.38/hls/sonysix.m3u8
-#EXTINF:-1, SONY TEN 1 HD
-http://103.141.2.38/hls/sonyten1.m3u8
-#EXTINF:-1, SONY TEM 2 HD
-http://103.141.2.38/hls/sonyten2.m3u8
-#EXTINF:-1, SONY TEM 3 HD
-http://103.141.2.38/hls/sonyten3.m3u8
-#EXTINF:-1, SPORTS18 HD
-http://103.141.2.38/hls/18.m3u8
 #EXTINF:-1, SHOWBUY PRIME
 http://alvetv.com/mbtv/sptv/index.m3u8
 #EXTINF:-1, Gazi TV HD BDIX
@@ -5066,4 +5022,55 @@ http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
 http://185.188.188.235/live/sport1/playlist.m3u8
 #EXTINF:-1, SPORT 2
 http://185.188.188.235/live/sport2/playlist.m3u8
+#EXTINF:-1, SKY SPORTS 3 NZ
+https://copytiger.github.io/Join_Telegram~BDS5G.m3u8
+#EXTINF:-1, Willow Xtra
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
+
+#EXTINF:-1, Star Sports 1 HD
+https://isp.sananda.online/Star/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TEN SPORTS HD
+https://isp.sananda.online/Tensorts/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TLT SPORTS
+http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1, Fox 501
+https://isp.sananda.online/Fox/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ARG VS PARAGUAY 
+https://sportsleading.online/live/stream_1.m3u8
+#EXTINF:-1, SPORT TV
+https://sycosohan.fun/Brazil-vs-Venezuela/Sohan-Vai.m3u8
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD (PLEX)
+https://stream2.sunplex.live/T-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GAZI TV HD
+http://103.141.2.38/hls/Gazi-TV.m3u8
+#EXTINF:-1, PTV SPORTS HD
+http://103.141.2.38/hls/ptv.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://103.141.2.38/hls/starsports2.m3u8
+#EXTINF:-1, STAR SPORTS 3
+http://103.141.2.38/hls/starsports3.m3u8
+#EXTINF:-1, S.SPORTS SELECT 1 HD
+http://103.141.2.38/hls/Star_Sport_Select1HD.m3u8
+#EXTINF:-1, S.SPORTS SELECT 2 HD
+http://103.141.2.38/hls/select2.m3u8
+#EXTINF:-1, SONY SIX HD
+http://103.141.2.38/hls/sonysix.m3u8
+#EXTINF:-1, SONY TEN 1 HD
+http://103.141.2.38/hls/sonyten1.m3u8
+#EXTINF:-1, SONY TEM 2 HD
+http://103.141.2.38/hls/sonyten2.m3u8
+#EXTINF:-1, SONY TEM 3 HD
+http://103.141.2.38/hls/sonyten3.m3u8
+#EXTINF:-1, SPORTS18 HD
+http://103.141.2.38/hls/18.m3u8
+Hastag Tv 2.0:
+#EXTINF:-1, SSC SPORTS 1
+https://af.ayassport.ir/hls2/ssc1.m3u8
+#EXTINF:-1, TEN SPORTS HD
+http://xtv.ooo:8080/live/UAE123450/UAE67890/167569.m3u8
+#EXTINF:-1, CT SPORTS HD
+http://185.188.188.235/live/ctsport/playlist.m3u8
+
 
