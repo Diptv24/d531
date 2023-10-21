@@ -8,8 +8,6 @@ http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 https://gobezwoo.xyz/chunklist/hlsch24.m3u8
 #EXTINF:-1, Sky Sports f1
 https://gobezwoo.xyz/chunklist/hlsch10.m3u8
-
-
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD (AKASH)
 http://172.17.50.112/live/antbd1002/index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png", TSPORTS HD
@@ -5072,5 +5070,9 @@ https://af.ayassport.ir/hls2/ssc1.m3u8
 http://xtv.ooo:8080/live/UAE123450/UAE67890/167569.m3u8
 #EXTINF:-1, CT SPORTS HD
 http://185.188.188.235/live/ctsport/playlist.m3u8
-
-
+#EXTINF:-1, ASTRO CRICKET
+http://sibfungold.info:8080/live/kuloviceldin1/4imy1RgmDA/54242.m3u8
+#EXTINF:-1, PTV SPORTS
+http://175.107.244.52:4457/play/a08g/index.m3u8
+#EXTINF:-1, GAZI TV
+http://tv.cloudcdn.me/live.ts?channelId=98&uid=2135&deviceMac=00:1A:79:04:ED:80
