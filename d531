@@ -1,8 +1,10 @@
 
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU",GAZI TV
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",TSPORTS HD
+
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", TSPORTS HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png" group-title="CtgTv category", ZEE BANGLA HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-bangla/chunks.m3u8
 
@@ -27,7 +29,16 @@ http://172.20.2.5:8082/colorsbangla/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Without category" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024",Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38ca21316e764b3fd8c9f07e3d3-b6440fc4c5f8b33cec9c2c00ea4e07a4-1681329593-1681318793
-
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606", SANGEET BANGLA
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Star gold Romance
+http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8?token=43aa7814d476e023cbf64776dd52d2c3b5fbf53f-e137a3caddb35cfee45a5e1455493318-1681330170-1681319370
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Zee TV HD
+http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8?token=1c05dbe39846219228a69b7a90b9998164fdce59-ff9a3260ad4053c70c41cfc71360a045-1681330218-1681319418
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Zee TV HD
+http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Sony Aath
+http://172.20.2.5:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bc88bf8aa1251cc9439b573064b61fc7fced4271-694840af909bd949415a7416642c798a-1681329530-1681318730
 
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU",GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
@@ -122,14 +133,6 @@ http://172.20.2.5:8082/GaanBangla/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
 #EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Star gold Romance
-http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8?token=43aa7814d476e023cbf64776dd52d2c3b5fbf53f-e137a3caddb35cfee45a5e1455493318-1681330170-1681319370
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Zee TV HD
-http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8?token=1c05dbe39846219228a69b7a90b9998164fdce59-ff9a3260ad4053c70c41cfc71360a045-1681330218-1681319418
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Zee TV HD
-http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Sony Aath
-http://172.20.2.5:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bc88bf8aa1251cc9439b573064b61fc7fced4271-694840af909bd949415a7416642c798a-1681329530-1681318730
 #EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Sony Pix HD
 http://172.20.2.5:8082/SonyPix/tracks-v1a1/mono.m3u8?token=218821008e464128d55a0dfead69154eae593159-c5eb79dd9413df5b46e2bf94027b0058-1681330048-1681319248
 #EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Sony Max HD
@@ -424,8 +427,7 @@ http://as3.digitalsynapsebd.com:8263/;stream.mp3
 http://iptvbd.jagobd.com:1931/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://yt3.googleusercontent.com/5yvzQPKjduMnNGFtduPObHaPgPs4e7JDEul4Yg04nCv22gPM6VdATdU-asKTxNNfLIkNWPhCNQ=s900-c-k-c0x00ffffff-no-rj", IQRA BANGLA BD
 http://208.86.19.13:81/507.stream/index.m3u8
-#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606", SANGEET BANGLA
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJ16f-suGwJnegvPXWF0kyAIMUwhlnLUCXA&usqp=CAU", AB TV HD
 http://208.86.19.13:81/501.stream/index.m3u8?
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://scontent.fcgp7-1.fna.fbcdn.net/v/t39.30808-6/285872265_389960313149281_8069756642758690335_n.png?_nc_cat=1&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=iXf75vak-HYAX8LwvAk&_nc_ht=scontent.fcgp7-1.fna&oh=00_AfDSMJzAIhilIREO28ZkDGgy2aZMf5T3LVRA2e8IfcnQ-A&oe=64F80444", IBTV USA
