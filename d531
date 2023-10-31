@@ -1,7 +1,12 @@
 
 #EXTINF:-1, Gazi TV HD BDIX
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", ZEE BANGLA HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-bangla/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR JALSA HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha/chunks.m3u8
+
 #EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",Zee Bangla
 http://172.20.2.5:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=0886a7e63ebd238a422cd9abb4f41ff468c1c76d-093c2775add7d14b0449d8825918be44-1681329570-1681318770
 #EXTINF:-1 group-title="Without category" tvg-logo="http://127.0.0.1/",Zee Bangla Cinema
@@ -4619,11 +4624,6 @@ http://172.20.2.5:8082/9XM/tracks-v1a1/mono.m3u8
 
 ==========================================================================================================
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", ZEE BANGLA HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-bangla/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CtgTv category", STAR JALSA HD
-http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-jalsha/chunks.m3u8
 
 
 
