@@ -4785,8 +4785,10 @@ http://tv.cloudcdn.me/live.ts?channelId=98&uid=2135&deviceMac=00:1A:79:04:ED:80
 Shahin Dipu:
 #EXTINF:-1, STAR SPORTS 2 HD
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
-
-
+#EXTINF:-1, STAR SPORTS 1 HD
+http://172.16.172.114:8083/StarSports1HD/index.m3u8?token=91163d1e205b97c6096d5f995cc21cb35681bda9-adf8bd89f9bb1ad9aa57105993489e45-1698898425-1698887625
+#EXTINF:-1, SPORTS 18 
+http://172.16.172.114:8083/Sports18HD/index.m3u8?token=cabf6e693e29aedb23ce0ee126490324800f7843-4678ec4eae5099be78a7c8e253aef18f-1698898370-1698887570
 #EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png", TSPORTS (OTV)
 http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=5bff875c5c4c7a3a1f528189e94f5012308d2822-42fdbec284536534d56cdbdfed658a7e-1698895985-1698885185
 #EXTINF:-1 tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png", GTV (OTV)
