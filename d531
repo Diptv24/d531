@@ -24,35 +24,43 @@ http://172.20.2.5:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Without category" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Colors_Bangla_HD_TV_white.png", COLORS BANGLA HD
 http://172.20.2.5:8082/colorsbangla/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
+https://iptvbd.live/test/1080.m3u8
 
 
 #EXTINF:-1 group-title="Without category" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/f/fe/Jalsha_Movies_HD_logo_%282013-present%29.png/revision/latest?cb=20210423101024",Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38ca21316e764b3fd8c9f07e3d3-b6440fc4c5f8b33cec9c2c00ea4e07a4-1681329593-1681318793
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Sangeet_Bangla_2021.jpg/revision/latest/scale-to-width-down/250?cb=20210825054606", SANGEET BANGLA
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Star gold Romance
-http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8?token=43aa7814d476e023cbf64776dd52d2c3b5fbf53f-e137a3caddb35cfee45a5e1455493318-1681330170-1681319370
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Zee TV HD
-http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8?token=1c05dbe39846219228a69b7a90b9998164fdce59-ff9a3260ad4053c70c41cfc71360a045-1681330218-1681319418
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Zee TV HD
+#EXTINF:-1 group-title="http://bdixtv.live/assets/images/stargold.jpg", STAR GOLD HD
+http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://bdixtv.live/assets/images/zeecinemahd.jpg", Zee Cinema HD
+http://172.20.2.5:8082/ZeeCinemaHD/index.fmp4.m3u8
+
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://bdixtv.live/assets/images/zeetvhd.jpg", Zee TV HD
 http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bdix category" tvg-logo="http://127.0.0.1/",Sony Aath
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://bdixtv.live/assets/images/sonytv.jpg", Sony Tv Enterteiment
+http://172.20.2.5:8082/SonyTVHD/index.fmp4.m3u8
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://bdixtv.live/assets/images/sonymaxhd.jpg", Sony Max HD
+http://172.20.2.5:8082/Sony-Max/index.fmp4.m3u8
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://bdixtv.live/assets/images/nick.jpg", Nick 
+http://172.20.2.5:8082/nike/index.fmp4.m3u8
+#EXTINF:-1 group-title="Bdix category" tvg-logo="http://bdixtv.live/assets/images/sonyaath.jpg", Sony Aath
 http://172.20.2.5:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bc88bf8aa1251cc9439b573064b61fc7fced4271-694840af909bd949415a7416642c798a-1681329530-1681318730
 
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU",GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU",GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
-#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/1200px-Star_Sports_1_HD.png",STAR SPORTS 1
-http://172.20.2.5:8082/Special-TV/tracks-v1/index.fmp4.m3u8?token=b224ccc76a73478ffa8bbbc390f8f9bb7d800fbf-2d07326b6773ae352b360b59b47ec518-1698772812-1698762012
-#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245",Star Sports 2 HD
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1.jpg",STAR SPORTS 1
+http://172.20.2.5:8082/Special-TV/tracks-v1/index.fmp4.m3u8?token=abd5a6a90ebb8ea8b440c2193c9768997766925d-b667ecc69012a415b84c52632bb32134-1698896989-1698886189
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports2.jpg",Star Sports 2 HD
 http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9",Star Sports Select 1 HD
-http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
-#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/dqOP9",STAR SPORTS SELECT 1
+#EXTINF:-1 group-title="http://bdixtv.live/assets/images/starselect1.jpg",Star Sports Select 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-v1/index.fmp4.m3u8?token=c23ee751f988da02a4a882d76fed435020e7f523-136a712810ed592135ed7543371a9d3c-1698897147-1698886347
+#EXTINF:-1 group-title="http://bdixtv.live/assets/images/starselect1.jpg",Star Sports Select 1 HD
 http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/ikFI9",Star Sports Select 2 HD
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starselect2.jpg",Star Sports Select 2 HD
 http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU",GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8?token=f8c36fc7db063b3ee67a8f62e6dce99c88a179cc-6aec3978e0ea5440d7e5f6696ff06d60-1694971345-1694960545
@@ -3548,8 +3556,7 @@ http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
-https://iptvbd.live/test/1080.m3u8
+
 #EXTINF:-1 tvg-logo="https://etentvbd.net/wp-content/uploads/2023/06/Comp-1_00049.png",E-TEN BANGLA
 http://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Without category", Somoy Tv
