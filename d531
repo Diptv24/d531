@@ -515,8 +515,7 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist.m3u8
 http://mmn.mypsx.net:1935/live/mmnhdsport/chunklist_w1173816337.m3u8
 #EXTINF:-1,BEIN SPORTS EXTRA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimittrueofileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-#EXTINF:-1,BEIN SPORTS N
-https://v3.playerlatino.live/stream/m3u8/09.m3u8?
+
 #EXTINF:-1,BEIN EXTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
 #EXTINF:-1,SSC SPORTS 1
@@ -547,30 +546,7 @@ http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
 #EXTINF:-1,FOX SPORTS 3
 http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
-#EXTINF:-1,FOX SPORTS
-https://v3.playerlatino.live/stream/m3u8/37.m3u8?
-#EXTINF:-1,FOX SPORTS 2
-https://v3.playerlatino.live/stream/m3u8/53.m3u8?
-#EXTINF:-1,FOX SPORTS 3
-https://v3.playerlatino.live/stream/m3u8/54.m3u8?
-#EXTINF:-1,FOX SPORTS PRE
-https://v3.playerlatino.live/stream/m3u8/276.m3u8?
-#EXTINF:-1,FOX SPORTS
-https://v3.playerlatino.live/stream/m3u8/402.m3u8?
-#EXTINF:-1,FOX SPORTS
-https://v3.playerlatino.live/stream/m3u8/748.m3u8?
-#EXTINF:-1,FOX SPORTS
-https://v3.playerlatino.live/stream/m3u8/769.m3u8?
-#EXTINF:-1,FOX SPORTS 2
-https://v3.playerlatino.live/stream/m3u8/410.m3u8?
-#EXTINF:-1,FOX SPORTS
-http://191.37.250.169:8801/live/FoxSportsHD/playlist.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://191.37.250.169:8801/live/FoxSports2HD/playlist.m3u8
-#EXTINF:-1,TNT SPORTS CHI
-http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
-#EXTINF:-1,TNT SPORTS
-https://v3.playerlatino.live/stream/m3u8/318.m3u8?
+
 #EXTINF:-1,DUBAI SPORTS
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1,MAX SPORTS 1
@@ -629,20 +605,7 @@ http://79.106.90.124:5151/live/rtshsport/playlist.m3u8
 http://93.155.227.38:90/m3u8/arenasport1.m3u8
 #EXTINF:-1,QSPORT
 http://89.254.128.5:22280/qsport/index.m3u8
-#EXTINF:-1,HI SPORTS
-https://v3.playerlatino.live/stream/m3u8/21.m3u8?
-#EXTINF:-1,TUDN SPORT
-https://v3.playerlatino.live/stream/m3u8/86.m3u8?
-#EXTINF:-1,AYM SPORTS HD
-https://v3.playerlatino.live/stream/m3u8/148.m3u8?
-#EXTINF:-1,TYC SPORTS
-https://v3.playerlatino.live/stream/m3u8/274.m3u8?
-#EXTINF:-1,WIN SPORTS
-https://v3.playerlatino.live/stream/m3u8/754.m3u8?
-#EXTINF:-1,CLARO SPORTS 2
-https://v3.playerlatino.live/stream/m3u8/328.m3u8?
-#EXTINF:-1,DI SPORTS
-https://v3.playerlatino.live/stream/m3u8/259%7Cuser-agent=Lavf/57.71.001
+
 #EXTINF:-1,FOX SPORTS
 http://208.86.19.13:81/103.stream/index.m3u8?
 #EXTINF:-1,SPORTS 2
@@ -727,10 +690,7 @@ http://93.155.227.38:90/m3u8/diemasport3hd.m3u8
 https://bl.uma.media/live/485548/HLS/4614144_3,2883584/2/1/playlist.m3u8
 #EXTINF:-1,Aysh Sport
 https://stream.live12.ir/hls2/persiana.m3u8
-#EXTINF:-1,Direct Tv Sports
-https://v3.playerlatino.live/stream/m3u8/259
-#EXTINF:-1,Aym Sports
-https://v3.playerlatino.live/stream/m3u8/148
+
 #EXTINF:-1,Sport 1🎾🎾🎾
 http://84.22.33.218/ArTsPoRt.1.Uc/index.m3u8
 #EXTINF:-1,AIO Sport 1 🎾🎾🎾
@@ -785,60 +745,26 @@ http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1,NICK
 http://172.20.2.5:8082/nike/tracks-a1/index.fmp4.m3u8
-#EXTINF:-1,NICK
-https://v3.playerlatino.live/stream/m3u8/78.m3u8?
-#EXTINF:-1,NICK JR
-https://v3.playerlatino.live/stream/m3u8/79.m3u8?
-#EXTINF:-1,UNICABLE
-https://v3.playerlatino.live/stream/m3u8/98.m3u8?
-#EXTINF:-1,UNICABLE 23
-https://v3.playerlatino.live/stream/m3u8/99.m3u8?
-#EXTINF:-1,NICK
-https://v3.playerlatino.live/stream/m3u8/645.m3u8?
-#EXTINF:-1,TEEN NICK
-https://v3.playerlatino.live/stream/m3u8/646.m3u8?
-#EXTINF:-1,UNICABLE
-https://v3.playerlatino.live/stream/m3u8/653.m3u8?
+
 #EXTINF:-1,Sonic
 http://144.217.70.181:9587/hin2/SONIC/index.m3u8?token=test
 #EXTINF:-1,Discovery
 http://172.20.2.5:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY KIDS
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/210.ts
-#EXTINF:-1,DISCOVERY KIDS
-https://v3.playerlatino.live/stream/m3u8/641.m3u8?
+
 #EXTINF:-1,DISCOVER PAK
 http://livecdn.live247stream.com/discoverpakistan/web/discoverpakistan/stream2/chunks.m3u8
 #EXTINF:-1,DISCOVERY
 http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
-#EXTINF:-1,DISCOVERY
-https://v3.playerlatino.live/stream/m3u8/22.m3u8?
-#EXTINF:-1,THEATER DISCOVERY HD
-https://v3.playerlatino.live/stream/m3u8/27.m3u8?
-#EXTINF:-1,DISCOVERY TURBO
-https://v3.playerlatino.live/stream/m3u8/28.m3u8?
-#EXTINF:-1,DISCOVERY
-https://v3.playerlatino.live/stream/m3u8/639.m3u8?
-#EXTINF:-1,DIS-SCIENCE
-https://v3.playerlatino.live/stream/m3u8/26.m3u8?
-#EXTINF:-1,DISNEY CAHNNEL
-https://v3.playerlatino.live/stream/m3u8/29.m3u8?
-#EXTINF:-1,DIS-WORLD
-https://v3.playerlatino.live/stream/m3u8/185.m3u8?
-#EXTINF:-1,DIS TURBO
-https://v3.playerlatino.live/stream/m3u8/727.m3u8?
-#EXTINF:-1,DIS
-https://v3.playerlatino.live/stream/m3u8/741.m3u8?
+
 #EXTINF:-1,DISCOVERY
 http://208.86.19.13:81/31.stream/index.m3u8?
 #EXTINF:-1,WORLD ANIMA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/56b27f85ff3037045055037e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=666&deviceId=56b27f85ff3037045055037e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1,ANIMAL PLANET
 http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
-#EXTINF:-1,ANIMAL PLANT
-https://v3.playerlatino.live/stream/m3u8/03.m3u8?
-#EXTINF:-1,ANIMAL PLANT
-https://v3.playerlatino.live/stream/m3u8/633.m3u8?
+
 #EXTINF:-1,Lovenature 4k
 http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1,Lovenature 4k
@@ -877,12 +803,7 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 http://dp6jfmrh.ottclub.xyz/iptv/5KMKHWC9ZEDV8K/133/index.m3u8
 #EXTINF:-1,NAT GEO
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
-#EXTINF:-1,NAT GEO
-https://v3.playerlatino.live/stream/m3u8/76.m3u8?
-#EXTINF:-1,NAT GEO MUNDO
-https://v3.playerlatino.live/stream/m3u8/77.m3u8?
-#EXTINF:-1,NAT GEO
-https://v3.playerlatino.live/stream/m3u8/644.m3u8?
+
 #EXTINF:-1,Animal Plant HD
 http://172.20.2.5:8082/Discovery-Tv/tracks-v1a1/mono.m3u8?token=c76041373be0771ed3a15881a653580ee7fd5c58-769267a0862a210940a90e0972c54401-1681330293-1681319493
 #EXTINF:-1,Anime all Day
@@ -903,36 +824,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist1080p.m3u8
 http://210.210.155.35/dr9445/h/h14/02.m3u8
 #EXTINF:-1,TVN MOVIES
 http://210.210.155.35/dr9445/h/h21/02.m3u8
-#EXTINF:-1,7 MOVIES
-https://v3.playerlatino.live/stream/m3u8/05.m3u8?
-#EXTINF:-1,DC MOVIES
-https://v3.playerlatino.live/stream/m3u8/32.m3u8?
-#EXTINF:-1,HW MOVIES
-https://v3.playerlatino.live/stream/m3u8/66.m3u8?
-#EXTINF:-1,MOVIES
-https://v3.playerlatino.live/stream/m3u8/68.m3u8?
-#EXTINF:-1,MOVIES
-https://v3.playerlatino.live/stream/m3u8/198.m3u8?
-#EXTINF:-1,MOVIES 7
-https://v3.playerlatino.live/stream/m3u8/635.m3u8?
-#EXTINF:-1,MOVIES
-https://v3.playerlatino.live/stream/m3u8/636.m3u8?
-#EXTINF:-1,MOVIES HD
-https://v3.playerlatino.live/stream/m3u8/696.m3u8?
-#EXTINF:-1,MOVIES
-https://v3.playerlatino.live/stream/m3u8/707.m3u8?
-#EXTINF:-1,MOVIES
-https://v3.playerlatino.live/stream/m3u8/709.m3u8?
-#EXTINF:-1,MOVIES
-https://v3.playerlatino.live/stream/m3u8/710.m3u8?
-#EXTINF:-1,MOVIES TV
-https://v3.playerlatino.live/stream/m3u8/728.m3u8?
-#EXTINF:-1,MOVIES
-https://v3.playerlatino.live/stream/m3u8/736.m3u8?
-#EXTINF:-1,MOVIES 2
-https://v3.playerlatino.live/stream/m3u8/798.m3u8?
-#EXTINF:-1,MOVIES 1
-https://v3.playerlatino.live/stream/m3u8/800.m3u8?
+
 #EXTINF:-1,Dubai Movie
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1500000.m3u8
 #EXTINF:-1,Romance Movie
@@ -969,34 +861,14 @@ http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93032.ts
 #EXTINF:-1,ESPN🎾🎾🎾
 http://143.244.60.30/ESPN/index.m3u8
-#EXTINF:-1,ESPN
-https://v3.playerlatino.live/stream/m3u8/34.m3u8?
-#EXTINF:-1,ESPN 2
-https://v3.playerlatino.live/stream/m3u8/35.m3u8?
-#EXTINF:-1,ESPN 3
-https://v3.playerlatino.live/stream/m3u8/36.m3u8?
-#EXTINF:-1,ESPN-4
-https://v3.playerlatino.live/stream/m3u8/52.m3u8?
-#EXTINF:-1,ESPN VIVO
-https://v3.playerlatino.live/stream/m3u8/65.m3u8?
-#EXTINF:-1,ESPN
-https://v3.playerlatino.live/stream/m3u8/92.m3u8?
-#EXTINF:-1,ESPN PREMIUM
-https://v3.playerlatino.live/stream/m3u8/658.m3u8?
-#EXTINF:-1,ESPN 2
-https://v3.playerlatino.live/stream/m3u8/391.m3u8?
-#EXTINF:-1,ESPN 4
-https://v3.playerlatino.live/stream/m3u8/493.m3u8?
-#EXTINF:-1,ESPN EXTRA
-https://v3.playerlatino.live/stream/m3u8/494.m3u8?
+
 #EXTINF:-1,ESPN 2
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93033.m3u8
 #EXTINF:-1,BOB ESPONJA
 https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6eecb5c0-7b19-11eb-a635-0242ac110002&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=uknown&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1,RT EN ESPAÑOL
 https://rt-esp.rttv.com:443/live/rtesp/playlist_800Kb.m3u8
-#EXTINF:-1,MATH DESP
-https://v3.playerlatino.live/stream/m3u8/366.m3u8?
+
 #EXTINF:-1,PBS KIDS
 http://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,SPACETOON KIDS
@@ -1035,26 +907,7 @@ http://iptv.prosto.tv:7000/ch79/video.m3u8
 http://de.iptv.monster/play/384/E55722FD56FBE34/video.m3u8
 #EXTINF:-1,DIOS TV KIDS
 https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AHORA KIDS
-https://v3.playerlatino.live/stream/m3u8/25.m3u8?
-#EXTINF:-1,KIDS
-https://v3.playerlatino.live/stream/m3u8/30.m3u8?
-#EXTINF:-1,KIDS
-https://v3.playerlatino.live/stream/m3u8/661.m3u8?
-#EXTINF:-1,KIDS
-https://v3.playerlatino.live/stream/m3u8/662.m3u8?
-#EXTINF:-1,KIDS 3
-https://v3.playerlatino.live/stream/m3u8/663.m3u8?
-#EXTINF:-1,KIDS
-https://v3.playerlatino.live/stream/m3u8/694.m3u8?
-#EXTINF:-1,KIDS
-https://v3.playerlatino.live/stream/m3u8/703.m3u8?
-#EXTINF:-1,KIDS
-https://v3.playerlatino.live/stream/m3u8/721.m3u8?
-#EXTINF:-1,CLAN KIDS
-https://v3.playerlatino.live/stream/m3u8/787.m3u8?
-#EXTINF:-1,KIDS
-https://v3.playerlatino.live/stream/m3u8/416.m3u8?
+
 #EXTINF:-1,Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1,TVO Kids
@@ -1115,16 +968,10 @@ http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1025792497_b1384000.m3u8
 #EXTINF:-1,GO-RTV
 http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
-#EXTINF:-1,Fox Premium
-https://v3.playerlatino.live/stream/m3u8/512
+
 #EXTINF:-1,TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
-#EXTINF:-1,TNT
-https://v3.playerlatino.live/stream/m3u8/179.m3u8?
-#EXTINF:-1,TNT
-https://v3.playerlatino.live/stream/m3u8/650.m3u8?
-#EXTINF:-1,TNT SERIES
-https://v3.playerlatino.live/stream/m3u8/752.m3u8?
+
 #EXTINF:-1,92NEWS HD
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,DW NEWS
@@ -2219,8 +2066,7 @@ http://38.44.237.132:2080/TeleLima/index.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
 #EXTINF:-1,CASO CERRADO
 https://tinyurl.com/2qf6qovz
-#EXTINF:-1,CANDY CANDY
-https://v3.playerlatino.live/stream/m3u8/808|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1,CINE CANAL
 https://epg.pw/stream/21bedc2ca5ee8059d9421c35c4d8962ed8af45880e23656a79972d995157f21b.m3u8
 #EXTINF:-1,TELEMUNDO CA
@@ -2399,152 +2245,8 @@ https://sc.id-tv.kz/DomKino_34_35.m3u8
 https://sc.id-tv.kz/bober_34_35.m3u8
 #EXTINF:-1,o
 https://sc.id-tv.kz/o_34_35.m3u8
-#EXTINF:-1,A&E
-https://v3.playerlatino.live/stream/m3u8/01.m3u8?
-#EXTINF:-1,UNO TV
-https://v3.playerlatino.live/stream/m3u8/04.m3u8?
-#EXTINF:-1,BABY TV
-https://v3.playerlatino.live/stream/m3u8/07.m3u8?
-#EXTINF:-1,BANDAMAX TV
-https://v3.playerlatino.live/stream/m3u8/08.m3u8?
-#EXTINF:-1,CARTOONITO
-https://v3.playerlatino.live/stream/m3u8/11.m3u8?
-#EXTINF:-1,CN
-https://v3.playerlatino.live/stream/m3u8/17.m3u8?
-#EXTINF:-1,CINE CANEL C
-https://v3.playerlatino.live/stream/m3u8/18.m3u8?
-#EXTINF:-1,CINEMAX
-https://v3.playerlatino.live/stream/m3u8/20.m3u8?
-#EXTINF:-1,HGTV
-https://v3.playerlatino.live/stream/m3u8/23.m3u8?
-#EXTINF:-1,H&H TV
-https://v3.playerlatino.live/stream/m3u8/24.m3u8?
-#EXTINF:-1,G-EDGE
-https://v3.playerlatino.live/stream/m3u8/57.m3u8?
-#EXTINF:-1,EDGE TV
-https://v3.playerlatino.live/stream/m3u8/58.m3u8?
-#EXTINF:-1,G PREMIER
-https://v3.playerlatino.live/stream/m3u8/59.m3u8?
-#EXTINF:-1,G PREMIER
-https://v3.playerlatino.live/stream/m3u8/60.m3u8?
-#EXTINF:-1,HISTORY 2
-https://v3.playerlatino.live/stream/m3u8/61.m3u8?
-#EXTINF:-1,HBO
-https://v3.playerlatino.live/stream/m3u8/62.m3u8?
-#EXTINF:-1,HBO FAMILY
-https://v3.playerlatino.live/stream/m3u8/63.m3u8?
-#EXTINF:-1,HBO+
-https://v3.playerlatino.live/stream/m3u8/64.m3u8?
-#EXTINF:-1,HISTORY
-https://v3.playerlatino.live/stream/m3u8/67.m3u8?
-#EXTINF:-1,MTV
-https://v3.playerlatino.live/stream/m3u8/69.m3u8?
-#EXTINF:-1,SPACE TV
-https://v3.playerlatino.live/stream/m3u8/83.m3u8?
-#EXTINF:-1,STUDIO TV
-https://v3.playerlatino.live/stream/m3u8/84.m3u8?
-#EXTINF:-1,TCM
-https://v3.playerlatino.live/stream/m3u8/85.m3u8?
-#EXTINF:-1,TLC
-https://v3.playerlatino.live/stream/m3u8/87.m3u8?
-#EXTINF:-1,TELE HIT
-https://v3.playerlatino.live/stream/m3u8/91.m3u8?
-#EXTINF:-1,TLN
-https://v3.playerlatino.live/stream/m3u8/94.m3u8?
-#EXTINF:-1,TOONCAST
-https://v3.playerlatino.live/stream/m3u8/95.m3u8?
-#EXTINF:-1,COMEDY CENTRAL
-https://v3.playerlatino.live/stream/m3u8/135.m3u8?
-#EXTINF:-1,CNN
-https://v3.playerlatino.live/stream/m3u8/136.m3u8?
-#EXTINF:-1,FLIM & ARTS
-https://v3.playerlatino.live/stream/m3u8/149.m3u8?
-#EXTINF:-1,SYFY
-https://v3.playerlatino.live/stream/m3u8/151.m3u8?
-#EXTINF:-1,LIFE TIME
-https://v3.playerlatino.live/stream/m3u8/152.m3u8?
-#EXTINF:-1,GLITZ
-https://v3.playerlatino.live/stream/m3u8/158.m3u8?
-#EXTINF:-1,AMC
-https://v3.playerlatino.live/stream/m3u8/183.m3u8?
-#EXTINF:-1,UNIVERSAL
-https://v3.playerlatino.live/stream/m3u8/184.m3u8?
-#EXTINF:-1,IHOLA TV
-https://v3.playerlatino.live/stream/m3u8/189.m3u8?
-#EXTINF:-1,MUSIC TV
-https://v3.playerlatino.live/stream/m3u8/298.m3u8?
-#EXTINF:-1,HBO 2
-https://v3.playerlatino.live/stream/m3u8/300.m3u8?
-#EXTINF:-1,TA TV
-https://v3.playerlatino.live/stream/m3u8/320.m3u8?
-#EXTINF:-1,MATH+
-https://v3.playerlatino.live/stream/m3u8/364.m3u8?
-#EXTINF:-1,LIGA DE COMPNAY
-https://v3.playerlatino.live/stream/m3u8/367.m3u8?
-#EXTINF:-1,CDO
-https://v3.playerlatino.live/stream/m3u8/401.m3u8?
-#EXTINF:-1,A MAS
-https://v3.playerlatino.live/stream/m3u8/406.m3u8?
-#EXTINF:-1,UNO TV
-https://v3.playerlatino.live/stream/m3u8/634.m3u8?
-#EXTINF:-1,CN
-https://v3.playerlatino.live/stream/m3u8/637.m3u8?
-#EXTINF:-1,CINEMAX
-https://v3.playerlatino.live/stream/m3u8/638.m3u8?
-#EXTINF:-1,H&H
-https://v3.playerlatino.live/stream/m3u8/640.m3u8?
-#EXTINF:-1,HISTORY
-https://v3.playerlatino.live/stream/m3u8/642.m3u8?
-#EXTINF:-1,PARAMOUNT NET
-https://v3.playerlatino.live/stream/m3u8/647.m3u8?
-#EXTINF:-1,SYFY TV
-https://v3.playerlatino.live/stream/m3u8/648.m3u8?
-#EXTINF:-1,MU SICA
-https://v3.playerlatino.live/stream/m3u8/649.m3u8?
-#EXTINF:-1,HBO
-https://v3.playerlatino.live/stream/m3u8/654.m3u8?
-#EXTINF:-1,HBO+
-https://v3.playerlatino.live/stream/m3u8/655.m3u8?
-#EXTINF:-1,DIVX
-https://v3.playerlatino.live/stream/m3u8/664.m3u8?
-#EXTINF:-1,RETRO TV
-https://v3.playerlatino.live/stream/m3u8/692.m3u8?
-#EXTINF:-1,WT0 ANOS
-https://v3.playerlatino.live/stream/m3u8/708.m3u8?
-#EXTINF:-1,AXN
-https://v3.playerlatino.live/stream/m3u8/713.m3u8?
-#EXTINF:-1,AXN HD
-https://v3.playerlatino.live/stream/m3u8/714.m3u8?
-#EXTINF:-1,WB
-https://v3.playerlatino.live/stream/m3u8/716.m3u8?
-#EXTINF:-1,COMEDY CENTRAL
-https://v3.playerlatino.live/stream/m3u8/719.m3u8?
-#EXTINF:-1,HBO 2
-https://v3.playerlatino.live/stream/m3u8/732.m3u8?
-#EXTINF:-1,A&E
-https://v3.playerlatino.live/stream/m3u8/734.m3u8?
-#EXTINF:-1,CINE CANAL C
-https://v3.playerlatino.live/stream/m3u8/738.m3u8?
-#EXTINF:-1,PASINO TV
-https://v3.playerlatino.live/stream/m3u8/755.m3u8?
-#EXTINF:-1,RUSSIAN 13
-https://v3.playerlatino.live/stream/m3u8/765.m3u8?
-#EXTINF:-1,MOUNTAIN MEN TV
-https://v3.playerlatino.live/stream/m3u8/766.m3u8?
-#EXTINF:-1,ELTREAZ TV
-https://v3.playerlatino.live/stream/m3u8/767.m3u8?
-#EXTINF:-1,ENNEUVE TV
-https://v3.playerlatino.live/stream/m3u8/772.m3u8?
-#EXTINF:-1,TV 780
-https://v3.playerlatino.live/stream/m3u8/780.m3u8?
-#EXTINF:-1,TDP
-https://v3.playerlatino.live/stream/m3u8/330.m3u8?
-#EXTINF:-1,CANAL 703
-https://v3.playerlatino.live/stream/m3u8/399.m3u8?
-#EXTINF:-1,TTN UNIVISION
-https://v3.playerlatino.live/stream/m3u8/413.m3u8?
-#EXTINF:-1,FX
-https://v3.playerlatino.live/stream/m3u8/495.m3u8?
+
+
 #EXTINF:-1,USA
 http://208.86.19.13:81/11.stream/index.m3u8?
 #EXTINF:-1,TNT SERIES
@@ -2643,8 +2345,7 @@ https://webudit.cdnhks.lol/lb/premium66/index.m3u8
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:-1,EL CHAVO
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
-#EXTINF:-1,LA ROSA DE GUADALUPE OPC 2
-https://v3.playerlatino.live/stream/m3u8/886|user-agent=Dalvik/2.1.0
+
 #EXTINF:-1,LA ROSA DE GUADALUPE
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1,TURKMEN TV
