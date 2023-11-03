@@ -19,6 +19,12 @@ http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/869/863/png-transparent-star-logo-star-jalsha-star-pravah-star-india-star-movies-television-others-thumbnail.png" group-title="CtgTv category", STAR JALSA HD
 http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=20074513f021c2839e05422980f0188b4f232d9d-b3cfdfa97155652eb6a4c35f2827ae3f-1681329552-1681318752
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="CtgTv category", STAR PLUS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-plus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" group-title="CtgTv category", STAR GOLD SELECT HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold-select/chunks.m3u8?nimblesessionid=46589952
+
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20190112/iiu/kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg" group-title="Bdix category", Zee Bangla Cinema
 http://172.20.2.5:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 
@@ -34,7 +40,7 @@ http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38c
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
 #EXTINF:-1 group-title="http://bdixtv.live/assets/images/stargold.jpg", STAR GOLD HD
 http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="https://static.wikia.nocookie.net/logos/images/c/c0/Star_Movies_HD_%E1%BA%A4n_%C4%90%E1%BB%99.png/revision/latest?cb=20220210065731&path-prefix=vi", STAR GOLD HD
+#EXTINF:-1 group-title="https://static.wikia.nocookie.net/logos/images/c/c0/Star_Movies_HD_%E1%BA%A4n_%C4%90%E1%BB%99.png/revision/latest?cb=20220210065731&path-prefix=vi", STAR MOVIES HD
 http://172.16.172.112/live/feed1007/index.m3u8
 #EXTINF:-1 group-title="Bdix category" tvg-logo="http://bdixtv.live/assets/images/zeecinemahd.jpg", Zee Cinema HD
 http://172.20.2.5:8082/ZeeCinemaHD/index.fmp4.m3u8
@@ -74,6 +80,9 @@ http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8?token=b011d5207c70ba8d11902414
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png",Channel 24
 http://172.20.2.5:8082/Channel24/tracks-v1a1/mono.m3u8?token=fd936b9c7910e0114288e0698596429f0639f079-3ce2012bea32ca891677346047229a3a-1681329759-1681318959
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png" group-title="Bdix category", Somoy Tv
+http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",MOHONA TV HD
 http://172.20.2.5:8082/MohonaTV/index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png",MOHONA TV HD
@@ -3497,108 +3506,7 @@ http://116.202.231.21/hls/RedLine_beIN_Sports_4.m3u8
 http://116.202.231.21/hls/RedLine_beIN_Sports_5.m3u8
 #EXTINF:-1, Asports
 http://tv.bdiptv24.online/live/star2/jointelegram@freeiptv25.m3u8
-#EXTINF:-1, 8XM
-http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test 
-#EXTINF:-1, 9XM
-http://144.217.70.181:9587/hin2/9XM/index.m3u8?token=test 
-#EXTINF:-1, B4U Movies
-http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8?token=test 
 
-#EXTINF:-1, B4U Movies UK
-http://144.217.70.181:9587/hin2/B4UMOVIESUK/index.m3u8?token=test
-
-#EXTINF:-1, B4U Music
-http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8?token=test 
-
-#EXTINF:-1, Colors HD
-http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test 
-
-#EXTINF:-1, Colors UK
-http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test 
-
-#EXTINF:-1, E24
-http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test 
-
-#EXTINF:-1, Hungama TV
-http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test 
-
-#EXTINF:-1, India Today
-http://144.217.70.181:9587/hin2/INDIATODAY/index.m3u8?token=test 
-
-#EXTINF:-1, Mastiii
-http://144.217.70.181:9587/hin2/MASTII/index.m3u8?token=test
-
-#EXTINF:-1, MTV
-http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8?token=test 
-
-#EXTINF:-1, MTV Beats HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
-
-#EXTINF:-1, News24
-http://144.217.70.181:9587/hin2/NEWS24/index.m3u8?token=test 
-
-#EXTINF:-1, POGO.TV
-http://144.217.70.181:9587/hin2/POGO/index.m3u8?token=test 
-
-#EXTINF:-1, Sahara One
-http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8?token=test 
-
-#EXTINF:-1, Sonic
-http://144.217.70.181:9587/hin2/SONIC/index.m3u8?token=test 
-
-#EXTINF:-1, Sony HD
-http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test 
-
-#EXTINF:-1, Sony Max
-http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test 
-
-#EXTINF:-1, Sony Max 2
-http://144.217.70.181:9587/hin2/SONYMAX2/index.m3u8?token=test 
-
-#EXTINF:-1, Sony PAL
-http://144.217.70.181:9587/hin2/SONYPAL/index.m3u8?token=test 
-
-#EXTINF:-1, Star Bharat UK
-http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8?token=test
-
-#EXTINF:-1, Star Gold 2
-http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8?token=test 
-
-#EXTINF:-1, Star Gold UK
-http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8?token=test 
-
-S#EXTINF:-1, tar Gold HD
-http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8?token=test 
-
-Star Plus HD
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test 
-
-#EXTINF:-1, Star Plus UK
-http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test 
-
-#EXTINF:-1,UTV Action
-http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test 
-
-#EXTINF:-1, UTV Movies HD
-http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test 
-
-#EXTINF:-1, Zee Action
-http://144.217.70.181:9587/hin2/ZEEACTION/index.m3u8?token=test 
-
-#EXTINF:-1, Zee Anmol Cinema
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
-
-
-#EXTINF:-1, Zee Cinema HD
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8?token=test
-#EXTINF:-1, Zee Classic
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8?token=test
-#EXTINF:-1, Zee TV HD
-http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test 
-#EXTINF:-1, Zee TV UK
-http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test 
-#EXTINF:-1, Zoom
-http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
 #EXTINF:-1,  PTV sports 
 http://103.141.2.38/hls/ptv.m3u8
 
@@ -4506,3 +4414,105 @@ http://192.168.1.100:81/953_0_1762000_27688_0_1_3213_3313_3113_3213_17.ts
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2505/index.m3u8
 #EXTINF:-1, TNT SPORTS 2
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2506/index.m3u8
+#EXTINF:-1, 8XM
+http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test 
+#EXTINF:-1, 9XM
+http://144.217.70.181:9587/hin2/9XM/index.m3u8?token=test 
+#EXTINF:-1, B4U Movies
+http://144.217.70.181:9587/hin2/B4UMOVIES/index.m3u8?token=test 
+
+#EXTINF:-1, B4U Movies UK
+http://144.217.70.181:9587/hin2/B4UMOVIESUK/index.m3u8?token=test
+
+#EXTINF:-1, B4U Music
+http://144.217.70.181:9587/hin2/B4UMUSIC/index.m3u8?token=test 
+
+#EXTINF:-1, Colors HD
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8?token=test 
+
+#EXTINF:-1, Colors UK
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8?token=test 
+
+#EXTINF:-1, E24
+http://144.217.70.181:9587/hin2/E24/index.m3u8?token=test 
+
+#EXTINF:-1, Hungama TV
+http://144.217.70.181:9587/hin2/HUNGAMA/index.m3u8?token=test 
+
+#EXTINF:-1, India Today
+http://144.217.70.181:9587/hin2/INDIATODAY/index.m3u8?token=test 
+
+#EXTINF:-1, Mastiii
+http://144.217.70.181:9587/hin2/MASTII/index.m3u8?token=test
+
+#EXTINF:-1, MTV
+http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8?token=test 
+
+#EXTINF:-1, MTV Beats HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/index.m3u8?token=test
+
+#EXTINF:-1, News24
+http://144.217.70.181:9587/hin2/NEWS24/index.m3u8?token=test 
+
+#EXTINF:-1, POGO.TV
+http://144.217.70.181:9587/hin2/POGO/index.m3u8?token=test 
+
+#EXTINF:-1, Sahara One
+http://144.217.70.181:9587/hin2/SAHARAONE/index.m3u8?token=test 
+
+#EXTINF:-1, Sonic
+http://144.217.70.181:9587/hin2/SONIC/index.m3u8?token=test 
+
+#EXTINF:-1, Sony HD
+http://144.217.70.181:9587/hin2/SONYTVHD/index.m3u8?token=test 
+
+#EXTINF:-1, Sony Max
+http://144.217.70.181:9587/hin2/SONYMAXHD/index.m3u8?token=test 
+
+#EXTINF:-1, Sony Max 2
+http://144.217.70.181:9587/hin2/SONYMAX2/index.m3u8?token=test 
+
+#EXTINF:-1, Sony PAL
+http://144.217.70.181:9587/hin2/SONYPAL/index.m3u8?token=test 
+
+#EXTINF:-1, Star Bharat UK
+http://144.217.70.181:9587/hin2/STARBHARATUK/index.m3u8?token=test
+
+#EXTINF:-1, Star Gold 2
+http://144.217.70.181:9587/hin2/STARGOLD2/index.m3u8?token=test 
+
+#EXTINF:-1, Star Gold UK
+http://144.217.70.181:9587/hin2/STARGOLDUK/index.m3u8?token=test 
+
+#EXTINF:-1, Star Gold HD
+http://144.217.70.181:9587/hin2/STARGOLDHD/index.m3u8?token=test 
+
+#EXTINF:-1,Star Plus HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8?token=test 
+
+#EXTINF:-1, Star Plus UK
+http://144.217.70.181:9587/hin2/STARPLUSUK/index.m3u8?token=test 
+
+#EXTINF:-1,UTV Action
+http://144.217.70.181:9587/hin2/UTVACTION/index.m3u8?token=test 
+
+#EXTINF:-1, UTV Movies HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/index.m3u8?token=test 
+
+#EXTINF:-1, Zee Action
+http://144.217.70.181:9587/hin2/ZEEACTION/index.m3u8?token=test 
+
+#EXTINF:-1, Zee Anmol Cinema
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/index.m3u8?token=test
+
+
+#EXTINF:-1, Zee Cinema HD
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/index.m3u8?token=test
+#EXTINF:-1, Zee Classic
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/index.m3u8?token=test
+#EXTINF:-1, Zee TV HD
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test 
+#EXTINF:-1, Zee TV UK
+http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test 
+#EXTINF:-1, Zoom
+http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
