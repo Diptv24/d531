@@ -22,7 +22,7 @@ http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=20074513f021c2839
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png" group-title="CtgTv category", STAR PLUS HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-plus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639" group-title="CtgTv category", STAR GOLD SELECT HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Star_Gold_Select_HD.svg/revision/latest?cb=20211216003639.png" group-title="CtgTv category", STAR GOLD SELECT HD
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-gold-select/chunks.m3u8?nimblesessionid=46589952
 
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20190112/iiu/kisspng-zee-bangla-cinema-logo-zee-cinema-bengali-language-5c3a11e38637c1.7959353315473095395498.jpg" group-title="Bdix category", Zee Bangla Cinema
