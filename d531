@@ -4544,20 +4544,31 @@ http://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
 http://varun-iptv.netlify.app/m3u/HGTV.m3u8
 #EXTINF:-1 group-title="Discovery Network", FOOD NETWORK
 http://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN ROMANCE UK
+http://rakuten-romance-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN ROMANCE ES
+http://rakuten-romance-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN ROMANCE FRANCE
+https://rakuten-romance-7-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RKAUTEN ROMANCE
+https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN CINE EXPANOL
+https://rakuten-cine-espanol-1-es.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN DEUTSCE KINO
+https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN FAMILY 3 DE
+https://rakuten-family-3-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN FAMILY PT
+https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN FAMILY IT
+https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN TRILLER UK
+https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Rakuten Network", RAKUTEN DRAMA
+https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten Network",
 
 #EXTINF:-1 group-title="Rakuten Network",
-
-#EXTINF:-1 group-title="Rakuten Network",
-
-#EXTINF:-1 group-title="Rakuten Network",
-
-#EXTINF:-1 group-title="Rakuten Network",
-
-#EXTINF:-1 group-title="Rakuten Network",
-
-#EXTINF:-1 group-title="Rakuten Network",
-
 
 
 
