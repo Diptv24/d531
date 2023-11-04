@@ -4566,11 +4566,44 @@ https://rakuten-deutsches-kino-1-eu.rakuten.wurl.tv/playlist.m3u8
 https://rakuten-thriller-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Rakuten Network", RAKUTEN DRAMA
 https://rakuten-drama-12-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Rakuten Network",
-
-#EXTINF:-1 group-title="Rakuten Network",
 
 
+#EXTINF:-1 group-title="MBC Network", MBC HD
+https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1 group-title="MBC Network", MBC 3
+http://62.182.82.104/MBC_3/index.m3u8?token=test
+#EXTINF:-1 group-title="MBC Network", MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8?=Samitvhd.com
+#EXTINF:-1 group-title="MBC Network", MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 group-title="MBC Network", MBC DRAMA
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 group-title="MBC Network", MBC DRAMA+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_4.m3u8?=Samitvhd.com
+#EXTINF:-1 group-title="MBC Network", MBC MASR
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8?=Samitvhd.com
+#EXTINF:-1 group-title="MBC Network", MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="MBC Network", MBC PERSIA
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 group-title="MBC Network", MBC  IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 group-title="MBC Network", MBC WANASAH
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+#EXTINF:-1 group-title="ROTANA Network", ROTANA PLUS
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8?=Samitvhd.com
+#EXTINF:-1 group-title="ROTANA Network", ROTANA CINEMA
+https://daiconnect.com/live/hls/rotana/cinema-ksa/.m3u8
+#EXTINF:-1 group-title="ROTANA Network", ROTANA DRAMA
+https://daiconnect.com/live/hls/rotana/drama/.m3u8
+#EXTINF:-1 group-title="ROTANA Network", ROTANA COMEDY
+https://daiconnect.com/live/hls/rotana/comedy/.m3u8
+#EXTINF:-1 group-title="ROTANA Network", ROTANA KIDS
+https://edge.taghtia.com/br/rotana-kids.m3u8?=Samitvhd.com
+#EXTINF:-1 group-title="ROTANA Network", ROTANA RISALA
+https://edge.taghtia.com/br/rotana-risala.m3u8?=Samitvhd.com
+#EXTINF:-1 group-title="ROTANA Network", ROTANA  KHALEEJIYA
+https://daiconnect.com/live/hls/rotana/khaleejiya/bdd1ae456dc13265bac8bfc099af0dc8/.m3u8
 
 
 
