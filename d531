@@ -4637,8 +4637,33 @@ https://stmv1.cnarlatam.com/buenvivirtv/buenvivirtv/playlist.m3u8
 https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
 #EXTINF:-1 group-title="CINE Network", ASTRO NETWORK
 https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV
+http://hw-m-l.cztv.com/channels/lantian/channel001/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 2
+http://hw-m-l.cztv.com/channels/lantian/channel002/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 3
+http://hw-m-l.cztv.com/channels/lantian/channel003/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 4
+http://hw-m-l.cztv.com/channels/lantian/channel004/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 5
+http://hw-m-l.cztv.com/channels/lantian/channel005/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 6
+http://hw-m-l.cztv.com/channels/lantian/channel006/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 7
+http://hw-m-l.cztv.com/channels/lantian/channel007/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 8
+http://hw-m-l.cztv.com/channels/lantian/channel008/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 9
+http://hw-m-l.cztv.com/channels/lantian/channel009/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 10
+http://hw-m-l.cztv.com/channels/lantian/channel010/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network", ZJ TV 11
+http://hw-m-l.cztv.com/channels/lantian/channel011/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network",  ZJ TV 12
+http://hw-m-l.cztv.com/channels/lantian/channel012/540p.m3u8
+#EXTINF:-1 group-title="CHINA Network", 
 
-
+#EXTINF:-1 group-title="CHINA Network", 
 
 
 
