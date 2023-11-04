@@ -4605,6 +4605,38 @@ https://edge.taghtia.com/br/rotana-risala.m3u8?=Samitvhd.com
 #EXTINF:-1 group-title="ROTANA Network", ROTANA  KHALEEJIYA
 https://daiconnect.com/live/hls/rotana/khaleejiya/bdd1ae456dc13265bac8bfc099af0dc8/.m3u8
 
+#EXTINF:-1 group-title="CINE Network", CINE ACCION
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE ASIA
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE COMEDIA
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE DRAMA
+https://stmv1.cnarlatam.com/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE EUROPA
+https://stmv1.cnarlatam.com/cineuropa/cineuropa/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE FAMILY
+https://stmv1.cnarlatam.com/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE HINDI
+https://stmv1.cnarlatam.com/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE LATINO
+https://stmv1.cnarlatam.com/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE TERROR
+https://stmv1.cnarlatam.com/cineterror/cineterror/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE SERIES
+https://stmv1.cnarlatam.com/xtremaseries/xtremaseries/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE SUSPENSO
+https://stmv1.cnarlatam.com/cinesuspenso/cinesuspenso/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE MUNDO
+https://stmv1.cnarlatam.com/mundotv/mundotv/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE ANIMAL
+https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE EBV
+https://stmv1.cnarlatam.com/buenvivirtv/buenvivirtv/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", CINE TELO CUEN
+https://stmv1.cnarlatam.com/telocuento/telocuento/playlist.m3u8
+#EXTINF:-1 group-title="CINE Network", ASTRO NETWORK
+https://stmv1.cnarlatam.com/astronet/astronet/playlist.m3u8
 
 
 
