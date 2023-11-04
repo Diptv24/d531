@@ -4519,3 +4519,61 @@ http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8?token=test
 http://144.217.70.181:9587/hin2/ZEETVUK/index.m3u8?token=test 
 #EXTINF:-1, Zoom
 http://144.217.70.181:9587/hin2/ZOOM/index.m3u8?token=test
+
+#EXTINF:-1 group-title="Discovery Network", DIS KIDS HINDI
+http://varun-iptv.netlify.app/m3u/discoverykidshindi.m3u8
+#EXTINF:-1 group-title="Discovery Network", DIS KIDS KANNADA
+https://varun-iptv.netlify.app/m3u/discoverykidskannada.m3u8
+#EXTINF:-1 group-title="Discovery Network", DISCOVERY HD HINDI
+http://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 group-title="Discovery Network", DISCOVERY BANGLA
+http://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="Discovery Network", DISCOVERY TURBO
+http://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
+#EXTINF:-1 group-title="Discovery Network", DISCOVERY ID
+http://varun-iptv.netlify.app/m3u/Investigation_Discovery.m3u8
+#EXTINF:-1 group-title="Discovery Network", DISCOVERY SCIENCE
+http://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
+#EXTINF:-1 group-title="Discovery Network", TLC HD
+http://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 group-title="Discovery Network", DMAX
+http://varun-iptv.netlify.app/m3u/DMAX.m3u8
+#EXTINF:-1 group-title="Discovery Network", TRAVELS CHANNEL
+http://varun-iptv.netlify.app/m3u/TRVL_Channel.m3u8
+#EXTINF:-1 group-title="Discovery Network", HG TV
+http://varun-iptv.netlify.app/m3u/HGTV.m3u8
+#EXTINF:-1 group-title="Discovery Network", FOOD NETWORK
+http://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
+#EXTINF:-1 group-title="Rakuten Network",
+
+#EXTINF:-1 group-title="Rakuten Network",
+
+#EXTINF:-1 group-title="Rakuten Network",
+
+#EXTINF:-1 group-title="Rakuten Network",
+
+#EXTINF:-1 group-title="Rakuten Network",
+
+#EXTINF:-1 group-title="Rakuten Network",
+
+#EXTINF:-1 group-title="Rakuten Network",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
