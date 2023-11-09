@@ -4697,9 +4697,20 @@ http://210.210.155.37/dr9445/h/h04/index.m3u8
 http://210.210.155.35/uq2663/h/h194/index.m3u8
 #EXTINF:-1 group-title=" HOLLYWOOD Network",
 
-#EXTINF:-1 group-title=" HOLLYWOOD Network",
+#EXTINF:-1 group-title="PAKISTANI NETWORK", PLAY TV
+https://cdn5.mjunoon.tv:8087/web/playtv-154/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIzIDM6NDE6MzkgQU0maGFzaF92YWx1ZT1TQW5NMEsvd0x5bmlBMGNxQUN2cERRPT0mdmFsaWRtaW51dGVzPTE=
 
+#EXTINF:-1 group-title="PAKISTANI NETWORK", UEDU 1
+https://cdn5.mjunoon.tv:8087/web/Urdu1-158-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIzIDM6NDQ6MTggQU0maGFzaF92YWx1ZT10SzNKVDlES3dRR29rV2RJcHo1R1VRPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 group-title="PAKISTANI NETWORK", SEE TV
+https://cdn5.mjunoon.tv:8087/web/SeeTV-156/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIzIDM6NDQ6NDUgQU0maGFzaF92YWx1ZT03TnBubmNLVUh0MGdnazk0YjBRZFVRPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 group-title="PAKISTANI NETWORK", APNA CHANNELS
+https://cdn5.mjunoon.tv:8087/web/ApnaChannel-134/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIzIDM6NDU6MDggQU0maGFzaF92YWx1ZT1RS1RsR1o3YXdpQ0doaVJhVmFmL0ZBPT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 group-title="PAKISTANI NETWORK", AAB TAK
+https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIzIDM6NDU6NDkgQU0maGFzaF92YWx1ZT10L1dCY3ZPdXVkOEEwb0R5Uk9uaHF3PT0mdmFsaWRtaW51dGVzPTE=
+#EXTINF:-1 group-title="PAKISTANI NETWORK",
 
+#EXTINF:-1 group-title="PAKISTANI NETWORK",
 
 
 
