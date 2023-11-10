@@ -4712,6 +4712,12 @@ https://cdn5.mjunoon.tv:8087/web/AbbTakNews-133/playlist.m3u8?wmsAuthSign=c2Vydm
 
 #EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg" group-title="VIETNAM NETWORK", ON SPORTS+
 https://gineu10.bozztv.com/gin-dvrfl05/vch_vchannel17/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportscongmoi1.jpg" group-title="VIETNAM NETWORK", ON SPORTS
+https://gineu10.bozztv.com/gin-dvrfl05/vch_vchannel11/index.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://www.giniko.com/logos/190x110/921.png" group-title="VIETNAM NETWORK", Vietoday Television
 https://gineu8.bozztv.com/gin-dvrfl05/vch_vchannel1/tracks-v1a1/mono.m3u8
 
