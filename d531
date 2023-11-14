@@ -3,7 +3,7 @@
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1, FOX CRICKET 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png", FOX CRICKET 
 https://sexyshambhavi.pages.dev/Cricket23/Fox_index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", TSPORTS HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
@@ -5446,16 +5446,31 @@ http://otv.ftpbd.net:8082/Wild-HD/index.m3u8?token=e291f180b9c7f01e8c88408a23092
 http://otv.ftpbd.net:8082/Discovery-HD/index.m3u8?token=4c36018b7c31c9ff40f9d3423a993bee2b3b3ecb-5d37b8502afc9fae4853b824fc511b10-1699938672-1699927872
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png", NICK JR
 http://otv.ftpbd.net:8082/Nick-Jr/index.m3u8?token=450ab97422515b7a712e08caa3d3baf042dd35eb-848f038720dd771161be8bc7e8bea984-1699938717-1699927917
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CBeebies_HD.svg/1280px-CBeebies_HD.svg.png". CEBEEBIES 
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CBeebies_HD.svg/1280px-CBeebies_HD.svg.png", CEBEEBIES 
 http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/index.m3u8?token=bcbf3513d2c16cbb3179c98feef232bea6f8cb1a-76c29c0ea368aa5719c0386951181cf9-1699938790-1699927990
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", DURANTO TV HD
 http://otv.ftpbd.net:8082/Duronto-Tv-HD/index.m3u8?token=22089c02aabc19cc827cdcdadf48314bbcdeae92-b3fa4e92d6b648b3c7351e9e06b04470-1699938844-1699928044
-#EXTINF:-1 group-title="OTP FTP" tvg-logo=" ", 
-
-#EXTINF:-1 group-title="OTP FTP" tvg-logo=" ", 
-
-
-
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://media.info/l/o/1/1539.1690027797.png", TNT SPORTS 1
+http://otv.ftpbd.net:8082/TnT-Sports-1-HD/index.m3u8?token=e6bbd3f749b5b9f1f583a64321b974a851bd03b6-ebfca28c009732e31be70fa9f532b456-1699989725-1699978925
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png", HBO HD
+http://otv.ftpbd.net:8082/Hbo-HD/index.m3u8?token=50827317bfb3acf5c4f590f9b21ffa792fa3021d-1463ddd09ae4f1dac8b1099558a0d645-1699989821-1699979021
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp", &PICTURES HD
+http://otv.ftpbd.net:8082/And-Pictures-HD/index.m3u8?token=e7ba094bb2d78df46c5d20a462ae4bcb3fcb0f0c-393e460ce9f5a2008fc3ed9dbfdd5524-1699989878-1699979078
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png", CINEMA WORLD
+http://otv.ftpbd.net:8082/Star-Gold-Select-HD/index.m3u8?token=9dad37e4d6a708beeda676ed409d201162b50340-64a8c7043e770df6ff80d883ef1a0958-1699989954-1699979154
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Gold1667751269.png", STAR GOLD HD
+http://otv.ftpbd.net:8082/And-Prive-HD/index.m3u8?token=ca1e05856b60610a11873906ccea170af788161a-8fa728484c8b5654a97a4fb91fa54a61-1699990061-1699979261
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20Max%20HD1667728133.png", SONY MAX HD
+http://otv.ftpbd.net:8082/Set-Max-HD/index.m3u8?token=0e5a193882265ff043e70b771bd6feaaf44b936f-8f5f77a31494abbd21cf5ba4e59a614d-1699990124-1699979324
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20SAB1681564997.png", SONY SAB HD
+http://otv.ftpbd.net:8082/Sony-Sab-HD/index.m3u8?token=2a5e5f2d07d70b723e7c304495ca6b68f18e0270-c323887f31ab476cbd537c4d345396d9-1699990164-1699979364
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20Entertainment1667728144.png", SONY ENTERTEIMENT
+http://otv.ftpbd.net:8082/Sony-Entertainment/index.m3u8?token=748dd11338d20323d984ef96e586308f29c3ba5d-b37143e6a17255a3d3403093f279e483-1699990223-1699979423
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Zee%20Bangla1664976875.png", ZEE BANGLA HD
+http://otv.ftpbd.net:8082/Zee-Bangla-HD/index.m3u8?token=71e576d42fc65fe878664a2b9a056f7c96bc1e67-5be0dc22e09fc25bf8d4644a06c4bd45-1699990263-1699979463
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DEEPTO TV HD
+http://otv.ftpbd.net:8082/Deepto-Tv-HD/index.m3u8?token=22db5e30cc049babbf60530dccdbcdacf32fef17-34ebd95b3d2ce203a4a6821fa0816546-1699990295-1699979495
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="
 
 
 
