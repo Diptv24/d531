@@ -5470,7 +5470,35 @@ http://otv.ftpbd.net:8082/Sony-Entertainment/index.m3u8?token=748dd11338d20323d9
 http://otv.ftpbd.net:8082/Zee-Bangla-HD/index.m3u8?token=71e576d42fc65fe878664a2b9a056f7c96bc1e67-5be0dc22e09fc25bf8d4644a06c4bd45-1699990263-1699979463
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DEEPTO TV HD
 http://otv.ftpbd.net:8082/Deepto-Tv-HD/index.m3u8?token=22db5e30cc049babbf60530dccdbcdacf32fef17-34ebd95b3d2ce203a4a6821fa0816546-1699990295-1699979495
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="https://www.rudaw.net/images/logo.svg", Rudaw tv
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kurd-channel-iq.png". KURD CHANNEL
+https://kurd-channel.ikoflix.com/hls/stream_1.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="http://hometvkurd.com/uploads/tv_image/sm/nrt-tv-hd-live.png", NRT HD
+https://media.streambrothers.com:1936/8226/8226/chunklist_w1679308542.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="http://hometvkurd.com/uploads/tv_image/zagros-tv.png", ZAGROS TV
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="http://hometvkurd.com/uploads/tv_image/kurdistan-tv-live.png", KURDISTAN TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w1106628863_b1700000_sleng_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="http://azrotv.com/iphone/images/fr_jpg/waar.jpg", WR TV
+https://ikomg4.s.llnwi.net/waarhd/stream_0.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="https://play-lh.googleusercontent.com/DeNLwPxY91Y4-nFx2J1BC8omrGa49MiSxt0iipQCpqyQI3ZW6P6A9hTeJI0znhlcWGGN", KURDMAX HD
+https://6476e46b58f91.streamlock.net/liveTrans/KurdmaxS0rani!/playlist.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="http://azrotv.com/iphone/images/fr_jpg/k04.jpg", GK GALI
+https://live.bradosti.net/live/GaliKurdistan_720/index.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="https://kurditv.com/wp-content/uploads/2022/07/Kurdsat-News-Live-528x297.png", KURD NEWS
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
+
+
+
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
+
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
+
+#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
+
+
 
 
 
