@@ -5517,13 +5517,13 @@ https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 #EXTINF:-1, CBS SPORTS
 https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
 #EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
-
-#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
-
-#EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
-
-
-
-
-
-
+#EXTINF:-1, ASTRO SUPER SPORTS 
+https://mlb.mrgamingstreams.com/astro.m3u8
+#EXTINF:-1, TVP SPORTS 
+https://mlb.mrgamingstreams.com/publica.m3u8
+#EXTINF:-1, GLOBO TV
+https://mlb.mrgamingstreams.com/globo.m3u8
+#EXTINF:-1, VIAPLAY 2
+https://mlb.mrgamingstreams.com/via2.m3u8
+#EXTINF:-1, AYV HD
+https://1219373429.rsc.cdn77.org/live/stream-1/playlist.m3u8
