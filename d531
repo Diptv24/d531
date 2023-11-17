@@ -5489,9 +5489,33 @@ https://live.bradosti.net/live/GaliKurdistan_720/index.m3u8
 #EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="https://kurditv.com/wp-content/uploads/2022/07/Kurdsat-News-Live-528x297.png", KURD NEWS
 https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 #EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
+#EXTINF:-1, SPPRT TV
+https://headlinessportsfoot.com/chunklist/hlsch16.m3u8
+#EXTINF:-1, SPORT TV 1
+https://headlinessportsfoot.com/chunklist/hlsch12.m3u8
+#EXTINF:-1, SPORT TV
+https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+#EXTINF:-1, SPORT TV 2
+https://headlinessportsfoot.com/chunklist/hlsch11.m3u8
+#EXTINF:-1, SPORT TV 3
+https://headlinessportsfoot.com/chunklist/hlsch13.m3u8
+#EXTINF:-1, SPORT TV 4
+https://headlinessportsfoot.com/chunklist/hlsch14.m3u8
+#EXTINF:-1, FS 1
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+#EXTINF:-1, SUPER SPORTS PL
+https://headlinessportsfoot.com/chunklist/hlsch3.m3u8
+#EXTINF:-1, M4 SPORTS
+https://headlinessportsfoot.com/chunklist/hlsch1.m3u8
+#EXTINF:-1, WSPORT
+https://headlinessportsfoot.com/chunklist/hlsch5.m3u8
+#EXTINF:-1, SPORT TV
+https://headlinessportsfoot.com/chunklist/hlsch8.m3u8
 
-
-
+#EXTINF:-1, SPORTS TV
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
+#EXTINF:-1, CBS SPORTS
+https://headlinessportsfoot.com/chunklist/hlsch15.m3u8
 #EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
 
 #EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="
