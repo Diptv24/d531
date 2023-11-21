@@ -5537,5 +5537,17 @@ https://mlb.mrgamingstreams.com/publica.m3u8
 https://mlb.mrgamingstreams.com/globo.m3u8
 #EXTINF:-1, VIAPLAY 2
 https://mlb.mrgamingstreams.com/via2.m3u8
+#EXTINF:-1, VIAPLAY SPORTS 2
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1, SKY SPORTS 3 NZ
+https://hls.streambtw.com/live/stream_3.m3u8
+#EXTINF:-1, SKY SPORTS 4 NZ
+https://hls.streambtw.com/live/stream_6.m3u8
+#EXTINF:-1, SUPER SPORTS VARIETY 2
+https://hls.streambtw.com/live/stream_4.m3u8
+#EXTINF:-1, VIAPLAY SPORTS
+https://hls.streambtw.com/live/stream_5.m3u8
+#EXTINF:-1, TNT SPORTS 
+https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1, AYV HD
 https://1219373429.rsc.cdn77.org/live/stream-1/playlist.m3u8
