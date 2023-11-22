@@ -8,8 +8,8 @@ http://chanel.dekhaott.com/Gazi-TV/tracks-v1a1/mono.m3u8
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/T_sports/hls/index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",Tsports HD
 http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1. jpg",STAR SPORTS 1
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU",GAZI TV
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
