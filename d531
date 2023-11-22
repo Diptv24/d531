@@ -5562,4 +5562,7 @@ https://edge2.laotv.la/live/TrueSport3/index.m3u8
 https://edge1.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 group-title="TrueSports Network", TRUE SPORTS 7 VN
 https://edge2.laotv.la/live/TSports7/index.m3u8
-
+#EXTINF:-1 group-title="TrueSports Network", TRUE SPORTS PREMIER 1
+https://edge1.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="TrueSports Network", True Sports Premier 2
+https://edge1.laotv.la/live/TSport2/index.m3u8
