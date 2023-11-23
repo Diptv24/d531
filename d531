@@ -1,3 +1,56 @@
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png", SUPER SPORTS CRICKET
+http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8?token=1fcb8df3ea4b33b84754c747f5c5736b4cb3a90f-fa206eb7360fe526b03f98efe5a609f4-1700762149-1700751349
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://media.info/l/o/1/1539.1690027797.png", TNT SPORTS 1
+http://otv.ftpbd.net:8082/TnT-Sports-1-HD/index.m3u8?token=e6bbd3f749b5b9f1f583a64321b974a851bd03b6-ebfca28c009732e31be70fa9f532b456-1699989725-1699978925
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png", TSPORTS HD
+http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=b7b5a05e4d85e7088c55c4adc7953c4753291d02-c458482299bdc6269d6b76b10af924d1-1699938088-1699927288
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png",  GTV
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=151ce0e7f0871ac854ca0128885b29d75410f681-990219390694fbffb8df6b82cae660d2-1699938138-1699927338
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%2011667750523.png", STAR SPORTS 1 HD
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/index.m3u8?token=9759e8aa2a601cd03ac81285a6cd10cfe254d171-36177856d73ac64485300d45e3fd92d9-1699938183-1699927383
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/StarSports%20Select%20HD1667750883.png", STAR SPORTS SL 1
+http://otv.ftpbd.net:8082/Star-Select-1-HD/index.m3u8?token=5ebe5e44efa19ecfac30e45a2eb49015ecf62159-5fe7aa4875e01a923d3bce3ae243374b-1699938218-1699927418
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", STAR SPORTS SL 2
+http://otv.ftpbd.net:8082/Star-Select-2-HD/index.m3u8?token=758a727d90c30553eddbc13b894f1b6d0524d542-e1861151ef66afaf40ce3b922c5b9a82-1699938257-1699927457
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20TEN%2021667728105.png", SONY TEN 2 HD
+http://otv.ftpbd.net:8082/Sony-Ten-2/index.m3u8?token=13868b6783e8456bc287f66264ee09b489d78fa6-b4c541595937b519aa27c2f347eb51bf-1699938321-1699927521
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20TEN%2011667728321.png", SONY TEN 1 HD
+http://otv.ftpbd.net:8082/SONY-TEN-1/index.m3u8?token=27466305e8d088676550f6bb5e8cf629e35e9704-b9ea7af2b9d66d0a74279ef21bd896e2-1699938366-1699927566
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/800px-Fox_Action_Movies_logo.svg.png", FOX MOVES ACTION
+http://otv.ftpbd.net:8082/Fox-Cartoon-HD/index.m3u8?token=70fc7ed7412fd04dd1e5796d1fbd27ba46ca387f-356eb3bb27063533166f2ced1ba623c1-1699938433-1699927633
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star_movies_select_hd_india.webp", STAR MOVES SL HD
+http://otv.ftpbd.net:8082/History-18-HD/index.m3u8?token=3b757f53cc7aa54838147bf3bd2cd7849c0dce3e-99d3b4e613a05884faac6746f0bf8252-1699938507-1699927707
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", NAT GEO HD
+http://otv.ftpbd.net:8082/National-Geographic-HD/index.m3u8?token=7764a1d37c2cfaf81fa566fa771d6b6acfc01595-2b575ec3669a04a8adef4f022e706d8a-1699938574-1699927774
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png", NAT GEO WILD HD
+http://otv.ftpbd.net:8082/Wild-HD/index.m3u8?token=e291f180b9c7f01e8c88408a2309269836010d11-5efc63e3487a2e7be3126a82d195e413-1699938624-1699927824
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5f/Discovery_Channel_HD.svg/1200px-Discovery_Channel_HD.svg.png", DISCOVERY HD
+http://otv.ftpbd.net:8082/Discovery-HD/index.m3u8?token=4c36018b7c31c9ff40f9d3423a993bee2b3b3ecb-5d37b8502afc9fae4853b824fc511b10-1699938672-1699927872
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png", NICK JR
+http://otv.ftpbd.net:8082/Nick-Jr/index.m3u8?token=450ab97422515b7a712e08caa3d3baf042dd35eb-848f038720dd771161be8bc7e8bea984-1699938717-1699927917
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CBeebies_HD.svg/1280px-CBeebies_HD.svg.png", CEBEEBIES 
+http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/index.m3u8?token=bcbf3513d2c16cbb3179c98feef232bea6f8cb1a-76c29c0ea368aa5719c0386951181cf9-1699938790-1699927990
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", DURANTO TV HD
+http://otv.ftpbd.net:8082/Duronto-Tv-HD/index.m3u8?token=22089c02aabc19cc827cdcdadf48314bbcdeae92-b3fa4e92d6b648b3c7351e9e06b04470-1699938844-1699928044
+
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png", HBO HD
+http://otv.ftpbd.net:8082/Hbo-HD/index.m3u8?token=50827317bfb3acf5c4f590f9b21ffa792fa3021d-1463ddd09ae4f1dac8b1099558a0d645-1699989821-1699979021
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp", &PICTURES HD
+http://otv.ftpbd.net:8082/And-Pictures-HD/index.m3u8?token=e7ba094bb2d78df46c5d20a462ae4bcb3fcb0f0c-393e460ce9f5a2008fc3ed9dbfdd5524-1699989878-1699979078
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png", CINEMA WORLD
+http://otv.ftpbd.net:8082/Star-Gold-Select-HD/index.m3u8?token=9dad37e4d6a708beeda676ed409d201162b50340-64a8c7043e770df6ff80d883ef1a0958-1699989954-1699979154
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Gold1667751269.png", STAR GOLD HD
+http://otv.ftpbd.net:8082/And-Prive-HD/index.m3u8?token=ca1e05856b60610a11873906ccea170af788161a-8fa728484c8b5654a97a4fb91fa54a61-1699990061-1699979261
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20Max%20HD1667728133.png", SONY MAX HD
+http://otv.ftpbd.net:8082/Set-Max-HD/index.m3u8?token=0e5a193882265ff043e70b771bd6feaaf44b936f-8f5f77a31494abbd21cf5ba4e59a614d-1699990124-1699979324
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20SAB1681564997.png", SONY SAB HD
+http://otv.ftpbd.net:8082/Sony-Sab-HD/index.m3u8?token=2a5e5f2d07d70b723e7c304495ca6b68f18e0270-c323887f31ab476cbd537c4d345396d9-1699990164-1699979364
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20Entertainment1667728144.png", SONY ENTERTEIMENT
+http://otv.ftpbd.net:8082/Sony-Entertainment/index.m3u8?token=748dd11338d20323d984ef96e586308f29c3ba5d-b37143e6a17255a3d3403093f279e483-1699990223-1699979423
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Zee%20Bangla1664976875.png", ZEE BANGLA HD
+http://otv.ftpbd.net:8082/Zee-Bangla-HD/index.m3u8?token=71e576d42fc65fe878664a2b9a056f7c96bc1e67-5be0dc22e09fc25bf8d4644a06c4bd45-1699990263-1699979463
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DEEPTO TV HD
+http://otv.ftpbd.net:8082/Deepto-Tv-HD/index.m3u8?token=22db5e30cc049babbf60530dccdbcdacf32fef17-34ebd95b3d2ce203a4a6821fa0816546-1699990295-1699979495
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",Tsports HD
 http://chanel.dekhaott.com/Tsportshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",Tsports HD
@@ -14,8 +67,34 @@ http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
 http://51.159.59.244/dd_s_h_1/index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU",GAZI TV
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 group-title="DDN ONCAST", GAZI TV HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", TEN SPORTS HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", PTV Sports
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/playlist.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS 1 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-1/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS 2 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", WILLOW HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/playlist.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", SUPER CRICEKT
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/playlist.m3u8
+##EXTINF:-1 group-title="DDN ONCAST", SKY CRICKET
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", SKY SPORTS MIX
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/playlist.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS SELECT 1 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportsselect-1/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS 1 HD
+http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", SONY TEN 1 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-1/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", SONY TEN 2 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-2/chunks.m3u8
+#EXTINF:-1 group-title="DDN ONCAST", SONY TEN 3 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png", FOX CRICKET 
 https://sexyshambhavi.pages.dev/Cricket23/Fox_index.m3u8
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png", TSPORTS HD
@@ -5353,34 +5432,7 @@ https://freeiptv.gammacdn.workers.dev/streams/index.m3u8?id=uvDOEu1ftM9IvfPZv1rS
 
 #EXTINF:-1, STAR SPORTS 2 HD
 http://test-otv2.ftpbd.net/streams/110/index.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", GAZI TV HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", EN SPORTS HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", PTV Sports
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/playlist.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS 1 HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-1/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS 2 HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", WILLOW HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/playlist.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", SUPER CRICEKT
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/playlist.m3u8
-##EXTINF:-1 group-title="DDN ONCAST", SKY CRICKET
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", SKY SPORTS MIX
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/playlist.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS SELECT 1 HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportsselect-1/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", STAR SPORTS 1 HD
-http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", SONY TEN 1 HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-1/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", SONY TEN 2 HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-2/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST", SONY TEN 3 HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonyten-3/chunks.m3u8
+#
 
 #EXTINF:-1 group-title="DDN ONCAST", ZEE BANGLA CHINEMA
 http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/zee-cinema-bangla/chunks.m3u8
@@ -5431,58 +5483,7 @@ http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/5.m3u8
 #EXTINF:-1 group-title="DDN ONCAST", PTV SPORTS HD
 http://103.218.226.22/live/0EB1FD623EC0084BF8E1B321681ABA05/6.m3u8
 
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png", TSPORTS HD
-http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8?token=1fcb8df3ea4b33b84754c747f5c5736b4cb3a90f-fa206eb7360fe526b03f98efe5a609f4-1700762149-1700751349
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png", TSPORTS HD
-http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=b7b5a05e4d85e7088c55c4adc7953c4753291d02-c458482299bdc6269d6b76b10af924d1-1699938088-1699927288
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png",  GTV
-http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=151ce0e7f0871ac854ca0128885b29d75410f681-990219390694fbffb8df6b82cae660d2-1699938138-1699927338
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%2011667750523.png", STAR SPORTS 1 HD
-http://otv.ftpbd.net:8082/Star-Sports-1-HD/index.m3u8?token=9759e8aa2a601cd03ac81285a6cd10cfe254d171-36177856d73ac64485300d45e3fd92d9-1699938183-1699927383
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/StarSports%20Select%20HD1667750883.png", STAR SPORTS SL 1
-http://otv.ftpbd.net:8082/Star-Select-1-HD/index.m3u8?token=5ebe5e44efa19ecfac30e45a2eb49015ecf62159-5fe7aa4875e01a923d3bce3ae243374b-1699938218-1699927418
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", STAR SPORTS SL 2
-http://otv.ftpbd.net:8082/Star-Select-2-HD/index.m3u8?token=758a727d90c30553eddbc13b894f1b6d0524d542-e1861151ef66afaf40ce3b922c5b9a82-1699938257-1699927457
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20TEN%2021667728105.png", SONY TEN 2 HD
-http://otv.ftpbd.net:8082/Sony-Ten-2/index.m3u8?token=13868b6783e8456bc287f66264ee09b489d78fa6-b4c541595937b519aa27c2f347eb51bf-1699938321-1699927521
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20TEN%2011667728321.png", SONY TEN 1 HD
-http://otv.ftpbd.net:8082/SONY-TEN-1/index.m3u8?token=27466305e8d088676550f6bb5e8cf629e35e9704-b9ea7af2b9d66d0a74279ef21bd896e2-1699938366-1699927566
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/800px-Fox_Action_Movies_logo.svg.png", FOX MOVES ACTION
-http://otv.ftpbd.net:8082/Fox-Cartoon-HD/index.m3u8?token=70fc7ed7412fd04dd1e5796d1fbd27ba46ca387f-356eb3bb27063533166f2ced1ba623c1-1699938433-1699927633
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://smartads.in/resources/assets/uploads/product_group/television/star_movies_select_hd_india.webp", STAR MOVES SL HD
-http://otv.ftpbd.net:8082/History-18-HD/index.m3u8?token=3b757f53cc7aa54838147bf3bd2cd7849c0dce3e-99d3b4e613a05884faac6746f0bf8252-1699938507-1699927707
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png", NAT GEO HD
-http://otv.ftpbd.net:8082/National-Geographic-HD/index.m3u8?token=7764a1d37c2cfaf81fa566fa771d6b6acfc01595-2b575ec3669a04a8adef4f022e706d8a-1699938574-1699927774
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/800px-Logo_Nat_Geo_Wild.svg.png", NAT GEO WILD HD
-http://otv.ftpbd.net:8082/Wild-HD/index.m3u8?token=e291f180b9c7f01e8c88408a2309269836010d11-5efc63e3487a2e7be3126a82d195e413-1699938624-1699927824
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/5f/Discovery_Channel_HD.svg/1200px-Discovery_Channel_HD.svg.png", DISCOVERY HD
-http://otv.ftpbd.net:8082/Discovery-HD/index.m3u8?token=4c36018b7c31c9ff40f9d3423a993bee2b3b3ecb-5d37b8502afc9fae4853b824fc511b10-1699938672-1699927872
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Nick_Jr._Channel_logo.svg/1200px-Nick_Jr._Channel_logo.svg.png", NICK JR
-http://otv.ftpbd.net:8082/Nick-Jr/index.m3u8?token=450ab97422515b7a712e08caa3d3baf042dd35eb-848f038720dd771161be8bc7e8bea984-1699938717-1699927917
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/CBeebies_HD.svg/1280px-CBeebies_HD.svg.png", CEBEEBIES 
-http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/index.m3u8?token=bcbf3513d2c16cbb3179c98feef232bea6f8cb1a-76c29c0ea368aa5719c0386951181cf9-1699938790-1699927990
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", DURANTO TV HD
-http://otv.ftpbd.net:8082/Duronto-Tv-HD/index.m3u8?token=22089c02aabc19cc827cdcdadf48314bbcdeae92-b3fa4e92d6b648b3c7351e9e06b04470-1699938844-1699928044
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://media.info/l/o/1/1539.1690027797.png", TNT SPORTS 1
-http://otv.ftpbd.net:8082/TnT-Sports-1-HD/index.m3u8?token=e6bbd3f749b5b9f1f583a64321b974a851bd03b6-ebfca28c009732e31be70fa9f532b456-1699989725-1699978925
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/HBO_HD.png", HBO HD
-http://otv.ftpbd.net:8082/Hbo-HD/index.m3u8?token=50827317bfb3acf5c4f590f9b21ffa792fa3021d-1463ddd09ae4f1dac8b1099558a0d645-1699989821-1699979021
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp", &PICTURES HD
-http://otv.ftpbd.net:8082/And-Pictures-HD/index.m3u8?token=e7ba094bb2d78df46c5d20a462ae4bcb3fcb0f0c-393e460ce9f5a2008fc3ed9dbfdd5524-1699989878-1699979078
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://www.vhv.rs/dpng/d/592-5920199_home-cinemaworld-cinema-world-tv-hd-png-download.png", CINEMA WORLD
-http://otv.ftpbd.net:8082/Star-Gold-Select-HD/index.m3u8?token=9dad37e4d6a708beeda676ed409d201162b50340-64a8c7043e770df6ff80d883ef1a0958-1699989954-1699979154
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Gold1667751269.png", STAR GOLD HD
-http://otv.ftpbd.net:8082/And-Prive-HD/index.m3u8?token=ca1e05856b60610a11873906ccea170af788161a-8fa728484c8b5654a97a4fb91fa54a61-1699990061-1699979261
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20Max%20HD1667728133.png", SONY MAX HD
-http://otv.ftpbd.net:8082/Set-Max-HD/index.m3u8?token=0e5a193882265ff043e70b771bd6feaaf44b936f-8f5f77a31494abbd21cf5ba4e59a614d-1699990124-1699979324
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20SAB1681564997.png", SONY SAB HD
-http://otv.ftpbd.net:8082/Sony-Sab-HD/index.m3u8?token=2a5e5f2d07d70b723e7c304495ca6b68f18e0270-c323887f31ab476cbd537c4d345396d9-1699990164-1699979364
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Sony%20Entertainment1667728144.png", SONY ENTERTEIMENT
-http://otv.ftpbd.net:8082/Sony-Entertainment/index.m3u8?token=748dd11338d20323d984ef96e586308f29c3ba5d-b37143e6a17255a3d3403093f279e483-1699990223-1699979423
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Zee%20Bangla1664976875.png", ZEE BANGLA HD
-http://otv.ftpbd.net:8082/Zee-Bangla-HD/index.m3u8?token=71e576d42fc65fe878664a2b9a056f7c96bc1e67-5be0dc22e09fc25bf8d4644a06c4bd45-1699990263-1699979463
-#EXTINF:-1 group-title="OTP FTP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DEEPTO TV HD
-http://otv.ftpbd.net:8082/Deepto-Tv-HD/index.m3u8?token=22db5e30cc049babbf60530dccdbcdacf32fef17-34ebd95b3d2ce203a4a6821fa0816546-1699990295-1699979495
+
 #EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="https://www.rudaw.net/images/logo.svg", Rudaw tv
 https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
 #EXTINF:-1 group-title="KURD TV NETWORK" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kurd-channel-iq.png". KURD CHANNEL
@@ -5548,7 +5549,7 @@ https://hls.streambtw.com/live/stream_6.m3u8
 https://hls.streambtw.com/live/stream_4.m3u8
 #EXTINF:-1, VIAPLAY SPORTS
 https://hls.streambtw.com/live/stream_5.m3u8
-#EXTINF:-1, TNT SPORTS 
+#EXTINF:-1, TNT SPORTS  
 https://hls.streambtw.com/live/stream_8.m3u8
 #EXTINF:-1, AYV HD
 https://1219373429.rsc.cdn77.org/live/stream-1/playlist.m3u8
