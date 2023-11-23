@@ -2,6 +2,10 @@
 http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8?token=1fcb8df3ea4b33b84754c747f5c5736b4cb3a90f-fa206eb7360fe526b03f98efe5a609f4-1700762149-1700751349
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="https://media.info/l/o/1/1539.1690027797.png", TNT SPORTS 1
 http://otv.ftpbd.net:8082/TnT-Sports-1-HD/index.m3u8?token=e6bbd3f749b5b9f1f583a64321b974a851bd03b6-ebfca28c009732e31be70fa9f532b456-1699989725-1699978925
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/08/Sports-18.png", SPORTS 18 HD
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2022/04/sports18-khel.jpg", SPORTS 18 khel
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png", TSPORTS HD
 http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=b7b5a05e4d85e7088c55c4adc7953c4753291d02-c458482299bdc6269d6b76b10af924d1-1699938088-1699927288
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png",  GTV
@@ -328,10 +332,7 @@ http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Star Sports Network" tvg-logo="https://shorturl.at/ikFI9", Star Sports SL 2
 http://cdn.ihub.live:8082/StarSportsSelect2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/08/Sports-18.png", SPORTS 18 HD
-http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.news18.com/ibnlive/uploads/2022/04/sports18-khel.jpg", SPORTS 18 khel
-http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Jiocinema.png", Jio Cinema HD
 http://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
