@@ -5967,3 +5967,21 @@ https://fifabangladesh.xyz/TOF/play.m3u8?id=nat_geo
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", FOX Life
 https://fifabangladesh.xyz/TOF/play.m3u8?id=fox_life
 
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/7LDNN66-0uUXkUwgh4DbIQtgOzAK5broI7VY6kuZ25ZYOLjSgrtyLIOlLW_56KzUFfeP8EJV=s900-c-k-c0x00ffffff-no-rj" group-title="mayanmar tv, MAHAR HD
+http://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://maharesports.com/wp-content/uploads/2022/10/MahareSports-Web-logo.png" group-title="mayanmar tv, MAHAR SPORTS
+http://tv.mahar.live/esports/mahar.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANwAAAB8CAMAAAA1mC5dAAAAvVBMVEUAVJ////9JhbpsJ2pomsYMXKTc6PLA1efi2OBBaaGnxN4WY6fp8PeXudgFVJ1ukLoNT5ldLXEfR5A1aqXV4e7k7fVlLXAHWaK7vdEaW55akME/frf4+vzx9PggaasbY6W50OWjudR9ps05erRXM3ZVhLWYmrjZ2uXLx9aGkLR7j7Whn7oscK6tvdSGrdHQ2uiIosROeazV0981ZJ6evNmBoMWvtc2bq8hhg7G+zuFll8WOrc5Xe6zK2+p1mMANdpndAAAEsklEQVR4nO2be3uaSBSHwQ3aCuJu1OIFRDGs3V00lyabJqn5/h+rSoPO7zCaAU065DnvP3mcw1xemMwNNQyGYRiGYRiGYRiGYRiGYRiGYRjmVLjiB88C3H2ZtOX8L5GLczE2rAOj39XG0pz/IfIF5M5MoPa72lgalmM5DWE5ltMQlqusnLhA+XLxseSMPwEIVV/uAJrIua5l71+1r4N2mSW9DnKD0Sj+e+58/ac2SnIO7qxW+/erM/8vHkmih3lnOTf/IYkWu/rnywSu99pPvV30cjl7Rc+Fv1I5WQmSNPfVK3LUGgKtdYJ11cUW1FvWTu164ZNoc+xhiTOxxMbiW5oYTtJPdczcTRNvNwVYt5itQxtqTeGCicpeEO5lwzXsppmj2Xm5TYPnIB8NlmhXg+inz2liR5Jxq5jmH2LiGW2o7WCbPHrBq3KGJXFb9804vTbp+7KoH0FFJeVGWPYV7XbXWMKTghuRkz23DTebzjWry4OmD8+upJx3C4nOmDQUW9ajYQW5u30NaNrG4GZv88CupJwRYZE4jhnuA4T7Kr0S5Zz53hbcenvFN015Pl5ujAPZFJsfYwE/lOYgMjjvpRcdaJ5pruyj5YyFNPUFfK4Oea5Hyr1GtL2VpeU+wzUOzPA29srccPO2ct3tvSwtN8bBviU2c4ZZchPF28qZ19nNLC1nPENy0xKaibNgQwy9h9x2/JLKhf/3N5AB6yZNvM9yokEg9EvrEkILNTeZnN9LkU7Y6zrToJNLr2d3UyrnDlLw2Zjxr9SsLfYEosNdK22YYoNZabnVnb15SRE+SeeFhzh9hZFMqfthOXltdFfQguh01/naUFvdNtTIyTXDLNRp5NScuyzq0anByW7nEXI16BDBbhWCy5NIdaNF5R6EuxLnRoHprlgvIs/u6ng5byVG/W3vG8BEECi/HCLV+d/FunByWW/fQjGK/yFm83g5ow3hSXYrHyF5qrxDJtVhd47Jw3mGYu9PL5dAX1l50mxLVTda3SMEx6RfDiHaITusE8i5cMOC9kszYKzshjSXqhxWR+TmuD2m28cTyMmfUQIdqKF+bnOwukEfgqSzv4XcGGbrfjoFurAf8Ye5TOXkXJx0W5j1LeRw0PfTCzwQzu1iS8vh6PUecjj9pGN3CBu9e6Vtqp5yFgwel5tFCu6SC/RK7eS8qXiBsxkZ4XDlQX2s1E/OmIlDox+tE6BXtiRZqiMXwrJoQjZCPbXzBV3l8LSkm7hP8LnAcKKjXAJDShTC8HlW6M2LfnIGLMiXsNykp5nVk4O9VBeOgieq21Rt5cL8GUbGozRDleQsuo3cMs+92KqcHClBUkWV5Tqf5G7Bjw8gh1PbjvpAfn2l5Iyh/Hx6WWgG11XOWpkyVM9i9ZaT98tCGwJ95XInUylRUTdN5ULydZENQZFtqs5y5Bg2ZVLYTVe5Wq5fiq/dKy7n4hc3zJcTh48hZ9zRV2RTxbepVZAL6Td64uJu2srRN0z1wjO4xnLGNfZL9Vc7Agd/9OV+F2M9UoG9gmimPoIC+9+Ua0OSrnhlt11G7vDP9TBK1q2uJY1islf6x4FV/x0hwzAMwzAMwzAMwzAMwzAMwzDM6fgJ//BsBxCwq4QAAAAASUVORK5CYII=" group-title="mayanmar tv, MITV
+https://playback2.akamaized.net/streams/7063221_9340397_lsii2dr09oypaan0uj0_1/master.m3u8?dw=14400&hdnts=exp=1700836780~acl=/streams/7063221_9340397_lsii2dr09oypaan0uj0_1/master.m3u8*~hmac=cbf8af029273e8dbbc3ec24b3ad5a67d6808d467e08970d4b6507c52d2bee935
+#EXTINF:-1 tvg-logo="" group-title="mayanmar tv,
+
+#EXTINF:-1 tvg-logo="" group-title="mayanmar tv,
+
+#EXTINF:-1 tvg-logo="" group-title="mayanmar tv,
+
+#EXTINF:-1 tvg-logo="" group-title="mayanmar tv,
+
+#EXTINF:-1 tvg-logo="" group-title="mayanmar tv,
+
+#EXTINF:-1 tvg-logo="" group-title="mayanmar tv,
