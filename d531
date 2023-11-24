@@ -5568,3 +5568,400 @@ https://edge2.laotv.la/live/TSports7/index.m3u8
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="TrueSports Network", True Sports Premier 2
 https://edge1.laotv.la/live/TSport2/index.m3u8
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="Simple IPTV Player" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="Simple IPTV Player", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/603/logo/240x240/mobile_logo_237244001666780563.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 1 HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_ten1_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/604/logo/240x240/mobile_logo_093449001666780976.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 2 HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_ten2_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2418/logo/240x240/mobile_logo_992280001666781086.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 3 HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_ten3_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/606/logo/240x240/mobile_logo_689539001672145843.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 5 HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_six_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/49/logo/240x240/mobile_logo_559887001666781361.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 1
+https://fifabangladesh.xyz/TOF/play.m3u8?id=ten_1
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/50/logo/240x240/mobile_logo_832280001666781441.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 2
+https://fifabangladesh.xyz/TOF/play.m3u8?id=ten_2
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/51/logo/240x240/mobile_logo_066851001666781605.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 3
+https://fifabangladesh.xyz/TOF/play.m3u8?id=ten_3
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/351/logo/240x240/mobile_logo_027801001666782321.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony TEN 5
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_six
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", EURO Sport HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=euro_sports_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4387/logo/240x240/mobile_logo_412057001674119486.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", EURO Sport
+https://fifabangladesh.xyz/TOF/play.m3u8?id=euro_sports_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/395/logo/240x240/mobile_logo_495999001673184134.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Dubai Sport
+https://fifabangladesh.xyz/TOF/play.m3u8?id=dubai_sports
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/340/logo/240x240/mobile_logo_094417001655891123.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee Bangla
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_bangla
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/343/logo/240x240/mobile_logo_496322001666780228.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony AATH
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_aath
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2505/logo/240x240/mobile_logo_200057001655891962.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Colors Bangla
+https://fifabangladesh.xyz/TOF/play.m3u8?id=colors_b
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18832/logo/240x240/mobile_logo_166779001683805822.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Star Jalsha
+https://fifabangladesh.xyz/TOF/play.m3u8?id=star_jalsha
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Somoy TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=somoy_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Ekattor TV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=ekattor_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/40/logo/240x240/mobile_logo_819689001655890845.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Independent TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=independent
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Channel 24
+https://fifabangladesh.xyz/TOF/play.m3u8?id=channel_24
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/335/logo/240x240/mobile_logo_946452001655891077.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", DBC NEWS
+https://fifabangladesh.xyz/TOF/play.m3u8?id=dbc_news
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/42/logo/240x240/mobile_logo_554709001657185722.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", ATN NEWS
+https://fifabangladesh.xyz/TOF/play.m3u8?id=atn_news
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/233/logo/240x240/mobile_logo_146142001655891039.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", NEWS 24 HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=news24hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Jamuna TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=jamuna_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/232/logo/240x240/mobile_logo_731969001673183522.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", SATV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=satv_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/11841/logo/240x240/mobile_logo_456366001662385216.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Global TV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=global_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/234/logo/240x240/mobile_logo_496491001655891051.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Aljazeera
+https://fifabangladesh.xyz/TOF/play.m3u8?id=aljazeera
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_373682001676354236.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", CNN
+https://fifabangladesh.xyz/TOF/play.m3u8?id=cnn
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/363/logo/240x240/mobile_logo_700739001655891233.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", DW
+https://fifabangladesh.xyz/TOF/play.m3u8?id=dw
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/336/logo/240x240/mobile_logo_740569001675858107.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee NEWS
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_news
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/662/logo/240x240/mobile_logo_851160001655891584.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", RTR Planet
+https://fifabangladesh.xyz/TOF/play.m3u8?id=rtr_planet
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/655/logo/240x240/mobile_logo_455321001655891572.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Euro News
+https://fifabangladesh.xyz/TOF/play.m3u8?id=euro_news
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/372/logo/240x240/mobile_logo_311458001655891246.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Arirang
+https://fifabangladesh.xyz/TOF/play.m3u8?id=arirang
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/668/logo/240x240/mobile_logo_867839001655891607.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", CGTN
+https://fifabangladesh.xyz/TOF/play.m3u8?id=cgtn
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/393/logo/240x240/mobile_logo_435300001673184707.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Channel NewsAsia
+https://fifabangladesh.xyz/TOF/play.m3u8?id=channel_n_asia
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4569/logo/240x240/mobile_logo_422385001655892034.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee BUISNESS
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_business
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18099/logo/240x240/mobile_logo_684353001673241863.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", KBS World 24
+https://fifabangladesh.xyz/TOF/play.m3u8?id=kbs_world24
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/407/logo/240x240/mobile_logo_448662001655891393.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", TV5 Monde
+https://fifabangladesh.xyz/TOF/play.m3u8?id=tv5_monde
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/658/logo/240x240/mobile_logo_982797001673184503.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Aljazeera Arabic
+https://fifabangladesh.xyz/TOF/play.m3u8?id=aljazeera_arabic
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/384/logo/240x240/mobile_logo_258111001655891294.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", NHK World Japan
+https://fifabangladesh.xyz/TOF/play.m3u8?id=nhk_world
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/1768/logo/240x240/mobile_logo_079930001673184899.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", France 24
+https://fifabangladesh.xyz/TOF/play.m3u8?id=france24
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/3/logo/240x240/mobile_logo_694865001655890816.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Channel i
+https://fifabangladesh.xyz/TOF/play.m3u8?id=channel_i
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/338/logo/240x240/mobile_logo_401499001655891091.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", RTV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=rtv_b
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/41/logo/240x240/mobile_logo_811238001673183089.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", NTV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=ntv_b
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/337/logo/240x240/mobile_logo_519481001656610377.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Bangla Vision
+https://fifabangladesh.xyz/TOF/play.m3u8?id=bangla_vision
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/38/logo/240x240/mobile_logo_483871001656610198.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", ATN Bangla
+https://fifabangladesh.xyz/TOF/play.m3u8?id=atn_bangla
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/692/logo/240x240/mobile_logo_317599001655891632.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Ananda TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=ananda_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/236/logo/240x240/mobile_logo_341242001655891063.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Boishakhi TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=boishakhi
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/9/logo/240x240/mobile_logo_363996001656610763.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Channel 9
+https://fifabangladesh.xyz/TOF/play.m3u8?id=channel_9
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/368/logo/240x240/mobile_logo_784215001656610543.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Mohona TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=mohona_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/339/logo/240x240/mobile_logo_897303001655891103.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", My TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=my_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/63/logo/240x240/mobile_logo_118855001673182388.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", BTV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=btv_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/374/logo/240x240/mobile_logo_179345001655891258.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Bijoy TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=bijoy_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/25/logo/240x240/mobile_logo_913146001673185595.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Asian TV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=asian_tv_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/375/logo/240x240/mobile_logo_453885001655891270.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Bangla TV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=bangla_tv_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/39/logo/240x240/mobile_logo_569553001668421527.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Desh TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=desh_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", BTV World
+https://fifabangladesh.xyz/TOF/play.m3u8?id=btv_world
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/334/logo/240x240/mobile_logo_355998001673183662.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Ekushey TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=ekushey_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/418/logo/240x240/mobile_logo_799556001673182578.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", BTV Chittagong
+https://fifabangladesh.xyz/TOF/play.m3u8?id=btv_ctg
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/10908/logo/240x240/mobile_logo_027712001655892101.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Nexus TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=nexus_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/64/logo/240x240/mobile_logo_760805001655890979.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sangshodh Bangladesh
+https://fifabangladesh.xyz/TOF/play.m3u8?id=btv_sangshodh
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18835/logo/240x240/mobile_logo_482266001683805730.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Star Gold
+https://fifabangladesh.xyz/TOF/play.m3u8?id=star_gold
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18841/logo/240x240/mobile_logo_664367001683806020.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Star Plus
+https://fifabangladesh.xyz/TOF/play.m3u8?id=star_plus
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18836/logo/240x240/mobile_logo_361773001683805911.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Star Bharat
+https://fifabangladesh.xyz/TOF/play.m3u8?id=star_bharat
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/641/logo/240x240/mobile_logo_440775001666782769.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony MAX HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=set_max_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/352/logo/240x240/mobile_logo_612341001666782969.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony MAX SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_max
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony Entertainment HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_entertainmnt_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/57/logo/240x240/mobile_logo_149299001666780350.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony Entertainment
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_entertainment
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2420/logo/240x240/mobile_logo_688156001666785674.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony SAB HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_sab_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/342/logo/240x240/mobile_logo_512950001666785776.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony SAB SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_sab
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony MAX2
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_max_2
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2422/logo/240x240/mobile_logo_037670001666785867.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony WAH
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_wah
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2421/logo/240x240/mobile_logo_799518001666784496.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony PAL
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_pal
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/644/logo/240x240/mobile_logo_649814001655891557.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee TV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_tv_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4567/logo/240x240/mobile_logo_165498001675857326.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee Anmol
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_anmol
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2425/logo/240x240/mobile_logo_844782001655891780.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Colors
+https://fifabangladesh.xyz/TOF/play.m3u8?id=colors
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2436/logo/240x240/mobile_logo_637826001655891948.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Colors Rishtey
+https://fifabangladesh.xyz/TOF/play.m3u8?id=colors_rishtey
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/801/logo/240x240/mobile_logo_974516001655891652.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", &TV HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=and_tv_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4570/logo/240x240/mobile_logo_000080001675856893.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", &Pictures HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=and_picture_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee CAFÉ HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_cafe_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2428/logo/240x240/mobile_logo_455256001655891827.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Colors Infinity HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=colors_infinity_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2427/logo/240x240/mobile_logo_461931001655891802.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Comedy Central HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=comedy_central_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2430/logo/240x240/mobile_logo_823707001655891853.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Nick
+https://fifabangladesh.xyz/TOF/play.m3u8?id=nick
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Cartoon Network HD+
+https://fifabangladesh.xyz/TOF/play.m3u8?id=cartoon_network_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/27232/logo/240x240/mobile_logo_320294001679201065.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Cartoon Network SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=cartoon_network_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/612/logo/240x240/mobile_logo_091186001666784752.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony Yay
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_yay
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2434/logo/240x240/mobile_logo_464854001655891908.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sonic
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sonic
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery Kids
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_kids
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Nick Junior
+https://fifabangladesh.xyz/TOF/play.m3u8?id=nick_junior
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2435/logo/240x240/mobile_logo_910829001655891932.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Pogo
+https://fifabangladesh.xyz/TOF/play.m3u8?id=pogo_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/403/logo/240x240/mobile_logo_368845001655891378.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee Bangla Cinema
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_bangla_cinema
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/10157/logo/240x240/mobile_logo_151189001655892087.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Colors Bangla Cinema
+https://fifabangladesh.xyz/TOF/play.m3u8?id=colors_bangla_cinema
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12282/logo/240x240/mobile_logo_671378001663674667.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Movie Bangla
+https://fifabangladesh.xyz/TOF/play.m3u8?id=movie_bangla
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18834/logo/240x240/mobile_logo_267398001683804913.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Jalsha Movies
+https://fifabangladesh.xyz/TOF/play.m3u8?id=jalsha_movies
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_226947001684477528.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", toffee-v2 Movies
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sports_live_01
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Nagorik Tv
+https://fifabangladesh.xyz/TOF/play.m3u8?id=nagorik_tv_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee Cinema HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_cinema_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/366/logo/240x240/mobile_logo_702115001663003759.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", B4U Movies
+https://fifabangladesh.xyz/TOF/play.m3u8?id=b4u_movies
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/355/logo/240x240/mobile_logo_569572001655891220.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee Action
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_action
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/400/logo/240x240/mobile_logo_624780001655891361.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zee Bollywood
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zee_bolly
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2419/logo/240x240/mobile_logo_287412001666784602.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony PIX HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_pix_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/397/logo/240x240/mobile_logo_049568001666785583.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony PIX SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_pix
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18098/logo/240x240/mobile_logo_508084001673240324.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", iFilm
+https://fifabangladesh.xyz/TOF/play.m3u8?id=iflim_english
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/389/logo/240x240/mobile_logo_466667001673185088.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Lotus Macau
+https://fifabangladesh.xyz/TOF/play.m3u8?id=lotus_macau
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/613/logo/240x240/mobile_logo_192652001655891524.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Quran TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=quran_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/610/logo/240x240/mobile_logo_677105001655891492.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sunnah TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sunnah_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/7838/logo/240x240/mobile_logo_205245001655892068.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zoom TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zoom_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/367/logo/115x115/mobile_logo_886909001563629905.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", B4U Music
+https://fifabangladesh.xyz/TOF/play.m3u8?id=b4umusic
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2432/logo/240x240/mobile_logo_564387001655891879.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", MTV Beats HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=mtv_beats_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18831/logo/240x240/mobile_logo_146321001673415827.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", MB Music
+https://fifabangladesh.xyz/TOF/play.m3u8?id=movie_b_music
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2431/logo/240x240/mobile_logo_398176001655891867.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", MTV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=mtv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/391/logo/240x240/mobile_logo_430259001655891309.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Zing
+https://fifabangladesh.xyz/TOF/play.m3u8?id=zing_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/2433/logo/240x240/mobile_logo_609993001655891894.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", VH1 HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=vh1_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18096/logo/240x240/mobile_logo_032001001673194753.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Animal Planet HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=animal_planet_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/359/logo/240x240/mobile_logo_835681001673175607.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Animal Planet SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=animal_planet_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18093/logo/240x240/mobile_logo_868363001673181438.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/378/logo/240x240/mobile_logo_604754001673177502.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery Science
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_science
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/12083/logo/240x240/mobile_logo_141710001663004743.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery Asia
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_asia
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/379/logo/240x240/mobile_logo_775127001673177876.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery Turbo
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_turbo
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery Investigation HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_india_id_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18095/logo/240x240/mobile_logo_452964001673178334.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Discovery Investigation SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=discovery_india_id_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", TLC HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=tlc_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/358/logo/240x240/mobile_logo_048875001673178985.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", TLC SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=tlc_sd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/608/logo/240x240/mobile_logo_648826001673178929.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", History TV
+https://fifabangladesh.xyz/TOF/play.m3u8?id=history_tv
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/670/logo/240x240/mobile_logo_363688001655891620.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony BBC Earth HD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_bbc_earth_hd
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/396/logo/240x240/mobile_logo_708825001655891324.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Sony BBC Earth SD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=sony_bbc_earth
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/4786/logo/240x240/mobile_logo_570626001655892054.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", Tech Storm
+https://fifabangladesh.xyz/TOF/play.m3u8?id=tech_storm
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18837/logo/240x240/mobile_logo_951347001683805257.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", National Geographic WILD
+https://fifabangladesh.xyz/TOF/play.m3u8?id=nat_geo_wild
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18840/logo/240x240/mobile_logo_024343001683805110.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", National Geographic
+https://fifabangladesh.xyz/TOF/play.m3u8?id=nat_geo
+
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/18833/logo/240x240/mobile_logo_204706001683804802.png" group-title="ＡＬＬ ＩＮ ＯＮＥ   亗", FOX Life
+https://fifabangladesh.xyz/TOF/play.m3u8?id=fox_life
+
