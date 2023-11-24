@@ -12,6 +12,8 @@ http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=b7b5a05e4d85e7088c55c4adc
 http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=151ce0e7f0871ac854ca0128885b29d75410f681-990219390694fbffb8df6b82cae660d2-1699938138-1699927338
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%2011667750523.png", STAR SPORTS 1 HD
 http://otv.ftpbd.net:8082/Star-Sports-1-HD/index.m3u8?token=9759e8aa2a601cd03ac81285a6cd10cfe254d171-36177856d73ac64485300d45e3fd92d9-1699938183-1699927383
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%2011667750523.png", STAR SPORTS 1 HD
+http://172.20.2.5:8082/Special-TV/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/StarSports%20Select%20HD1667750883.png", STAR SPORTS SL 1
 http://otv.ftpbd.net:8082/Star-Select-1-HD/index.m3u8?token=5ebe5e44efa19ecfac30e45a2eb49015ecf62159-5fe7aa4875e01a923d3bce3ae243374b-1699938218-1699927418
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/Star%20Sports%20Select%2021667750897.png", STAR SPORTS SL 2
