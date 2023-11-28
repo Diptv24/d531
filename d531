@@ -9665,3 +9665,194 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1, MATCH SPORT
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="CRI:" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="CRI:", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 1 (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/122979.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 2 FHD
+http://livetvbox.live:8080/live/Anne/Anne/122980.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 3 FHD
+http://livetvbox.live:8080/live/Anne/Anne/158898.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 3 HD
+http://livetvbox.live:8080/live/Anne/Anne/158897.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SUPER SPORTS CRICKET (4K)
+http://livetvbox.live:8080/live/Anne/Anne/158442.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SUPER SPORTS (CRICKET)
+http://livetvbox.live:8080/live/Anne/Anne/2496.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET
+http://livetvbox.live:8080/live/Anne/Anne/12.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET (4K)
+http://livetvbox.live:8080/live/Anne/Anne/23566.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET (4K).
+http://livetvbox.live:8080/live/Anne/Anne/114479.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SKY SPORTS CRICKET (4K)
+http://livetvbox.live:8080/live/Anne/Anne/124269.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI:ASTRO CRICKET HD
+http://livetvbox.live:8080/live/Anne/Anne/2494.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: WILLOW CRICKET
+http://livetvbox.live:8080/live/Anne/Anne/215.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: WILLOW CRICKET.
+http://livetvbox.live:8080/live/Anne/Anne/23943.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: WILLOW CRICKET XTRA
+http://livetvbox.live:8080/live/Anne/Anne/5040.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TNT SPORT 1
+http://livetvbox.live:8080/live/Anne/Anne/23564.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TNT SPORT 2.
+http://livetvbox.live:8080/live/Anne/Anne/23565.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TNT Sports 3 FHD
+http://livetvbox.live:8080/live/Anne/Anne/148090.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: PTV SPORTS
+http://livetvbox.live:8080/live/Anne/Anne/89.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: PTV SPORTS (4K)
+http://livetvbox.live:8080/live/Anne/Anne/61674.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: A Sports ARY
+http://livetvbox.live:8080/live/Anne/Anne/43444.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STARZPLAY CricLife 3 FHD
+http://livetvbox.live:8080/live/Anne/Anne/158898.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: GEO SUPER
+http://livetvbox.live:8080/live/Anne/Anne/101.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TEN SPORTS
+http://livetvbox.live:8080/live/Anne/Anne/98.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TEN CRICKET (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/196594.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: TEN CRICKET
+http://livetvbox.live:8080/live/Anne/Anne/9886.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORT 1 HD
+http://livetvbox.live:8080/live/Anne/Anne/148.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Star Sport-1  (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/9397.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 1 (4K)
+http://livetvbox.live:8080/live/Anne/Anne/124281.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 2 HD
+http://livetvbox.live:8080/live/Anne/Anne/239.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Star Sport-2  (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/9398.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 2 (4K)
+http://livetvbox.live:8080/live/Anne/Anne/124284.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS HINDI HD
+http://livetvbox.live:8080/live/Anne/Anne/211.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Star Sport 1 HINDI (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/9399.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 1 HINDI (4K)
+http://livetvbox.live:8080/live/Anne/Anne/124287.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS SELECT 1 HD
+http://livetvbox.live:8080/live/Anne/Anne/238.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS SELECT 2 HD
+http://livetvbox.live:8080/live/Anne/Anne/148801.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS TAMIL 1 HD
+http://livetvbox.live:8080/live/Anne/Anne/9722.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS TELUGU 1 HD
+http://livetvbox.live:8080/live/Anne/Anne/177843.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: STAR SPORTS 3
+http://livetvbox.live:8080/live/Anne/Anne/1080.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: T SPORTS FHD
+http://livetvbox.live:8080/live/Anne/Anne/18452.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: T SPORTS.
+http://livetvbox.live:8080/live/Anne/Anne/130714.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: RTA Sports
+http://livetvbox.live:8080/live/Anne/Anne/1039.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY TEN 1 HD
+http://livetvbox.live:8080/live/Anne/Anne/154.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY Ten 2 HD
+http://livetvbox.live:8080/live/Anne/Anne/192.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY Ten 2 HD.
+http://livetvbox.live:8080/live/Anne/Anne/31314.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY TEN 3 HD
+http://livetvbox.live:8080/live/Anne/Anne/146.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY TEN 4 (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/29469.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY 5 HD
+http://livetvbox.live:8080/live/Anne/Anne/176.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SONY ESPN HD
+http://livetvbox.live:8080/live/Anne/Anne/155.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Jio Cricket HD
+http://livetvbox.live:8080/live/Anne/Anne/158899.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Sky Sport 1 HD
+http://livetvbox.live:8080/live/Anne/Anne/150854.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Sky Sport 3 CRICKET FHD.
+http://livetvbox.live:8080/live/Anne/Anne/24018.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Carib SportsMax Cricket
+http://livetvbox.live:8080/live/Anne/Anne/142048.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: FLOW SPORTS
+http://livetvbox.live:8080/live/Anne/Anne/34489.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: ATN Plus Cricket
+http://livetvbox.live:8080/live/Anne/Anne/85829.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: FOX CRICKET 501
+http://livetvbox.live:8080/live/Anne/Anne/1856.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: EUROSPORTS
+http://livetvbox.live:8080/live/Anne/Anne/216.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Sports 18 Khel
+http://livetvbox.live:8080/live/Anne/Anne/151091.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: Fast Sports HD
+http://livetvbox.live:8080/live/Anne/Anne/87460.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: T SPORTS HD
+http://livetvbox.live:8080/live/Anne/Anne/113069.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CRI: SPORTS 18 (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/213049.ts
+
+
