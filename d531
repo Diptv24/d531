@@ -1,5 +1,13 @@
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png", SUPER SPORTS CRICKET
 http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8?token=1fcb8df3ea4b33b84754c747f5c5736b4cb3a90f-fa206eb7360fe526b03f98efe5a609f4-1700762149-1700751349
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/WQT8sFF2ihYwaGeliy2zExL03CtwMvL8sTiSUl0oNYu9aeosnUXhcGQ6fF_r39OKo1xh", SPORTSMAX HD
+http://livetvbox.live:8080/live/Anne/Anne/154259.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/Qhs1jcocO2FenxF7j5DBVn-3lQV3cPhnsJCfeo3fAvEPzdsUx1RCb8Ka956B_ZEhAA8", ASPORTS HD
+http://livetvbox.live:8080/live/Anne/Anne/43444.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBzVsvGhk2ZNSpFurUQdetie8kPFOFGnXN91C4DIc9JhgnnD-jdMuZZb7hOh73WFXkrEoSmjdInen4XE3H2RbSTcrP1Ip-zEHMjXp_sL4u9xtUpcaor3OYpZfGJ2CpuYTD4A9DldjtEu9HzeeS8NrOrcaw1J0Nvd2BIDPhptt8HpXA3GT8Kn1xsfjziQ/w0/Willow%20Xtra.jpg", WILLOW CRICKET XTRA
+http://livetvbox.live:8080/live/Anne/Anne/5040.m3u8
+
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="https://media.info/l/o/1/1539.1690027797.png", TNT SPORTS 1
 http://otv.ftpbd.net:8082/TnT-Sports-1-HD/index.m3u8?token=e6bbd3f749b5b9f1f583a64321b974a851bd03b6-ebfca28c009732e31be70fa9f532b456-1699989725-1699978925
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2023/08/Sports-18.png", SPORTS 18 HD
