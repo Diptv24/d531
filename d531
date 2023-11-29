@@ -2980,3 +2980,252 @@ https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/161
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 ,MATCH SPORT
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="http://127.0.0.1/" pltv-name="Without category" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="Without category", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIS Science
+http://103.141.2.37:25461/web/web/554
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Enterr 10
+http://103.141.2.37:25461/web/web/606
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Khushboo
+http://103.141.2.37:25461/web/web/607
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Yay
+http://103.141.2.37:25461/web/web/614
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Bangla
+http://103.141.2.37:25461/web/web/556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sun Bangla
+http://103.141.2.37:25461/web/web/589
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independent
+http://103.141.2.37:25461/web/web/590
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony_Aath
+http://103.141.2.37:25461/web/web/591
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GTV
+http://103.141.2.37:25461/web/web/592
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 71
+http://103.141.2.37:25461/web/web/594
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel I
+http://103.141.2.37:25461/web/web/595
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Maasranga
+http://103.141.2.37:25461/web/web/596
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Somoy TV
+http://103.141.2.37:25461/web/web/597
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee_Bangla_Cinema
+http://103.141.2.37:25461/web/web/598
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colore Bangla Cinema
+http://103.141.2.37:25461/web/web/599
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jalsha_Movies
+http://103.141.2.37:25461/web/web/600
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Bangla
+http://103.141.2.37:25461/web/web/601
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Bangla HD
+http://103.141.2.37:25461/web/web/602
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Jalsha
+http://103.141.2.37:25461/web/web/603
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sangeet
+http://103.141.2.37:25461/web/web/604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Akash 8
+http://103.141.2.37:25461/web/web/605
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jamuna
+http://103.141.2.37:25461/web/web/608
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GB
+http://103.141.2.37:25461/web/web/609
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nagorik
+http://103.141.2.37:25461/web/web/611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN TV
+http://103.141.2.37:25461/web/web/612
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bangla Vision
+http://103.141.2.37:25461/web/web/613
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIPTO TV
+http://103.141.2.37:25461/web/web/587
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zoom
+http://103.141.2.37:25461/web/web/542
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pictures HD
+http://103.141.2.37:25461/web/web/543
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors HD
+http://103.141.2.37:25461/web/web/544
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cinema HD
+http://103.141.2.37:25461/web/web/545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Plus
+http://103.141.2.37:25461/web/web/546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Cineplex
+http://103.141.2.37:25461/web/web/547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U Movies
+http://103.141.2.37:25461/web/web/548
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Action
+http://103.141.2.37:25461/web/web/549
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold2 HD
+http://103.141.2.37:25461/web/web/550
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony
+http://103.141.2.37:25461/web/web/551
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Max HD
+http://103.141.2.37:25461/web/web/552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee TV
+http://103.141.2.37:25461/web/web/553
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold
+http://103.141.2.37:25461/web/web/555
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 9XM
+http://103.141.2.37:25461/web/web/557
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Masti
+http://103.141.2.37:25461/web/web/558
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bhojpuri
+http://103.141.2.37:25461/web/web/559
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star-World HD
+http://103.141.2.37:25461/web/web/560
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Pix HD
+http://103.141.2.37:25461/web/web/561
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Movies
+http://103.141.2.37:25461/web/web/563
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC EARTH
+http://103.141.2.37:25461/web/web/564
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MN
+http://103.141.2.37:25461/web/web/565
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Movies NOW
+http://103.141.2.37:25461/web/web/562
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planent
+http://103.141.2.37:25461/web/web/566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY
+http://103.141.2.37:25461/web/web/567
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAT_GEO_HD
+http://103.141.2.37:25461/web/web/568
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
+http://103.141.2.37:25461/web/web/569
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN
+http://103.141.2.37:25461/web/web/570
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MN+
+http://103.141.2.37:25461/web/web/571
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Aljazeera
+http://103.141.2.37:25461/web/web/572
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC WORLD
+http://103.141.2.37:25461/web/web/573
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MNX HD
+http://103.141.2.37:25461/web/web/574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR WORLD HD
+http://103.141.2.37:25461/web/web/575
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WILD
+http://103.141.2.37:25461/web/web/576
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SE | Discovery TV
+http://103.141.2.37:25461/web/web/540
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lotus TV
+http://103.141.2.37:25461/web/web/541
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony SIX HD
+http://103.141.2.37:25461/web/web/577
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports3
+http://103.141.2.37:25461/web/web/578
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star_Sports_1_HD
+http://103.141.2.37:25461/web/web/579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ster Sports 1 HD
+http://103.141.2.37:25461/web/web/580
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ster Sport-2 HD
+http://103.141.2.37:25461/web/web/581
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten3
+http://103.141.2.37:25461/web/web/582
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Select2
+http://103.141.2.37:25461/web/web/583
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony_Ten_2
+http://103.141.2.37:25461/web/web/584
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony_Ten_1
+http://103.141.2.37:25461/web/web/585
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", T Sports
+http://103.141.2.37:25461/web/web/586
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORTS 18
+http://103.141.2.37:25461/web/web/588
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Duranta
+http://103.141.2.37:25461/web/web/610
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick
+http://103.141.2.37:25461/web/web/615
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CN
+http://103.141.2.37:25461/web/web/616
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pogo
+http://103.141.2.37:25461/web/web/617
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", T-SPORTS
+http://103.141.2.37:25461/web/web/618
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Quraan TV
+http://103.141.2.37:25461/web/web/619
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Travelxp HD
+http://103.141.2.37:25461/web/web/593
+
+
+
