@@ -12,7 +12,10 @@ https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m
 http://172.20.2.5:8082/Special-TV/tracks-v1/index.fmp4.m3u8?token=abd5a6a90ebb8ea8b440c2193c9768997766925d-b667ecc69012a415b84c52632bb32134-1698896989-1698886189
 #EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1.jpg",STAR SPORTS 1
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
-
+#EXTINF:-1 group-title="ddnoncast" tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png",GTV
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
+#EXTINF:-1 group-title="ddnoncast" tvg-logo="http://bdixtv.live/assets/images/starsports1.jpg",STAR SPORTS 1 HD 
+http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bdix category", Gazi Tv
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
@@ -86,10 +89,7 @@ http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
 http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1. jpg",STAR SPORTS 1
 http://51.159.59.244/dd_s_h_1/index.m3u8
-#EXTINF:-1 group-title="DDN ONCAST",GAZI TV HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
-#EXTINF:-1 group-title="DDN ONCAST",STAR SPORTS 1 HD
-http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
+
 #EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png",TSPORTS HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="CtgTv category" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Bangla-HD.png",ZEE BANGLA HD
