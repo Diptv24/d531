@@ -1,4 +1,23 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png",TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1.jpg",STAR SPORTS 1
+http://172.20.2.5:8082/Special-TV/index.fmp4.m3u8?token=17a7bf15178e12fc2a36d722bc20078e1875bf67-0027361f2f6e394f310e87096ec4b95f-1701281430-1701270630
+#EXTINF:-1 group-title="SONYPLEX" tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png",GTV
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1.jpg",STAR SPORTS 1
+http://172.20.2.5:8082/Special-TV/tracks-v1/index.fmp4.m3u8?token=abd5a6a90ebb8ea8b440c2193c9768997766925d-b667ecc69012a415b84c52632bb32134-1698896989-1698886189
+#EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1.jpg",STAR SPORTS 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bdix category", Gazi Tv
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png",TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 group-title="SONYPLEX" tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png",GTV
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbJgJ0iq1UmBznGJKQNmF54DVwvKHeN9C0tw&usqp=CAU",WILLOW HD
 https://hls.streambtw.com/live/stream_e1.m3u8
 #EXTINF:-1  tvg-logo="https://www.indiantvinfo.com/media/2023/08/Sports-18.png",SPORTS 18 HD
