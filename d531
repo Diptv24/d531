@@ -2982,250 +2982,105 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
 #EXTM3U
 
-#PLAYLISTV: pltv-logo="http://127.0.0.1/" pltv-name="Without category" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="Without category", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
-https://playeriptv.com/app
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIS Science
-http://103.141.2.37:25461/web/web/554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Enterr 10
-http://103.141.2.37:25461/web/web/606
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Khushboo
-http://103.141.2.37:25461/web/web/607
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Yay
-http://103.141.2.37:25461/web/web/614
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Bangla
-http://103.141.2.37:25461/web/web/556
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sun Bangla
-http://103.141.2.37:25461/web/web/589
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Independent
-http://103.141.2.37:25461/web/web/590
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony_Aath
-http://103.141.2.37:25461/web/web/591
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GTV
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=b7b5a05e4d85e7088c55c4adc7953c4753291d02-c458482299bdc6269d6b76b10af924d1-1699938088-1699927288
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/T_sports/hls/index.m3u8
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://otv.ftpbd.net:8082/T-Sports-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://172.20.2.5:8082/T-Sports/tracks-v1/index.fmp4.m3u8?token=870740907a1ac5de20e814864c4401f1ef856346-1a868a91af53cb935111a960bda15678-1687201525-1687190725
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://otv.ftpbd.net:8082/T-Sports-HD/index.m3u8?token=5bff875c5c4c7a3a1f528189e94f5012308d2822-42fdbec284536534d56cdbdfed658a7e-1698895985-1698885185
+#EXTINF:-1 group-title="TSPORTS GROUP" tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png",TSPORTS HD
+http://103.141.2.37:25461/web/web/618
+=================================================================================================================================
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://chanel.dekhaott.com/Gazi-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/index.fmp4.m3u8?token=f8c36fc7db063b3ee67a8f62e6dce99c88a179cc-6aec3978e0ea5440d7e5f6696ff06d60-1694971345-1694960545
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/tracks-a1/index.fmp4.m3u8?token=de14db1ab621e10abbc9bb83747aaae732d0edc5-905b69ae923fe3c90b4dc93bb1bd4f5d-1693863702-1693852902
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1/index.fmp4.m3u8?token=9eca8812411f18f7d7dd91534013e3f249a1a99c-ba16e1f2584a834348603cf948548a90-1687453373-1687442573
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=151ce0e7f0871ac854ca0128885b29d75410f681-990219390694fbffb8df6b82cae660d2-1699938138-1699927338
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
 http://103.141.2.37:25461/web/web/592
+#EXTINF:-1 group-title="GTV GROUP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQTxYyrfzOHyfsZmPZhTuU76DRWWQIMu8Fg&usqp=CAU", GAZI TV HD
+http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8?token=6da9825c99d3167bd42fd8b7c5502dbd9b83a5d8-da512622915d94ad3e06328059e59f21-1698896615-1698885815
+=================================================================================================================================
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 71
-http://103.141.2.37:25461/web/web/594
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Channel I
-http://103.141.2.37:25461/web/web/595
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Maasranga
-http://103.141.2.37:25461/web/web/596
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Somoy TV
-http://103.141.2.37:25461/web/web/597
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee_Bangla_Cinema
-http://103.141.2.37:25461/web/web/598
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colore Bangla Cinema
-http://103.141.2.37:25461/web/web/599
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jalsha_Movies
-http://103.141.2.37:25461/web/web/600
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Bangla
-http://103.141.2.37:25461/web/web/601
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Bangla HD
-http://103.141.2.37:25461/web/web/602
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Jalsha
-http://103.141.2.37:25461/web/web/603
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sangeet
-http://103.141.2.37:25461/web/web/604
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Akash 8
-http://103.141.2.37:25461/web/web/605
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Jamuna
-http://103.141.2.37:25461/web/web/608
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", GB
-http://103.141.2.37:25461/web/web/609
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nagorik
-http://103.141.2.37:25461/web/web/611
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", ATN TV
-http://103.141.2.37:25461/web/web/612
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bangla Vision
-http://103.141.2.37:25461/web/web/613
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DIPTO TV
-http://103.141.2.37:25461/web/web/587
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zoom
-http://103.141.2.37:25461/web/web/542
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pictures HD
-http://103.141.2.37:25461/web/web/543
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors HD
-http://103.141.2.37:25461/web/web/544
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Cinema HD
-http://103.141.2.37:25461/web/web/545
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Plus
-http://103.141.2.37:25461/web/web/546
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Colors Cineplex
-http://103.141.2.37:25461/web/web/547
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", B4U Movies
-http://103.141.2.37:25461/web/web/548
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee Action
-http://103.141.2.37:25461/web/web/549
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold2 HD
-http://103.141.2.37:25461/web/web/550
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony
-http://103.141.2.37:25461/web/web/551
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Max HD
-http://103.141.2.37:25461/web/web/552
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Zee TV
-http://103.141.2.37:25461/web/web/553
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Gold
-http://103.141.2.37:25461/web/web/555
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", 9XM
-http://103.141.2.37:25461/web/web/557
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Masti
-http://103.141.2.37:25461/web/web/558
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bhojpuri
-http://103.141.2.37:25461/web/web/559
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star-World HD
-http://103.141.2.37:25461/web/web/560
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Pix HD
-http://103.141.2.37:25461/web/web/561
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Movies
-http://103.141.2.37:25461/web/web/563
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC EARTH
-http://103.141.2.37:25461/web/web/564
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MN
-http://103.141.2.37:25461/web/web/565
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Movies NOW
-http://103.141.2.37:25461/web/web/562
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planent
-http://103.141.2.37:25461/web/web/566
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", DISCOVERY
-http://103.141.2.37:25461/web/web/567
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAT_GEO_HD
-http://103.141.2.37:25461/web/web/568
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Animal Planet
-http://103.141.2.37:25461/web/web/569
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", AXN
-http://103.141.2.37:25461/web/web/570
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MN+
-http://103.141.2.37:25461/web/web/571
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Aljazeera
-http://103.141.2.37:25461/web/web/572
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BBC WORLD
-http://103.141.2.37:25461/web/web/573
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", MNX HD
-http://103.141.2.37:25461/web/web/574
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", STAR WORLD HD
-http://103.141.2.37:25461/web/web/575
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", WILD
-http://103.141.2.37:25461/web/web/576
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SE | Discovery TV
-http://103.141.2.37:25461/web/web/540
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Lotus TV
-http://103.141.2.37:25461/web/web/541
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony SIX HD
-http://103.141.2.37:25461/web/web/577
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star Sports3
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1
+http://172.20.2.5:8082/Special-TV/index.fmp4.m3u8?token=17a7bf15178e12fc2a36d722bc20078e1875bf67-0027361f2f6e394f310e87096ec4b95f-1701281430-1701270630
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1 HD
+http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs23/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP",STAR SPORTS 1
+http://172.20.2.5:8082/Special-TV/tracks-v1/index.fmp4.m3u8?token=abd5a6a90ebb8ea8b440c2193c9768997766925d-b667ecc69012a415b84c52632bb32134-1698896989-1698886189
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP",STAR SPORTS 1
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809_b596000.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1 HD
+http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1 HD
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/index.m3u8?token=9759e8aa2a601cd03ac81285a6cd10cfe254d171-36177856d73ac64485300d45e3fd92d9-1699938183-1699927383
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1 HD
+http://172.20.2.5:8082/Special-TV/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS SL 1
+http://otv.ftpbd.net:8082/Star-Select-1-HD/index.m3u8?token=5ebe5e44efa19ecfac30e45a2eb49015ecf62159-5fe7aa4875e01a923d3bce3ae243374b-1699938218-1699927418
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS SL 2
+http://otv.ftpbd.net:8082/Star-Select-2-HD/index.m3u8?token=758a727d90c30553eddbc13b894f1b6d0524d542-e1861151ef66afaf40ce3b922c5b9a82-1699938257-1699927457
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1
+http://otv.ftpbd.net:8082/Star-Sports-1-HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1
+http://51.159.59.244/dd_s_h_1/index.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports 2 HD
+http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports Select 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-v1/index.fmp4.m3u8?token=c23ee751f988da02a4a882d76fed435020e7f523-136a712810ed592135ed7543371a9d3c-1698897147-1698886347
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports Select 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports Select 2 HD
+http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1
+http://172.20.2.5:8082/Star-Sports-1/tracks-v1/index.fmp4.m3u8?token=f9922bad6a9bc3b677ecc6f439e7b2e90101c36c-4f9dc080527cea35d42b84bf2589c9e5-1691089260-1691078460
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1
+http://103.102.27.173/live/tvfeed1003/index.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports Select 1
+http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports Select 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports 1
+http://103.141.2.37:25461/web/web/580
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", STAR SPORTS 1 HD
+http://172.16.172.112/live/fifa2022/index.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star sports
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports 2
+http://103.120.172.74:4200
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports3
 http://103.141.2.37:25461/web/web/578
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Star_Sports_1_HD
-http://103.141.2.37:25461/web/web/579
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ster Sports 1 HD
-http://103.141.2.37:25461/web/web/580
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Ster Sport-2 HD
-http://103.141.2.37:25461/web/web/581
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten3
-http://103.141.2.37:25461/web/web/582
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Select2
-http://103.141.2.37:25461/web/web/583
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony_Ten_2
-http://103.141.2.37:25461/web/web/584
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony_Ten_1
-http://103.141.2.37:25461/web/web/585
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", T Sports
-http://103.141.2.37:25461/web/web/586
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SPORTS 18
-http://103.141.2.37:25461/web/web/588
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Duranta
-http://103.141.2.37:25461/web/web/610
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Nick
-http://103.141.2.37:25461/web/web/615
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", CN
-http://103.141.2.37:25461/web/web/616
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Pogo
-http://103.141.2.37:25461/web/web/617
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", T-SPORTS
-http://103.141.2.37:25461/web/web/618
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Quraan TV
-http://103.141.2.37:25461/web/web/619
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Travelxp HD
-http://103.141.2.37:25461/web/web/593
 
 
 
