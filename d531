@@ -3074,13 +3074,15 @@ http://172.16.172.112/live/fifa2022/index.m3u8
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports 2
 http://103.120.172.74:4200
-#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/128960-star.jpg?w=400&dpr=2.6" group-title="STAR SPORTS GROUP", Star Sports3
-http://103.141.2.37:25461/web/web/578
-
-
-
-
-
-
-
-
+#EXTINF:-2, SUPER SPORTS VARIETY 2
+https://mlb.mrgamingstreams.com/variety2.m3u8
+#EXTINF:-2, SUPER SPORTS VARIETY 3
+https://mlb.mrgamingstreams.com/variety3.m3u8
+#EXTINF:-1, TNT SPORTS 1
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+#EXTINF:-1, TNT SPORTS 2
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+#EXTINF:-1, TNT SPORTS 3
+https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+#EXTINF:-1, TNT SPORTS 4
+https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
