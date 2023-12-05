@@ -2,6 +2,9 @@
 #EXTINF:-1, ABU DUBAI T10 LIVE
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_021223/master.m3u8
 
+
+#EXTINF:-1, PTV SPORTS HD
+https://cdn.sajeeb.online/PTV-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="OTP FTP" tvg-logo="http://otv.ftpbd.net/assets/images/TSports%2021668953490.png",TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Star Sports Network" tvg-logo="http://bdixtv.live/assets/images/starsports1.jpg",STAR SPORTS 1
