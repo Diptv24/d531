@@ -2,6 +2,12 @@
 #EXTINF:-1, ABU DUBAI T10 LIVE
 https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_021223/master.m3u8
 
+#EXTINF:-1, TNT SPORTS 1
+http://otv.ftpbd.net:8082/TnT-Sports-1-HD/preview.mp4?token=9caa4f56cb40a9a9c1e6d4d98eed2e53ed8ba3a8-36d189f873d14c178711599cdb00bd18-1701750120-1701739320
+#EXTINF:-1, SS CRICKET 
+http://otv.ftpbd.net:8082/SS-Ceicket-HD/tracks-v1a1/mono.m3u8?token=a17c8713f01a7a6df23cbd29eb00c99247aece05-307943a490fabf25922b400cac5435de-1701750178-1701739378
+#EXTINF:-1, WILLOW EXTRA
+http://otv.ftpbd.net:8082/Willow/tracks-v1a1/mono.m3u8?token=ceeea8d9a3d56659c6a19ed3c14bceb21dc2e875-681c5be5ab0d07c0845d1bddd681b368-1701750219-1701739419
 
 #EXTINF:-1, PTV SPORTS HD
 https://cdn.sajeeb.online/PTV-Sports/tracks-v1a1/mono.m3u8
