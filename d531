@@ -2426,6 +2426,79 @@ http://cdn01.palki.tv/live/Duronto-M/tracks-v1/index.fmp4.m3u8
 http://cdn01.palki.tv/live/DeeptoTV-M/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/i8T9qQs.png",Ekattor TV HD
 http://cdn01.palki.tv/live/EkattorTV-M/tracks-v1/index.fmp4.m3u8
+
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/23124fox%20weather.png",FOX NEWS
+http://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/26945usa%20today%20logo.jpg", US TODAY
+https://lnc-usa-today.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/27634cdn%2037%20logo.png", CDN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/27707rtp1%20logo.png", RTP-1
+https://video02.logicahost.com.br/tvportuguesa/tvportuguesa/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/22126Skai%20TV%20logo.png", SKAI TV
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/21920Realitatea%20TV%20logo.png", REALITATEA TV
+https://edge.realitatea.net/realitatea/plus_fq/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.livehdtv.net/uploads/kanal/31979IZ.RU.png", IZ.RU TV
+https://hls-igi.cdnvideo.ru/igi/igi1_lq/playlist.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/20424%D0%A2%D0%92%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80.png", TV CENTER
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.livehdtv.net/uploads/kanal/21258zvezda.png", ZVEZDA TV
+https://salam-2-10.rutube.ru/dive/river-5-512.rutube.ru/viiN6EWMJnX9uqq6-7Yn5Q/stream/genetta-515.ost.rutube.ru/wBE4RuVj_s7euDuA_YG-uA/1701967082/5ab908fccfac5bb43ef2b1e4182256b0/360p_stream.m3u8
+#EXTINF:-1 group-title="NEWS" tvg-logo="https://www.livehdtv.net/uploads/kanal/30172234901200px-NTV_logo_2003.svg.png", NTV
+https://cdn.ntv.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.livehdtv.net/uploads/kanal/26464rbk.png", PБК (RBK) 
+https://e3-online-video.rbc.ru/online2/rbctvhd_360p/index.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.livehdtv.net/uploads/kanal/24863yu%20tv.png", Ю-ТВ (YU) 
+https://salam-2-10.rutube.ru/dive/river-5-513.rutube.ru/CL4LxzFYXyGH_t5cRSh2Sw/stream/musang-702.brz.rutube.ru/ahQw0J-0LFGRLBUdOzDxVw/1701967613/5c9327074e25ca86f3111d4085cbbb65/1080p_stream.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="",VIJU SPORTS
+https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="",THT4
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="",2X2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="",THT MUSIC
+https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.cableman.ru/sites/default/files/viju_explore_color_rgb_02_1.png",VIJU EXPLORE HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHDupCvzETgXsOlduoeJLePx_xIgA2qrJueNDuX1B2Xuo2XQ6HtUbXvaahGJubk_mF6ak&usqp=CAU",VIJU HISTORY HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.cableman.ru/sites/default/files/viju_nature_color_rgb_02_1.png",VIJU NATURE HD
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.cableman.ru/sites/default/files/viju_megahit_color_rgb_02_1.png",VIJU MEGAHIT HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://www.cableman.ru/sites/default/files/viju_serial_color_rgb_02_1.png",VIJU SERIAL HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="https://kt.server-img.lfstrm.tv/image/aHR0cDovL2ltZy5iNjEyLnRpZ2h0dmlkZW8uY29tL2NoYW5uZWxzL3ZpanVfc3BvcnRfa3QucG5n",VIJU SPORTS
+https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="",
+
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="",
+
+#EXTINF:-1 group-title="RUSSIAN" tvg-logo="",
+
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="",
+
+#EXTINF:-1 group-title="NEWS" tvg-logo="",
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/Jo7wzmn.png",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/yi5p51T.png",RTV HD
@@ -2964,24 +3037,8 @@ https://obevcimanyd179314182.thapcam.link/live/Z1FHD/playlist.m3u8
 https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8
 #EXTINF:-1 ,#FullHD
 https://obevcimanyd179314182.thapcam.link/live/oldFHD/playlist.m3u8
-#EXTINF:-1 ,VIJU SPORTS
-https://bl.uma.media/live/485548/HLS/4614144_2,2883584/2/1/playlist.m3u8
-#EXTINF:-1 ,THT4
-https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
-#EXTINF:-1 ,2X2
-https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
-#EXTINF:-1 ,THT MUSIC
-https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8
-#EXTINF:-1 ,VIJU EXPLORE HD
-https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIJU HISTORY HD
-https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIJU NATURE HD
-https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIJU MEGAHIT HD
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 ,VIJU SERIAL HD
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+
+
 #EXTINF:-1 ,KM SPORTS
 https://bl.uma.media/live/400930/HLS/4614144_3/1/1/playlist.m3u8
 #EXTINF:-1 ,M4TH CTPHA
