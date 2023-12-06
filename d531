@@ -3146,14 +3146,16 @@ http://95.111.193.211:8106/play/a025/index.m3u8
 
 #EXTINF:-1, Jumona TV  
 http://95.111.193.211:8106/play/a01b/index.m3u8
-#EXTINF:-1, Ekuttor TV    http://95.111.193.211:8106/play/a018/index.m3u8
+#EXTINF:-1, Ekuttor TV    
+http://95.111.193.211:8106/play/a018/index.m3u8
 #EXTINF:-1, Diptoto TV   
 http://95.111.193.211:8106/play/a01a/index.m3u8
 
 #EXTINF:-1, Massranga HD
 http://95.111.193.211:8106/play/a00p/index.m3u8
 
-#EXTINF:-1, ANI Planite   http://95.111.193.211:8106/play/a00y/index.m3u8
+#EXTINF:-1, ANI Planite   
+http://95.111.193.211:8106/play/a00y/index.m3u8
 
 #EXTINF:-1, Colors HD   
 http://95.111.193.211:8106/play/a00l/index.m3u8
