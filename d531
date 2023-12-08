@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1, ABU DUBAI T10 LIVE
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099915/hd_akamai_iosmob_avc_eng_adt10_021223/master.m3u8
+#EXTINF:-1, SKY SPORTS CRICKET 
+http://142.54.172.138/premium65/playlist.m3u8?ddd=Pl5NHMeCwA
+
+
+SKY SPORTS FOOTBALL
+http://142.54.172.138/premium35/playlist.m3u8?ddd=Pl5NHMeCwA
+TNT SPORTS 1
+http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
+TNT SPORTS 2
+http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
+TNT SPORTS 3
+http://142.54.172.138/premium33/playlist.m3u8?ddd=Pl5NHMeCwA
+TNT SPORTS 4
+http://142.54.172.138/premium34/playlist.m3u8?ddd=Pl5NHMeCwA
 
 #EXTINF:-1, TNT SPORTS 1
 http://otv.ftpbd.net:8082/TnT-Sports-1-HD/preview.mp4?token=9caa4f56cb40a9a9c1e6d4d98eed2e53ed8ba3a8-36d189f873d14c178711599cdb00bd18-1701750120-1701739320
