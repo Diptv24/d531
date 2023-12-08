@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, RTA SPORTS
+https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1, SKY SPORTS CRICKET 
 http://142.54.172.138/premium65/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:-1, SKY SPORTS FOOTBALL
