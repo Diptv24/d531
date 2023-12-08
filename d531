@@ -1,17 +1,15 @@
 #EXTM3U
 #EXTINF:-1, SKY SPORTS CRICKET 
 http://142.54.172.138/premium65/playlist.m3u8?ddd=Pl5NHMeCwA
-
-
-SKY SPORTS FOOTBALL
+#EXTINF:-1, SKY SPORTS FOOTBALL
 http://142.54.172.138/premium35/playlist.m3u8?ddd=Pl5NHMeCwA
-TNT SPORTS 1
+#EXTINF:-1, TNT SPORTS 1
 http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
-TNT SPORTS 2
+#EXTINF:-1, TNT SPORTS 2
 http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
-TNT SPORTS 3
+#EXTINF:-1, TNT SPORTS 3
 http://142.54.172.138/premium33/playlist.m3u8?ddd=Pl5NHMeCwA
-TNT SPORTS 4
+#EXTINF:-1, TNT SPORTS 4
 http://142.54.172.138/premium34/playlist.m3u8?ddd=Pl5NHMeCwA
 
 #EXTINF:-1, TNT SPORTS 1
