@@ -3243,3 +3243,30 @@ http://95.111.193.211:8106/play/a010/index.m3u8
 
 #EXTINF:-1, Euro Sports HD   
 http://95.111.193.211:8106/play/a00x/index.m3u8
+
+#EXTINF:-1, Arena 1HD 🇷🇸 
+http://93.155.227.38:555/m3u8/arenasport1.m3u8 
+
+#EXTINF:-1, Arena 2 HD 🇷🇸 
+http://93.155.227.38:555/m3u8/arenasport2.m3u8 
+
+#EXTINF:-1, Arena sport 3 HD 🇷🇸 
+http://93.155.227.38:555/m3u8/arenasport3.m3u8 
+
+#EXTINF:-1, Arena sport 4 HD 🇷🇸 
+http://93.155.227.38:555/m3u8/arenasport4.m3u8 
+
+#EXTINF:-1, Arena sport 5 HD 🇷🇸 
+http://93.155.227.38:555/m3u8/arenasport5.m3u8
+
+#EXTINF:-1, AYAS SPORT
+https://af.ayas.ir/hls2/ayas3.m3u8
+#EXTINF:-1, SPORT TV
+https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
+
+
+#EXTINF:-1, BEIN sports 1 
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1, BEIN sports 2
+https://edge1.laotv.la/live/Bsport2/index.m3u8
