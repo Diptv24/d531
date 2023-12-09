@@ -3303,6 +3303,13 @@ http://103.109.56.116/live/skyfeed1021/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", Independent TV
 http://103.109.56.116/live/skyfeed1012/index.m3u8
 
+Shahin Dipu:
+#EXTINF:-1 group-title="Skyfeed", Somoy TV
+http://103.109.56.116/live/skyfeed1014/index.m3u8
+
+#EXTINF:-1 group-title="Skyfeed", Quran TV
+http://103.109.56.116/live/skyfeed1022/index.m3u8
+
 #EXTINF:-1 group-title="Skyfeed", Pogo
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 
