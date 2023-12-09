@@ -3267,6 +3267,8 @@ https://af.ayas.ir/hls2/ayas3.m3u8
 https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
 
+#EXTINF:-1, MR GAMING ES-SPORT
+https://mcdn.mrgamingstreams.com/mrgaminges.m3u8
 #EXTINF:-1, LALIGA TV
 https://mlb.mrgamingstreams.com/laliga.m3u8
 #EXTINF:-1, USAN SPORT
