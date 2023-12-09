@@ -13,6 +13,8 @@ http://113.212.111.246:8080/hls/col12.m3u8
 https://ott.sonyplex.com:444/play/y4ypVArrswAkLijdKS_tnhhIvk9niht3vh2W4ClrIzo/.m3u8
 #EXTINF:-1 group-title="SONYPLEX" tvg-logo="http://otv.ftpbd.net/assets/images/GTV%2031670253750.png",GTV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
+#EXTINF:-1 group-title="Bangla Channels" tvg-logo="https://pcdn1.jagobd.com/images/m-5gojiw1671643057763.jpg",Green Tv
+http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1, SKY SPORTS CRICKET 
 http://142.54.172.138/premium65/playlist.m3u8?ddd=Pl5NHMeCwA
