@@ -3266,10 +3266,17 @@ https://af.ayas.ir/hls2/ayas3.m3u8
 #EXTINF:-1, SUPER SPORTS LALIGA
 https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
+
+#EXTINF:-1, LALIGA TV
+https://mlb.mrgamingstreams.com/laliga.m3u8
+#EXTINF:-1, USAN SPORT
+https://mlb.mrgamingstreams.com/usan.m3u8
 #EXTINF:-1, SPORTS 1 HD
 https://mlb.mrgamingstreams.com/espn2.m3u8
 #EXTINF:-1, ESPN+
 https://mlb.mrgamingstreams.com/espn.m3u8
+#EXTINF:-1, ESPN Des
+https://mlb.mrgamingstreams.com/espnd.m3u8
 #EXTINF:-1, BEIN sports 1 
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 
