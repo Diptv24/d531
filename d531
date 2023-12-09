@@ -3266,13 +3266,19 @@ https://af.ayas.ir/hls2/ayas3.m3u8
 #EXTINF:-1, SUPER SPORTS LALIGA
 https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
+#EXTINF:-1, SPORTS 1 HD
+https://mlb.mrgamingstreams.com/espn2.m3u8
+#EXTINF:-1, ESPN+
+https://mlb.mrgamingstreams.com/espn.m3u8
 #EXTINF:-1, BEIN sports 1 
 https://edge1.laotv.la/live/Bsport1/index.m3u8
 
 #EXTINF:-1, BEIN sports 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
-
-
+#EXTINF:-1, PPTV HD 36
+https://edge2.laotv.la/live/PPTVHD/index.m3u8
+#EXTINF:-1, PPTV HD 36
+https://cdn6.goprimetime.info/feed/202306140918/chpptvhd3/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", T Sports   
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
