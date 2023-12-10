@@ -3384,3 +3384,6 @@ http://103.109.56.116/live/skyfeed1019/index.m3u8
 
 #EXTINF:-1 group-title="Skyfeed", Colors Bangla
 http://103.109.56.116/live/skyfeed1017/index.m3u8
+
+#EXTINF:-1 group-title="Willow", Willow Tv
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
