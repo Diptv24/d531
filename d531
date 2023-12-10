@@ -3295,6 +3295,31 @@ https://af.ayas.ir/hls2/ayas3.m3u8
 #EXTINF:-1, SUPER SPORTS LALIGA
 https://headlinessportsfoot.com/chunklist/hlsch4.m3u8
 
+#EXTINF:-1, TNT SPORTS 3
+https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
+
+#EXTINF:-1, Sportv1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+#EXTINF:-1, Sportv2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+
+
+#EXTINF:-1, Sportv4
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+
+#EXTINF:-1, Sportv4
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1, SUOER SPORTS VARITY
+https://hls.streambtw.com/live/stream_2.m3u8
+#EXTINF:-1, BEIN SPORTS HD
+https://hls.streambtw.com/live/stream_8.m3u8
 
 #EXTINF:-1, MR GAMING ES-SPORT
 https://mcdn.mrgamingstreams.com/mrgaminges.m3u8
