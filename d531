@@ -4,6 +4,12 @@ https://hls.rtasport.live/hls/stream.m3u8
 #EXTINF:-1, SPORTSMAX
 https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/jotm3m_a8wn4PvnOuls_kj01ieR6k1mptTR8SytfsP8kBaL1eEexUbjoBZ3yZVSuP8qyO5Y8f-RwYhL_fDw7Rg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1, SKY SPORTS CRICKET 
+http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
+#EXTINF:-1, ASPORT
+http://66.160.192.241/aspor/index.m3u8
+#EXTINF:-1, TIGO SPORTS
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-sixs23/chunks.m3u8
 #EXTINF:-1, STAR SPORTS 2 HD
