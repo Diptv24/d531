@@ -1,46 +1,9 @@
 
-#EXTINF:-1,GTV
-https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
+
 #EXTINF:-1,Green Tv
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
 #EXTINF:-1,GTV
 http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
-#EXTINF:-1,GTV
-http://otv.ftpbd.net:8082/Gazi-Tv-HD/index.m3u8?token=151ce0e7f0871ac854ca0128885b29d75410f681-990219390694fbffb8df6b82cae660d2-1699938138-1699927338
-#EXTINF:-1,FOX MOVES ACTION
-http://otv.ftpbd.net:8082/Fox-Cartoon-HD/index.m3u8?token=70fc7ed7412fd04dd1e5796d1fbd27ba46ca387f-356eb3bb27063533166f2ced1ba623c1-1699938433-1699927633
-#EXTINF:-1,STAR MOVES SL HD
-http://otv.ftpbd.net:8082/History-18-HD/index.m3u8?token=3b757f53cc7aa54838147bf3bd2cd7849c0dce3e-99d3b4e613a05884faac6746f0bf8252-1699938507-1699927707
-#EXTINF:-1,NAT GEO HD
-http://otv.ftpbd.net:8082/National-Geographic-HD/index.m3u8?token=7764a1d37c2cfaf81fa566fa771d6b6acfc01595-2b575ec3669a04a8adef4f022e706d8a-1699938574-1699927774
-#EXTINF:-1,NAT GEO WILD HD
-http://otv.ftpbd.net:8082/Wild-HD/index.m3u8?token=e291f180b9c7f01e8c88408a2309269836010d11-5efc63e3487a2e7be3126a82d195e413-1699938624-1699927824
-#EXTINF:-1,DISCOVERY HD
-http://otv.ftpbd.net:8082/Discovery-HD/index.m3u8?token=4c36018b7c31c9ff40f9d3423a993bee2b3b3ecb-5d37b8502afc9fae4853b824fc511b10-1699938672-1699927872
-#EXTINF:-1,NICK JR
-http://otv.ftpbd.net:8082/Nick-Jr/index.m3u8?token=450ab97422515b7a712e08caa3d3baf042dd35eb-848f038720dd771161be8bc7e8bea984-1699938717-1699927917
-#EXTINF:-1,CEBEEBIES
-http://otv.ftpbd.net:8082/BBC-Cbeebies-HD/index.m3u8?token=bcbf3513d2c16cbb3179c98feef232bea6f8cb1a-76c29c0ea368aa5719c0386951181cf9-1699938790-1699927990
-#EXTINF:-1,DURANTO TV HD
-http://otv.ftpbd.net:8082/Duronto-Tv-HD/index.m3u8?token=22089c02aabc19cc827cdcdadf48314bbcdeae92-b3fa4e92d6b648b3c7351e9e06b04470-1699938844-1699928044
-#EXTINF:-1,HBO HD
-http://otv.ftpbd.net:8082/Hbo-HD/index.m3u8?token=50827317bfb3acf5c4f590f9b21ffa792fa3021d-1463ddd09ae4f1dac8b1099558a0d645-1699989821-1699979021
-#EXTINF:-1,&PICTURES HD
-http://otv.ftpbd.net:8082/And-Pictures-HD/index.m3u8?token=e7ba094bb2d78df46c5d20a462ae4bcb3fcb0f0c-393e460ce9f5a2008fc3ed9dbfdd5524-1699989878-1699979078
-#EXTINF:-1,CINEMA WORLD
-http://otv.ftpbd.net:8082/Star-Gold-Select-HD/index.m3u8?token=9dad37e4d6a708beeda676ed409d201162b50340-64a8c7043e770df6ff80d883ef1a0958-1699989954-1699979154
-#EXTINF:-1,STAR GOLD HD
-http://otv.ftpbd.net:8082/And-Prive-HD/index.m3u8?token=ca1e05856b60610a11873906ccea170af788161a-8fa728484c8b5654a97a4fb91fa54a61-1699990061-1699979261
-#EXTINF:-1,SONY MAX HD
-http://otv.ftpbd.net:8082/Set-Max-HD/index.m3u8?token=0e5a193882265ff043e70b771bd6feaaf44b936f-8f5f77a31494abbd21cf5ba4e59a614d-1699990124-1699979324
-#EXTINF:-1,SONY SAB HD
-http://otv.ftpbd.net:8082/Sony-Sab-HD/index.m3u8?token=2a5e5f2d07d70b723e7c304495ca6b68f18e0270-c323887f31ab476cbd537c4d345396d9-1699990164-1699979364
-#EXTINF:-1,SONY ENTERTEIMENT
-http://otv.ftpbd.net:8082/Sony-Entertainment/index.m3u8?token=748dd11338d20323d984ef96e586308f29c3ba5d-b37143e6a17255a3d3403093f279e483-1699990223-1699979423
-#EXTINF:-1,ZEE BANGLA HD
-http://otv.ftpbd.net:8082/Zee-Bangla-HD/index.m3u8?token=71e576d42fc65fe878664a2b9a056f7c96bc1e67-5be0dc22e09fc25bf8d4644a06c4bd45-1699990263-1699979463
-#EXTINF:-1,DEEPTO TV HD
-http://otv.ftpbd.net:8082/Deepto-Tv-HD/index.m3u8?token=22db5e30cc049babbf60530dccdbcdacf32fef17-34ebd95b3d2ce203a4a6821fa0816546-1699990295-1699979495
 #EXTINF:-1,ZEE BANGLA HD
 http://172.20.2.5:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=0886a7e63ebd238a422cd9abb4f41ff468c1c76d-093c2775add7d14b0449d8825918be44-1681329570-1681318770
 #EXTINF:-1,STAR JALSA HD
@@ -3278,10 +3241,10 @@ http://cdn.live247stream.com/thelight/tv/playlist.m3u8
 
 
 
-
-
-
-
+#EXTINF:-1 group-title="SPORTS 18", SPORTS 18 HD
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 group-title="SPORTS 18", SPORTS 18 KHEL
+http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
 
 
