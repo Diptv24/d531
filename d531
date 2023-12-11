@@ -3247,14 +3247,14 @@ http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/ind
 http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
 
+#EXTINF:-1 group-title="FAST SPORTS", FAST SPORTS HD
+http://livetvbox.live:8080/live/Anne/Anne/87460.ts
 
+#EXTINF:-1 group-title="FOX SPORTS", FOX SPORTS CRICKET 
+http://livetvbox.live:8080/live/Anne/Anne/1856.ts
 
-
-
-
-
-
-
+#EXTINF:-1 group-title="SPORTSMAX", SPORTSMAX CRICKET
+http://livetvbox.live:8080/live/Anne/Anne/142048.ts
 
 
 
