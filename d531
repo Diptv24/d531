@@ -3237,10 +3237,17 @@ http://103.109.56.116/live/skyfeed1019/index.m3u8
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 group-title="TLT",TLT SPORTS
 http://cdn.live247stream.com/thelight/tv/playlist.m3u8
+#EXTINF:-1 group-title="GEO SUPER", GEO SUPER
+http://livetvbox.live:8080/live/Anne/Anne/101.ts
 
+#EXTINF:-1 group-title="SKY SPORTS", SKY SPORTS
+http://livetvbox.live:8080/live/Anne/Anne/12.ts
 
+#EXTINF:-1 group-title="ASPORTS", ASPORTS HD
+http://livetvbox.live:8080/live/Anne/Anne/43444.ts
 
-
+#EXTINF:-1 group-title="PTVSPORTS", PTV SPORTS HD
+http://livetvbox.live:8080/live/Anne/Anne/89.ts
 #EXTINF:-1 group-title="SPORTS 18", SPORTS 18 HD
 http://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF:-1 group-title="SPORTS 18", SPORTS 18 KHEL
