@@ -2806,7 +2806,7 @@ http://ctgtv.live:1934/92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51/nk-
 http://172.20.2.5:8082/Star-Select-1/tracks-a1/index.fmp4.m3u8?token=d1390060c0eec433ffee2548e37b234587e2dcd0-b14122325846fdc8c3d02a5208db3185-1691089585-1691078785
 #EXTINF:-1 group-title="STAR SPORTS", Star Sports 1
 http://103.141.2.37:25461/web/web/580
-#EXTINF:-1 group-title="STAR SPORTS", STAR SPORTS 1 HD
+#EXTINF:-1 group-title="SPORTS 18", SPORTS18 1 HD
 http://172.16.172.112/live/fifa2022/index.m3u8
 #EXTINF:-1 group-title="STAR SPORTS", Star sports
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
@@ -2816,11 +2816,11 @@ http://103.120.172.74:4200
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 group-title="STAR SPORTS", Star Sports 2 HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
-#EXTINF:-1 group-title="STAR SPORTS", Star sports 1 HD
+#EXTINF:-1 group-title="BANGLA", INDEPENDENT TV
 http://103.109.56.116/live/skyfeed1012/index.m3u8
-#EXTINF:-1 group-title="STAR SPORTS", Star Sports 2 HD
+#EXTINF:-1 group-title="BANGLA", JAMUNA TV
 http://103.109.56.116/live/skyfeed1021/index.m3u8
-#EXTINF:-1 group-title="STAR SPORTS", Star Sports select HD 1
+#EXTINF:-1 group-title="BANGLA", EKATTOR TV
 http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:-1 group-title="STAR SPORTS", Star Sports SL 1 HD
 http://103.109.56.116/live/skyfeed1004/index.m3u8
@@ -2894,10 +2894,10 @@ https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 #EXTINF:-1 group-title="GAZI TV", GAZI TV HD
 http://otv.ftpbd.net:8082/Gazi-Tv-HD/tracks-v1a1/mono.m3u8?token=6da9825c99d3167bd42fd8b7c5502dbd9b83a5d8-da512622915d94ad3e06328059e59f21-1698896615-1698885815
 
-#EXTINF:-1 group-title="GAZI TV", Gazi TV
+#EXTINF:-1 group-title="BANGLA", COLORS BANGLA
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 
-#EXTINF:-1 group-title="GAZI TV", GAZI TV HD
+#EXTINF:-1 group-title="STAR SPORTS", STAR SPORTS 1 HD
 http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
 
 
@@ -3231,7 +3231,7 @@ http://103.102.27.173/live/tvfeed1005/index.m3u8
 http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 group-title="TSPORTS",T Sports
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1 group-title="TSPORTS",T Sports
+#EXTINF:-1 group-title="KIDS", POGO
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 group-title="FIGHTSPORTS",Fight Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
