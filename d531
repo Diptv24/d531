@@ -3265,19 +3265,19 @@ http://livetvbox.live:8080/live/Anne/Anne/142048.ts
 
 
 
+#EXTINF:-1 group-title="SKY SPORTS", SKY SPORTS CRICKET 
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/CeBt3f5crnjYyon78ORlwCSFcZKl1-cElP_TpKdd2ppa6R-XdovbyW0ey1TkDdiuzV2T4NTpqVRV7iZwPQf0ag/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 2
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/j1BGZ0GnztMgyaVwwLHCY8Rz8jI9VqQH_2g6Qvn-ibNGKg84hE3E99rxm_jG69bugNI3J4TRM_9dvxmRl3Lzvg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
+EXTINF:-1 group-title="STAR SPORTS", STAR SPORTS HINDI HD
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/lzsCYvoG8OA2ScGgXzH2TIU9GN3azudTBXCDRqZe519ZhSvD_IYbiqGtd8MwpuJzj7pMDDxP-sI_GuChlTb0sg/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 
+#EXTINF:-1 group-title="TEN CRICKET", TEN CRICKET HD
+http://livetvbox.live:8080/live/Anne/Anne/196594.ts
 
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="TEN SPORTS", TEN SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8
 
 
 
