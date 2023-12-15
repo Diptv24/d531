@@ -1,4 +1,6 @@
 
+#EXTINF:-1, HUB SPORTS 4
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/6qvK2NtAP48tX8af-MtMM_aaqgQun4bcIcZsp1FWdfqMZ_3qCx9EXxtjk1bxp6swtDHzp0dRDqghgZEbYIAkGA/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1, Dbc
 http://172.20.2.5:8082/DBC-NEWS/tracks-v1/index.fmp4.m3u8?token=fb9808a6997d0d2e15ba609c5e6b6d19d5cec4aa-c8aa0dbddc5fbcd5062c415dd6abd42d-1702659965-1702649165
 #EXTINF:-1, আমার বাংলা ডিজিটাল 
