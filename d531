@@ -10,8 +10,8 @@ http://go.justflix.tv:80/client112/kennythetiger2020/127
 http://go.justflix.tv:80/client112/kennythetiger2020/125
 #EXTINF:-1 group-title="ASPORTS", ASPORTS HD
 http://go.justflix.tv:80/client112/kennythetiger2020/960
-#EXTINF:-1 group-title="", 
-
+#EXTINF:-1 group-title="PTV SPORTS", PTV SPORTS HD
+http://103.24.96.74/stream/playtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="", 
 
 #EXTINF:-1,Green Tv
