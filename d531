@@ -1,4 +1,7 @@
 
+#EXTINF:-1, GTV-DDN
+http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
+
 #EXTINF:-1 group-title="PALSAT SPORTS", PALSAT SPORTS 1
 http://cdn-main.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
 #EXTINF:-1 group-title="PALSAT SPORTS",  PALSAT SPORTS 2
