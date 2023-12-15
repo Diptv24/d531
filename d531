@@ -44,6 +44,30 @@ http://172.20.2.5:8082/Sony-Max/index.fmp4.m3u8
 http://172.20.2.5:8082/nike/index.fmp4.m3u8
 #EXTINF:-1,Sony Aath
 http://172.20.2.5:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bc88bf8aa1251cc9439b573064b61fc7fced4271-694840af909bd949415a7416642c798a-1681329530-1681318730
+
+#EXTINF:-1 group-title="Pakistani Tv", AUR LIFE HD
+http://124.109.47.101/hls/stream1.m3u8
+
+#EXTINF:-1 group-title="Pakistani Tv", HUM TV
+http://103.24.96.74/stream/humtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", HUM SITARAY
+http://38.96.178.201/live/HumSitaray/index.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", Aplus Tv 
+http://38.96.178.201/live/APlus/index.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", 8XM
+http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
+#EXTINF:-1 group-title="Pakistani Tv", ABN URDU 
+https://rtmp2.abnvideos.com/hls/abnurdu.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", 
+
+#EXTINF:-1 group-title="Pakistani Tv", 
+
+#EXTINF:-1 group-title="Pakistani Tv", 
+
+#EXTINF:-1 group-title="Pakistani Tv", 
+
+#EXTINF:-1 group-title="Pakistani Tv", 
+
 #EXTINF:-1,NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8?token=b011d5207c70ba8d119024149e21af0ff02c4c15-566749c95642afc6e2327155449021f3-1694971260-1694960460
 #EXTINF:-1,EKATTOR TV
