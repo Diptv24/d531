@@ -58,8 +58,8 @@ http://38.96.178.201/live/APlus/index.m3u8
 http://144.217.70.181:9587/hin2/8XM/index.m3u8?token=test
 #EXTINF:-1 group-title="Pakistani Tv", ABN URDU 
 https://rtmp2.abnvideos.com/hls/abnurdu.m3u8
-#EXTINF:-1 group-title="Pakistani Tv", 
-
+#EXTINF:-1 group-title="Pakistani Tv", KTN
+https://rtmp2.abnvideos.com/hls/abnurdu.m3u8
 #EXTINF:-1 group-title="Pakistani Tv", 
 
 #EXTINF:-1 group-title="Pakistani Tv", 
