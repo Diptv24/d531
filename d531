@@ -896,6 +896,23 @@ http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3
 http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1,Aliento Vision
 http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="Pakistani Tv", ARY DIGITAL 
+http://38.96.178.201/live/ARYDigital/index.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", ARY ZINDEGI
+http://38.96.178.201/live/ARYZindagi/index.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", ARY MUZAK 
+http://38.96.178.201/live/ARYMusic/index.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", GEO TV
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Pakistani Tv", Express Digital Tv
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Pakistani Tv",
+
+#EXTINF:-1 group-title="Pakistani Tv",
+
 #EXTINF:-1,AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
 #EXTINF:-1,Amrita TV
