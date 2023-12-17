@@ -12,7 +12,21 @@ http://172.20.2.5:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
 #EXTINF:-1 group-title="Bangladeshi Channels", 
+#EXTINF:-1 group-title="Bangladeshi Channels", Maasranga Tv
+http://103.109.56.116/live/skyfeed1013/index.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi Channels", Deepto Tv
+http://103.109.56.116/live/skyfeed1011/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels", Ekattor Tv 
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels", Jamuna TV
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+
+
+#EXTINF:-1 group-title="Bangladeshi Channels", Independent TV
+http://103.109.56.116/live/skyfeed1012/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels", 
 
