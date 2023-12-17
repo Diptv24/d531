@@ -54,7 +54,7 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 group-title="Bangladeshi Channels", NTV BANGLA 
 http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladeshi Channels", RTV BANGLa
+#EXTINF:-1 group-title="Bangladeshi Channels", RTV BANGLA
 http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", RTV MUSIC
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
@@ -78,6 +78,16 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", BANGLA TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels", NANDAN TV
+https://web.nandansyst.com/hls/nandan.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels", ABTV BANGLA
+http://208.86.19.13:81/501.stream/index.m3u8?
+#EXTINF:-1 group-title="Bangladeshi Channels", NEXUS TV
+
+#EXTINF:-1 group-title="Bangladeshi Channels", NEXUS TV
+
 
 #EXTINF:-1 group-title="Bangladeshi Channels", MOHONA TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
