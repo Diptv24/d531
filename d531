@@ -32,6 +32,11 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Bangladeshi Channels",
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="Bangladeshi Channels", Channel 24
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi Channels", NTV BANGLA 
+http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Bangladeshi Channels", RTV BANGLa
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", RTV MUSIC
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", ATN MUSIC
