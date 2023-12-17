@@ -52,6 +52,9 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/52/logo/240x240/mobile_logo_262737001655890931.png" group-title="Bangladeshi Channels", Channel 24
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
 
+
+
+
 #EXTINF:-1 group-title="Bangladeshi Channels", NTV BANGLA 
 http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", RTV BANGLA
@@ -86,8 +89,8 @@ https://web.nandansyst.com/hls/nandan.m3u8
 http://208.86.19.13:81/501.stream/index.m3u8?
 #EXTINF:-1 group-title="Bangladeshi Channels", NEXUS TV
 
-#EXTINF:-1 group-title="Bangladeshi Channels", NEXUS TV
-
+#EXTINF:-1 group-title="Bangladeshi Channels", Deepto Tv
+http://103.109.56.116/live/skyfeed1011/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels", MOHONA TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/playlist.m3u8
