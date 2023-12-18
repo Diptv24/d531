@@ -66,6 +66,10 @@ http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e2/Bangla_TV_Logo.png" group-title="Bangladeshi Channels", BANGLA TV HD
 https://1rdk.short.gy/Himel-Op/live-bangla-tv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://moviebangla.tv/images/moviebanglatv-02.png" group-title="Bangladeshi Channels", BAISHAKHI TV
+http://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://moviebangla.tv/images/moviebanglatv-02.png" group-title="Bangladeshi Channels", MOVIE BANGLA
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://atnmusic.tv/images/logo.png" group-title="Bangladeshi Channels", ATN MUSIC
