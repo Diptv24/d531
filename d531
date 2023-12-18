@@ -1,13 +1,31 @@
-
-#EXTINF:-1 group-title="Bangladeshi Channels",GTV-DDN
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1618746762-26959522.png?v=7.0.5" group-title="Bangladeshi Channels",GTV-DDN
 http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi Channels", TSPORTS HD
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1605236851-69176036.jpeg?v=7.0.5"group-title="Bangladeshi Channels", TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1 group-title="Bangladeshi Channels", TSPORTS SD
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1605236851-69176036.jpeg?v=7.0.5"group-title="Bangladeshi Channels", TSPORTS HD
 http://172.20.2.5:8082/T-Sports/index.fmp4.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels", EKATTOR TV
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/ekattortv.png?v=7.0.5" group-title="Bangladeshi Channels", EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/ekattortv.png?v=7.0.5" group-title="Bangladeshi Channels", EKATTOR TV
+http://103.109.56.116/live/skyfeed1015/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/jamunatv.png?v=7.0.5" group-title="Bangladeshi Channels", Jamuna TV
+http://103.109.56.116/live/skyfeed1021/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/independent.png?v=7.0.5" group-title="Bangladeshi Channels", Independent TV
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/independent.png?v=7.0.5" group-title="Bangladeshi Channels", Independent TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8?nimblesessionid=48763701
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/dbc24news.png?v=7.0.5" group-title="Bangladeshi Channels", DBC NEWS
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=7.0.5" group-title="Bangladeshi Channels", NEWS 24
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/somoytv.png?v=7.0.5" group-title="Bangladeshi Channels", SOMOY TV
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangla Channels", Ekhon Tv
+https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
+
+
+
+
 
 #EXTINF:-1 group-title="Bangladeshi Channels", NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
@@ -18,17 +36,10 @@ http://103.109.56.116/live/skyfeed1013/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", Deepto Tv
 http://103.109.56.116/live/skyfeed1011/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi Channels", Ekattor Tv 
-http://103.109.56.116/live/skyfeed1015/index.m3u8
-
-#EXTINF:-1 group-title="Bangladeshi Channels", Jamuna TV
-http://103.109.56.116/live/skyfeed1021/index.m3u8
 
 
-#EXTINF:-1 group-title="Bangladeshi Channels", Independent TV
-http://103.109.56.116/live/skyfeed1012/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi Channels", 
+
 
 
 #EXTINF:-1 group-title="Bangladeshi Channels", Ekushey Tv
@@ -59,12 +70,6 @@ https://1rdk.short.gy/Himel-Op/ntv.m3u8
 https://1rdk.short.gy/Himel-Op/live-bangla-tv.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", MOVIE BANGLA
 https://livess.jagobd.com.bd/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi Channels", INDEPENDENT TV
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8?nimblesessionid=48763701
-#EXTINF:-1 group-title="Bangladeshi Channels", DBC NEWS
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangladeshi Channels", NEWS 24
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", ATN ISLAMIC
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladeshi Channels", IQRA BANGLA
@@ -135,10 +140,6 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Bangladeshi Channels", SOMOY TV
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangla Channels", Ekhon Tv
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="Bangladeshi Channels",  BIJAY TV
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
