@@ -3636,19 +3636,19 @@ http://208.86.19.13:81/103.stream/index.m3u8?
 #EXTINF:-1 group-title="Fox Sports", FOX Sports 2
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
 
-#EXTINF:-1 group-title="Sky Sports", SKY CRICKET
+#EXTINF:-1 group-title="MR GAMING", SKY CRICKET
 https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 
 
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 1
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 2
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 2
 https://sportsleading.online/live/stream_e2.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 2
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 2
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 3
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 3
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 1
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 1
 http://142.54.172.138/premium31/playlist.m3u8?ddd=Pl5NHMeCwA
 #EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 2
 http://142.54.172.138/premium32/playlist.m3u8?ddd=Pl5NHMeCwA
@@ -3676,13 +3676,13 @@ http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2505/index.m3u8
 http://flkmzyq9.megogo.xyz/iptv/YSWL6KZU93STS7/2506/index.m3u8
 #EXTINF:-1 group-title="TNT SPORTS",  TNT SPORTS
 https://hls.streambtw.com/live/stream_8.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 1
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 2
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 2
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 3
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 3
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
-#EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 4
+#EXTINF:-1 group-title="MR GAMING", TNT SPORTS 4
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 
 #EXTINF:-1 group-title="ARENA SPORTS", ARENA SPORTS 1
