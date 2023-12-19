@@ -3636,6 +3636,10 @@ http://208.86.19.13:81/103.stream/index.m3u8?
 #EXTINF:-1 group-title="Fox Sports", FOX Sports 2
 http://tv.minhalista.me/live/76MzsZCaAm/factoryiptv/93040.ts
 
+#EXTINF:-1 group-title="Sky Sports", SKY CRICKET
+https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+
+
 #EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 1
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 #EXTINF:-1 group-title="TNT SPORTS", TNT SPORTS 2
@@ -3724,7 +3728,7 @@ https://hls.streambtw.com/live/stream_e1.m3u8
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/willow_xtra/hls/index.m3u8
 #EXTINF:-1 group-title="WILLOW SPORTS", Willow Cricket HD
 http://195.26.87.217/live?channelId=302&deviceMac=00:1A:79:33:E9:41
-#EXTINF:-1 group-title="WILLOW SPORTS", Willow Tv
+#EXTINF:-1 group-title="MR GAMING", Willow Tv
 https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
 #EXTINF:-1 group-title="WILLOW SPORTS", WILLOW CRICKET XTRA
 http://livetvbox.live:8080/live/Anne/Anne/5040.m3u8
