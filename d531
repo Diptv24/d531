@@ -10,6 +10,8 @@ http://172.20.2.5:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 http://103.109.56.116/live/skyfeed1015/index.m3u8
 #EXTINF:-1,Green Tv
 http://iptvbd.jagobd.com:1931/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1, BTV HD
+http://103.230.105.252:1935/live/btv/manifest.m3u8
 
 #EXTINF:-1, GREEN TV PK
 http://176.119.29.52/live.ts?channelId=393&uid=3702&deviceMac=00:1A:79:3B:33:26
