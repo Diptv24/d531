@@ -188,7 +188,8 @@ http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d4
 https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/deeptotv.png?v=7.0.5" group-title="Bangladeshi Channels", Deepto Tv
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-
+#EXTINF:-1 group-title="Bangladeshi Channels
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/gaanbanglatv.png?v=7.0.5" group-title="Bangladeshi Channels", GAAN BANGLA HD
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/gaanbanglatv.png?v=7.0.5" group-title="Bangladeshi Channels", GAAN BANGLA HD
