@@ -162,7 +162,7 @@ https://tempe.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,RTV HD
 http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/jamunatv.png?v=7.0.5" group-title="Bangladeshi Channels", Jamuna TV
-http://103.109.56.116/live/skyfeed1021/index.m3u8
+https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/independent.png?v=7.0.5" group-title="Bangladeshi Channels", Independent TV
 http://172.20.2.5:8082/Independent-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/dbc24news.png?v=7.0.5" group-title="Bangladeshi Channels", DBC NEWS
