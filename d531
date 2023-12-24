@@ -45,6 +45,8 @@ http://172.20.2.5:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bc88bf8aa1251cc9439b
 
 
 
+
+https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8?token=b011d5207c70ba8d119024149e21af0ff02c4c15-566749c95642afc6e2327155449021f3-1694971260-1694960460
 #EXTINF:-1,EKATTOR TV
@@ -188,9 +190,8 @@ http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d4
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015140-65835647.jpg?v=7.0.5" group-title="Bangladeshi Channels", Maasranga Tv
 http://103.109.56.116/live/skyfeed1013/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/deeptotv.png?v=7.0.5" group-title="Bangladeshi Channels", Deepto Tv
-http://103.109.56.116/live/skyfeed1011/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/deeptotv.png?v=7.0.5" group-title="Bangladeshi Channels", DEEPTO TV
-https://1rdk.short.gy/Deepto-Tv/Himel-Op.m3u8
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/gaanbanglatv.png?v=7.0.5" group-title="Bangladeshi Channels", GAAN BANGLA HD
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1649745416-10350598.png?v=7.0.5" group-title="Bangladeshi Channels", Ekushey Tv
