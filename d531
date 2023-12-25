@@ -15,20 +15,20 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8
 
 #EXTINF:-1, STAT SPORTS 1 HD
 http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
-#EXTINF:-1,ZEE BANGLA HD
+#EXTINF:-1 group-title="Bangladeshi Channels", ZEE BANGLA HD
 http://172.20.2.5:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=0886a7e63ebd238a422cd9abb4f41ff468c1c76d-093c2775add7d14b0449d8825918be44-1681329570-1681318770
-#EXTINF:-1,STAR JALSA HD
+#EXTINF:-1 group-title="Bangladeshi Channels",STAR JALSA HD
 http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR JALSA HD
 http://172.20.2.5:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=20074513f021c2839e05422980f0188b4f232d9d-b3cfdfa97155652eb6a4c35f2827ae3f-1681329552-1681318752
-#EXTINF:-1,Zee Bangla Cinema
+#EXTINF:-1 group-title="Bangladeshi Channels",Zee Bangla Cinema
 http://172.20.2.5:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1,COLORS BANGLA HD
+#EXTINF:-1 group-title="Bangladeshi Channels", COLORS BANGLA HD
 http://172.20.2.5:8082/colorsbangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Jalsha Movies
+#EXTINF:-1 group-title="Bangladeshi Channels",Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38ca21316e764b3fd8c9f07e3d3-b6440fc4c5f8b33cec9c2c00ea4e07a4-1681329593-1681318793
 #EXTINF:-1,SANGEET BANGLA
-http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1,STAR GOLD HD
 http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1,STAR MOVIES HD
@@ -39,7 +39,7 @@ http://172.20.2.5:8082/Zee-Hd/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Sony-Max/index.fmp4.m3u8
 #EXTINF:-1,Nick
 http://172.20.2.5:8082/nike/index.fmp4.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1 group-title="Bangladeshi Channels",Sony Aath
 http://172.20.2.5:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=bc88bf8aa1251cc9439b573064b61fc7fced4271-694840af909bd949415a7416642c798a-1681329530-1681318730
 
 #EXTINF:-1 group-title="Bangladeshi Channels", Khushbu Bangla
