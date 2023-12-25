@@ -1,5 +1,23 @@
 
 
+
+#EXTINF:1 group-title="Bangladeshi Channels", RPLUS GOLD BANGLA
+http://176.119.29.52:80/live.ts?channelId=22781&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:1 group-title="Bangladeshi Channels", TV9 BANGLA NEWS 
+http://176.119.29.52:80/live.ts?channelId=90234&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:1 group-title="Bangladeshi Channels", ZEE 24 GONTA
+http://tv.cloudcdn.me:80/live.ts?channelId=78&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:1 group-title="Bangladeshi Channels", APB Anando TV
+http://176.119.29.52:80/live.ts?channelId=80&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:1 group-title="Bangladeshi Channels", DESH TV BD
+http://tv.cloudcdn.me:80/live.ts?channelId=93&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:1 group-title="Bangladeshi Channels", ICON TV BANGLA
+http://176.119.29.52:80/live.ts?channelId=90230&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:1 group-title="Bangladeshi Channels", MYTV HD
+http://176.119.29.52:80/live.ts?channelId=106&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:1 group-title="Bangladeshi Channels",
+#EXTINF:1 group-title="Bangladeshi Channels", NEWS18 BANGLA
+http://tv.cloudcdn.me:80/live.ts?channelId=47440&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:1 group-title="Bangladeshi Channels", Channel S
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.meherpurpratidin.com/wp-content/uploads/2021/11/received_290233916344055.jpeg" group-title="Bangladeshi Channels", Rajdani TV
