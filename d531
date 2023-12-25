@@ -29,6 +29,8 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1, BTV HD
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi Channels", Rupshi Bangla 
+http://tv.cloudcdn.me:80/live.ts?channelId=113&uid=3702&deviceMac=00:1A:79:3B:33:26
 
 #EXTINF:-1, STAT SPORTS 1 HD
 http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
