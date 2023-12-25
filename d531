@@ -1,6 +1,14 @@
 
-
-
+#EXTINF:1 group-title="Bangladeshi Channels", Ananda TV
+http://livetvbox.live:8080/live/Anne/Anne/399.m3u8
+#EXTINF:1 group-title="Bangladeshi Channels", NEXUS TV HD
+http://livetvbox.live:8080/live/Anne/Anne/411.m3u8
+#EXTINF:1 group-title="Bangladeshi Channels", Duronto TV
+http://livetvbox.live:8080/live/Anne/Anne/433.m3u8
+#EXTINF:1 group-title="Bangladeshi Channels", CHANNEL 9 HD
+http://livetvbox.live:8080/live/Anne/Anne/434.m3u8
+#EXTINF:1 group-title="Bangladeshi Channels", GLOBAL TV
+http://livetvbox.live:8080/live/Anne/Anne/4231.m3u8
 #EXTINF:1 group-title="Bangladeshi Channels", RPLUS GOLD BANGLA
 http://176.119.29.52:80/live.ts?channelId=22781&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:1 group-title="Bangladeshi Channels", TV9 BANGLA NEWS 
