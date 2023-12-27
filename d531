@@ -5403,8 +5403,8 @@ http://172.20.2.5:8082/colorsindia/tracks-v1a1/mono.m3u8?token=fe0fec684df816752
 http://prod-ent-live-gm.jiocinema.com/bpk-tv/JV_SportsHD8_DIG_MOB/Fallback/index.m3u8
 #EXTINF:-1,VIAPLAY EXTRA
 https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/master.m3u8
-
-
+#EXTINF:-group-title="MR GAMING",SKY SPORTS FOOTBALL 
+https://mlb.mrgamingstreams.com/foot.m3u8
 
 
 
