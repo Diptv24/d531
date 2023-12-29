@@ -5413,9 +5413,90 @@ https://d3j7ofexbkp7q4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://mlb.mrgamingstreams.com/foot.m3u8
 
 
-
-
-
+#EXTINF:-1 group-title="Vietnam Tv", HBO
+http://vthanhtivi.pw:5000/hbo/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", CINEMAX 
+http://vthanhtivi.pw:5000/cinemax/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", Cinemax World
+http://vthanhtivi.pw:5000/cinemaworld/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", AXN
+http://vthanhtivi.pw:5000/axn/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", AXN
+http://code.vthanhtivi.pw/getlink/tvfree/axn/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", Warner Tv
+http://vthanhtivi.pw:5000/warnertv/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", Animax
+http://vthanhtivi.pw:5000/animax/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", Animax
+http://code.vthanhtivi.pw/getlink/tvfree/animax/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", Cartoon ITO
+http://vthanhtivi.pw:5000/cartoonito/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", CN
+http://vthanhtivi.pw:5000/cartoon/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", HIts
+http://code.vthanhtivi.pw/getlink/tv360/IinrnmpSAeophFdfeDSQpw/1703252303/107/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", BBC Earth
+http://vthanhtivi.pw:5000/bbcearth/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", Discovery
+http://vthanhtivi.pw:5000/discovery/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", History
+http://vthanhtivi.pw:5000/history/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", Dmax
+http://vthanhtivi.pw:5000/dmax/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", TLC
+http://vthanhtivi.pw:5000/tlc/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", VTV 1
+http://live-ali4.tv360.vn/manifest/VTV1_HD/playlist_720p.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", YTV HD
+http://live.yenbaitv.org.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", VP HD
+http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv",  TTV HD
+http://live.tuyenquangtv.vn/hls/ttv.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", THTV 2 HD
+http://618b88f69e53b.streamlock.net/THTV2/travinhtv2/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", THTV HD
+http://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", THTG
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", TN1 TV
+http://streaming.thainguyentv.vn/hls/livestream.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", TTV 11
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", STV 2
+http://115.78.3.164:8088/liveeventstv2.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", QRT HD
+http://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", NTV HD
+http://60acee235f4d5.streamlock.net/live/mystream/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", N1TV HD
+http://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", L3.4
+http://lms-public-ingest.swiftfederation.com/la34/tvlive-transmux.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", TRT
+http://live.trt.com.vn/TRT-Online/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", HBTV HD
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", HGTV
+http://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", HT TV HD
+http://wse.hatinhtv.net/live/httv1/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", DN 2 RTV
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", DN 1 HD
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", DRT DA NANG TV 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", DRT DA NANG TV 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", LTV HD
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", PTD HD
+http://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", BRT HD
+http://stream.brt.vn:8081/live/tv2.stream_record/playlist.m3u8
+#EXTINF:-1 group-title="Vietnam Tv", BTTV HD
+http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
 
 
 
