@@ -1,5 +1,8 @@
 
 
+#EXTINF:-1 group-title="Bangladeshi Channels", SANGEET BANGLA
+http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Bangladeshi Channels", Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1618746762-26959522.png?v=7.0.5" group-title="Bangladeshi Channels",GTV-DDN
