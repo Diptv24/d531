@@ -5541,14 +5541,9 @@ https://freehdgames.lol/chunklist/hlsch21.m3u8
 https://soccer.freesportstime.com/live/stream_1.m3u8
 #EXTINF:-1, OPTUS SPORTS 2
 https://hls.streambtw.com/live/stream_1.m3u8
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, Ten sports
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/playlist.m3u8
+#EXTINF:-1, PTV SPORTS
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/chunks.m3u8?nimblesessionid=49357717
 
 
