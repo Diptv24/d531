@@ -1,14 +1,4 @@
 
-#EXTINF:-1, RTA SPORTS HD
-http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/45945.m3u8
-
-#EXTINF:-1, SUPER SPORTS CRICKET 
-https://freehdgames.lol/chunklist/hlsch21.m3u8
-#EXTINF:-1, OPTUS SPORTS 2
-https://soccer.freesportstime.com/live/stream_1.m3u8
-#EXTINF:-1, OPTUS SPORTS 2
-https://hls.streambtw.com/live/stream_1.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png" group-title="Bangladeshi Channels", Deshi Tv
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
@@ -5503,6 +5493,52 @@ http://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/chunklist.m3u8
 http://stream.brt.vn:8081/live/tv2.stream_record/playlist.m3u8
 #EXTINF:-1 group-title="Vietnam Tv", BTTV HD
 http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
+#EXTINF:-1, Star Sports 1
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+
+#EXTINF:-1, Star Sports 1 Hindi
+http://41.205.93.154/STARSPORTS1/tracks-v1/mono.m3u8
+
+#EXTINF:-1, Super Sports Grandstand
+https://mlb.mrgamingstreams.com/grandstand.m3u8
+
+#EXTINF:-1, FAST SPORTS HD
+http://livetvbox.live:8080/live/Anne/Anne/34489.m3u8
+
+#EXTINF:-1, Live Sports TNT Sports 1
+https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
+
+#EXTINF:-1, Sky Sports HD
+https://gettvfree.tech/live/stream_1.m3u8
+
+#EXTINF:-1, Tnt sports 2
+https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
+
+#EXTINF:-1, Sony ten 2 HD
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/playlist.m3u8
+
+#EXTINF:-1, Sony ten 5 HD
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+
+#EXTINF:-1, Willow HD
+https://247b.mrgamingstreams.com/mrgamingwillow.m3u8
+
+#EXTINF:-1, Sky Sports Cricket
+https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+
+#EXTINF:-1, SKY SPORTS 3 NZ
+https://hls.streambtw.com/live/stream_3.m3u8
+
+#EXTINF:-1, Sony Sports Ten 2 HD(Toffee)
+http://103.2.153.38/trans1sd/smil:tensports2.smil/chunklist.m3u8
+#EXTINF:-1, Sony Sports Ten 5(Flixhub)
+http://103.2.153.38/trans1sd/smil:tensports5.smil/chunklist.m3u8
+#EXTINF:-1, SUPER SPORTS CRICKET 
+https://freehdgames.lol/chunklist/hlsch21.m3u8
+#EXTINF:-1, OPTUS SPORTS 2
+https://soccer.freesportstime.com/live/stream_1.m3u8
+#EXTINF:-1, OPTUS SPORTS 2
+https://hls.streambtw.com/live/stream_1.m3u8
 
 
 
