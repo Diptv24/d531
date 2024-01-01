@@ -16,6 +16,9 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://103.230.105.252:1935/live/btv/manifest.m3u8
 #EXTINF:-1,NEWS 24
 http://172.20.2.5:8082/News24bd/index.fmp4.m3u8?token=5aad826d8aef365de1dca95276b1153c5bbc91aa-59f13a264e5e13c468566f81aa68fefc-1694971871-1694961071
+
+#EXTINF:-1 group-title="Bangladeshi Channels", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,CHANNEL-I
 http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Somoy Tv
