@@ -1,4 +1,5 @@
-
+#EXTINF:-1, SportsEye
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704227088/ei/sByUZdbgDMioz7sP2ou-mAo/ip/103.114.10.176/id/o2-dWdOMAE4.3/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/spc/UWF9f6NEWyXJktHodPTo5wXz7FdeX5HhyHJ1kcOXAw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgWcnyvRSlTq7GD4O-Qp8PjQacpXzwoGnk2ha2CY-A7TgCIBSsCE0K55KWS7i6dpdL9RQtQuZsedTb_yckQoJteWJq/file/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi Channels", SANGEET BANGLA
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
