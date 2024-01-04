@@ -63,6 +63,10 @@ https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/independent.png?v=7.0.5" group-title="Bangladeshi Channels", Independent TV
 http://172.20.2.5:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://pcdn1.jagobd.com/images/s-nbvyxr1652514467440.jpg" group-title="Bangladeshi Channels", COLOSAL TV
+http://livess.jagobd.com.bd/live-orgin/colosal.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/dbc24news.png?v=7.0.5" group-title="Bangladeshi Channels", DBC NEWS
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdnhost.akashbd.net/assets/uploads/channels_images/1674015180-61003768.webp?v=7.0.5" group-title="Bangladeshi Channels", NEWS 24
