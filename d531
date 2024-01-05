@@ -5656,3 +5656,13 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 
 #EXTINF:-1, V2BEAT TV
 http://livess.jagobd.com.bd/live-orgin/v2beattv.stream/chunks.m3u8
+
+#EXTINF:-1, FOX SUPER SPORTS
+http://146.59.19.1/6004/index.m3u8
+#EXTINF:-1, FOX SPORTS 2
+http://146.59.19.1/6002/index.m3u8
+#EXTINF:-1, FOX SPORTS 3
+http://146.59.19.1/6003/index.m3u8
+
+
+
