@@ -7,6 +7,12 @@ http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", DBC NEWS
 http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MAASRANGA TV
+http://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MAASRANGA TV
+https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,, BTV HD
+http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 group-title="172 Bdix", EKATTOR TV
 http://172.20.2.5:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", ATN BEWS
@@ -93,17 +99,20 @@ http://172.20.2.5:8082/colorsbangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://bdixtv.live/assets/images/Jalshamovieshd.jpg" group-title="Bangladeshi Channels",Star Jalsha Movies
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38ca21316e764b3fd8c9f07e3d3-b6440fc4c5f8b33cec9c2c00ea4e07a4-1681329593-1681318793
 #EXTINF:-1,SANGEET BANGLA
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+http://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+#EXTINF:-1, ANANDA BARTA TV
+http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
+#EXTINF:-1, TBN 24 USA
+http://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TV9 BANGLA
+http://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1, MQC TV
+http://208.86.19.13:81/517.stream/index.m3u8
 
-
-
-
-
-
-
-
-
-
+#EXTINF:-1, EKHON TV
+http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
+#EXTINF:-1, IBTV USA
+http://208.86.19.13:81/509.stream/index.m3u8?
 #EXTINF:-1 group-title="172 Bdix", STAR SPORTS 1 HD
 http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8?token=bf2f47e3da90ceceae82323c5ab8801d02a2baf3-261e376ceded4fdc4869c0065e73cc11-1704442247-1704431447
 
