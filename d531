@@ -5665,4 +5665,14 @@ http://146.59.19.1/6002/index.m3u8
 http://146.59.19.1/6003/index.m3u8
 
 
+#EXTINF:-1, PERSIANA SPORTS
+https://stream.live12.ir/hls2/persiana.m3u8
 
+#EXTINF:-1, VIAPLAY SPORTS 1
+https://hls.streambtw.com/live/stream_6.m3u8
+
+#EXTINF:-1, BEIN SPORTS 1
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1, BEIN SPORTS 2
+https://edge1.laotv.la/live/Bsport2/index.m3u8
