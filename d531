@@ -1,4 +1,8 @@
 
+
+
+
+
 EXTINF:-1 group-title="172 Bdix", TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="172 Bdix", TSPORTS SD
@@ -116,25 +120,10 @@ http://208.86.19.13:81/509.stream/index.m3u8?
 #EXTINF:-1 group-title="172 Bdix", STAR SPORTS 1 HD
 http://172.20.2.5:8082/Star-Sports-1/index.fmp4.m3u8?token=bf2f47e3da90ceceae82323c5ab8801d02a2baf3-261e376ceded4fdc4869c0065e73cc11-1704442247-1704431447
 
-#EXTINF:-1 group-title="172 Bdix", STAR SPORTS 2
-http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8?token=bf2f47e3da90ceceae82323c5ab8801d02a2baf3-261e376ceded4fdc4869c0065e73cc11-1704442247-1704431447
-#EXTINF:-1 group-title="172 Bdix", STAR SPORTS 2
-http://172.20.2.5:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", TEN 1 HD
-http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", TEN 2 HD
-http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", TEN 3 HD
-http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", STAR SPORTS SELECT 1 HD
-http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", STAR SPORTS SELECT 2 HD
-http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1, STAT SPORTS 1 HD
-http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
+
 
 #EXTINF:-1 group-title="172 Bdix" STAR GOLD HD
 http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8
@@ -5657,22 +5646,67 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 #EXTINF:-1, V2BEAT TV
 http://livess.jagobd.com.bd/live-orgin/v2beattv.stream/chunks.m3u8
 
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/star-plus/chunks.m3u8?nimblesessionid=49395040
+#EXTINF:-1, STAR PLUS HD
 #EXTINF:-1, FOX SUPER SPORTS
 http://146.59.19.1/6004/index.m3u8
 #EXTINF:-1, FOX SPORTS 2
 http://146.59.19.1/6002/index.m3u8
 #EXTINF:-1, FOX SPORTS 3
 http://146.59.19.1/6003/index.m3u8
-
-
 #EXTINF:-1, PERSIANA SPORTS
 https://stream.live12.ir/hls2/persiana.m3u8
-
 #EXTINF:-1, VIAPLAY SPORTS 1
 https://hls.streambtw.com/live/stream_6.m3u8
-
 #EXTINF:-1, BEIN SPORTS 1
 https://edge1.laotv.la/live/Bsport1/index.m3u8
-
 #EXTINF:-1, BEIN SPORTS 2
 https://edge1.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="172 Bdix", STAR SPORTS 2
+http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8?token=bf2f47e3da90ceceae82323c5ab8801d02a2baf3-261e376ceded4fdc4869c0065e73cc11-1704442247-1704431447
+#EXTINF:-1 group-title="172 Bdix", STAR SPORTS 2
+http://172.20.2.5:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", TEN 1 HD
+http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", TEN 2 HD
+http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", TEN 3 HD
+http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", STAR SPORTS SELECT 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", STAR SPORTS SELECT 2 HD
+http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, STAT SPORTS 1 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
+#EXTINF:-1, PTVSPORTS
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/playlist.m3u8
+#EXTINF:-1, TEN SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/chunks.m3u8?nimblesessionid=49395003
+#EXTINF:-1, SKY SPORTS CRICKET
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-cric/chunks.m3u8?nimblesessionid=49395005
+#EXTINF:-1, SKY SPORTS MIX
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/playlist.m3u8
+#EXTINF:-1, WILLOW
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?nimblesessionid=49395010
+#EXTINF:-1, BEIN SPORTS 1
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/bein-sports-1/chunks.m3u8?nimblesessionid=49395017
+#EXTINF:-1, STAR SPORTS HINDI HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-1/playlist.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportshd-2/chunks.m3u8?nimblesessionid=49395032
+#EXTINF:-1, STAR SPORTS 3
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsports-3/chunks.m3u8?nimblesessionid=49395034
+#EXTINF:-1, STAR SPORTS SL 1
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/starsportsselect-1/chunks.m3u8?nimblesessionid=49395037
+
+
+
+
+
+
+
+
+
+
+
+
