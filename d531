@@ -1,4 +1,8 @@
 
+EXTINF:-1 group-title="172 Bdix", TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 group-title="172 Bdix", TSPORTS SD
+http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", DBC NEWS
@@ -41,20 +45,32 @@ http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
 #EXTINF:-1 group-title="172 Bdix", DEEPTO TV
 http://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1, JAGO NEWS BD
+http://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/chunks.m3u8
+#EXTINF:-1, NANDAN TV
+http://web.nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1, COMILLA TV 24
+http://103.149.142.133/0.m3u8
+#EXTINF:-1, NRB TV BANGLA
+http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1, RAJDANI TV
+http://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:-1, MILLILIUM TV
+http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF:-1 group-title="172 Bdix", DURONTO TV
 http://livetvbox.live:8080/live/Anne/Anne/433.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="172 Bdix", NEXUS TV
+http://livetvbox.live:8080/live/Anne/Anne/411.m3u8
+#EXTINF:-1 group-title="172 Bdix", GLOBAL TV HD
+http://livetvbox.live:8080/live/Anne/Anne/4231.m3u8
+#EXTINF:-1 group-title="172 Bdix", MYTV HD
+http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="172 Bdix", MYTV HD
+http://176.119.29.52:80/live.ts?channelId=106&uid=3702&deviceMac=00:1A:79:3B:33:26
+#EXTINF:-1 group-title="172 Bdix", ANANDO TV
+http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="172 Bdix", ANANDA TV
+http://livetvbox.live:8080/live/Anne/Anne/399.m3u8
 
 
 
