@@ -28,33 +28,16 @@ http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", BAISHAKHI TV
 http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
-
-
-
-#EXTINF:-1 group-title="172 Bdix", NAGORIK TV
-http://172.20.2.5:8082/Nagorik-TV/index.fmp4.m3u8?token=b011d5207c70ba8d119024149e21af0ff02c4c15-566749c95642afc6e2327155449021f3-1694971260-1694960460
-
-
-
-#EXTINF:-1 group-title="172 Bdix", MOHONA TV HD
-http://172.20.2.5:8082/MohonaTV/index.m3u8
-#EXTINF:-1 group-title="172 Bdix", MOHONA TV HD
-http://172.20.2.5:8082/MohonaTV/index.fmp4.m3u8
-
-
-
-
-#EXTINF:-1 group-title="172 Bdix",Ekushey Tv
-http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
-
-
+#EXTINF:-1 group-title="172 Bdix", GAAN BANGLA HD
+http://172.20.2.5:8082/GaanBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix",MOHONA TV HD
 http://172.20.2.5:8082/MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix",Independent Tv
-http://172.20.2.5:8082/Independent-Tv/tracks-v1a1/mono.m3u8
-
-
-
+#EXTINF:-1 group-title="172 Bdix", NAGORIK TV
+http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix",Ekushey Tv
+http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
+#EXTINF:-1 group-title="172 Bdix", DEEPTO TV
+http://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 
 
 
