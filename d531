@@ -4,15 +4,55 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", GAZI TV
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, MAASRANGA TV
+http://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", DEEPTO TV
+http://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
+#EXTINF:-1 group-title="172 Bdix", DURONTO TV
+http://livetvbox.live:8080/live/Anne/Anne/433.m3u8
+#EXTINF:-1 group-title="172 Bdix", E TEN TV
+https://iptvbd.live/test/1080.m3u8
+#EXTINF:-1, JAGO NEWS BD
+http://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/chunks.m3u8
+#EXTINF:-1, NANDAN TV
+http://web.nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1, COMILLA TV 24
+http://103.149.142.133/0.m3u8
+#EXTINF:-1, NRB TV BANGLA
+http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1, RAJDANI TV
+http://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:-1, MILLILIUM TV
+http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:-1, ANANDA BARTA TV
+http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
+#EXTINF:-1, TBN 24 USA
+http://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TV9 BANGLA
+http://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+#EXTINF:-1, MQC TV
+http://208.86.19.13:81/517.stream/index.m3u8
+#EXTINF:-1 group-title="172 Bdix", Nagorik tv
+http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
+#EXTINF:-1 group-title="172 Bdix", NAGORIK TV
+http://172.20.2.5:8082/Nagorik-TV/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1,TIMES TELEVISION
+http://208.86.19.13:81/506.stream/index.m3u8?
+#EXTINF:-1,Channel S
+http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
+#EXTINF:-1 ,NANDAN Official
+https://web.nandansyst.com/hls/nandan_mid/index.m3u8
+#EXTINF:-1 group-title="freecatv",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="172 Bdix", DBC NEWS
 http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1, RBANGLA NEWS
 https://rbangla.pc.cdn.bitgravity.com/live/rbanglatv/playlist.m3u8
-
-#EXTINF:-1, MAASRANGA TV
-http://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, MAASRANGA TV
-https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,, BTV HD
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 group-title="172 Bdix", EKATTOR TV
@@ -41,8 +81,7 @@ http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", BANGLA VISION
 http://172.20.2.5:8082/BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", E TEN TV
-https://iptvbd.live/test/1080.m3u8
+
 #EXTINF:-1 group-title="172 Bdix", E TEN TV
 http://iptvbd.live/test/1080.m3u8
 #EXTINF:-1 group-title="172 Bdix", BAISHAKHI TV
@@ -55,22 +94,8 @@ http://172.20.2.5:8082/MohonaTV/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix",Ekushey Tv
 http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
-#EXTINF:-1 group-title="172 Bdix", DEEPTO TV
-http://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
-#EXTINF:-1, JAGO NEWS BD
-http://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/chunks.m3u8
-#EXTINF:-1, NANDAN TV
-http://web.nandansyst.com/hls/nandan.m3u8
-#EXTINF:-1, COMILLA TV 24
-http://103.149.142.133/0.m3u8
-#EXTINF:-1, NRB TV BANGLA
-http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1, RAJDANI TV
-http://livess.jagobd.com.bd/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1, MILLILIUM TV
-http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/playlist.m3u8
-#EXTINF:-1 group-title="172 Bdix", DURONTO TV
-http://livetvbox.live:8080/live/Anne/Anne/433.m3u8
+
+
 #EXTINF:-1 group-title="172 Bdix", NEXUS TV
 http://livetvbox.live:8080/live/Anne/Anne/411.m3u8
 #EXTINF:-1 group-title="172 Bdix", GLOBAL TV HD
@@ -102,14 +127,6 @@ http://172.20.2.5:8082/colorsbangla/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38ca21316e764b3fd8c9f07e3d3-b6440fc4c5f8b33cec9c2c00ea4e07a4-1681329593-1681318793
 #EXTINF:-1,SANGEET BANGLA
 http://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
-#EXTINF:-1, ANANDA BARTA TV
-http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
-#EXTINF:-1, TBN 24 USA
-http://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
-#EXTINF:-1, TV9 BANGLA
-http://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
-#EXTINF:-1, MQC TV
-http://208.86.19.13:81/517.stream/index.m3u8
 
 #EXTINF:-1, EKHON TV
 http://cdn01.palki.tv:80/live/EkhonTV-M/tracks-a1/index.fmp4.m3u8?token=913921fb79e3c202313a37ed6ea91581
@@ -171,10 +188,7 @@ http://172.20.2.5:8082/ATN-Bangla/tracks-v1a1/mono.m3u8?token=bbd10a1928b263601f
 http://172.20.2.5:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", GAAN BANGLA HD
 http://172.20.2.5:8082/GaanBangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", Nagorik tv
-http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
-#EXTINF:-1 group-title="172 Bdix", NAGORIK TV
-http://172.20.2.5:8082/Nagorik-TV/tracks-a1/index.fmp4.m3u8
+
 #EXTINF:-1 group-title="172 Bdix", Sony Pix HD
 http://172.20.2.5:8082/SonyPix/tracks-v1a1/mono.m3u8?token=218821008e464128d55a0dfead69154eae593159-c5eb79dd9413df5b46e2bf94027b0058-1681330048-1681319248
 #EXTINF:-1 group-title="172 Bdix", Sony Max HD
@@ -234,10 +248,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1,Rajdhani tv
 http://iptvbd.jagobd.com:1931/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1,TIMES TELEVISION
-http://208.86.19.13:81/506.stream/index.m3u8?
-#EXTINF:-1,Channel S
-http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
+
 #EXTINF:-1,ATN Bangla
 http://iptvbd.jagobd.com:1931/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1,ATN NEWS
@@ -4815,14 +4826,13 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1 group-title="freecatv",HIGH NEWS
 http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
-#EXTINF:-1 group-title="freecatv",Bangla Jago
-http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
 #EXTINF:-1 group-title="freecatv",Hollywood HD
 http://iptv.prosto.tv:7000/ch50/video.m3u8
 #EXTINF:-1 group-title="freecatv",Movie Sphere
 https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,NANDAN Official
-https://web.nandansyst.com/hls/nandan_mid/index.m3u8
+
+
 #EXTINF:-1 ,Zee Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 ,CNN Bangla
