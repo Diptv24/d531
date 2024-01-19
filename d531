@@ -1,6 +1,6 @@
 
-
-
+#EXTINF:-1, TSPORTS (AYNA)
+https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8
 #EXTINF:-1 group-title="172 Bdix", TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="172 Bdix", TSPORTS SD
