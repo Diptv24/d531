@@ -7,7 +7,22 @@ http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2 HD
 http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 group-title="172 Bdix", TEN 1 HD
+http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", TEN 2 HD
+http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", TEN 3 HD
+http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", TEN 5 HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/sonysix/chunks.m3u8?nimblesessionid=49186087
+#EXTINF:-1, TEN SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ten-sports/playlist.m3u8
+#EXTINF:-1, PTV SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/playlist.m3u8
+#EXTINF:-1, WILLOW
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?nimblesessionid=49186094
+#EXTINF:-1, SKY SPORTS FOOTBALL
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/chunks.m3u8?nimblesessionid=49186105
 #EXTINF:-1 group-title="172 Bdix", TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="172 Bdix", TSPORTS HD
@@ -20,6 +35,8 @@ http://103.141.2.37:25461/web/web/592
 http://103.141.2.37:25461/web/web/588
 #EXTINF:-1, MAASRANGA TV
 http://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="172 Bdix", Nagorik tv
+http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
 #EXTINF:-1 group-title="172 Bdix", DEEPTO TV
 http://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-manifest.m3u8
 #EXTINF:-1 group-title="172 Bdix", DURONTO TV
@@ -52,8 +69,7 @@ http://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 http://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1, MQC TV
 http://208.86.19.13:81/517.stream/index.m3u8
-#EXTINF:-1 group-title="172 Bdix", Nagorik tv
-http://172.20.2.5:8082/Nagorik-TV/tracks-v1a1/mono.m3u8?token=93903e41a3f06288d442601305ce44de4bf2f3de-3f092a7db7970b2b39347e918528a009-1681329958-1681319158
+
 #EXTINF:-1 group-title="172 Bdix", NAGORIK TV
 http://172.20.2.5:8082/Nagorik-TV/tracks-a1/index.fmp4.m3u8
 #EXTINF:-1,TIMES TELEVISION
@@ -5891,12 +5907,7 @@ https://edge1.laotv.la/live/Bsport2/index.m3u8
 http://172.20.2.5:8082/Star-Sports-2/index.fmp4.m3u8?token=bf2f47e3da90ceceae82323c5ab8801d02a2baf3-261e376ceded4fdc4869c0065e73cc11-1704442247-1704431447
 #EXTINF:-1 group-title="172 Bdix", STAR SPORTS 2
 http://172.20.2.5:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", TEN 1 HD
-http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", TEN 2 HD
-http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="172 Bdix", TEN 3 HD
-http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="172 Bdix", STAR SPORTS SELECT 1 HD
 http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", STAR SPORTS SELECT 2 HD
