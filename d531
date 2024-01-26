@@ -1,9 +1,13 @@
-#EXTINF:-1, TSPORTS (ABC)
-http://abc.fictionsports.xyz/T_SPORTS_HD/index.mpd?2
-#EXTINF:-1, TSPORTS (AYNA)
-https://cdn.retosprime.com/ayna.php?id=27&e=.m3u8
-#EXTINF:-1,GTV (AYNA)
-https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8
+
+
+
+#EXTINF:-1, STAR SPORTS 1 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2 HD
+http://172.20.2.5:8082/Star-Select-2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="172 Bdix", TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="172 Bdix", TSPORTS HD
