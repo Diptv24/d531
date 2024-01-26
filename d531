@@ -24,6 +24,8 @@ http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeu
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/ptvsports/playlist.m3u8
 #EXTINF:-1, WILLOW
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/willow-cric/chunks.m3u8?nimblesessionid=49186094
+#EXTINF:-1, SKY SPORTS CRICKET
+http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d
 #EXTINF:-1, SKY SPORTS FOOTBALL
 http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/Sky-Sports-Mix/chunks.m3u8?nimblesessionid=49186105
 #EXTINF:-1 group-title="172 Bdix", TSPORTS HD
@@ -34,6 +36,11 @@ http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", TSPORTS HD
 http://103.141.2.37:25461/web/web/588
+
+#EXTINF:-1, EURO SPORTS 1
+http://175.107.244.52:4457/play/a06v/index.m3u8
+#EXTINF:-1, EURO SPORTS 2
+http://175.107.244.52:4457/play/a06w/index.m3u8
 #EXTINF:-1, MAASRANGA TV
 http://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="172 Bdix", Nagorik tv
