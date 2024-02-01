@@ -1,5 +1,7 @@
 #EXTINF:-1, EVENT TV SPORTS
 http://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
+#EXTINF:-1, ATV CANADA
+http://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atvcanada.stream/playlist.m3u8
 
 #EXTINF:-1, TSPORTS (SKYFEED)
 http://103.109.56.116/live/skyfeed1005/index.m3u8
