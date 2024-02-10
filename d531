@@ -1,6 +1,9 @@
 #EXTINF:-1, SPORTS SMART HD
 https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 
+#EXTINF:-1, XTRA SPORTS 1
+https://hls.streambtw.com/live/stream_6.m3u8
+
 #EXTINF:-1, EVENT TV SPORTS
 http://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1, ATV CANADA
