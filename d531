@@ -1,3 +1,15 @@
+
+
+#EXTINF:-1, NAGORIK TV
+http://pgplex.net:8080/NagorikTV/index.fmp4.m3u8
+#EXTINF:-1, GEO TV
+http://pgplex.net:8080/GeoTV/tracks-v1/index.fmp4.m3u8?token=f1313ca7b86b042887d6961944358c2beb44a56f-5647ca3a17be06b6fae552d8d67b4905-1707719415-1707708615
+#EXTINF:-1, SPORTS 18 HD
+http://pgplex.net:8080/Sports18HD/index.fmp4.m3u8?token=6d8cc3e410f11c3485e609a80c9f20bdfffd10ce-d23c78ad868cf81aea6b53282b632cd8-1707719529-1707708729
+#EXTINF:-1, PTV SPORTS
+http://pgplex.net:8080/PTVSports/index.fmp4.m3u8?token=bacff8fb3522b058e3d38c9eb5f5cbd1d0af4e02-0d5335f6f1b2f588a8ec87f51512e333-1707719575-1707708775
+
+
 #EXTINF:-1, SPORTS SMART HD
 https://corsproxy.org/?https://cakal.click/yayinsmarts.m3u8
 
