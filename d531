@@ -4,7 +4,14 @@ http://103.142.80.22:8080/GAZI/index.m3u8
 http://103.142.80.22:8080/Channel-1/index.m3u8
 #EXTINF:-1, TSPORTS
 http://38.96.178.201/live/TSports/index.m3u8
-
+#EXTINF:-1, TSPORTS (HOICHOI)
+http://tvcdn.hoichoi24.com:8083/1101/tracks-v1a1/mono.m3u8?token=a9c677cb2fdd5c8c0a6e0b56a5bf8179aab1ab0c-25ff6dcaf8aed2921f23e9c74a75c720-1709009204-1709005604
+#EXTINF:-1, DURANTO TV (HOICHOI)
+http://tvcdn.hoichoi24.com:8083/1103/index.m3u8?token=ccb2ec6f48d65541c27d9b8382597db7bc4db3a8-d9fff7146d17bfa84cac8749b21946f9-1709009287-1709005687
+#EXTINF:-1, MASSRANGA TV (HOICHOI)
+http://tvcdn.hoichoi24.com:8083/1122/index.m3u8?token=b8b4e45f4a2cc1115f552a515645d2914a280441-33e902ed46bf3efc5bce354dc3eebd4b-1709009358-1709005758
+#EXTINF:-1, MASSRANGA TV (HOICHOI-SHORT)
+https://shorturl.at/cdnzQ
 #EXTINF:-1, TAMASA HD
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
 #EXTINF:-1, ASPORTS HD
