@@ -6011,4 +6011,7 @@ http://202.21.104.6:88/sps-play/index.m3u8
 
 #EXTINF:-1, SKY SPORTS 1 NZ
 https://bp1.mrgamingstreams.com/mrgamingsoccer7.m3u8
-
+#EXTINF:-1, DBC (CTG)
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U00eup/fet-2s/chunks.m3u8?nimblesessionid=49591293
+#EXTINF:-1, TEN SPORTS HD
+http://ctgtv.live:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tvs/playlist.m3u8?rand=(random)
