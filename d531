@@ -1,19 +1,14 @@
 #EXTINF:-1, TSPORTS HD
-http://172.16.172.114:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=76af75a3520775a79db1a0f45c50da3f568e845a-ba44ae7c59c27e34af855a4fb2f4dfc7-1710530126-1710519326
-
+http://114.130.96.165:8080/1101/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, GAZI TV HD
-http://172.16.172.114:8083/live-5/tracks-v1a1/mono.m3u8?token=d241f79b68a9c8960e9f4bb2b12276eb4be8f80f-34e4fff2d37eaec8992e97e3e3969ab2-1710530123-1710519323
+http://114.130.96.165:8080/1102/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, ASPORTS HD
 http://testing.denver1769.in/tptv.php?id=30975
 #EXTINF:-1, SUPER SPORTS CRICKET 
 https://catowrap.live/mrgamingsscric.m3u8
 #EXTINF:-1, GAZI TV HD
 http://103.142.80.22:8080/GAZI/index.m3u8
-#EXTINF:-1, TSPORTS AKASH
-http://103.142.80.22:8080/Channel-1/index.m3u8
-#EXTINF:-1, TSPORTS
-http://38.96.178.201/live/TSports/index.m3u8
-#EXTM3U
+
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/GprTxvx/IMG-20240126-102504.jpg",DEEN TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.ibb.co/sbyq79V/IMG-20240126-102440.jpg",IQRA BANGLA
