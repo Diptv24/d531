@@ -2,6 +2,9 @@
 http://114.130.96.165:8080/1101/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, GAZI TV HD
 http://114.130.96.165:8080/1102/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1, TNT SPORTS 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+
 #EXTINF:-1, ASPORTS HD
 http://testing.denver1769.in/tptv.php?id=30975
 #EXTINF:-1, SUPER SPORTS CRICKET 
