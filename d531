@@ -2,10 +2,17 @@
 http://114.130.96.165:8080/1101/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, GAZI TV HD
 http://114.130.96.165:8080/1102/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1, TNT SPORTS 1
+http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
 #EXTINF:-1, TNT SPORTS 1
 https://catowrap.live/mrgamingbtsport1.m3u8
 #EXTINF:-1, TNT SPORTS 2
+http://198.16.100.90:8278/beetwo/playlist.m3u8?tid=MC6C8157554681575546&ct=19225&tsum=7f1f5e74a8628b59aceabd8c8349dbcf
+#EXTINF:-1, TNT SPORTS 2
 https://catowrap.live/mrgamingbtsport2.m3u8
+#EXTINF:-1, TNT SPORTS 3
+http://198.16.100.90:8278/beethree/playlist.m3u8?tid=MA0A4891150748911507&ct=19225&tsum=ca0dab4a3bc8b267faea26f32aac204b
 #EXTINF:-1, TNT SPORTS 3
 https://catowrap.live/mrgamingbtsport3.m3u8
 #EXTINF:-1, ASPORTS HD
