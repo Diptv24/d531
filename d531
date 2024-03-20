@@ -2,7 +2,7 @@
 http://114.130.96.165:8080/1101/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, GAZI TV HD
 http://114.130.96.165:8080/1102/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1, Duronto Tv
+#EXTINF:-1, দুরন্ত টিভি
 http://tv4.hoichoi24.com:8080/1103/tracks-v1/index.fmp4.m3u8
 
 #EXTINF:-1, TNT SPORTS 1
