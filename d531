@@ -3,6 +3,9 @@ http://114.130.96.165:8080/1101/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, GAZI TV HD
 http://114.130.96.165:8080/1102/tracks-v1/index.fmp4.m3u8
 
+#EXTINF:-1, Duronto Tv
+http://tv4.hoichoi24.com:8080/1103/tracks-v1/index.fmp4.m3u8
+
 #EXTINF:-1, TNT SPORTS 1
 http://198.16.100.90:8278/beeone/playlist.m3u8?tid=ME4E5665100556651005&ct=19254&tsum=caea1a674ddae23ddac022c6f734bbe9
 #EXTINF:-1, TNT SPORTS 1
