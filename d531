@@ -1,5 +1,5 @@
-#EXTINF:-1, ASPORTS
-http://zx.rpstv.xyz:8081/123!@paki/tensports/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDE6NDg6MTMgUE0maGFzaF92YWx1ZT1Qem85MDRUZVJkVW5HbVMzMHJsb29RPT0mdmFsaWRtaW51dGVzPTImaWQ9OTUyNQ==
+#EXTINF:-1, THAIRATH TV 32
+https://edge2.laotv.la/live/THAIRATHTVHD/index.m3u8
 
 #EXTINF:-1, TSPORTS HD
 http://114.130.96.165:8080/1101/tracks-v1/index.fmp4.m3u8
