@@ -1,3 +1,14 @@
+
+
+#EXTINF:-1 group-title="Hoichoi", STAR SPORTS 1
+https://tv5.hoichoi24.com/1006/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hoichoi", STAR SPORTS 2
+https://tv5.hoichoi24.com/1007/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hoichoi", ARY DIGITAL
+https://tv5.hoichoi24.com/1004/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Hoichoi", SPORTS 18 KHEL
+https://tv5.hoichoi24.com/1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1, WILLOW HD
 https://crichd.site/cn1/play.php?key=AKI&c=willowusa
 #EXTINF:-1, TSPORTS
@@ -7,13 +18,24 @@ https://live-cdn.tsports.com/live-02/index.m3u8
 
 #EXTINF:-1, THAIRATH TV 32
 https://edge2.laotv.la/live/THAIRATHTVHD/index.m3u8
-
 #EXTINF:-1, TSPORTS HD
 http://114.130.96.165:8080/1101/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, GAZI TV HD
 http://114.130.96.165:8080/1102/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1, দুরন্ত টিভি
 http://tv4.hoichoi24.com:8080/1103/tracks-v1/index.fmp4.m3u8
+
+
+#EXTINF:-1, HUMARA TV-PK
+https://j7md5mbeyrwv-hls-live.5centscdn.com/hamara/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
+#EXTINF:-1, GEO TV-PK
+http://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+#EXTINF:-1, EXPRESS TV-PK
+https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
+#EXTINF:-1, AUR LIFE TV-PK
+http://124.109.47.101/hls/stream1.m3u8
+
+
 
 #EXTINF:-1, ASPORTS
 https://catowrap.live/mrgamingasport.m3u8
@@ -1636,19 +1658,6 @@ http://livestreamcdn.net:1935/AlientoSD/smil:AlientoSD.smil/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Pakistani Tv", ARY DIGITAL 
-http://38.96.178.201/live/ARYDigital/index.m3u8
-#EXTINF:-1 group-title="Pakistani Tv", ARY ZINDEGI
-http://38.96.178.201/live/ARYZindagi/index.m3u8
-#EXTINF:-1 group-title="Pakistani Tv", ARY MUZAK 
-http://38.96.178.201/live/ARYMusic/index.m3u8
-#EXTINF:-1 group-title="Pakistani Tv", GEO TV
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Pakistani Tv", Express Digital Tv
-https://5dcabf026b188.streamlock.net/expressdigital/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Pakistani Tv",
-
-#EXTINF:-1 group-title="Pakistani Tv",
 
 #EXTINF:-1,AMG TV
 https://2-fss-2.streamhoster.com/pl_138/201660-1270634-1/playlist.m3u8
