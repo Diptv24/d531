@@ -1,9 +1,4 @@
-#EXTM3U
 
-#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="JAGO" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
-
-#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="JAGO", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
-https://playeriptv.com/app
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J426dMCJ/AB-TV-USA.jpg" group-title="Bangla", AB TV USA [Jagobd]
 https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
