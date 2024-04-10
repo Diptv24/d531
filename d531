@@ -1,3 +1,184 @@
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" pltv-name="JAGO" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="JAGO", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J426dMCJ/AB-TV-USA.jpg" group-title="Bangla", AB TV USA [Jagobd]
+https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sgDvbVtS/Alpha-TV-Canada.jpg" group-title="Bangla", Alpha TV Canada [Jagobd]
+https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" group-title="Bangla", ATN Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KcpZNSrW/ATN-Bangla-UK.png" group-title="Bangla", ATN Bangla UK [Jagobd]
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hz6QqzQ/Bangla-24-Canada.jpg" group-title="Bangla", Bangla 24 Canada [Jagobd]
+https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xcv8d9V/Bangla-TV.jpg" group-title="Bangla", Bangla TV [Jagobd]
+https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs4LFBd9/HX8SSDA.png" group-title="Bangla", Banglavision HD [Jagobd]
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5xGd5RK/GGbvbn-B-400x400.jpg" group-title="Bangla", Bijoy TV [Jagobd]
+https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvQxtghq/cropped-cropped-BBLogo-1.jpg" group-title="Bangla", Biswa Bangla 24 [Jagobd]
+https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnM8ZZH3/pTJSGtj.png" group-title="Bangla", Boishakhi TV [Jagobd]
+https://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L5RJk63m/Channel-Europe.jpg" group-title="Bangla", Channel Europe [Jagobd]
+https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9MszC5PV/Channel-I.jpg" group-title="Bangla", Channel I [Jagobd]
+https://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/43dZL7vq/djAX8Rc.png" group-title="Bangla", DBC News [Jagobd]
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhjVCpnJ/tPZKfLr.png" group-title="Bangla", Deepto TV [Jagobd]
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla", Ekhon TV [Jagobd]
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLrwFw4Q/Green-TV.jpg" group-title="Bangla", Green TV [Jagobd]
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt0gJzbc/kviJN1i.png" group-title="Bangla", Independent TV [Jagobd]
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yYWQZcHM/logo-649970fdd9881.png" group-title="Bangla", iON TV UK [Jagobd]
+https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfBQS17C/Jago-News24-TV.png" group-title="Bangla", JagoNews24 TV [Jagobd]
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SR54fs8G/jagoronitv.jpg" group-title="Bangla", Jagoroni TV [Jagobd]
+https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1Gyczj1/ds3aThu_2.jpg" group-title="Bangla", Jamuna TV [Jagobd]
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nrLJ6PYr/Jonmo-Bhumi-TV-tvtolive-com.jpg" group-title="Bangla", JonmoBhumi TV [Jagobd]
+https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jjTCS9kv/millenniumtv.jpg" group-title="Bangla", Millennium TV USA [Jagobd]
+https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgbz3NKX/4imbl-NY-2.jpg" group-title="Bangla", Mohona TV [Jagobd]
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xCZx8bLn/image.jpg" group-title="Bangla", Movie Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YqsXcFJ7/Nan-Tv-Logo-Final.png" group-title="Bangla", NAN TV [Jagobd]
+https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7Y40dwCw/mn88b34.png" group-title="Bangla", News 24 [Jagobd]
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYmZThYy/Nexus-Television-Logo.jpg" group-title="Bangla", Nexus TV [Jagobd]
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydjPL3Fw/NOBANNOtv-10-Copy-1024x402-1.png" group-title="Bangla", Nobanno TV [Jagobd]
+https://livess.ncare.live/live-orgin/cmtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mDbVCxVv/NRB-TV.jpg" group-title="Bangla", NRB TV [Jagobd]
+https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgLbNbbM/3usnOla.png" group-title="Bangla", NTV Europe [Jagobd]
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0d3cghn/Rajdhani-TV.jpg" group-title="Bangla", Rajdhani TV [Jagobd]
+https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DfN3wzzs/yi5p51T.png" group-title="Bangla", RTV HD [Jagobd]
+https://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PfS61dd3/fraEjzm.png" group-title="Bangla", SATV [Jagobd]
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yHtY8tg/Somoy-TV.jpg" group-title="Bangla", Somoy TV [Jagobd]
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NFRnGjTD/image_4.jpg" group-title="Bangla", The Channel TV [Jagobd]
+https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9M8nZFqQ/download-11.png" group-title="Bangla", Times 24 TV [Jagobd]
+https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GhvCv58q/Time-TV.jpg" group-title="Bangla", Time Television US [Jagobd]
+https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tTbKmBFc/TV-ONE.png" group-title="Bangla", TV ONE UK [Jagobd]
+https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VLKNzfRm/Varendra-TV.jpg" group-title="Bangla", Varendra TV [Jagobd]
+https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrWrJTPW/58Mkc4.png" group-title="Indian Bangla", Amar Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qt9GZjgw/image.png" group-title="Indian Bangla", Bangla Jago TV
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LTfbXkY/logo-title.png" group-title="English", CGTN News [Jagobd]
+https://livess.ncare.live/live-orgin/cgtn.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JhMgPGJJ/9XvvPo9.png" group-title="English", DW News [Jagobd]
+https://livess.ncare.live/live-orgin/dwnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxV3F82G/logo-new-24-02.png" group-title="English", Millennium TV 24 [Jagobd]
+https://livess.ncare.live/live-orgin/mnews24.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/mZ1HLV9q/voa-300x200.jpg" group-title="English", Voice of America [Jagobd]
+https://livess.ncare.live/live-orgin/voa.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2d5bG7T/download-11.png" group-title="Islamic", Al Sunnah Al Nabawiyah TV [Jagobd]
+https://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hxxh08cX/logo.png" group-title="Islamic", ATN Islamic TV [Jagobd]
+https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xLPdjb8/image.jpg" group-title="Islamic", Deen TV UK [Jagobd]
+https://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63sV4c7J/Iqra-Bangla.jpg" group-title="Islamic", Iqra Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvkRrxPY/image.jpg" group-title="Islamic", Islam TV [Jagobd]
+https://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvS1tjdq/makkah-channel-redcolor-1440-alpha-570x716.png" group-title="Islamic", Makkah TV [Jagobd]
+https://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cJjwD7jg/ATN-Music.jpg" group-title="Music", ATN Music [Jagobd]
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4mXXBRY/Colosal-TV.jpg" group-title="Music", Colosal TV [Jagobd]
+https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" group-title="Bangla", ATN Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8k0rH0MK/CGTN-Documentary-logo.png" group-title="Documentary", CGTN Documentary [Jagobd]
+https://livess.ncare.live/live-orgin/cgtndoc.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXnycQvR/logo-f6cdd43d04f802ee0e61.png" group-title="Documentary", Discover Pakistan TV [Jagobd]
+https://livess.ncare.live/live-orgin/discoverpakistan.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vm8Pmq5f/NasaTV.jpg" group-title="Documentary", NASA TV [Jagobd]
+https://livess.ncare.live/live-orgin/nasatv.stream/chunks.m3u8
+
 
 
 #EXTINF:-1 group-title="Hoichoi", STAR SPORTS 1
