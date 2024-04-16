@@ -1,5 +1,7 @@
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyViVZ2Y9qLy010MTvHVA7_dDIAma1qPxbaPaYU86J5Q&s" group-title="Bangla",
+https://live-cdn.tsports.com/live-02/master_854.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J426dMCJ/AB-TV-USA.jpg" group-title="Bangla", AB TV USA [Jagobd]
 https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 
