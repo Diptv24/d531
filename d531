@@ -7,6 +7,8 @@ http://103.107.79.87:8080/CH8106SD01/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, FANCODE
 https://mls3.fancode.com/98553_english_hls_6153adfreeta-no/720p.m3u8
+#EXTINF:-1, FANCODE
+https://mls3.fancode.com/98553_english_hls_6153adfreeta-no/720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J426dMCJ/AB-TV-USA.jpg" group-title="Bangla", AB TV USA [Jagobd]
 https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 
