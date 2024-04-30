@@ -8131,132 +8131,18 @@ http://himelop-hoichoi24.myddns.me:8080/1507/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", TV
 http://himelop-hoichoi24.myddns.me:8080/1905/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Surongo.jpeg" group-title="Bangla Movies", Surongo
-https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/uttarbangasambad.com/wp-content/uploads/2024/01/osomoy.jpg" group-title="Bangla Movies", Osomoy
-https://jiu.top10bhaluka.com/tr/ottbangla.com%20Osomoy.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Chhota Bheem Shakti
-http://ftp5.circleftp.net/FILE/Animation%20Movies/2023/Chhota%20Bheem%20Shakti%20Astra%20Ki%20Khoj%20%282023%29%201080p%20WEB-DL%20x264/Chhota%20Bheem%20Shakti%20Astra%20Ki%20Khoj%20%282023%29%201080p%20WEB-DL%20x264.mkv
 
-#EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Feludar%20Goyendagiri%20s01.jpg" group-title="Kolkata Bangla Movies", Feludar Goyendagiri
-http://103.109.56.115/ftpdata/bangla_movie/Feludar%20Goyendagiri%20s01.mp4
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English Movies", Oppenheimer
-http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Oppenheimer%20%282023%29%20IMAX%201080p%20BluRay%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English Movies", Terminator Genisys
-https://cdn-1.sonyplex.net/movie-series/Terminator.Genisys.2015.mp4/tracks-v1a1/mono.m3u8
+#EXTINF:-1, JAPAN SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1, JAPAN SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1, JAPAN SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1, JAPAN SPORTS 4
+https://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="English Movies", Aquaman and the Lost Kingdom
-http://index2.circleftp.net/FILE/English%20%26%20Foreign%20Dubbed%20Movies/2023/Aquaman%20and%20the%20Lost%20Kingdom%20%282023%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264/Aquaman%20and%20the%20Lost%20Kingdom%20%282023%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BEnglish%5D%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E1
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E01%20-%20Jaat%20Na%20Puccho%20Saadhu%20Ki.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E2
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E02%20-%20Dekh%20Tamasha%20Kursi%20Ka.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E3
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E03%20-%20Ghoonghat%20Ke%20Pat%20Khol%20Re.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E4
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E04%20-%20Sadho%20Yeh%20Murdon%20Ka%20Gaon.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E5
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E05%20-%20Kaun%20Thagwa%20Nagariya%20Lootal%20Ho.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E6
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E06%20-%20Na%20Kahu%20Se%20Dosti%2C%20Na%20Kahu%20Se%20Bair.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E7
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E07%20-%20Bahot%20Kathin%20Hai%20Dagar%20Panghat%20Ki.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E8
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E08%20-%20Maaya%20Maha%20Thagni%20Hum%20Jaani.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E9
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E09%20-%20Chah%20Gayi%20Chinta%20Miti%20Manua%20Beparwah.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Wab Series", Maharani E10
-http://ftp8.circleftp.net/FILE/Hindi%20TV%20Series/Maharani%20%28TV%20Series%202021-%29/Season%201%201080p/Maharani%20-%20S01E10%20-%20Jo%20Ghar%20Phoonke%20Apnau%2C%20Chale%20Hamaare%20Saath.mkv
-
-#EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Captain%20Miller%20(2024).jpg" group-title="Hindi Dabbing Movies", Oxygen
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Oxygen%20%282017%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264/Oxygen%20%282017%29%201080p%20WEBRip%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://103.109.56.115/ftpdata/All_poster/Captain%20Miller%20(2024).jpg" group-title="Hindi Dabbing Movies", Captain Miller
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Captain%20Miller%20%282024%29%20Hindi%20Dubbed%201080p%20HDTS%20x264/Captain%20Miller%20%282024%29%20Hindi%20Dubbed%201080p%20HDTS%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Dabbing Movies", Saindhav
-https://cdn-1.sonyplex.net/2024/Saindhav-2024.mp4/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Dabbing Movies", Kaathal The Core
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Kaathal%20-%20The%20Core%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%2BHin%5D%20H265/Kaathal%20-%20The%20Core%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%2BHin%5D%20H265.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Dabbing Movies", Marry Christmas
-https://cdn-1.sonyplex.net/2024/Merry-Christmas.mp4/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Dabbing Movies", Chitralaria
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Chitralahari%20%282019%29%20Hindi%20Dubbed%201080p%20WEB-DL%20H264/Chitralahari%20%282019%29%20Hindi%20Dubbed%201080p%20WEB-DL%20H264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Dabbing Movies", Salaar
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Salaar%20%282023%29%20Hindi%20Dubbed%201080p%20WEB-DL%20x264/Salaar%20%282023%29%20Hindi%20Dubbed%201080p%20WEB-DL%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://circleftp.net/wp-content/uploads/2024/01/MV5BNjBhMzNjOTMtMDRhMi00MDEwLWFiYmMtZjdlMzNkNDE0ZGQ2XkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1_-1097x1536.jpg" group-title="Hindi Dabbing Movies", Saindhav
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Saindhav%20%282024%29%201080p%20HDTS%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio-DUB%20%29%2BTelugu%5D%20x264/Saindhav%20%282024%29%201080p%20HDTS%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio-DUB%20%29%2BTelugu%5D%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Dabbing Movies", Eagle
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Eagle%20%282024%29%201080p%20PreDVD%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264/Eagle%20%282024%29%201080p%20PreDVD%20%5BDual%20Audio%5D%20%5BHindi%2BTelugu%5D%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Hindi Dabbing Movies", Malaikottai Vaaliban
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Malaikottai%20Vaaliban%20%282024%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BMalayalam%5D%20H264/Malaikottai%20Vaaliban%20%282024%29%201080p%20WEB-DL%20%5BDual%20Audio%5D%20%5BHindi%2BMalayalam%5D%20H264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Extra Ordinary Man
-http://ftp13.circleftp.net/FILE/Hindi%20Dubbed%20Movies/Extra%20Ordinary%20Man%20%282023%29%201080p%20HQ%20S-Print%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio%20DUB%29%2BTelugu%5D%20x264/Extra%20Ordinary%20Man%20%282023%29%201080p%20HQ%20S-Print%20%5BDual%20Audio%5D%20%5BHindi%20%28Studio%20DUB%29%2BTelugu%5D%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Animal HD
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Animal%20%282023%29%201080p%20WEBRip%20Hindi%20x264/Animal%20%282023%29%201080p%20WEBRip%20Hindi%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Jawan
-https://cinemacity.live/hdd/4TB%20File/Jawan%20%282023%29%20EXTENDED%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Tiger 3
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Tiger%203%20%282023%29%201080p%20WEB-DL%20H264/Tiger%203%20%282023%29%201080p%20WEB-DL%20H264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Tejas
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Tejas%20%282023%29%201080p%20WEB-DL%20Hindi%20H264/Tejas%20%282023%29%201080p%20WEB-DL%20Hindi%20H264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Salaar
-http://ftp13.circleftp.net/FILE/Tamil%20Telugu%20%26%20Others/2023/Salaar%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%5D%20H264/Salaar%20%282023%29%201080p%20WEB-DL%20%5BMulti%20Audio%5D%20%5BMal%2BTam%2BTel%2BKan%5D%20H264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Faraaz
-http://index1.circleftp.net/FILE/Hindi%20Movies/2022/Faraaz%20%282022%29%201080p%20NF%20WEB-DL%20Hindi%20x264/Faraaz%20%282022%29%201080p%20NF%20WEB-DL%20Hindi%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", R Rajkumar
-https://cdn-1.sonyplex.net/Hindi-Movies/RRajkumar(2013).mp4/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Tumse Na Ho Payeg
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Tumse%20Na%20Ho%20Payega%20%282023%29%201080p%20WEB-DL%20Hindi%20x264/Tumse%20Na%20Ho%20Payega%20%282023%29%201080p%20WEB-DL%20Hindi%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Main Atal Hoon
-http://index1.circleftp.net/FILE/Hindi%20Movies/2024/Main%20Atal%20Hoon%20%282024%29%201080p%20WEB-DL%20Hindi%20H265/Main%20Atal%20Hoon%20%282024%29%201080p%20WEB-DL%20Hindi%20H265.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", The Ice Age Adventures
-http://ftp5.circleftp.net/FILE/Animation%20Movies/2022/The%20Ice%20Age%20-%20Adventures%20of%20Buck%20Wild%20%282022%29%201080p%20WEB-DL%20x264%20%20ESubs/The%20Ice%20Age%20-%20Adventures%20of%20Buck%20Wild%20%282022%29%201080p%20WEB-DL%20x264%20%20ESubs.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Shehzada
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/Shehzada%20%282023%29%201080p%20PreDVD%20Hindi%20x264/Shehzada%20%282023%29%201080p%20PreDVD%20Hindi%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", 12th Fail
-http://index1.circleftp.net/FILE/Hindi%20Movies/2023/12th%20Fail%20%282023%29%201080p%20WEB-DL%20Hindi%20H264/12th%20Fail%20%282023%29%201080p%20WEB-DL%20Hindi%20H264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Bindaas
-http://cinemacity.live/hdd/Data%20Movie/Varot%20Bangla%20Movie/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika/Bindaas%20%282014%29~~Dev~Sarabonti~Sayantika.MP4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Movies", Mission Impossible Dead Reckoning Part 1
-http://index2.circleftp.net/FILE/English%20Movies/2023/Mission%20Impossible%20-%20Dead%20Reckoning%20Part%20One%20%282023%29%201080p%20TS%20x264/Mission%20Impossible%20-%20Dead%20Reckoning%20Part%20One%20%282023%29%201080p%20TS%20x264.mkv
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Dhedkan
-http://cinemacity.live/hdd/4TB%20File/Hindi%20Movie%20HD/Dhadkan%20%282000%29~~Suniel%20Shetty~Shilpa%20Shetty~Akshay~Mahima/Dhadkan.mp4
 
