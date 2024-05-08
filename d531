@@ -1,5 +1,5 @@
-#EXTINF:-1, PAK VS NZ T20 LIVE
-https://mls3.fancode.com/98554_english_hls_5751ta-no/index.m3u8
+#EXTINF:-1, RTA SPORTS 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyViVZ2Y9qLy010MTvHVA7_dDIAma1qPxbaPaYU86J5Q&s" group-title="Bangla",TSPORTS HD
 https://live-cdn.tsports.com/live-02/master_854.m3u8
 #EXTINF:-1, GAZI TV HD
