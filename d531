@@ -1,3 +1,11 @@
+#EXTINF:-1, TSPORTS HOICHOI
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GTV HOICHOI
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GTV
+http://172.16.172.114:8083/live-5/tracks-v1a1/mono.m3u8?token=afeb9a10a82aadacc34165e3e44c1e99654ae11f-48cc567d039f55c78dba20b15b66f587-1715358755-1715347955
+#EXTINF:-1, TSPORTS 
+http://172.16.172.114:8083/TSportsHD/tracks-v1a1/mono.m3u8?token=245170d0ad53b0d5bbee8778d2d49c000a90f414-b139c89f16c24ac58e7740a06a35af39-1715358835-1715348035
 #EXTINF:-1, RTA SPORTS 
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyViVZ2Y9qLy010MTvHVA7_dDIAma1qPxbaPaYU86J5Q&s" group-title="Bangla",TSPORTS HD
