@@ -2,6 +2,9 @@
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
 #EXTINF:-1, GTV HOICHOI
 https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, STAR SPORTS 2 HD
+http://172.16.172.114:8083/ant-01/tracks-v1a1/mono.m3u8?token=179c17f82da314b2e2f1e68823b828b51087943e-6d6e26a8b20507b0b90b9eebe2cad000-1715361763-1715350963
 #EXTINF:-1, GTV
 http://172.16.172.114:8083/live-5/tracks-v1a1/mono.m3u8?token=afeb9a10a82aadacc34165e3e44c1e99654ae11f-48cc567d039f55c78dba20b15b66f587-1715358755-1715347955
 #EXTINF:-1, TSPORTS 
