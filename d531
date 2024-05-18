@@ -1,15 +1,13 @@
 
+
+#EXTINF:-1, GAZI TV HD
+http://172.16.172.114:8083/live-5/tracks-a1/index.fmp4.m3u8?token=d9ca8e1b79b5e6e3b275a83d370ef3c6ff2f5073-e1b46b23832ef11ff8bbce212b5dda54-1716055538-1716044738
+#EXTINF:-1, TSPORTS
+http://172.16.172.114:8083/TSportsHD/tracks-v1/index.fmp4.m3u8?token=45e0a7187e36938718d991be251ba1a34bb76735-6626c78b6e6fd9774392898a50522d72-1716055618-1716044818
 #EXTINF:-1, TSPORTS (AKASH)
 http://172.16.172.112/live/feed1002/index.m3u8
 #EXTINF:-1, STAR SPORTS 2 
 http://172.16.172.112/live/feed1001/index.m3u8
-
-#EXTINF:-1, TSPORTS HOICHOI
-https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
-#EXTINF:-1, GTV HOICHOI
-https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
-
-
 #EXTINF:-1, STAR SPORTS 2 HD
 http://172.16.172.114:8083/ant-01/tracks-v1a1/mono.m3u8?token=179c17f82da314b2e2f1e68823b828b51087943e-6d6e26a8b20507b0b90b9eebe2cad000-1715361763-1715350963
 #EXTINF:-1, GTV
