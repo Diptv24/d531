@@ -12,6 +12,375 @@ https://homeip.biz/F_Cr_501_Team/index.m3u8
 
 #EXTINF:-1,COMILLA TV 24
 http://103.149.142.133/0.m3u8
+#EXTM3U
+
+#PLAYLISTV: pltv-logo="https://i.postimg.cc/J426dMCJ/AB-TV-USA.jpg" pltv-name="Bangla" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
+
+#EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="Bangla", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
+https://playeriptv.com/app
+#EXTINF:-1, NAGORIK TV
+http://172.16.172.112/live/feed1002/index.m3u8
+#EXTINF:-1, SONY TEN 5 HD
+http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, TSPORTS
+https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
+#EXTINF:-1, STAR SPORTS 1 HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOeup/gazi-tv/chunks.m3u8
+#EXTINF:-1, FOX SPORTS CRICKET 
+https://homeip.biz/F_Cr_501_Team/index.m3u8
+#EXTINF:-1, RTA SPORTS 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:-1,Ekattor TV [Youtube]
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1, MAASRANGA TV
+https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, EKHON TV
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1,Ekhon TV [Youtube]
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+
+#EXTINF:-1,Channel 24 [Youtube]
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+
+#EXTINF:-1,Channel 24
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+
+#EXTINF:-1,Somoy TV 
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-1,Somoy Tv
+http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Jamuna TV [Jagobd]
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+
+
+#EXTINF:-1,News 24 
+https://livess.ncare.live/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1,DBC News 
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1,DBC News [Youtube]
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+
+
+
+#EXTINF:-1,Independent TV [Jagobd]
+https://livess.ncare.live/live-orgin/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1,Independent TV [Youtube]
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+
+#EXTINF:-1,Nexus TV 
+https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
+
+#EXTINF:-1,Nexus TV [Youtube]
+https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
+
+#EXTINF:-1,SATV
+https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+#EXTINF:-1,SATV [Youtube]
+https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
+
+#EXTINF:-1,ATN NEWS
+http://172.20.2.5:8082/Atn-News/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1,Gaan Bangla [P]
+http://cdn01.palki.tv/live/GaanBangla-M/index.fmp4.m3u8
+EXTINF:-1, CHANNEL 9
+http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
+#EXTINF:-1, DURANTO TV
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+
+#EXTINF:-1, Deepto tv
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1,MAASRANGA TV
+http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, CHANNEL S HD
+https://amigofx.com:1936/channelsreporter/channelsreporter/chunklist_w819765872.m3u8
+#EXTINF:-1,Green TV [Jagobd]
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8filter;.tracks=v1a1
+
+#EXTINF:-1, ASIAN TV HD
+https://mtlivestream.site/asian/ytlive/index.m3u8
+
+#EXTINF:-1, BANGLA TV HD
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
+#EXTINF:-1, BANGLA TV EU
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+
+#EXTINF:-1, ANANDO TV
+http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
+#EXTINF:-1,RTV HD
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,RTV HD [Jagobd]
+http://livess.ncare.live/live-orgin/rtv-sg.stream/chunks.m3u8
+
+#EXTINF:-1,NTV Europe [Jagobd]
+https://livess.ncare.live/live-orgin/ntvuk00332211.stream/chunks.m3u8
+
+#EXTINF:-1,NTV [Youtube]
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+
+#EXTINF:-1,NTV
+http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Banglavision HD 
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1,BANGLA VISION
+http://172.20.2.5:8082/BanglaVision/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,GTV HD
+http://ddn.oncast.me:1934/oncasts-ers/nk-sixs/chunks.m3u8
+
+#EXTINF:-1,Gazi Tv
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,DURANTO TV
+http://cdn01.palki.tv/live/Duronto-M/index.m3u8
+
+#EXTINF:-1,Nagorik TV
+http://cdn01.palki.tv/live/NagorikTV-M/index.fmp4.m3u8
+
+#EXTINF:-1,CHANNEL-I
+http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Channel I [Jagobd]
+http://livess.ncare.live/live-orgin/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1,Bijoy TV [Jagobd]
+https://livess.ncare.live/live-orgin/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1,ATN Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1,ATN Bangla UK [Jagobd]
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+
+#EXTINF:-1,ATN Islamic TV [Jagobd]
+https://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1,ATN Music [Jagobd]
+https://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1, ME TV BANGLA 
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1,Mohona TV [Jagobd]
+https://livess.ncare.live/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+
+#EXTINF:-1,Ananda TV [P]
+http://cdn01.palki.tv/live/AnandaTV-M/index.fmp4.m3u8?expire=1671299853&amp;token=2224a0618c200f5df478752f81c4615f&amp;filter;.tracks=v1a1
+
+#EXTINF:-1,Bangla TV [Jagobd]
+https://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
+
+#EXTINF:-1,Boishakhi TV [Jagobd]
+http://livess.ncare.live/live-orgin/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1,BOISHAKHI TV
+http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1,My TV HD [P]
+http://cdn01.palki.tv/live/MyTV-M/index.fmp4.m3u8?expire=1671299853&amp;token=2224a0618c200f5df478752f81c4615f&amp;filter;.tracks=v1a1
+
+#EXTINF:-1,Ekushey Tv
+http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
+
+#EXTINF:-1,Bangla 24 Canada [Jagobd]
+https://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
+
+#EXTINF:-1,Biswa Bangla 24 [Jagobd]
+https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
+
+#EXTINF:-1,Movie Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-1,Amar Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/amarbanglatv.stream/chunks.m3u8
+
+#EXTINF:-1,Bangla Jago TV
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+#EXTINF:-1,Iqra Bangla [Jagobd]
+https://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
+
+#EXTINF:-1,Bangla TV HD [P]
+http://cdn01.palki.tv/live/BanglaTV-M/index.fmp4.m3u8?expire=1671299853&amp;token=2224a0618c200f5df478752f81c4615f&amp;filter;.tracks=v1a1
+
+#EXTINF:-1,ETV BANGLA
+http://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1, JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1,SANGEET BANGLA
+http://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
+
+#EXTINF:-1,Khushboo Bangla
+http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+
+#EXTINF:-1,TV9 Bangla (720p)
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
+
+#EXTINF:-1,Rupshi Bangla
+https://bdtubelive.xyz/new.m3u8?id=11865
+
+#EXTINF:-1,SANGEET BANGLA
+http://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
+
+#EXTINF:-1,AB TV USA [Jagobd]
+https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
+
+#EXTINF:-1,Alpha TV Canada [Jagobd]
+https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
+
+#EXTINF:-1,Channel Europe [Jagobd]
+https://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
+
+#EXTINF:-1,iON TV UK [Jagobd]
+https://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
+
+#EXTINF:-1,JagoNews24 TV [Jagobd]
+https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1,Jagoroni TV [Jagobd]
+https://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
+
+#EXTINF:-1,JonmoBhumi TV [Jagobd]
+https://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
+
+#EXTINF:-1,Millennium TV USA [Jagobd]
+https://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+
+#EXTINF:-1,NAN TV [Jagobd]
+https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
+
+#EXTINF:-1,NRB TV [Jagobd]
+https://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1,Rajdhani TV [Jagobd]
+https://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1,The Channel TV [Jagobd]
+https://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
+
+#EXTINF:-1,Times 24 TV [Jagobd]
+https://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
+
+#EXTINF:-1,Time Television US [Jagobd]
+https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
+
+#EXTINF:-1,TV ONE UK [Jagobd]
+https://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
+
+#EXTINF:-1,Varendra TV [Jagobd]
+https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
+
+#EXTINF:-1,Cumilla 24 TV
+http://103.149.142.133/0.m3u8
+
+#EXTINF:-1,Desh TV [Youtube]
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+
+#EXTINF:-1,Desh TV
+http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+#EXTINF:-1,Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1,Deshi TV
+http://208.86.19.13:81/514.stream/index.m3u8
+
+#EXTINF:-1,AB TV USA [Jagobd]
+http://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
+
+#EXTINF:-1,Alpha TV Canada [Jagobd]
+http://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
+
+#EXTINF:-1,Channel Europe [Jagobd]
+http://livess.ncare.live/live-orgin/channeleurope.stream/chunks.m3u8
+
+#EXTINF:-1,Deepto TV [Jagobd]
+http://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1,Green TV [Jagobd]
+http://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:-1,iON TV UK [Jagobd]
+http://livess.ncare.live/live-orgin/iontvuk.stream/chunks.m3u8
+
+#EXTINF:-1,JagoNews24 TV [Jagobd]
+http://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
+#EXTINF:-1,Jagoroni TV [Jagobd]
+http://livess.ncare.live/live-orgin/jagoronitv.stream/chunks.m3u8
+
+#EXTINF:-1,JonmoBhumi TV [Jagobd]
+http://livess.ncare.live/live-orgin/jonmobhumitv.stream/chunks.m3u8
+
+#EXTINF:-1,Millennium TV USA [Jagobd]
+http://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
+
+#EXTINF:-1,NAN TV [Jagobd]
+http://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
+
+#EXTINF:-1,MeTV BD
+https://iptvbd.live/metv1080/1080.m3u8
+
+#EXTINF:-1,NRB TV [Jagobd]
+http://livess.ncare.live/live-orgin/nrb-eu.stream/chunks.m3u8
+
+#EXTINF:-1,Rajdhani TV [Jagobd]
+http://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
+
+#EXTINF:-1,The Channel TV [Jagobd]
+http://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
+
+#EXTINF:-1,Times 24 TV [Jagobd]
+http://livess.ncare.live/live-orgin/times24tv.stream/chunks.m3u8
+
+#EXTINF:-1,Time Television US [Jagobd]
+http://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
+
+#EXTINF:-1,TV ONE UK [Jagobd]
+http://livess.ncare.live/live-orgin/tvoneuksni.stream/chunks.m3u8
+
+#EXTINF:-1,Varendra TV [Jagobd]
+http://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
+
+#EXTINF:-1,Millennium TV 24 [Jagobd]
+http://livess.ncare.live/live-orgin/mnews24.stream/chunks.m3u8
+
+#EXTINF:-1,Al Sunnah Al Nabawiyah TV [Jagobd]
+http://livess.ncare.live/live-orgin/madina.stream/chunks.m3u8
+
+#EXTINF:-1,Deen TV UK [Jagobd]
+http://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
+
+#EXTINF:-1,Islam TV [Jagobd]
+http://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
+
+#EXTINF:-1,Makkah TV [Jagobd]
+http://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+
+
+
 #EXTINF:-1,RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1,AB TV USA [Jagobd]
