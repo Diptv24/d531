@@ -27,6 +27,8 @@ http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, GAZI TV HD
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1, CKD KOLKATA NEWS
+https://ythls.armelin.one/channel/UCJ3I6MHOz5exARlTW_meOGQ.m3u8
 #EXTINF:-1, TSPORTS
 https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 #EXTINF:-1, STAR SPORTS 1 HD
