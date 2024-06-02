@@ -43,6 +43,10 @@ http://homeip.biz/IN_ST3_HD/index.m3u8
 http://103.149.142.133/0.m3u8
 #EXTM3U
 
+
+
+#EXTINF:-1, REPUBLIC BANGLA (YT)
+https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
 #PLAYLISTV: pltv-logo="https://i.postimg.cc/J426dMCJ/AB-TV-USA.jpg" pltv-name="Bangla" pltv-description="Simple IPTV Player - PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!" pltv-cover="https://playeriptv.com/assets/fundo-mini.png" pltv-author="Simple IPTV Player" pltv-site="https://playeriptv.com/app"
 
 #EXTINF:-1 tvg-logo="https://playeriptv.com/assets/favicons/apple-icon-120x120.png" group-title="Bangla", PlayList Exported by the Simple IPTV Player app - Download in the PlayStore!
