@@ -9,6 +9,8 @@ https://homeip.biz/PK_PS/index.m3u8
 http://live.notebulk.xyz/9X8fZUYwno7dc8K1oLl2og/1717321196/us_willow/index.m3u8
 #EXTING:-1, SKY SPORTS CRICKET
 http://live.notebulk.xyz/wffUfMy6Myo-RchRC0gQ3g/1717322703/uk_sscricket/index.m3u8
+#EXTING:-1, SKY SPORTS MAIN EVENT
+https://live.notebulk.xyz/zGFx4h2LRmgp6QqawpZuZQ/1717322751/uk_ssmain/index.m3u8
 #EXTINF:-1,STAR SPORTS 2
 http://172.16.172.112/live/feed1001/index.m3u8
 #EXTINF:-1,STAR SPORTS 2 HD
