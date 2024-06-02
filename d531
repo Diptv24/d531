@@ -20,7 +20,14 @@ http://172.16.172.112/live/feed1001/index.m3u8
 http://172.16.172.114:8083/ant-01/tracks-v1a1/mono.m3u8?token=179c17f82da314b2e2f1e68823b828b51087943e-6d6e26a8b20507b0b90b9eebe2cad000-1715361763-1715350963
 #EXTINF:-1, FOX SPORTS CRICKET 
 https://homeip.biz/F_Cr_501_Team/index.m3u8
-
+#EXTINF:-1,SSC 1 HD
+http://homeip.biz/KSA_SSC1/index.m3u8
+#EXTINF:-1,SSC 2 HD
+http://homeip.biz/KSA_SSC2/mpegts
+#EXTINF:-1,SSC 3 HD
+http://homeip.biz/KSA_SSC3/index.m3u8
+#EXTINF:-1,SSC 4 HD
+http://homeip.biz/KSA_SSC4/index.m3u8
 #EXTINF:-1,COMILLA TV 24
 http://103.149.142.133/0.m3u8
 #EXTM3U
