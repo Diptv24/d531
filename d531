@@ -10,6 +10,8 @@ https://homeip.biz/AF_S_ACTIMER/index.m3u8
 https://homeip.biz/team_Cc/index.m3u8
 #EXTING:-1, WULLOW HD
 http://live.notebulk.xyz/9X8fZUYwno7dc8K1oLl2og/1717321196/us_willow/index.m3u8
+#EXTING:-1, WULLOW HD
+https://beecdn.minimal8229.workers.dev/Willow_Cricket_Live_TV/tracks-v1a1/mono.m3u8
 #EXTING:-1, SKY SPORTS CRICKET
 http://live.notebulk.xyz/wffUfMy6Myo-RchRC0gQ3g/1717322703/uk_sscricket/index.m3u8
 #EXTING:-1, SKY SPORTS MAIN EVENT
@@ -28,6 +30,15 @@ http://homeip.biz/KSA_SSC2/mpegts
 http://homeip.biz/KSA_SSC3/index.m3u8
 #EXTINF:-1,SSC 4 HD
 http://homeip.biz/KSA_SSC4/index.m3u8
+#EXTINF:-1, livesports
+https://homeip.biz/IN_E1/index.m3u8
+
+#EXTINF:-1, Star Sports 1
+http://homeip.biz/S_Eng/index.m3u8
+#EXTINF:-1, Star Sports 1
+http://homeip.biz/IN_ST3_HD/index.m3u8
+
+
 #EXTINF:-1,COMILLA TV 24
 http://103.149.142.133/0.m3u8
 #EXTM3U
