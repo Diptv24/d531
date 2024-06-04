@@ -2,6 +2,9 @@
 http://172.16.172.112/live/feed1002/index.m3u8
 #EXTINF:-1,TSPORTS
 https://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
+
+#EXTINF:-1, TOFFEE LIVE
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
 #EXTINF:-1, ASPORTS HD
 https://homeip.biz/PK_PS/index.m3u8
 #EXTINF:-1, SUPER SPORTS ACTION
@@ -11,6 +14,9 @@ https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8?samitvhd
 
 #EXTING:-1, Sky Sports Cricket 
 https://homeip.biz/team_Cc/index.m3u8
+
+#EXTINF:-1, ASTRO CRICKET
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8?samitvhd
 #EXTINF:-1, WULLOW HD
 http://live.notebulk.xyz/9X8fZUYwno7dc8K1oLl2og/1717321196/us_willow/index.m3u8
 #EXTINF:-1, WULLOW HD
