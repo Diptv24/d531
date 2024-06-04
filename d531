@@ -1,3 +1,9 @@
+#EXTINF:-1, STAR SPORTS 1 HD
+http://172.16.172.112/live/fifa2022/index.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://172.16.172.112/live/feed1001/index.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://172.16.172.114:8083/ant-01/tracks-v1a1/mono.m3u8?token=179c17f82da314b2e2f1e68823b828b51087943e-6d6e26a8b20507b0b90b9
 #EXTINF:-1,TSPORTS (AKASH)
 http://172.16.172.112/live/feed1002/index.m3u8
 #EXTINF:-1,TSPORTS
@@ -22,10 +28,8 @@ https://homeip.biz/F_Cr_501_Team/index.m3u8
 https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8?samitvhd
 #EXTINF:-1, SKY SPORTS MAIN EVENT
 https://live.notebulk.xyz/zGFx4h2LRmgp6QqawpZuZQ/1717322751/uk_ssmain/index.m3u8
-#EXTINF:-1,STAR SPORTS 2
-http://172.16.172.112/live/feed1001/index.m3u8
-#EXTINF:-1,STAR SPORTS 2 HD
-http://172.16.172.114:8083/ant-01/tracks-v1a1/mono.m3u8?token=179c17f82da314b2e2f1e68823b828b51087943e-6d6e26a8b20507b0b90b9eebe2cad000-1715361763-1715350963
+
+eebe2cad000-1715361763-1715350963
 
 #EXTINF:-1,SSC 1 HD
 http://homeip.biz/KSA_SSC1/index.m3u8
