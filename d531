@@ -1,4 +1,6 @@
-g!#EXTINF:-1, STAR p 1 HD
+#EXTINF:-1, NAGORIK TV
+https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nagorik_tv
+#EXTINF:-1, STAR p 1 HD
 http://172.16.172.112/live/fifa2022/index.m3u8
 #EXTINF:-1, STAR SPORTS 2 HD
 http://172.16.172.112/live/feed1001/index.m3u8
