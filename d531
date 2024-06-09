@@ -45,9 +45,11 @@ http://59.103.181.178:8000/play/a06i/index.m3u8
 http://59.103.181.178:8000/play/a06g/index.m3u8
 #EXTINF:-1,Madani TV
 http://59.103.181.178:8000/play/a06h/index.m3u8
-#EXTINF:-1,Channel 24HD
+#EXTINF:-1, Channel 24 HD
 http://59.103.181.178:8000/play/a06e/index.m3u8
 
+#EXTINF:-1, PEACE TV BANGLA HD
+http://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1, MOVIE BANGLA HD
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1, BANGLA TV UK HD
@@ -119,6 +121,8 @@ http://livess.ncare.live/live-orgin/deentv.stream/chunks.m3u8
 http://livess.ncare.live/live-orgin/islamtv.stream/chunks.m3u8
 #EXTINF:-1, MAKKAH TV HD
 http://livess.ncare.live/live-orgin/makkahtv.stream/chunks.m3u8
+#EXTINF:-1, PEACE TV ENGLISH
+http://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v3a1/mono.m3u8
 #EXTINF:-1, RTA SPORTS 
 http://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1, IQRA BANGLA HD
@@ -167,6 +171,8 @@ http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 http://121.91.61.106:8000/play/a00l/index.m3u8
 #EXTINF:-1, ASPORTS HD
 http://121.91.61.106:8000/play/a03o/index.m3u8
+#EXTINF:-1, WILLOW HD
+http://live.notebulk.xyz/ITJEnnbz3mYxh2LzXYokGg/1717925714/us_willow/index.m3u8
 #EXTINF:-1, BEIN SPORTS 1
 http://85.237.89.6:9590/ar-s/bein-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
 #EXTINF:-1, BEIN SPORTS 5
@@ -193,6 +199,8 @@ http://212.102.60.231/TSN_3/index.m3u8
 http://212.102.60.231/TSN_4/index.m3u8
 #EXTINF:-1, TSN SPORTS 5
 http://212.102.60.231/TSN_5/index.m3u8
+#EXTINF:-1, FLEX SPORTS
+http://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 #EXTINF:-1, ARY DIGITAL HD PK
 http://121.91.61.106:8000/play/a02d/index.m3u8
 #EXTINF:-1, RMC SPORTS 1
@@ -455,8 +463,8 @@ http://121.91.61.106:8000/play/a027/index.m3u8
 
 #EXTINF:-1, 8XM PK
 http://121.91.61.106:8000/play/a028/index.m3u8
-#EXTINF:-1, 
-
+#EXTINF:-1,  SHIYATA TV 
+http://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 #EXTINF:-1, 
 
 #EXTINF:-1, 
