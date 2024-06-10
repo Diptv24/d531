@@ -467,12 +467,12 @@ http://121.91.61.106:8000/play/a028/index.m3u8
 http://voaplus.com/live/tL4Has1RhxZy8vANSC9uQAGc2/index.m3u8
 #EXTINF:-1, 
 
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
-#EXTINF:-1, 
-
+#EXTINF:-1, DUHUK SPORTS
+http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
+#EXTINF:-1, IDSPORTS
+http://88.99.167.201:1935/live/ldsportchek/playlist.m3u8
+#EXTINF:-1, LD SPORTS
+http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 
 
 #EXTINF:-1, 
