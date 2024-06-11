@@ -22,6 +22,8 @@ http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
 #EXTINF:-1, BANGLA VISION HD
 http://172.20.2.5:8082/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BANGLA VISION HD
+http://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1,  CHANNEL I HD
 http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DBC NEWS HD
