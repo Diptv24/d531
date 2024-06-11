@@ -28,7 +28,10 @@ http://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1, DBC NEWS HD
 http://172.20.2.5:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  BAISHAKI TV HD
+#EXTINF:-1, DBC NEWS HD
+http://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1,  BOISHAKI TV HD
 http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, EKUSHEY TV HD
 http://ekusheyserver.com/etvlivesn.m3u8
