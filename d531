@@ -479,8 +479,8 @@ http://duhok.badinan.xyz:1935/duhok/sp/playlist.m3u8
 http://88.99.167.201:1935/live/ldsportchek/playlist.m3u8
 #EXTINF:-1, LD SPORTS
 http://85.237.89.6:9590/ku/Live-LD-Sport/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 
-
+#EXTINF:-1, PTV SPORTS HD
+http://45.58.137.74/ptv-123456/tracks-v1a1/mono.m3u8?token=2a1c69d8775e4b8b400ae5b4e6712b4aaadd1f105a2b3ebb9044e3f6d6946c1b-349RT4L2BBCBM402-1717811000-1717800200
 #EXTINF:-1, 
 
 #EXTINF:-1, 
