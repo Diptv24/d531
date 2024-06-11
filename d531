@@ -8,9 +8,10 @@ http://172.20.2.5:8082/GaanBangla/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,  SOMOY TV HD
 http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  ATN NEWS HD
+#EXTINF:-1, ATN NEWS HD
 http://172.20.2.5:8082/Atn-News/tracks-v1a1/mono.m3u8
-#EXTINF:-1,  
+#EXTINF:-1, ATN NEWS HD
+http://172.20.2.5:8082/Atn-News/tracks-v1a1/mono.m3u8?token=bc63f741574ee6c7cb10e6db810b4c46a2ae51e0-6d9f949716c874d14dc200a8f855fae8-1681329689-1681318889
 #EXTINF:-1, RTV HD
 http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, RTV HD
