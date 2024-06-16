@@ -74,6 +74,8 @@ http://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1, ATN MUSIC 
 http://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
 
+#EXTINF:-1, PROBASHI TV HD
+http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1, STAR JALSHA MOVIES HD
 http://172.20.2.5:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=9497ace81802c38ca21316e764b3fd8c9f07e3d3-b6440fc4c5f8b33cec9c2c00ea4e07a4-1681329593-1681318793
 #EXTINF:-1, B24C TV HD
