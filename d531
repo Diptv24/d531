@@ -40,6 +40,9 @@ http://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, EKUSHEY TV HD
 http://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1, EKUSHEY TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1, ETV HD
 http://ekusheyserver.com:443/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1, EKHON TV HD
