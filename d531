@@ -1,4 +1,19 @@
-
+#EXTINF:-1, NAGORIK TV
+https://tv5.hoichoi24.com/1102/video.m3u8
+#EXTINF:-1, BANGLA PLUS HD
+http://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1, DURONTO TV HD
+https://tv5.hoichoi24.com/1005/index.m3u8
+#EXTINF:-1, TSPORTS HD
+https://tv5.hoichoi24.com/1024/index.m3u8
+#EXTINF:-1, PTV SPORTS 
+https://tv5.hoichoi24.com/1000/index.m3u8
+#EXTINF:-, SUPER SPORTS GRANDSTAND 
+http://145.239.5.177:8080/567/index.m3u8
+#EXTINF:-1, TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1, TEN SPORTS HD 
+https://shorturl.at/UzCHI
 #EXTINF:-1,MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO TV HD
