@@ -1250,8 +1250,8 @@ http://cdn01.palki.tv/live/WION-M/index.m3u8
 #EXTINF:-1,Surongo
 https://v-prothomalo.viewlift.com/Renditions/20230824/1692873478931_prothomalo_1692870834947_surongo_CUSTOM_CODEC_TS/hls/video_3.m3u8
 
-
-
+#EXTINF:-1, FOX SPORTS 1
+https://live.notebulk.xyz/f5CQbnuUtN3iiAcOD9evGw/1718791476/us_fs1/tracks-v1a1/mono.m3u8
 
 
 
