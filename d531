@@ -1,5 +1,7 @@
 #EXTINF:-1, STAR SPORTS 1 HD
 http://172.20.2.5:8082/Special-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2 HD
 http://172.16.172.112/live/feed1001/index.m3u8
 #EXTINF:-1, TSPORTS HD
