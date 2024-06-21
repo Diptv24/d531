@@ -623,4 +623,5 @@ https://homeip.biz/KSA_SSC5/index.m3u8
 
 #EXTINF:-1, SSC SPORTS 7
 https://homeip.biz/KSA_SSC7/index.m3u8
-
+#EXTINF:-1, SSC SPORTS EXTRA
+https://homeip.biz/KSA_SSC8/index.m3u8?
