@@ -6,38 +6,24 @@ http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
 http://172.16.172.112/live/feed1001/index.m3u8
 #EXTINF:-1, TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1, TSN 1
-http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
-#EXTINF:-1, TSN 1
-http://45.41.213.34:70/TSN4/index.m3u8?
-
-
-#EXTINF:-1, NAGORIK TV
-https://tv5.hoichoi24.com/1102/video.m3u8
-#EXTINF:-1, BANGLA PLUS HD
-http://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1, DURONTO TV HD
-https://tv5.hoichoi24.com/1005/index.m3u8
-#EXTINF:-1, TSPORTS HD
-https://tv5.hoichoi24.com/1024/index.m3u8
-#EXTINF:-1, PTV SPORTS 
-https://tv5.hoichoi24.com/1000/index.m3u8
-#EXTINF:-, SUPER SPORTS GRANDSTAND 
-http://145.239.5.177:8080/567/index.m3u8
 #EXTINF:-1, TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1, TEN SPORTS HD 
-https://shorturl.at/UzCHI
 #EXTINF:-1,MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO TV HD
 http://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1, SOMOY TV HD
+http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, RTV HD
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,RTV HD
 http://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
 #EXTINF:-1,NTV
 http://103.230.105.252:1935/live/ntv/manifest.m3u8
+#EXTINF:-1, EKUSHEY TV HD
+http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
 #EXTINF:-1,BANGLA VISION HD
-http://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1,DBC NEWS HD
 http://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1,EKUSHEY TV HD
@@ -544,7 +530,26 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 http://ythls.armelin.one/channel/UCdLLxVWeJbtOCZ6s7-YZVKA.m3u8
 #EXTINF:-1, FOX SPORTS 1
 https://live.notebulk.xyz/f5CQbnuUtN3iiAcOD9evGw/1718791476/us_fs1/tracks-v1a1/mono.m3u8
+#EXTINF:-1, TSN 1
+http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
+#EXTINF:-1, TSN 1
+http://45.41.213.34:70/TSN4/index.m3u8?
 
+
+#EXTINF:-1, NAGORIK TV
+https://tv5.hoichoi24.com/1102/video.m3u8
+#EXTINF:-1, BANGLA PLUS HD
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1, DURONTO TV HD
+https://tv5.hoichoi24.com/1005/index.m3u8
+#EXTINF:-1, TSPORTS HD
+https://tv5.hoichoi24.com/1024/index.m3u8
+#EXTINF:-1, PTV SPORTS 
+https://tv5.hoichoi24.com/1000/index.m3u8
+#EXTINF:-, SUPER SPORTS GRANDSTAND 
+http://145.239.5.177:8080/567/index.m3u8
+#EXTINF:-1, TEN SPORTS HD 
+https://shorturl.at/UzCHI
 #EXTINF:-1,GEO TV
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 
