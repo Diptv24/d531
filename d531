@@ -1,3 +1,5 @@
+#EXTINF:-1, STAR SPORTS 2 HD
+http://172.16.172.112/live/feed1001/index.m3u8
 #EXTINF:-1, TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1, TSN 1
