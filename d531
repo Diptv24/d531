@@ -47,9 +47,14 @@ http://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1,SA TV HD
 http://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,JAMUNA TV HD
-http://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV HD
 http://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1, SONY MAX HD
+http://172.20.2.5:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY PIX HD
+http://172.20.2.5:8082/SonyPix/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1,CHANNEL NINE BD
 http://59.103.181.178:8000/play/a06i/index.m3u8
 #EXTINF:-1,GLOBAL TV HD
