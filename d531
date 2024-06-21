@@ -1,3 +1,11 @@
+#EXTINF:-1, TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1, TSN 1
+http://xlbh-a36-ul29-30-lvnvcolox.dns-online.network:70/TSN1/index.m3u8
+#EXTINF:-1, TSN 1
+http://45.41.213.34:70/TSN4/index.m3u8?
+
+
 #EXTINF:-1, NAGORIK TV
 https://tv5.hoichoi24.com/1102/video.m3u8
 #EXTINF:-1, BANGLA PLUS HD
