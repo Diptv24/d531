@@ -8,6 +8,8 @@ http://172.16.172.112/live/feed1001/index.m3u8
 http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY TEN 2 HD
 http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY TEN 5 HD
+http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1, TSPORTS HD
