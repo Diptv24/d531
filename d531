@@ -19,7 +19,11 @@ http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, MAASRANGA TV HD
 http://172.20.2.5:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO TV HD
-http://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1, CHANNEL I HD
+http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ATN NEWS HD
+http://172.20.2.5:8082/Atn-News/tracks-v1a1/mono.m3u8?token=bc63f741574ee6c7cb10e6db810b4c46a2ae51e0-6d9f949716c874d14dc200a8f855fae8-1681329689-1681318889
 #EXTINF:-1, BOISHAKHI TV HD
 http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SOMOY TV HD
@@ -52,33 +56,16 @@ http://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV HD
 http://livess.ncare.live/live-orgin/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1, SONY MAX HD
-http://172.20.2.5:8082/Sony-Max/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SONY PIX HD
-http://172.20.2.5:8082/SonyPix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,CHANNEL NINE BD
-http://59.103.181.178:8000/play/a06i/index.m3u8
-#EXTINF:-1,GLOBAL TV HD
-http://59.103.181.178:8000/play/a06g/index.m3u8
-#EXTINF:-1,Madani TV
-http://59.103.181.178:8000/play/a06h/index.m3u8
-#EXTINF:-1,Channel 24 HD
-http://59.103.181.178:8000/play/a06e/index.m3u8
-#EXTINF:-1,PEACE TV BANGLA HD
-http://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
-#EXTINF:-1,MOVIE BANGLA HD
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1,BANGLA TV UK HD
-http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1,NEXUS TV HD
 http://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1,ATN ISLAMIC
 http://livess.ncare.live/live-orgin/atnislamictv.stream/chunks.m3u8
 #EXTINF:-1,ATN MUSIC
 http://livess.ncare.live/live-orgin/atnmusic.stream/chunks.m3u8
+#EXTINF:-1, BANGLA PLUS HD
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1,PROBASHI TV HD
-http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
+https://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1,B24C TV HD
 http://livess.ncare.live/live-orgin/b24c.stream/chunks.m3u8
 #EXTINF:-1,BISWA BANGLA HD
@@ -116,11 +103,44 @@ http://livess.ncare.live/live-orgin/rajdhanitv.stream/chunks.m3u8
 #EXTINF:-1,THE CHANNEL BANGLA
 http://livess.ncare.live/live-orgin/thechanneltv.stream/chunks.m3u8
 #EXTINF:-1,TIMES TV BANGLA
-http://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/timetvusa.stream/chunks.m3u8
 #EXTINF:-1,VARENDRA TV HD
-http://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
+https://livess.ncare.live/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1,COMILLA TV HD
 http://103.149.142.133/0.m3u8
+
+#EXTINF:-1,COLOSAL HD
+https://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
+#EXTINF:-1,TBN 24 BANGLA
+http://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
+#EXTINF:-1,APB ANANDA BANGLA
+http://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+#EXTINF:-1, SONY MAX HD
+http://172.20.2.5:8082/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY PIX HD
+http://172.20.2.5:8082/SonyPix/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY AATH
+http://172.20.2.5:8082/Sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1, SONY TV
+http://172.20.2.5:8082/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ZEE BANGLA CINEMA
+http://172.20.2.5:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1, COLORS INDIA 
+http://172.20.2.5:8082/colorsindia/tracks-v1a1/mono.m3u8?token=fe0fec684df8167520b8be5affc4a1342b223668-e21c34898c5780c67a3ea95ebe8ef74d-1681330106-1681319306
+#EXTINF:-1,CHANNEL NINE BD
+http://59.103.181.178:8000/play/a06i/index.m3u8
+#EXTINF:-1,GLOBAL TV HD
+http://59.103.181.178:8000/play/a06g/index.m3u8
+#EXTINF:-1,Madani TV
+http://59.103.181.178:8000/play/a06h/index.m3u8
+#EXTINF:-1,Channel 24 HD
+http://59.103.181.178:8000/play/a06e/index.m3u8
+#EXTINF:-1,PEACE TV BANGLA HD
+http://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1,MOVIE BANGLA HD
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,BANGLA TV UK HD
+http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 #EXTINF:-1,DESHI TV
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1,DESHI TV BANGLA
@@ -141,12 +161,6 @@ http://dzkyvlfyge.erbvr.com/PeaceTvEnglish/tracks-v3a1/mono.m3u8
 http://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1,IQRA BANGLA HD
 http://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/chunks.m3u8
-#EXTINF:-1,COLOSAL HD
-http://livess.ncare.live/live-orgin/colosal.stream/chunks.m3u8
-#EXTINF:-1,TBN 24 BANGLA
-http://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
-#EXTINF:-1,APB ANANDA BANGLA
-http://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
 #EXTINF:-1,ANANDA BARTA BANGLA TV
 http://5dd3981940faa.streamlock.net:1935/abnews/abnews/chunklist_w644394347.m3u8
 #EXTINF:-1,MQC BANGLA TV
