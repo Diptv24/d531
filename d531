@@ -610,17 +610,16 @@ https://humsab.xyz/IN_E8/index.m3u8
 
 #EXTINF:-1, SSC SPORTS 1
 https://homeip.biz/KSA_SSC1/index.m3u8
-
 #EXTINF:-1, SSC SPORTS 2
 https://homeip.biz/KSA_SSC2/index.m3u8
-
 #EXTINF:-1, SSC SPORTS 3
 https://homeip.biz/KSA_SSC3/index.m3u8
-
+#EXTINF:-1, SSC SPORTS 4
+https://homeip.biz/KSA_SSC4/index.m3u8?
 #EXTINF:-1, SSC SPORTS 5
 https://homeip.biz/KSA_SSC5/index.m3u8
-
-
+#EXTINF:-1, SSC SPORTS 6
+https://homeip.biz/KSA_SSC6/index.m3u8
 #EXTINF:-1, SSC SPORTS 7
 https://homeip.biz/KSA_SSC7/index.m3u8
 
