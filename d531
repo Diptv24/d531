@@ -1,3 +1,6 @@
+
+
+
 #EXTINF:-1, STAR SPORTS 1 HD
 http://172.20.2.5:8082/Special-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
@@ -631,9 +634,14 @@ https://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
 
 #EXTINF:-1, TSN 1
 http://cdn1.flexsportx.com/live/zone-11/chunks.m3u8
-
-
+#EXTINF:-1, VIVO TV
+http://telecorporacion-es.cdn.vustreams.com/live/b883ccd5-ccea-4d85-be1c-e0d4076024a7/live.isml/.m3u8
 #EXTINF:-1, WILLOW HD
 https://mm5-97.tinyuri.org/live/m4-1080p.m3u8
 #EXTINF:-1, SPORT TV DESPTU
 http://179.124.14.153:8080/19/index.m3u8
+
+#EXTINF:-1, PREMIER SPORTS 1 HD
+http://ovo.eelov.com/live/n-1/chunks.m3u8?
+#EXTINF:-1, VTV
+http://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
