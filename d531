@@ -784,3 +784,7 @@ http://179.124.14.153:8080/19/index.m3u8
 http://ovo.eelov.com/live/n-1/chunks.m3u8?
 #EXTINF:-1, VTV
 http://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
+#EXTINF:-1, VARZISH TV
+https://live.teleradiocom.tj/5/3m.m3u8?
+
+
