@@ -36,7 +36,7 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=gazi_tv
 #EXTINF:-1 group-title="Jadoo", INDEPENDENT TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=independent_tv
 
-#EXTINF:-1 group-title="Jadoo", 
+#EXTINF:-1 group-title="Jadoo", MYTV HD
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=my_tv
 
 #EXTINF:-1 group-title="Jadoo", Maasranga tv
@@ -52,8 +52,7 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=news_24_hd
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=somoy_news
 #EXTINF:-1 group-title="Jadoo", PROBASHI TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=probashibangla
-#EXTINF:-1 group-title="Jadoo", Tara Bangla
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=tara_bangla
+
 #EXTINF:-1 group-title="Jadoo", Tsports
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=tsports
 #EXTINF:-1 group-title="Jadoo", TSPORTS 
@@ -65,7 +64,6 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=global_tv
 #EXTINF:-1 group-title="Jadoo", GLOBAL TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=global
 
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=dd_sports
 #EXTINF:-1 group-title="Jadoo", SATV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sa_tv
 
@@ -77,10 +75,7 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=rtv
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ntv
 #EXTINF:-1 group-title="Jadoo", ANANDA TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ananda_tv
-#EXTINF:-1 group-title="Jadoo", ANANDP TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=anando_tv
-#EXTINF:-1 group-title="Jadoo", ANANDA TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=anondo_tv
+
 #EXTINF:-1 group-title="Jadoo", ASIAN TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=asian_tv
 #EXTINF:-1 group-title="Jadoo", BANGLA TV
@@ -97,11 +92,11 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_news
 #EXTINF:-1 group-title="Jadoo", BTV WORLD 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_world
-
+#EXTINF:-1 group-title="Jadoo", BTV NATIONAL 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_national
-
+#EXTINF:-1 group-title="Jadoo", BTV 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_nat
-
+#EXTINF:-1 group-title="Jadoo", BTV 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv
 #EXTINF:-1 group-title="Jadoo", ZEE BANGLA 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=zee_bangla
@@ -109,7 +104,7 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=zee_bangla
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=star_jalsha
 #EXTINF:-1 group-title="Jadoo", COLORS BANGLA
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=colors_bangla
-
+#EXTINF:-1 group-title="Jadoo", PTV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ptv_sports
 
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=star_sports1
