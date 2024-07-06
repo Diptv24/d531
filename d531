@@ -4,7 +4,8 @@ https://bdixhd.online/tsportshd/stream.php?stream=https://live-cdn.tsports.com/l
 
 #EXTINF:-1 group-title="Skyfeed", T Sports   
 http://103.109.56.116/live/skyfeed1005/index.m3u8
-
+#EXTINF:-1, SPORT TV
+https://nt86hgy5wmeaqf2b3pus7r.cdnwitness.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=SxOF06CtEbLtzhfmdsSq-Q&e=1720277310
 
 
 #EXTINF:-1 group-title="Skyfeed", G TV
