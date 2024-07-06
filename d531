@@ -2,6 +2,8 @@
 https://ythls.armelin.one/channel/UC6gS_pIEe7nh2CebBlZ4Tjw.m3u8
 #EXTINF:-1, TSPORTS
 https://bdixhd.online/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8&id=01
+#EXTINF:-1, TSPORTS 
+http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
 #EXTINF:-1, ASPORTS 
 http://homeip.biz/PK_PS/index.m3u8
 #EXTINF:-1, TNT SPORTS 1
@@ -10,8 +12,7 @@ http://homeip.biz/live1/index.m3u8
 https://homeip.biz/team_Cc/index.m3u8
 #EXTINF:-1, ASPORTS 
 http://homeip.biz/PK_PS/index.m3u8
-#EXTINF:-1, GAZI TV
-http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
+
 
 
 
