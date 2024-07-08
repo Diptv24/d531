@@ -26,16 +26,16 @@ http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 http://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
 #EXTINF:-1, SA TV HD
 http://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1, ASIAN TV HD
+https://mtlivestream.site/asian/ytlive/index.m3u8
 
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 group-title="Hoichoi", DURONTO TV
+https://tv5.hoichoi24.com/1005/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hoichoi", GTV
+https://tv5.hoichoi24.com/1002/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hoichoi", PTV SPORTS
+https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ASPORTS 
 https://nowsportstv.com/crichd/stream.php?id=asportshd
 #EXTINF:-1, SPORTSEYE
