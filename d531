@@ -1,13 +1,49 @@
+#EXTINF:-1 group-title="Skyfeed", T Sports   
+http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="Skyfeed", TSPORTS 
+http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
+#EXTINF:-1 group-title="Skyfeed",TSPORTS HD
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1 group-title="Skyfeed", GTV HD
+http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF:-1 group-title="Skyfeed", DEEPTO TV HD
+http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 group-title="Skyfeed", NAGORIK TV  
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+#EXTINF:-1 group-title="Skyfeed", MAASRANGA TV HD
+http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Skyfeed", Independent TV
+http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1, SOMOY TV HD
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1, SOMOY TV HD
+http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BOISHAKHI TV HD
+http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, RTV HD
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, RTV HD
+http://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
+#EXTINF:-1, SA TV HD
+http://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, ASPORTS 
 https://nowsportstv.com/crichd/stream.php?id=asportshd
 #EXTINF:-1, SPORTSEYE
 https://ythls.armelin.one/channel/UC6gS_pIEe7nh2CebBlZ4Tjw.m3u8
 #EXTINF:-1, TSPORTS
 https://bdixhd.online/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8&id=01
-#EXTINF:-1, TSPORTS 
-http://homeip.biz/GaziTV/tracks-v1a1/mono.m3u8?token=86c916cd19cbcbbadf96f286b04657e6
-#EXTINF:-1, ASPORTS 
-http://homeip.biz/PK_PS/index.m3u8
+
+
 #EXTINF:-1, TNT SPORTS 1
 http://homeip.biz/live1/index.m3u8
 #EXTINF:-1, Sky Sports Cricket 
@@ -22,20 +58,9 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 
-#EXTINF:-1 group-title="Skyfeed", T Sports   
-http://103.109.56.116/live/skyfeed1005/index.m3u8
-#EXTINF:-1, SPORT TV
-https://nt86hgy5wmeaqf2b3pus7r.cdnwitness.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=SxOF06CtEbLtzhfmdsSq-Q&e=1720277310
-
-
-#EXTINF:-1 group-title="Skyfeed", G TV
-http://103.109.56.116/live/skyfeed1006/index.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Skyfeed", NAGORIK TV  
-http://103.109.56.116/live/skyfeed1002/index.m3u8
 
 #EXTINF:-1 group-title="Skyfeed", Star Sports 2 HD   
 http://103.109.56.116/live/skyfeed1003/index.m3u8
@@ -53,8 +78,7 @@ http://103.109.56.116/live/skyfeed1015/index.m3u8
 http://103.109.56.116/live/skyfeed1021/index.m3u8
 
 
-#EXTINF:-1 group-title="Skyfeed", Independent TV
-http://103.109.56.116/live/skyfeed1012/index.m3u8
+
 
 #EXTINF:-1 group-title="Skyfeed", Pogo
 http://103.109.56.116/live/skyfeed1019/index.m3u8
@@ -84,12 +108,10 @@ http://172.20.2.5:8082/Ten1/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY TEN 5 HD
 http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, TSPORTS HD
 http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1, TSPORTS HD
-http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1,MAASRANGA TV HD
-http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, MAASRANGA TV HD
 http://172.20.2.5:8082/ATN-Bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DEEPTO TV HD
@@ -98,14 +120,7 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ATN NEWS HD
 http://172.20.2.5:8082/Atn-News/tracks-v1a1/mono.m3u8?token=bc63f741574ee6c7cb10e6db810b4c46a2ae51e0-6d9f949716c874d14dc200a8f855fae8-1681329689-1681318889
-#EXTINF:-1, BOISHAKHI TV HD
-http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
-#EXTINF:-1, SOMOY TV HD
-http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, RTV HD
-http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1,RTV HD
-http://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
+
 #EXTINF:-1,NTV
 http://172.20.2.5:8082/Ntv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV
@@ -124,8 +139,7 @@ http://ekusheyserver.com/etvlivesn.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,EKHON TV HD
 http://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1,SA TV HD
-http://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
+
 #EXTINF:-1,JAMUNA TV HD
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,BANGLA TV HD
@@ -2506,8 +2520,7 @@ https://livess.ncare.live/live-orgin/nexustv.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1,CHANNEL S HD
 https://livess.ncare.live/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1,Somoy TV
-https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
 #EXTINF:-1,Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1,DBC News
