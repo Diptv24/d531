@@ -2930,6 +2930,21 @@ http://103.131.214.129:9985/stream/channelid/868069455.m3u8
 #EXTINF:-1, ASPORTS HD
 http://homeip.biz/PK_PS/index.m3u8
 
+#EXTINF:-1, SSC SPORTS 1
+http://homeip.biz/KSA_SSC1/index.m3u8
+
+#EXTINF:-1, SSC SPORTS 2
+http://homeip.biz/KSA_SSC2/index.m3u8
+
+
+#EXTINF:-1, SSC SPORTS 3
+http://homeip.biz/KSA_SSC3/index.m3u8
+
+
+#EXTINF:-1, SSC SPORTS 4
+http://homeip.biz/KSA_SSC4/index.m3u8
+
+
 #EXTINF:-1 group-title="Skyfeed", NAGORIK TV 
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 
