@@ -2957,5 +2957,11 @@ http://50.7.218.122:80/sp2hd/index.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://50.7.218.122:80/sp1hd/index.m3u8
 
+#EXTINF:-1, STAR SPORTS SELECT 1_HD
+720 HD
+http://humsab.xyz/SS1_IND/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Skyfeed", T Sports   
 http://103.109.56.116/live/skyfeed1005/index.m3u8
