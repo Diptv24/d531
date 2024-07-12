@@ -2958,9 +2958,9 @@ http://50.7.218.122:80/sp2hd/index.m3u8
 http://50.7.218.122:80/sp1hd/index.m3u8
 
 #EXTINF:-1, STAR SPORTS SELECT 1_HD
-720 HD
 http://humsab.xyz/SS1_IND/index.m3u8
-
+#EXTINF:-1, EURO SPORTS 1 HD
+http://homeip.biz/FR_EUROSPORT1HD/index.m3u8
 
 
 #EXTINF:-1 group-title="Skyfeed", T Sports   
