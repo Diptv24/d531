@@ -21,6 +21,9 @@ http://103.109.56.116/live/skyfeed1012/index.m3u8
 http://103.109.56.116/live/skyfeed1013/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", GREEN TV BD
 http://103.109.56.116/live/skyfeed1011/index.m3u8
+
+#EXTINF:-1, EKHON TV HD
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1, DBC NEWS
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1, SATV HD
