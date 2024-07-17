@@ -1,3 +1,6 @@
+
+#EXTINF:-1, TSPORTS
+http://dcdn.bdixsports.live:1935/event/event2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Skyfeed", T Sports   
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", TSPORTS 
