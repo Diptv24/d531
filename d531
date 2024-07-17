@@ -17,6 +17,10 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Skyfeed", Independent TV
 http://103.109.56.116/live/skyfeed1012/index.m3u8
+#EXTINF:-1 group-title="Skyfeed", Maasranga Tv
+http://103.109.56.116/live/skyfeed1013/index.m3u8
+#EXTINF:-1 group-title="Skyfeed", GREEN TV BD
+http://103.109.56.116/live/skyfeed1011/index.m3u8
 #EXTINF:-1, DBC NEWS
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1, SATV HD
@@ -121,11 +125,7 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", Star Sports 2 HD   
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 
-#EXTINF:-1 group-title="Skyfeed", Maasranga Tv
-http://103.109.56.116/live/skyfeed1013/index.m3u8
 
-#EXTINF:-1 group-title="Skyfeed", GREEN TV BD
-http://103.109.56.116/live/skyfeed1011/index.m3u8
 
 #EXTINF:-1 group-title="Skyfeed", Ekattor Tv 
 http://103.109.56.116/live/skyfeed1015/index.m3u8
