@@ -11,7 +11,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", DEEPTO TV HD
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 group-title="Skyfeed", NAGORIK TV  
+#EXTINF:-1 group-title="Skyfeed", STAR SPORTS 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
