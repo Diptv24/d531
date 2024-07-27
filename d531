@@ -1,6 +1,9 @@
 
 #EXTINF:-1, TSPORTS
 http://dcdn.bdixsports.live:1935/event/event2.stream/playlist.m3u8
+
+#EXTINF:-1, SATV
+https://statics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 group-title="Skyfeed", T Sports   
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 group-title="Skyfeed", TSPORTS 
