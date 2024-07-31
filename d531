@@ -18,6 +18,19 @@ http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1,GREEN TV HD
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+
+#EXTINF:-1. NAGORIK TV
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+#EXTINF:-1,  BANGLA TV HD
+http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+#EXTINF:-1,  BANGLA TV UK
+http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1,  MON BANGLA TV
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1,  FRIENDS BANGLA TV
+http://streamcloud.biz:1935/Friendstv/friendstv/chunklist_w1259473813.m3u8
+#EXTINF:-1, NOBANNO TV
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 #EXTINF:-1,NAN TV
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
 #EXTINF:-1,B24C TV
@@ -2162,54 +2175,11 @@ http://103.131.214.129:9985/stream/channelid/262238580.m3u8
 http://103.131.214.129:9985/stream/channelid/1036861532.m3u8
 #EXTINF:-1,A sports
 http://103.131.214.129:9985/stream/channelid/868069455.m3u8
-Shahin Dipu:
-#EXTINF:-1,CHANNEL 9 HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_9
-#EXTINF:-1,CHANNEL 24
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=channel_24
-#EXTINF:-1,DEEPTO TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=deepto_tv
-#EXTINF:-1,DESH TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=desh_tv
-#EXTINF:-1,DURONTO TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=duronto_tv
-#EXTINF:-1,Ekattor tv
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekattor_tv
-#EXTINF:-1,INDEPENDENT TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=independent_tv
-#EXTINF:-1,MYTV HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=my_tv
-#EXTINF:-1,News 24
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=news_24_hd
-#EXTINF:-1,Somoy news
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=somoy_news
-#EXTINF:-1,TSPORTS
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=t_sports
-#EXTINF:-1,NEXUS TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=nexus_tv
-#EXTINF:-1,SATV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sa_tv
-#EXTINF:-1,JAMUNA TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=jamuna_tv
-#EXTINF:-1,RTV HD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=rtv
-#EXTINF:-1,NTV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ntv
-#EXTINF:-1,ASIAN TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=asian_tv
-#EXTINF:-1,BANGLA TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=bangla_tv
-#EXTINF:-1,DBC
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=dbc_news
-#EXTINF:-1,ETV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=ekushey_tv
-#EXTINF:-1,ATN BANGLA
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_bangla
-#EXTINF:-1,ATN NEWS
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=atn_news
-#EXTINF:-1,BTV WORLD
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=btv_world
-#EXTINF:-1,STAR SPORTS 2 HD
+
 http://50.7.218.122:80/sp2hd/index.m3u8
 #EXTINF:-1,STAR SPORTS 1 HD
 http://50.7.218.122:80/sp1hd/index.m3u8
+#EXTINF:-1, DUBAIS SPORTS
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/02.m3u8
