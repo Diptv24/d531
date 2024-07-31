@@ -2183,3 +2183,39 @@ http://50.7.218.122:80/sp1hd/index.m3u8
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1, RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/02.m3u8
+#EXTINF:-1,CHANNEL 1
+https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 3
+https://tv5.hoichoi24.com/1002/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 6
+https://tv5.hoichoi24.com/1005/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 27
+https://tv5.hoichoi24.com/1026/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 104
+https://tv5.hoichoi24.com/1103/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 105
+https://tv5.hoichoi24.com/1104/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 107
+https://tv5.hoichoi24.com/1106/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 108
+https://tv5.hoichoi24.com/1107/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 113
+https://tv5.hoichoi24.com/1112/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 114
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 122
+https://tv5.hoichoi24.com/1121/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 203
+https://tv5.hoichoi24.com/1202/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 307
+https://tv5.hoichoi24.com/1306/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 403
+https://tv5.hoichoi24.com/1402/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 406
+https://tv5.hoichoi24.com/1405/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 407
+https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 409
+https://tv5.hoichoi24.com/1408/tracks-v1a1/mono.m3u8?
+#EXTINF:-1,CHANNEL 412
+https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8?
