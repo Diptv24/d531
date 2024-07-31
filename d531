@@ -4,6 +4,47 @@ http://113.212.111.246:8080/hls/col12.m3u8
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1,MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ASIAN TV HD
+https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1, SOMOY TV
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1, RTV HD
+http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, BOISHAKHI TV
+http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ATN NEWS
+http://172.20.2.5:8082/Atn-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1, CHANNEL I
+http://172.20.2.5:8082/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:-1, EKUSHEY TV
+http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b62173513673ad3f589730407835a773-80a3ad19b573a539155f447e5a2ebdf1-1681329811-1681319011
+#EXTINF:-1, DBC NEWS
+http://172.20.2.5:8082/DBC-NEWS/tracks-v1/index.fmp4.m3u8?token=fb9808a6997d0d2e15ba609c5e6b6d19d5cec4aa-c8aa0dbddc5fbcd5062c415dd6abd42d-1702659965-1702649165
+#EXTINF:-1, STAR SPORTS 3
+http://103.131.214.129:9985/stream/channelid/1291575818.m3u8
+#EXTINF:-1, JAGORONI TV
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/live-orgin/jagoronitv.stream/chunks.m
+#EXTINF:-1, DURONTO TV
+https://tv5.hoichoi24.com/1402/tracks-v1a1/mono.m3u8
+#EXTINF:-1,HUM TV
+https://humsab.xyz/PAK_HUMTVG/tracks-v1a1/mono.m3u8
+#EXTINF:-1,GEO TV HD
+https://humsab.xyz/PAK_GEOTVG/tracks-v1a1/mono.m3u8
+#EXTINF:-1,ARY DIGITAL TV
+https://humsab.xyz/PAK_ARYTVG/tracks-v1a1/mono.m3u8
+#EXTINF:-1,STAR PLUS HD
+https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,COLORS HD
+https://humsab.xyz/IN_CTVS/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NOBANNO TV
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
+
+#EXTINF:-1,RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
+#EXTINF:-1, EKHON TV HD
+https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1,SATV HD
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1,DEEPTO TV HD
