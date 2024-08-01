@@ -10,6 +10,10 @@ http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 https://mtlivestream.site/asian/ytlive/index.m3u8
 #EXTINF:-1, CHANNEL 24 HD
 https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
+
+#EXTINF:-1, BANGLA VISION HD
+https://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
+
 #EXTINF:-1, SOMOY TV
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1, RTV HD
