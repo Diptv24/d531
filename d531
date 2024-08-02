@@ -14,6 +14,8 @@ https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1, BANGLA VISION HD
 https://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
+#EXTINF:-1,  INDEPENDENT TV
+http://ln.run/6S7Z6
 #EXTINF:-1, SOMOY TV
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1, RTV HD
@@ -21,6 +23,8 @@ http://172.20.2.5:8082/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, NTV
 http://ln.run/U8DFM
 
+#EXTINF:-1, BANGLA TV HD
+http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 #EXTINF:-1, BOISHAKHI TV
 http://172.20.2.5:8082/Boishakhi/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ATN NEWS
