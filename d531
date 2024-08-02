@@ -2269,3 +2269,7 @@ https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8?
 
 #EXTINF:-1, JIO CRICKET 
 http://14.102.123.50:5001/live/1918.m3u8
+#EXTINF:-1, MTV beats 
+http://14.102.123.50:5001/live/753.m3u8
+#EXTINF:-1, MTV India 
+http://14.102.123.50:5001/live/248.m3u8
