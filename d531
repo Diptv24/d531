@@ -2267,6 +2267,22 @@ https://tv5.hoichoi24.com/1408/tracks-v1a1/mono.m3u8?
 #EXTINF:-1,CHANNEL 412
 https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8?
 
+
+TV Network:
+#EXTINF:-1,BEIN sports extra 
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,BEIN sport 1 France 
+http://51.178.65.238/BeinSport/mono.m3u8
+
+#EXTINF:-1,BEIN sports  Haber 
+https://bozztv.com/dvrfl05/gin-beinsportshaber/index.m3u8
+
+#EXTINF:-1,Eurosport 1 hd
+http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
+
+#EXTINF:-1,Eurosport 2
+http://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
 #EXTINF:-1, JIO CRICKET 
 http://14.102.123.50:5001/live/1918.m3u8
 #EXTINF:-1, MTV beats 
