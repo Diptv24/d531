@@ -27,21 +27,21 @@ http://livess.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg", BIJOY TV
 http://livess.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/03/Logo-Still.png", BISWA BANGLA 24
-http://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
+http://livess.ncare.live/live-orgin/biswabanglatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x50681", BOISHAKI TV
+http://livess.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/boishakhitvplus.jpeg", BOISHAKI TV PLUS
+http://livess.ncare.live/live-orgin/boishakhiplus.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/3WUFkD8.png?x50681", BTV CHATTOGRAM
+http://livess.ncare.live/live-orgin/btvnational-ctg.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/12/canbangla.jpg", CAN BANGLA
+http://livess.ncare.live/live-orgin/canbanglatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN.png", CGTN
+http://livess.ncare.live/live-orgin/cgtn.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png", CGTN DUCUMENTORY
+http://livess.ncare.live/live-orgin/cgtndoc.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/channel24.jpg?x50681", CHANNEL 24
+http://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo=" ",
 
 #EXTINF:-1 group-title="jagobd" tvg-logo=" ",
