@@ -6,6 +6,9 @@ http://172.20.2.5:8082/Ten2/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/Ten3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 1 HD
 http://172.20.2.5:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, STAT SPORTS SELECT 1 HD
+http://172.20.2.5:8082/Star-Select-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS SELECT 2 HD
 http://172.20.2.5:8082/T-Sports/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PTV SPORTS HD
