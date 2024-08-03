@@ -26,6 +26,10 @@ http://172.20.2.5:8082/StarGold/tracks-v1a1/mono.m3u8
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1, MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, ASIAN TV HD
+http://mtlivestream.com/asian/ytlive/index.m3u8
+#EXTINF:-1, BANGLA TV HD
+http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 #EXTINF:-1, GAZI TV HD
 http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, CHANNEL -I
