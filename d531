@@ -54,20 +54,20 @@ http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/colosal.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x50681", DBC NEWS
 http://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png", DEEN TV
+http://livess.ncare.live/live-orgin/deentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1.png", DESH TV
+http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg", DESHE BIDESHE TV
+http://livess.ncare.live/live-orgin/deshebideshe.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/07/dwnews.jpg",  DW NEWS
+http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x50681", EKUSHEY TV
+http://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/07/francenews24.jpg", FRANCE 24
+http://livess.ncare.live/live-orgin/fr24.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/freedom.jpg", FREEDOM TV
+http://livess.ncare.live/live-orgin/uatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo=" ",
 
 #EXTINF:-1 group-title="jagobd" tvg-logo=" ",
