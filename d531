@@ -46,14 +46,14 @@ http://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/channel9hd.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/cheu.png", CHANNEL EUROPE
 http://livess.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
-
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x50681", CHANNEL S UK
+http://livess.ncare.live/live-orgin/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x50681", CHANNEL-I
+http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg", COLOSAL TV
+http://livess.ncare.live/live-orgin/colosal.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x50681", DBC NEWS
+http://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo=" ",
 
 #EXTINF:-1 group-title="jagobd" tvg-logo=" ",
