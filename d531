@@ -1,3 +1,15 @@
+#EXTINF:-1, JAMUNA TV
+http://113.212.111.246:8080/hls/col12.m3u8
+#EXTINF:-1, SOMOY TV (JAGO)
+http://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1, DEEPTO TV HD
+http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1, MAASRANGA TV HD
+http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1, GAZI TV HD
+http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg", AL JAZEERA
 http://livess.ncare.live/live-orgin/aljazeera.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x50681", Ananda Tv
@@ -68,7 +80,21 @@ http://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/fr24.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/freedom.jpg", FREEDOM TV
 http://livess.ncare.live/live-orgin/uatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ", NOBANNO TV
+http://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Jagobd", JAGONEWS  24
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
+#EXTINF:-1 group-title="Jagobd", NRB TV 
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
+#EXTINF:-1 group-title="Jagobd", MOVIE BANGLA TV 
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
+#EXTINF:-1 group-title="Jagobd", RAJDHANI TV 
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/live-orgin/rajdhanitv.stream/chunks.m3u8
+#EXTINF:-1 group-title="Jagobd", ATV CANADA TV 
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/live-orgin/atvcanada.stream/chunks.m3u8
+#EXTINF:-1 group-title="Jagobd", AMAR BANGLA TV 
+http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8
+
 
 #EXTINF:-1 group-title="jagobd" tvg-logo=" ",
 
@@ -103,19 +129,10 @@ http://livess.ncare.live/live-orgin/uatv.stream/playlist.m3u8
 #EXTINF:-1, SPORTS18 HD
 http://172.17.50.112/live/fifa2022/index.m3u8
 
-#EXTINF:-1,TSPORTS HD
-http://113.212.111.246:8080/hls/col12.m3u8
-#EXTINF:-1,DEEPTO TV HD
-http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1,MAASRANGA TV HD
-http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1, GAZI TV HD
-http://172.20.2.5:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, CHANNEL 24 HD (JAGO)
 https://livess.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
 
-#EXTINF:-1, SOMOY TV (JAGO)
-http://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
 #EXTINF:-1, SOMOY TV
 http://ln.run/Ab6do
 #EXTINF:-1,  INDEPENDENT TV
@@ -164,8 +181,7 @@ https://humsab.xyz/PAK_ARYTVG/tracks-v1a1/mono.m3u8
 https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS HD
 https://humsab.xyz/IN_CTVS/tracks-v1a1/mono.m3u8
-#EXTINF:-1,NOBANNO TV (JAGO)
-https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
+
 
 #EXTINF:-1,RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
@@ -200,22 +216,8 @@ http://streamcloud.biz:1935/Friendstv/friendstv/chunklist_w1259473813.m3u8
 https://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/chunks.m3u8
 #EXTINF:-1,NAN TV (JAGO)
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/chunks.m3u8
-#EXTINF:-1,B24C TV (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/live-orgin/b24c.stream/chunks.m3u8
-#EXTINF:-1,JAGONEWS  24 (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1,CHANNEL S UK (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1,NRB TV (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/chunks.m3u8
-#EXTINF:-1,MOVIE BANGLA TV (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1,RAJDHANI TV (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/live-orgin/rajdhanitv.stream/chunks.m3u8
-#EXTINF:-1,ATV CANADA TV (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/live-orgin/atvcanada.stream/chunks.m3u8
-#EXTINF:-1,AMAR BANGLA TV (JAGO)
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/live-orgin/amarbanglatv.stream/chunks.m3u8
+
+
 #EXTINF:-1,BISWA BANGLA TV (JAGO)
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1,ATN MUSIC (JAGO)
