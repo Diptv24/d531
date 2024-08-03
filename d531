@@ -1,3 +1,105 @@
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg", AL JAZEERA
+http://livess.ncare.live/live-orgin/aljazeera.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x50681", Ananda Tv
+http://livess.ncare.live/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x50681", Asian Tv
+http://livess.ncare.live/live-orgin/asiantv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x50681", Atn Bangla
+http://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x50681", Atn Bangla Uk
+http://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x50681", ATN ISLAMIC
+http://livess.ncare.live/live-orgin/atnislamic.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681", ATN MUSIC
+http://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x50681", ATN NEWS
+http://livess.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/04/azantvs.jpg", AZAN TV
+http://livess.ncare.live/live-orgin/azantv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg", B24C BANGLA
+https://livess.ncare.live/live-orgin/b24c.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+http://livess.ncare.live/live-orgin/bangla21tv000889956-sg.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+#EXTINF:-1 group-title="jagobd" tvg-logo=" ",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1, SPORTS18 HD
 http://172.17.50.112/live/fifa2022/index.m3u8
 
