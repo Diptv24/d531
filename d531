@@ -111,18 +111,27 @@ http://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/jhankartv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/Jonmobhumi-Logo-2.jpg?x50681", JONMOBUMI TV
 http://livess.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg?x50681", MAKKAH LIVE
+http://livess.ncare.live/live-orgin/makkah.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/04/makkahtv.jpg?x50681", MAKKAH TV
+http://livess.ncare.live/live-orgin/makkah.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg?x50681", MODINA LIVE
+http://livess.ncare.live/live-orgin/madina.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg?x50681", MillenniumTV
+http://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
 
 
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
 
+
+
+#EXTINF:-1 group-title="jagobd" tvg-logo="", 
+#EXTINF:-1 group-title="jagobd" tvg-logo="", 
+http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="", 
+http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="", 
+http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="", 
 
 
 
