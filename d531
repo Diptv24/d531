@@ -7,11 +7,13 @@ http://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Jagobd", EKHON TV HD
 http://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Jagobd", EKHON TV HD
+http://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Jagobd", RTV HD
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/live-orgin/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x50681", CHANNEL-I
 http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
-aW51aiPhnPTI/globaltv.stream/live-orgin/globaltv.stream/chunks.m3u8
+
 #EXTINF:-1, DEEPTO TV HD
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 group-title="Jagobd", DEEPTO TV 
