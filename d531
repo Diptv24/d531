@@ -25,7 +25,7 @@ http://mtlivestream.com/asian/ytlive/index.m3u8
 http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 #EXTINF:-1, BANGLA TV UK
 http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1, EKISHEY TV
+#EXTINF:-1, EKUSHEY TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg", AL JAZEERA
 http://livess.ncare.live/live-orgin/aljazeera.stream/playlist.m3u8
@@ -77,10 +77,8 @@ http://livess.ncare.live/live-orgin/channel9hd.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x50681", CHANNEL S UK
 http://livess.ncare.live/live-orgin/chsukoff.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg", COLOSAL TV
 http://livess.ncare.live/live-orgin/colosal.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png", DEEN TV
 http://livess.ncare.live/live-orgin/deentv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1.png", DESH TV
@@ -88,7 +86,7 @@ http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg", DESHE BIDESHE TV
 http://livess.ncare.live/live-orgin/deshebideshe.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/07/dwnews.jpg",  DW NEWS
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+http://livess.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x50681", EKUSHEY TV
 http://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/07/francenews24.jpg", FRANCE 24
@@ -99,21 +97,22 @@ http://livess.ncare.live/live-orgin/uatv.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg", GREEN TV
 http://livess.ncare.live/live-orgin/greentv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/shreebangla-150x150.jpg?x50681:", SREE BANGA 
 http://livess.ncare.live/live-orgin/shreebangla.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds-150x150.png?x50681", INDEPENDENT TV
 http://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x50681", ICON TV 
 http://livess.ncare.live/live-orgin//iontvuk.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CSB-News-USA.jpg?x50681",  CSB NEWS
+http://livess.ncare.live/live-orgin/csbnews.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg?x50681", IQRA BANGLA
+http://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg?x50681", JHANKAR TV
+http://livess.ncare.live/live-orgin/jhankartv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/Jonmobhumi-Logo-2.jpg?x50681", JONMOBUMI TV
+http://livess.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
+
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="', 
 http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="', 
