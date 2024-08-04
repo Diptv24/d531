@@ -129,15 +129,12 @@ http://livess.ncare.live/live-orgin/nantv.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x50681", NTV EUROPE
 http://livess.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="jagobd" tvg-logo="", 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="jagobd" tvg-logo="", 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="jagobd" tvg-logo="", 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvmusic.jpg?x50681", RTV MUSIC
+http://livess.ncare.live/live-orgin/rtvmusic.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x50681", SATV HD
+http://livess.ncare.live/live-orgin/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/03/TehelkaTV.png?x50681",  TEHELLKA TV
+http://livess.ncare.live/live-orgin/tehelkatv.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="jagobd" tvg-logo="", 
 http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
