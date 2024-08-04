@@ -100,12 +100,12 @@ http://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/green-tv.jpg", GREEN TV
 http://livess.ncare.live/live-orgin/greentv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="', 
-http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/shreebangla-150x150.jpg?x50681:", SREE BANGA 
+http://livess.ncare.live/live-orgin/shreebangla.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/inds-150x150.png?x50681", INDEPENDENT TV
+http://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/10/iontvuk.jpg?x50681", ICON TV 
+http://livess.ncare.live/live-orgin//iontvuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="', 
 http://livess.ncare.live/live-orgin/.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="', 
