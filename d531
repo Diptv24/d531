@@ -2539,3 +2539,110 @@ http://172.20.2.5:8082/Ekushey-TV/tracks-v1a1/mono.m3u8?token=4a60cf68b621735136
 http://172.20.2.5:8082/Somoy-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Ten cricket 
 https://sltlivetestgcp.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?|drmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+
+
+#EXTINF:-1, Movies TV ENGLISH 
+https://linear-797.frequency.stream/mt/studio/797/hls/master/playlist.m3u8
+
+#EXTINF:-1, Movies channel English 
+https://linear-796.frequency.stream/mt/studio/796/hls/master/playlist.m3u8
+
+
+#EXTINF:-1, Movies 1080p English 
+https://linear-798.frequency.stream/mt/studio/798/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one hits action 
+https://linear-817.frequency.stream/mt/studio/817/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one comedie
+https://linear-818.frequency.stream/mt/studio/818/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one series comedie
+https://linear-819.frequency.stream/mt/studio/819/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one Favoris
+https://linear-820.frequency.stream/mt/studio/820/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one exitos
+https://linear-832.frequency.stream/mt/studio/832/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one s&c
+https://linear-831.frequency.stream/mt/studio/831/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one thriller 
+https://linear-821.frequency.stream/mt/studio/821/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one blaclist
+https://linear-822.frequency.stream/mt/studio/822/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one film 
+https://linear-823.frequency.stream/mt/studio/823/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one film d
+https://linear-824.frequency.stream/mt/studio/824/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one serie
+https://linear-825.frequency.stream/mt/studio/825/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one pop
+https://linear-826.frequency.stream/mt/studio/826/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one serie Thirll
+https://linear-827.frequency.stream/mt/studio/827/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one shark tank 
+https://linear-828.frequency.stream/mt/studio/828/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one thriller Tv
+https://linear-816.frequency.stream/mt/studio/816/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one best of
+https://linear-815.frequency.stream/mt/studio/815/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one hits action 
+https://linear-829.frequency.stream/mt/studio/829/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one  hits comedie
+https://linear-830.frequency.stream/mt/studio/830/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one comedy tv
+https://linear-814.frequency.stream/mt/studio/814/hls/master/playlist.m3u8
+
+#EXTINF:-1, Sony one comedy hits
+https://linear-813.frequency.stream/mt/studio/813/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one action hits
+https://linear-812.frequency.stream/mt/studio/812/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one dragons den
+https://linear-811.frequency.stream/mt/studio/811/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one dragons den 1
+https://linear-810.frequency.stream/mt/studio/810/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one thriller tv
+https://linear-809.frequency.stream/mt/studio/809/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one thriller 
+https://linear-808.frequency.stream/mt/studio/808/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one faves
+https://linear-807.frequency.stream/mt/studio/807/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one faves 1
+https://linear-806.frequency.stream/mt/studio/806/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one comedy tv
+https://linear-805.frequency.stream/mt/studio/805/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one comedy tv 2
+https://linear-804.frequency.stream/mt/studio/804/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one comedy hits 2
+https://linear-803.frequency.stream/mt/studio/803/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one comedy hits 3
+https://linear-802.frequency.stream/mt/studio/802/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one action hits 2
+https://linear-801.frequency.stream/mt/studio/801/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one action hits 3
+https://linear-800.frequency.stream/mt/studio/800/hls/master/playlist.m3u8
+#EXTINF:-1, West tv
+https://linear-799.frequency.stream/mt/studio/799/hls/master/playlist.m3u8
+#EXTINF:-1, Movies 1080p English 
+https://linear-795.frequency.stream/mt/studio/795/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one s&t
+https://linear-833.frequency.stream/mt/studio/833/hls/master/playlist.m3u8
+#EXTINF:-1, Sony one blacklist
+https://linear-834.frequency.stream/mt/studio/834/hls/master/playlist.m3u8
+
+
