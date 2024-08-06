@@ -14,6 +14,8 @@ http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 
 
+#EXTING:-1, SANANDA TV
+http://live.sanandatelevision.in:2020/sananda/index.m3u8
 #EXTINF:-1, DEEPTO TV HD
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
