@@ -50,15 +50,15 @@ http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png", DEEPTO TV 
 http://livess.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 #EXTINF:-1, Tv9 bangla
-http://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
+https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
 #EXTINF:-1, News 18 BANGLA 
-http://jmp2.uk/SamsungTVPlus/INBD25000081V.m3u8
+https://jmp2.uk/SamsungTVPlus/INBD25000081V.m3u8
 #EXTINF:-1, R BANGLA 
-http://jmp2.uk/SamsungTVPlus/INBD2500016OR.m3u
+https://jmp2.uk/SamsungTVPlus/INBD2500016OR.m3u
 #EXTING:-1, SANANDA TV
-http://live.sanandatelevision.in:2020/sananda/index.m3u8
+https://live.sanandatelevision.in:2020/sananda/index.m3u8
 #EXTINF:-1, DEEPTO TV HD
-http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
 #EXTINF:-1, MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
