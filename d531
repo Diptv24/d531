@@ -2668,5 +2668,29 @@ https://linear-795.frequency.stream/mt/studio/795/hls/master/playlist.m3u8
 https://linear-833.frequency.stream/mt/studio/833/hls/master/playlist.m3u8
 #EXTINF:-1, Sony one blacklist
 https://linear-834.frequency.stream/mt/studio/834/hls/master/playlist.m3u8
+#EXTINF:-1, ESPN 1
+http://144.178.85.10:8080/ESPN1/index.m3u8
+#EXTINF:-1, ESPN 2
+http://144.178.85.10:8080/ESPN2/index.m3u8
+#EXTINF:-1, ESPN 3
+http://144.178.85.10:8080/ESPN3/index.m3u8
+#EXTINF:-1, ESPN 4
+http://144.178.85.10:8080/ESPN4/index.m3u8
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+
+
 
 
