@@ -21,6 +21,10 @@ http://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",DEEPTO TV
 http://livess.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x50681",MY TV
+http://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1. NAGORIK TV
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Tv9 bangla
 https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
 #EXTINF:-1 ,News 18 BANGLA
@@ -85,8 +89,8 @@ http://livess.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/madina.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg?x50681",MillenniumTV
 http://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x50681",MY TV
-http://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+
+
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png?x50681",NAN TV
 http://livess.ncare.live/live-orgin/nantv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x50681",NTV EUROPE
@@ -153,8 +157,7 @@ https://humsab.xyz/IN_STS/tracks-v1a1/mono.m3u8
 https://humsab.xyz/IN_CTVS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
-#EXTINF:-1 ,#EXTINF:-1. NAGORIK TV
-https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,FRIENDS BANGLA TV
 http://streamcloud.biz:1935/Friendstv/friendstv/chunklist_w1259473813.m3u8
 #EXTINF:-1 ,NOBANNO TV (JAGO)
