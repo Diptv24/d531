@@ -2475,5 +2475,46 @@ https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
 #EXTINF:-1 ,RTV HD
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
-#EXTINF:-1 ,R BANGLA NEWS
+#EXTINF:-1 , R BANGLA NEWS
 https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
+
+
+#EXTINF:-1 ,Gem Bollywood 
+http://50.7.218.122:8080/gembollywood/index.m3u8
+
+#EXTINF:-1 ,Gem tv
+http://50.7.218.122:8080/gemtv/index.m3u8
+
+#EXTINF:-1 ,Gem az
+http://50.7.218.122:8080/gemaz/index.m3u8
+
+#EXTINF:-1 ,Gem comedy
+http://50.7.218.122:8080/gemcomedy/index.m3u8
+
+#EXTINF:-1 ,Gem series 
+http://50.7.218.122:8080/gemseries/index.m3u8
+
+#EXTINF:-1 ,Gem kids
+http://50.7.218.122:8080/gemkids/index.m3u8
+
+#EXTINF:-1 ,Gem life
+http://50.7.218.122:8080/gemlife/index.m3u8
+
+#EXTINF:-1 ,Gem food
+http://50.7.218.122:8080/gemfood/index.m3u8
+
+#EXTINF:-1 ,Gem river 
+http://50.7.218.122:8080/gemriver/index.m3u8
+
+#EXTINF:-1 ,Gem drama
+http://50.7.218.122:8080/gemdrama/index.m3u8
+
+#EXTINF:-1 ,Gem rubix 
+http://50.7.218.122:8080/gemrubix/index.m3u8
+
+#EXTINF:-1 ,Gem classic 
+http://50.7.218.122:8080/gemclassic/index.m3u8
+
+
+#EXTINF:-1 ,Gem junior 
+http://50.7.218.122:8080/gemjunior/index.m3u8
