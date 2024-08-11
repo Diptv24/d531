@@ -2476,10 +2476,12 @@ https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 https://ythls.armelin.one/channel/UC200cnk8CCEkNAIubWtDsLw.m3u8
 #EXTINF:-1 group-title="YT" tvg-logo="http://127.0.0.1/",SATV [Youtube]
 https://ythls.armelin.one/channel/UCl13d2BTcnn_wQmlpWV_Ctw.m3u8
-#EXTINF:-1 ,RTV HD
+#EXTINF:-1 group-title="YT", RTV HD
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
-#EXTINF:-1 , R BANGLA NEWS
+#EXTINF:-1 group-title="YT", R BANGLA NEWS
 https://ythls.armelin.one/channel/UCajVjEHDoVn_AHsunUZz_EQ.m3u8
+#EXTINF:-1 group-title="YT", Kolkata Tv
+https://ythls.armelin.one/channel/UCNvCQpcafnbW4KQ8X7oQ9kg.m3u8
 
 
 #EXTINF:-1 ,Gem Bollywood 
