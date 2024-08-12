@@ -90,6 +90,8 @@ http://livess.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/madina.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg?x50681",MillenniumTV
 http://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg?x50681",MillenniumTV 24
+https://tinyurl.com/Mnnews24
 
 
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png?x50681",NAN TV
