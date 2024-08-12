@@ -3,7 +3,7 @@
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://jagoroni.tv/images/c3.png",Jagoroni  TV
 https://global.ncare.live/streams/jagoronitv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="http://tinyurl.com/imagejamunatv",JAMUNA TV
+#EXTINF:-1 group-title="jagobd" tvg-logo="http://tinyurl.com/imagejamuna",JAMUNA TV
 http://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://channels.com.bd/asian/img/logo_channels_online.png",CHANNEL-S HD
 http://livess.ncare.live/live-orgin/channels.stream/playlist.m3u8
