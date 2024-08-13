@@ -2541,5 +2541,5 @@ http://172.16.172.112/live/fifa2022/index.m3u8
 http://172.16.172.112/live/feed1001/index.m3u8
 
 
-#EXTING:-1 tvg-logo="http://tinyurl.com/imagezeebangla", ZEE BANGLA HD
+#EXTINF:-1 tvg-logo="http://tinyurl.com/imagezeebangla", ZEE BANGLA HD
 http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
