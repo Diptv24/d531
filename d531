@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/image-rtvhd", RTV HD
+http://tinyurl.com/tv-somoy
 #EXTINF:-1  tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi TV
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://jagoroni.tv/images/c3.png",Jagoroni  TV
