@@ -2530,3 +2530,14 @@ http://50.7.218.122:8080/gemclassic/index.m3u8
 http://50.7.218.122:8080/gemjunior/index.m3u8
 #EXTINF:-1, TEN CRICKET HD
 https://v.gd/tencricket
+#EXTINF:-1, STAR MOVIES HD
+http://172.16.172.112/live/feed1004/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://tinyurl.com/imagestarjalsha", STAR JALSJA
+http://172.16.172.112/live/feed1003/index.m3u8
+#EXTINF:-1, SPORTS18 HD
+http://172.16.172.112/live/fifa2022/index.m3u8
+#EXTINF:-1, TEN 5 HD
+http://172.16.172.112/live/feed1001/index.m3u8
+
+
