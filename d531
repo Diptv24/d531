@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="http://tinyurl.com/image-deepto", DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-logo="http://tinyurl.com/image-maasranga", MAASRANGA TV HD
+http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tinyurl.com/image-duronto", Duronto Tv
+https://tv5.hoichoi24.com/1402/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi TV
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://jagoroni.tv/images/c3.png",Jagoroni  TV
@@ -31,10 +36,8 @@ https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
 #EXTINF:-1 ,News 18 BANGLA
 https://jmp2.uk/SamsungTVPlus/INBD25000081V.m3u8
-#EXTINF:-1 ,DEEPTO TV HD
-https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 ,MAASRANGA TV HD
-http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+?
+
 #EXTINF:-1 ,BANGLA TV HD
 http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
 #EXTINF:-1 ,BANGLA TV UK
