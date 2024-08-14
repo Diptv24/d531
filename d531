@@ -5,6 +5,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-duronto", Duronto Tv
 https://tv5.hoichoi24.com/1402/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://tinyurl.com/image-nagoriktv", Nagorik Tv HD
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi TV
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://jagoroni.tv/images/c3.png",Jagoroni  TV
