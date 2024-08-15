@@ -40,6 +40,8 @@ https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
 #EXTINF:-1 ,News 18 BANGLA
 https://jmp2.uk/SamsungTVPlus/INBD25000081V.m3u8
 ?
+#EXTINF:-1, PADMA CABLE VISION
+https://vstechs.in/live/Devine/index.m3u8
 
 #EXTINF:-1 ,BANGLA TV HD
 http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
@@ -2126,9 +2128,9 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 ,Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 ,Enter 10 Bangla
+#EXTINF:-1 group-title="kolkata", Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 ,Sangeet Bangla
+#EXTINF:-1 group-title="kolkata", Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/index.m3u8
 #EXTINF:-1 ,Star Bharat HD
 http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
@@ -2462,15 +2464,15 @@ http://144.178.85.10:8080/ESPN2/index.m3u8
 http://144.178.85.10:8080/ESPN3/index.m3u8
 #EXTINF:-1 ,ESPN 4
 http://144.178.85.10:8080/ESPN4/index.m3u8
-#EXTINF:-1 ,Star JALSHA
+#EXTINF:-1 group-title="kolkata", Star JALSHA
 http://217.20.112.199/starjalshahd/index.m3u8
-#EXTINF:-1 ,Zee bangla
+#EXTINF:-1 group-title="kolkata", Zee bangla
 http://217.20.112.199/zeebangla/index.m3u8
-#EXTINF:-1 ,Colors bangla
+#EXTINF:-1 group-title="kolkatq", Colors bangla
 http://217.20.112.199/colorsbangla/index.m3u8
-#EXTINF:-1 ,Zee cinema
+#EXTINF:-1 group-title="Hindi", Zee cinema
 http://217.20.112.199/zeecinema/index.m3u8
-#EXTINF:-1 ,Star Gold
+#EXTINF:-1 group-title="Hindi", Star Gold
 http://217.20.112.199/stargold/index.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",JAMUNA TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
@@ -2550,3 +2552,46 @@ http://172.16.172.112/live/feed1001/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tinyurl.com/imagezeebangla", ZEE BANGLA HD
 http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
+
+
+Shahin Dipu:
+#EXTINF:-1 group-title="Hindi", COLORS HD 
+http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", Zee TV HD 
+http://116.202.46.40:9023/ZEE_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", And TV HD 
+http://116.202.46.40:9023/AND_TV_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", Sony HD
+http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", SONY SAB
+http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", Sony Max HD 
+http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", Star Gold HD
+http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", Star Gold Select HD
+http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", STAR BHARAT HD
+http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
+#EXTINF:-1, TBN 24 NEWS
+http://cdn01.palki.tv/live/TBN24-M/index.m3u8
+
+BDIX FTP IPTV M3U8:
+#EXTINF:-1 group-title="Hindi", Star gold 
+http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
+
+
+#EXTINF:-1 group-title="Hindi", Sony max 
+http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
+
+#EXTINF:-1 group-title="Hindi", SONY SAB HD
+http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
+
