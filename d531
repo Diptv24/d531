@@ -2124,7 +2124,7 @@ https://de1se01.v2beat.live/playlist.m3u8
 https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
 #EXTINF:-1 ,Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-#EXTINF:-1 ,IPL 2024 Star Sports 1
+#EXTINF:-1 group-title="SPORTS", Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 ,Maasranga TV
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
@@ -2154,11 +2154,60 @@ http://195.26.87.217/live.ts?channelId=40479&uid=7435&deviceMac=00:1A:79:51:4B:3
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 ,Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 ,Star Sports Select 1
+#EXTINF:-1 group-title="SPORTS", Star Sports Select 1
 http://103.120.172.74:1030
-#EXTINF:-1 ,Sports 18 1 HD
+#EXTINF:-1,Zee Marathi
+http://103.120.172.74:1040
+#EXTINF:-1,Star Pravah
+http://103.120.172.74:1060
+#EXTINF:-1,Colors
+http://103.120.172.74:1070
+#EXTINF:-1,Hindi News
+http://103.120.172.74:1090
+#EXTINF:-1,SET India
+http://103.120.172.74:1110
+#EXTINF:-1,StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1,Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1,Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1,DD news
+http://103.120.172.74:1170
+#EXTINF:-1,Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1,Zee Cinema
+http://103.120.172.74:4100
+#EXTINF:-1 group-title="SPORTS", Star Sports 2
+http://103.120.172.74:4200
+#EXTINF:-1,StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1,Sony SAB
+http://103.120.172.74:4400
+#EXTINF:-1 group-title="SPORTS",Star Sports Select 2
+http://103.120.172.74:4700
+#EXTINF:-1 group-title="SPORTS",Sony Sports Ten 2
+http://103.120.172.74:4800
+#EXTINF:-1,Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1,SET
+http://103.120.172.74:5100
+#EXTINF:-1,Star Bharat
+http://103.120.172.74:5200
+#EXTINF:-1 group-title="SPORTS",Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1 group-title="SPORTS",Sony Sports Ten 1
+http://103.120.172.74:5400
+#EXTINF:-1,NDTV
+http://103.120.172.74:5500
+
+
+
+#EXTINF:-1 group-title="SPORTS", Star Sports Select 1
+http://103.120.172.74:1030
+#EXTINF:-1 group-title="SPORTS",Sports 18 1 HD
 http://tv.cloudcdn.me/live.ts?channelId=102479&uid=4944&deviceMac=00:1A:79:94:98:FE
-#EXTINF:-1 ,Sports 18 1 HD
+#EXTINF:-1 group-title="SPORTS",Sports 18 1 HD
 http://103.120.172.74:5500
 #EXTINF:-1 ,MU TV
 https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
@@ -2322,7 +2371,7 @@ http://103.131.214.129:9985/stream/channelid/262238580.m3u8
 http://103.131.214.129:9985/stream/channelid/1036861532.m3u8
 #EXTINF:-1 ,STAR SPORTS 1 HD
 http://50.7.218.122:80/sp1hd/index.m3u8
-#EXTINF:-1 ,RTA SPORTS
+#EXTINF:-1 group-title="SPORTS",RTA SPORTS
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/02.m3u8
 #EXTINF:-1 ,CHANNEL 1
 https://tv5.hoichoi24.com/1000/tracks-v1a1/mono.m3u8?
@@ -2356,21 +2405,21 @@ https://tv5.hoichoi24.com/1406/tracks-v1a1/mono.m3u8?
 https://tv5.hoichoi24.com/1408/tracks-v1a1/mono.m3u8?
 #EXTINF:-1 ,CHANNEL 412
 https://tv5.hoichoi24.com/1411/tracks-v1a1/mono.m3u8?
-#EXTINF:-1 ,BEIN sports extra
+#EXTINF:-1 group-title="SPORTS",BEIN sports extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 ,BEIN sport 1 France
+#EXTINF:-1 group-title="SPORTS",BEIN sport 1 France
 http://51.178.65.238/BeinSport/mono.m3u8
-#EXTINF:-1 ,Eurosport 1 hd
+#EXTINF:-1 group-title="SPORTS",Eurosport 1 hd
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
-#EXTINF:-1 ,Eurosport 2
+#EXTINF:-1 group-title="SPORTS",Eurosport 2
 http://sc.id-tv.kz/Eurosport_2HD_34_35.m3u8
-#EXTINF:-1 ,Eurosport 1 h
+#EXTINF:-1 group-title="SPORTS",Eurosport 1 h
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1 hd
+#EXTINF:-1 group-title="SPORTS",Eurosport 1 hd
 http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 ,Eurosport 1 hd
+#EXTINF:-1 group-title="SPORTS",Eurosport 1 hd
 http://109.233.89.166/Eurosport_1_HD/mono.m3u8
-#EXTINF:-1 ,Eurosport 1 hd
+#EXTINF:-1 group-title="SPORTS", Eurosport 1 hd
 http://217.27.239.226:8888/play/35/index.m3u8
 
 
@@ -2460,23 +2509,23 @@ https://linear-795.frequency.stream/mt/studio/795/hls/master/playlist.m3u8
 https://linear-833.frequency.stream/mt/studio/833/hls/master/playlist.m3u8
 #EXTINF:-1 ,Sony one blacklist
 https://linear-834.frequency.stream/mt/studio/834/hls/master/playlist.m3u8
-#EXTINF:-1 ,ESPN 1
+#EXTINF:-1 group-title="SPORTS",ESPN 1
 http://144.178.85.10:8080/ESPN1/index.m3u8
-#EXTINF:-1 ,ESPN 2
+#EXTINF:-1 group-title="SPORTS",ESPN 2
 http://144.178.85.10:8080/ESPN2/index.m3u8
-#EXTINF:-1 ,ESPN 3
+#EXTINF:-1 group-title="SPORTS",ESPN 3
 http://144.178.85.10:8080/ESPN3/index.m3u8
-#EXTINF:-1 ,ESPN 4
+#EXTINF:-1 group-title="SPORTS",ESPN 4
 http://144.178.85.10:8080/ESPN4/index.m3u8
-#EXTINF:-1 group-title="kolkata", Star JALSHA
+#EXTINF:-1 group-title="DISHTV", Star JALSHA
 http://217.20.112.199/starjalshahd/index.m3u8
-#EXTINF:-1 group-title="kolkata", Zee bangla
+#EXTINF:-1 group-title="DISHTV", Zee bangla
 http://217.20.112.199/zeebangla/index.m3u8
-#EXTINF:-1 group-title="kolkatq", Colors bangla
+#EXTINF:-1 group-title="DISHTV", Colors bangla
 http://217.20.112.199/colorsbangla/index.m3u8
-#EXTINF:-1 group-title="Hindi", Zee cinema
+#EXTINF:-1 group-title="DISHTV", Zee cinema
 http://217.20.112.199/zeecinema/index.m3u8
-#EXTINF:-1 group-title="Hindi", Star Gold
+#EXTINF:-1 group-title="TATAPLAY", Star Gold
 http://217.20.112.199/stargold/index.m3u8
 #EXTINF:-1  tvg-logo="https://edge01.iptv.digijadoo.net/static/jamuna_tv.png",JAMUNA TV
 https://ythls.armelin.one/channel/UCN6sm8iHiPd0cnoUardDAnw.m3u8
@@ -2559,47 +2608,47 @@ http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 
 
 Shahin Dipu:
-#EXTINF:-1 group-title="Hindi", COLORS HD 
+#EXTINF:-1 group-title="AIRTEL", COLORS HD 
 http://116.202.46.40:9023/COLORS_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", Zee TV HD 
+#EXTINF:-1 group-title="AIRTEL", Zee TV HD 
 http://116.202.46.40:9023/ZEE_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", And TV HD 
+#EXTINF:-1 group-title="AIRTEL", And TV HD 
 http://116.202.46.40:9023/AND_TV_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", Sony HD
+#EXTINF:-1 group-title="AIRTEL", Sony HD
 http://116.202.46.40:9023/SONY_TV_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", SONY SAB
+#EXTINF:-1 group-title="AIRTEL", SONY SAB
 http://116.202.46.40:9023/SONY_SAB_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", Sony Max HD 
+#EXTINF:-1 group-title="AIRTEL", Sony Max HD 
 http://116.202.46.40:9023/SONY_MAX_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", Star Gold HD
+#EXTINF:-1 group-title="TATAPLAY", Star Gold HD
 http://116.202.46.40:9023/STAR_GOLD_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", Star Gold Select HD
+#EXTINF:-1 group-title="AIRTEL", Star Gold Select HD
 http://116.202.46.40:9023/STAR_GOLD_SELECT_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", STAR BHARAT HD
+#EXTINF:-1 group-title="TATAPLAY", STAR BHARAT HD
 http://116.202.46.40:9023/STAR_BHARAT/index.m3u8
 #EXTINF:-1, TBN 24 NEWS
 http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 
 BDIX FTP IPTV M3U8:
-#EXTINF:-1 group-title="Hindi", Star gold 
+#EXTINF:-1 group-title="TATAPLAY", Star gold 
 http://116.202.46.40:789/STAR_GOLD_HINDI/index.m3u8
 
 
-#EXTINF:-1 group-title="Hindi", Sony max 
+#EXTINF:-1 group-title="AIRTEL", Sony max 
 http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 
-#EXTINF:-1 group-title="Hindi", SONY SAB HD
+#EXTINF:-1 group-title="AIRTEL", SONY SAB HD
 http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 
 #EXTINF:-1, ZINA WILD
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
-#EXTINF:-1, FAST SPORTS 
+#EXTINF:-1 group-title="SPORTS", FAST SPORTS 
 https://stream01.vnet.am/Channel_131/mono.m3u8
