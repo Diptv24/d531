@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-#EXTINF:-1, TSPORTS HD
-https://cdn.querysports.com/hls/copa_1080.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-deeptotv", DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-maasranga", MAASRANGA TV HD
@@ -2652,3 +2649,6 @@ http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS", FAST SPORTS 
 https://stream01.vnet.am/Channel_131/mono.m3u8
+#EXTINF:-1, CRICKET GOLD TV
+
+https://jmp2.uk/SamsungTVPlus/IN1300001NN.m3u8
