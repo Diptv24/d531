@@ -9,12 +9,19 @@ https://tv5.hoichoi24.com/1402/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-nagoriktv", Nagorik Tv HD
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi TV
+#EXTINF:-1 group-title="jagobd" tvg-logo="http://live.probashinews24.tv/images/logo.png",Probashi TV
 http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://jagoroni.tv/images/c3.png",Jagoroni  TV
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://jagoroni.tv/images/c3.png",Jagoroni  TV
 https://global.ncare.live/streams/jagoronitv.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/image-ekattor", Ekattor TV
+http://livess.ncare.live/live-orgin/ekattor.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="http://tinyurl.com/imagejamuna",JAMUNA TV
 http://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-INDIPENDENT", INDEPENDENT TV
+http://livess.ncare.live/live-orgin/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://channels.com.bd/asian/img/logo_channels_online.png",CHANNEL-S HD
 http://livess.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x50681",SOMOY NEWS
@@ -25,14 +32,31 @@ http://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/nexustv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png",EKHON TV HD
 http://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-GLOBAL", GLOBAL TV HD
+http://livess.ncare.live/live-orgin/Global-g.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x50681",RTV HD
 http://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-RTVMUSIC",RTV MUSIC
+http://livess.ncare.live/live-orgin/rtvmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x50681",CHANNEL-I
 http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png",DEEPTO TV
 http://livess.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x50681",MY TV
 http://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x13834", EKUSHEY TV
+http://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-DESH", DESH TV
+http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-MOHONA", MOHONA TV HD
+http://livess.ncare.live/live-orgin/Mohona-g.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-GAANBANGLA", GAAN BANGLA HD
+http://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-INHOME", IN-HOME HD
+http://livess.ncare.live/live-orgin/hometv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tinyurl.com/imagenagoriktv", NAGORIK TV
 https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
