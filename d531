@@ -2691,3 +2691,7 @@ https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Action_Live_TV/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
+http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
+https://test-tan-iota-90.vercel.app/live/bdix/app/PtvSports.m3u8
