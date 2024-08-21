@@ -2683,7 +2683,11 @@ http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 https://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1, CRICKET GOLD TV
 https://jmp2.uk/SamsungTVPlus/IN1300001NN.m3u8
-#EXTINF:-1, SKY CRICKET
+#EXTINF:-1, SKY SPORTS CRICKET
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
+#EXTINF:-1, SKY SPORTS FOOTBALL 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
+#EXTINF:-1, SKY SPORTS ACTION 
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Action_Live_TV/index.m3u8
 #EXTINF:-1, WILLOW HD
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
