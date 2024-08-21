@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-deeptotv", DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-maasranga", MAASRANGA TV HD
@@ -32,6 +31,8 @@ http://livess.ncare.live/live-orgin/globaltv.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/Global-g.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ETENPRIME", E-TEN PRIME BANGLA
 http://livess.ncare.live/live-orgin/voicetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-BIJOY", BIJOY TV
+http://livess.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x50681",RTV HD
 http://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-RTVMUSIC",RTV MUSIC
@@ -50,6 +51,8 @@ http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/Mohona-g.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-SAMAYKOLKATA", SOMOY KALKATA TV
 http://livess.ncare.live/live-orgin/samaykolkata.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ANANDABARTA", ANANDA BARTA TV
+http://livess.ncare.live/live-orgin/anandabarta.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-GAANBANGLA", GAAN BANGLA HD
 http://livess.ncare.live/live-orgin/gaanbangla-8-orgd.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-INHOME", IN-HOME HD
@@ -60,23 +63,6 @@ http://livess.ncare.live/live-orgin/salamtv.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/voadoc.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-VOA", VOA TV
 http://livess.ncare.live/live-orgin/voa.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://tinyurl.com/imagenagoriktv", NAGORIK TV
-https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Tv9 bangla
-https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
-#EXTINF:-1 ,News 18 BANGLA
-https://jmp2.uk/SamsungTVPlus/INBD25000081V.m3u8
-?
-#EXTINF:-1, PADMA CABLE VISION
-https://vstechs.in/live/Devine/index.m3u8
-
-#EXTINF:-1 ,BANGLA TV HD
-http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
-#EXTINF:-1 ,BANGLA TV UK
-http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 ,EKUSHEY TV
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg",AL JAZEERA
 http://livess.ncare.live/live-orgin/aljazeera.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x50681",Ananda Tv
@@ -87,7 +73,6 @@ http://livess.ncare.live/live-orgin/atnbd-8-org.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/atnmusic.jpg?x50681",ATN MUSIC
 http://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/image-batv", BATV Bangla
 http://livess.ncare.live/live-orgin/batv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg",B24C BANGLA
@@ -132,8 +117,6 @@ http://livess.ncare.live/live-orgin/madina.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/08/millennium24.jpg?x50681",MillenniumTV 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mnews24.stream/playlist.m3u8
-
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png?x50681",NAN TV
 http://livess.ncare.live/live-orgin/nantv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/ntveurope.jpg?x50681",NTV EUROPE
@@ -166,6 +149,22 @@ http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/live-orgin/atvcanada.stream/playlist.m3u8
 #EXTINF:-1 group-title="Jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg",AMAR BANGLA TV
 http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/live-orgin/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tinyurl.com/imagenagoriktv", NAGORIK TV
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Tv9 bangla
+https://jmp2.uk/SamsungTVPlus/INBD2500007PD.m3u8
+#EXTINF:-1 ,News 18 BANGLA
+https://jmp2.uk/SamsungTVPlus/INBD25000081V.m3u8
+#EXTINF:-1, PADMA CABLE VISION
+https://vstechs.in/live/Devine/index.m3u8
+#EXTINF:-1 ,BANGLA TV HD
+http://byphdgllyk.gpcdn.net/hls/banglatvbd/0_1/index.m3u8
+#EXTINF:-1 ,BANGLA TV UK
+http://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 ,EKUSHEY TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
 #EXTINF:-1 ,RTV HD (JAGO)
 https://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,CHANNEL 24 HD (JAGO)
@@ -449,8 +448,7 @@ http://livess.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/azantv.stream/playlist.m3u8
 #EXTINF:-1,BANGLA 21 UK
 http://livess.ncare.live/live-orgin/bangla21tv000889956-sg.stream/playlist.m3u8
-#EXTINF:-1,BIJOY TV
-http://livess.ncare.live/live-orgin/bijoy00.stream/playlist.m3u8
+
 #EXTINF:-1,BOISHAKI TV PLUS
 http://livess.ncare.live/live-orgin/boishakhiplus.stream/playlist.m3u8
 #EXTINF:-1,BTV CHATTOGRAM
