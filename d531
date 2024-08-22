@@ -2723,6 +2723,20 @@ https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
 #EXTINF:-1 tvg-logo="SPORTS", SUPER SPORTS ACTION
 https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Action_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Super sports laliga
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Super sports cricket
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Super sports premier league
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Super sports golf
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Golf_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Super sports action
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Action_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Super sports football
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Super sports biltz
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Blitz_Live_TV/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
 http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
