@@ -2681,19 +2681,23 @@ http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS", FAST SPORTS 
 https://stream01.vnet.am/Channel_131/mono.m3u8
-#EXTINF:-1, CRICKET GOLD TV
+#EXTINF:-1 tvg-logo="SPORTS", CRICKET GOLD TV
 https://jmp2.uk/SamsungTVPlus/IN1300001NN.m3u8
-#EXTINF:-1, SKY SPORTS CRICKET
+#EXTINF:-1 tvg-logo="SPORTS", SKY SPORTS CRICKET
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
-#EXTINF:-1, SKY SPORTS FOOTBALL 
+#EXTINF:-1 tvg-logo="SPORTS", SKY SPORTS FOOTBALL 
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
-#EXTINF:-1, SKY SPORTS ACTION 
+#EXTINF:-1 tvg-logo="SPORTS", SKY SPORTS ACTION 
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Action_Live_TV/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tinyurl.com/IMAGE-WILLOWHD", WILLOW HD
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tinyurl.com/IMAGE-WILLOWEXTRA",WILLOW XTRA HD
-https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
-
+#EXTINF:-1 tvg-logo="SPORTS", SUPER SPORTS CRICKET 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", SUPER SPORTS FOOTBALL 
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", SUPER SPORTS ACTION
+https://vipgoodlive-tvs.creativehub.sbs/SuperSport_Action_Live_TV/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
 http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/ptv_sports.jpg",Ptv Sports
