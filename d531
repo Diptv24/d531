@@ -2679,6 +2679,15 @@ http://116.202.46.40:789/SONY_MAX_HINDI/index.m3u8
 #EXTINF:-1 group-title="AIRTEL", SONY SAB HD
 http://116.202.46.40:789/SONY_SAB_HINDI/index.m3u8
 
+#EXTINF:-1 group-title="AIRTEL", ZEE CINEMA HD
+http://116.202.46.40:9023/ZEE_CINEMA_HINDI/index.m3u8
+#EXTINF:-1 group-title="AIRTEL", ZEE BANGLA HD
+http://116.202.46.40:9023/ZEE_BANGLA_HD/index.m3u8
+#EXTINF:-1 group-title="AIRTEL", 
+
+#EXTINF:-1 group-title="AIRTEL", 
+
+
 #EXTINF:-1, ZINA WILD
 http://85.237.89.6:9590/live/zinatvwild/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS", FAST SPORTS 
