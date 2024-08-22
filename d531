@@ -2689,10 +2689,10 @@ https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
 #EXTINF:-1, SKY SPORTS ACTION 
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Action_Live_TV/index.m3u8
-#EXTINF:-1, WILLOW HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tinyurl.com/IMAGE-WILLOWHD", WILLOW HD
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
-#EXTINF:-1, TEN CRICKET HD
-https://sltlivetestgcp.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tinyurl.com/IMAGE-WILLOWEXTRA",WILLOW XTRA HD
+https://vipgoodlive-tvs.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://test-tan-iota-90.vercel.app/images/A_sportshd.jpg",Asports
 http://ekdilhai.pro/PK_PS/index.m3u8?token=f7003f6924312d3482ee2910567d07e1
