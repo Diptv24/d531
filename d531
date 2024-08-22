@@ -2700,6 +2700,20 @@ https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
 #EXTINF:-1 tvg-logo="SPORTS", SKY SPORTS ACTION 
 https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Action_Live_TV/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="SPORTS", SKY SPORTS MAIN EVENT
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", SKY SPORTS PREMIER
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Sky Sports f1
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_F1_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", SKY SPORTS GOLF
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Golf_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Sky Sports football
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8
+#EXTINF:-1 tvg-logo="SPORTS", Sky sports mix
+https://vipgoodlive-tvs.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tinyurl.com/IMAGE-WILLOWHD", WILLOW HD
 https://vipgoodlive-tvs.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://tinyurl.com/IMAGE-WILLOWEXTRA",WILLOW XTRA HD
