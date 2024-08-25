@@ -3,7 +3,7 @@
 http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-zeebanglahd", ZEE BANGLA HD
 http://217.20.112.199/zeebangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://tinyurl.com/image-colorsbanglahd", COLORS BANGLA HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/Image-colorsbanglahd", COLORS BANGLA HD
 http://217.20.112.199/colorsbangla/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-maasranga", MAASRANGA TV HD
