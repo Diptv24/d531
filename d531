@@ -33,9 +33,9 @@ http://livess.ncare.live/live-orgin/rtv-sg.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/channeli-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-DEEPTO",DEEPTO TV
 http://livess.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x50681",MY TV
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-MYTV",MY TV
 http://livess.ncare.live/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x13834", EKUSHEY TV
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-EKUSHTVEY", EKUSHEY TV
 http://livess.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-DESH", DESH TV
 http://livess.ncare.live/live-orgin/deshtv.stream/playlist.m3u8
@@ -81,20 +81,54 @@ http://livess.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/abtvusa.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-JONMOBHUMI",JONMOBUMI TV
 http://livess.ncare.live/live-orgin/jonmobhumitv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-MILI",MillenniumTV
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-MILI", MillenniumTV
 http://livess.ncare.live/live-orgin/millenniumtv-odr-up2.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-NANTV",NAN TV
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-NANTV", NAN TV
 http://livess.ncare.live/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-NTVEUROPE",NTV EUROPE
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-NTVEUROPE", NTV EUROPE
 http://livess.ncare.live/live-orgin/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-GREENTV",GREEN TV
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-GREENTV", GREEN TV
 http://livess.ncare.live/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-IQRABANGLA",IQRA BANGLA
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-IQRABANGLA", IQRA BANGLA
 http://livess.ncare.live/live-orgin/iqrabanglatvoffice.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ATNBANGLAUK",Atn Bangla Uk
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ATNBANGLAUK", ATN BANGLA UK
 http://livess.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ATNMUSIC",ATN MUSIC
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ATNMUSIC", ATN MUSIC
 http://livess.ncare.live/live-orgin/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-CHANNELSUK",CHANNEL S UK
+http://livess.ncare.live/live-orgin/chsukoff.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-THECHANNEL",THE CHANNEL TV
+http://livess.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-NOBANNO",NOBANNO TV
+http://livess.ncare.live/live-orgin/cmtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JAGONEWS  24
+http://livess.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x50681",NRB TV
+http://livess.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",MOVIE BANGLA TV
+http://livess.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://rajdhani.tv/storage/app/image/1709550169rajdhanitv_logo.png",RAJDHANI TV
+http://livess.ncare.live/live-orgin/rajdhanitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO.png",ATV CANADA TV
+http://livess.ncare.live/live-orgin/atvcanada.stream/playlist.m3u8
+#EXTINF:-1 group-title="Jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg",AMAR BANGLA TV
+http://livess.ncare.live/live-orgin/amarbanglatv.stream/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -107,12 +141,10 @@ http://livess.ncare.live/live-orgin/rtvmusic.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/samaykolkata.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-ANANDABARTA", ANANDA BARTA TV
 http://livess.ncare.live/live-orgin/anandabarta.stream/playlist.m3u8
-
 #EXTINF:-1, OTT BANGLA
 http://82.180.145.236:4518/ottbangla247live/index.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-INHOME", IN-HOME HD
 http://livess.ncare.live/live-orgin/hometv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-VOA52", VOA 52 DUCUMENTORY
 http://livess.ncare.live/live-orgin/voadoc.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-VOA", VOA TV
@@ -120,19 +152,11 @@ http://livess.ncare.live/live-orgin/voa.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/AljazeeraTV.jpg",AL JAZEERA
 http://livess.ncare.live/live-orgin/aljazeera.stream/playlist.m3u8
 
-
-
-
-
-
-
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN.png",CGTN
 http://livess.ncare.live/live-orgin/cgtn.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png",CGTN DUCUMENTORY
 http://livess.ncare.live/live-orgin/cgtndoc.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/channelsukup.jpg?x50681",CHANNEL S UK
-http://livess.ncare.live/live-orgin/chsukoff.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd.jpg",COLOSAL TV
 http://livess.ncare.live/live-orgin/colosal.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png",DEEN TV
@@ -161,22 +185,6 @@ http://global.ncare.live/streams/jagoronitv.stream/live-orgin/jagoronitv.stream/
 http://livess.ncare.live/live-orgin/v2beattv.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x50681",TIME TV
 http://livess.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/07/thechanneltv-1.jpg?x50681",THE CHANNEL TV
-http://livess.ncare.live/live-orgin/thechanneltv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://i0.wp.com/nobannotv.com/wp-content/uploads/2023/06/NOBANNOtv-10-Copy-1024x402-1.png?w=1024&ssl=1",NOBANNO TV
-http://livess.ncare.live/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/cmtv.stream/live-orgin/cmtv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JAGONEWS  24
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/live-orgin/jagonews24.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/nrb.jpg?x50681",NRB TV
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/moviebangla.jpg?x50681",MOVIE BANGLA TV
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/live-orgin/moviebanglalink2.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://rajdhani.tv/storage/app/image/1709550169rajdhanitv_logo.png",RAJDHANI TV
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rajdhanitv.stream/live-orgin/rajdhanitv.stream/playlist.m3u8
-#EXTINF:-1 group-title="jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/01/CB24-PP-LOGO.png",ATV CANADA TV
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atvcanada.stream/live-orgin/atvcanada.stream/playlist.m3u8
-#EXTINF:-1 group-title="Jagobd" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg",AMAR BANGLA TV
-http://livess.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/live-orgin/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 ,FRIENDS BANGLA TV
 http://streamcloud.biz:1935/Friendstv/friendstv/chunklist_w1259473813.m3u8
 #EXTINF:-1 ,NOBANNO TV (JAGO)
