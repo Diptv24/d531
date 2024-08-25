@@ -2664,4 +2664,12 @@ http://148.230.180.164:9787/stream/claro-latam/fox-sports-hd/master.m3u8
 https://humsab.xyz/APakSpo/index.m3u8?token=bfaeae8c8599b3970bb1d7b0bc335988
 #EXTINF:-1, SONY SPORTS 5
 https://humsab.xyz/S_Ten5/index.m3u8
+#EXTINF:-1, TNT SPORTS 2
+https://tmsbd.top/sports/m3u8.php/bbtsp2.m3u8
+#EXTINF:-1, TNT SPORTS 1
+https://tmsbd.top/sports/m3u8.php/bbtsp1.m3u8
+#EXTINF:-1, TNT SPORTS 3
+https://tmsbd.top/sports/m3u8.php/bbtsp3.m3u8
+#EXTINF:-1, TNT SPORTS 4
+https://tmsbd.top/sports/m3u8.php/bbtsp4.m3u8
 
