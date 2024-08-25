@@ -1,4 +1,11 @@
 #EXTM3U
+#EXTING:-1 tvg-logo="https://tinyurl.com/image-starjalshahd", STAR JALSHA HD
+http://217.20.112.199/starjalshahd/index.m3u8
+#EXTING:-1 tvg-logo="https://tinyurl.com/image-zeebanglahd", ZEE BANGLA HD
+http://217.20.112.199/zeebangla/index.m3u8
+#EXTING:-1 tvg-logo="https://tinyurl.com/image-colorsbanglahd", COLORS BANGLA HD
+http://217.20.112.199/colorsbangla/index.m3u8
+
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-maasranga", MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-deeptotv", DEEPTO TV HD
@@ -119,23 +126,12 @@ http://livess.ncare.live/live-orgin/islamchbangla.stream/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,  Aamar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1,  Aamar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1,  MON TV Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-RTVMUSIC",RTV MUSIC
 http://livess.ncare.live/live-orgin/rtvmusic.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-SAMAYKOLKATA", SOMOY KALKATA TV
