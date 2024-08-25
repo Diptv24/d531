@@ -2660,4 +2660,8 @@ http://148.230.180.164:9787/stream/claro-latam/fox-sports-2-hd/master.m3u8
 http://148.230.180.164:9787/stream/claro-latam/fox-sports-3-hd/master.m3u8
 #EXTINF:-1 group-title="SPORTS", Fox Sports HD
 http://148.230.180.164:9787/stream/claro-latam/fox-sports-hd/master.m3u8
+#EXTINF:-1, ASports HD
+https://humsab.xyz/APakSpo/index.m3u8?token=bfaeae8c8599b3970bb1d7b0bc335988
+#EXTINF:-1, SONY SPORTS 5
+https://humsab.xyz/S_Ten5/index.m3u8
 
