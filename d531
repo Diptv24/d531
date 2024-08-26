@@ -1,8 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-starjalshahd", STAR JALSHA HD
 http://217.20.112.199/starjalshahd/index.m3u8
+#EXTINF:-1 tvg-logo="https://tinyurl.com/image-starjalshahd", STAR JALSHA HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-zeebanglahd", ZEE BANGLA HD
 http://217.20.112.199/zeebangla/index.m3u8
+EXTINF:-1 tvg-logo="https://tinyurl.com/image-zeebanglahd", ZEE BANGLA HD
+http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=6140&deviceMac=00:1A:79:C1:9A:8C
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/Image-colorsbanglahd", COLORS BANGLA HD
 http://217.20.112.199/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-enter10bangla", ENTER 10 BANGLA
