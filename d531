@@ -45,6 +45,8 @@ http://livess.ncare.live/live-orgin/atnws-sg.stream/playlist.m3u8
 http://livess.ncare.live/live-orgin/Global-g.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-peacetvbangla",  PEACE TV BANGLA
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/image-peacetvbangla",  PEACE TV BANGLA
+http://livess.ncare.live/live-orgin/peacetvban.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-CHANNELSHD",CHANNEL-S HD
 http://livess.ncare.live/live-orgin/channels.stream/playlist.m3u8
 #EXTINF:-1 group-title="jagobd" tvg-logo="https://tinyurl.com/IMAGE-BIJOY", BIJOY TV
