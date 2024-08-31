@@ -22,7 +22,7 @@ http://tv.cloudcdn.me/live.ts?channelId=44150&uid=8164&deviceMac=00:1A:79:17:D4:
 #EXTINF:-1 tvg-logo="https://tinyurl.com/Image-khusboobangla", KHUSHBOO BANGLA
 https://cdn3.pishow.tv/live/283/master.m3u8
 
-#EXTINF:-1, TSPORTD HD
+#EXTINF:-1 tvg-logo="https://tinyurl.com/image-tsportshd", TSPORTD HD
 http://tv.cloudcdn.me/live.ts?channelId=98&uid=8164&deviceMac=00:1A:79:17:D4:A1
 #EXTINF:-1 tvg-logo="http://tinyurl.com/image-maasranga", MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
