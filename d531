@@ -2692,3 +2692,6 @@ https://tmsbd.top/sports/m3u8.php/bbtsp4.m3u8
 #EXTINF:-1, PTV SPORTS HD
 https://ddy6.mizhls.ru:443/ddy6/premium450/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
+
+#EXTING:-1 group-title="AkashGo", Independent tv
+https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd
