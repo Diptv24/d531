@@ -2695,3 +2695,606 @@ https://ddy6.mizhls.ru:443/ddy6/premium450/tracks-v1a1/mono.m3u8?|referer=https:
 
 #EXTINF:-1 group-title="AkashGo", Independent tv
 https://medialive.akash-go.com/out/v1/909029a03ea84e868c1ff72e6e452749/index.mpd
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1,& Picture HD
+http://lifetvbd.xyz:8080/play/YKCmqJkX8--w4Ezr5j8yrg/ts
+#EXTINF:-1,& Tv HD
+http://lifetvbd.xyz:8080/play/jGeMVOyM1pXm6oIP3Qw5Zg/ts
+#EXTINF:-1,&Flix HD
+http://lifetvbd.xyz:8080/play/XxsoHdyajLOKUkLBmXToP8-3bAFBITo-2eUJE12cR4k/ts
+#EXTINF:-1,&Xplore HD
+http://lifetvbd.xyz:8080/play/W5hoJVeZ7xEWxXtA_5cwmg/ts
+#EXTINF:-1,9xm
+http://lifetvbd.xyz:8080/play/XzGtk-56TxnHOSV9MCGwSw/ts
+#EXTINF:-1,Aapka Colors
+http://lifetvbd.xyz:8080/play/ISDZViaqPFLVTqMO9SK5BAbkXtVB_Be7oDg0JxEP3kc/ts
+#EXTINF:-1,ABC News
+http://lifetvbd.xyz:8080/play/FHZ_tu4HfRe_-DvaJg0o2uRqfXp-nNWtAQe-U134F6w/ts
+#EXTINF:-1,ABP Ananda
+http://lifetvbd.xyz:8080/play/iGRJxSpGlQHOUQaioiRzHWM6eNJY0DT2pSxVEwYxeKA/ts
+#EXTINF:-1,Akash Aath D2H
+http://lifetvbd.xyz:8080/play/MLfuXBt8Y8WkIrFAldrYUg/ts
+#EXTINF:-1,Akash Aath Global
+http://lifetvbd.xyz:8080/play/yXNmXnscS9_8GfiYgFtyV3ipPhyRAbnH3DjvScZZ9O4/ts
+#EXTINF:-1,Akit TV (720p)
+http://lifetvbd.xyz:8080/play/NFIWM9rqxdizASAxikf5xCcWUHv9QYoaYoXjFDk819I/ts
+#EXTINF:-1,Al Hayat TV (720p)
+http://lifetvbd.xyz:8080/play/BPnm_NsPA5TyS1FtRzskoIox6wuSU3DeA_lO3yEU42Q/ts
+#EXTINF:-1,AL Jajeera
+http://lifetvbd.xyz:8080/play/JJmxBoAgsJIpYhmOc3sJ2sveeiJK812v319X3D_594Y/ts
+#EXTINF:-1,Al Jazeera Arabic (1080p)
+http://lifetvbd.xyz:8080/play/Ne9-Vu51rYFmSwQbdkgC38ZWYCJ-WvIdXsfyWL6otfg/ts
+#EXTINF:-1,Al Jazeera Mubasher (1080p)
+http://lifetvbd.xyz:8080/play/Ne9-Vu51rYFmSwQbdkgC3x06JhEFH-6t7QpN5MelKyk/ts
+#EXTINF:-1,Al Rayyan (1080p)
+http://lifetvbd.xyz:8080/play/Ne9-Vu51rYFmSwQbdkgC3wWDeFRRLxQ-At_S3apIvgY/ts
+#EXTINF:-1,Al Rayyan Al Qadeem (1080p)
+http://lifetvbd.xyz:8080/play/MrS4i4sIcpDtWSMqWlvjIEEeJqKBaGkUZre6BzvaSqg/ts
+#EXTINF:-1,Alaraby 2 TV (1080p)
+http://lifetvbd.xyz:8080/play/MrS4i4sIcpDtWSMqWlvjIE7A_llEZqLYvXJi7Mpd8Z0/ts
+#EXTINF:-1,Amar Bangla
+http://lifetvbd.xyz:8080/play/_C6Nd7Oe6hN6X9bZ-1ySAuFL2UOl2VzuG8O6jbWBlBE/ts
+#EXTINF:-1,Amitabh Bacchan Hitz
+http://lifetvbd.xyz:8080/play/RCDrq42mse0Cugjm0j8Kq1tqELBjCZm5FMETEgmaWP4/ts
+#EXTINF:-1,Ananda Barta
+http://lifetvbd.xyz:8080/play/_C6Nd7Oe6hN6X9bZ-1ySApDCgEbTOCRKwRAY8-fOHSI/ts
+#EXTINF:-1,Ananda Tv
+http://lifetvbd.xyz:8080/play/axdGNwsDbP1utzgBnD6Tfw/ts
+#EXTINF:-1,Angel TV America (720p)
+http://lifetvbd.xyz:8080/play/UQ3cQSxZi5YoLmyCo5wmjQ1Huf1FtqHru2nnmTFlZTQ/ts
+#EXTINF:-1,Animal Planet HD Hindi
+http://lifetvbd.xyz:8080/play/uJKOlnPSphuVJUNvgy8ZWA/ts
+#EXTINF:-1,Ary Zindegi
+http://lifetvbd.xyz:8080/play/s9PeXGhpN_Yyf6N5G8e-H2i5eaCbkqXGoztobD_x0zY/ts
+#EXTINF:-1,Asian TV HD
+http://lifetvbd.xyz:8080/play/NlV85lhcIm0JsqeG5RJpoA/ts
+#EXTINF:-1,Astro Cricket
+http://lifetvbd.xyz:8080/play/-qFzOlFqMHH5xDSE9IrU0Q/ts
+#EXTINF:-1,ATN Bangla
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTqlh6VmV2P16Dpxmh6HHVvg/ts
+#EXTINF:-1,ATN Music
+http://lifetvbd.xyz:8080/play/Dyw-rzRyucR99XPuzaY19nlyGSPB5gaTW1yHEBFHsSE/ts
+#EXTINF:-1,ATN News
+http://lifetvbd.xyz:8080/play/nYYBehkz37RvG2U7w6LTo2nrCY6OUJlQNNUBmhcfpB4/ts
+#EXTINF:-1,ATN News D2H
+http://lifetvbd.xyz:8080/play/6ONOVpvmoNDkggu3Z396uow7zsoDpUuWtAwa8cJG7dE/ts
+#EXTINF:-1,ATV
+http://lifetvbd.xyz:8080/play/NFIWM9rqxdizASAxikf5xNqq2eUV7r9DWNJ-SZV8hTc/ts
+#EXTINF:-1,AXN
+http://lifetvbd.xyz:8080/play/XlmG3BZoQUqWNXMi818nCA/ts
+#EXTINF:-1,Azan Tv
+http://lifetvbd.xyz:8080/play/I3j9s3lJxIK53B6_Z_vIqw/ts
+#EXTINF:-1,B4u Kadak
+http://lifetvbd.xyz:8080/play/3d2nqKsCdXeUEAtCJ_fXDwSETl27AWXkJADaZ--26Ik/ts
+#EXTINF:-1,B4u Movie
+http://lifetvbd.xyz:8080/play/EEmHRUjjzXqLo-4md5bArg/ts
+#EXTINF:-1,B4u Music
+http://lifetvbd.xyz:8080/play/H7lRu_mwSN_iirnCiPPV2Q/ts
+#EXTINF:-1,b4u Music APAC
+http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGTojOPNol4Fy2rzfwlD1Y1ZTI/ts
+#EXTINF:-1,Bangla Drama D2H
+http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-57WKn9tFwbWCO_vclofI08Q/ts
+#EXTINF:-1,Bangla Movies D2H
+http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-5_M9o-7KFkDISCxYlRLPrg0/ts
+#EXTINF:-1,Bangla Vision
+http://lifetvbd.xyz:8080/play/TyNzeF9vYCrpMQVZKEkZ0Q/ts
+#EXTINF:-1,Bangladesh vs Pakistan LIVE
+http://lifetvbd.xyz:8080/play/MzbyIIXaR1IlnHoeZNSQdppYtaO7VfhNgqpwOkVCeoQ/ts
+#EXTINF:-1,Bangladesh vs Pakistan RH
+http://lifetvbd.xyz:8080/play/3NXYTLUueiGJkxM_pySPH4CQV0VbvmktwB1QE-2J3Vo/ts
+#EXTINF:-1,BBC America
+http://lifetvbd.xyz:8080/play/0rYMaI3l5c02fLfZbSs7tzYgfhHMVDQ3rx8Q9wTn0Cc/ts
+#EXTINF:-1,BBC News
+http://lifetvbd.xyz:8080/play/4TPTZcTLizFF32TM7wKuhC7X6LtaHY_o_WWAhl2w674/ts
+#EXTINF:-1,BHAKTHI TV
+http://lifetvbd.xyz:8080/play/opS_0u1wiKucQnsnMj2XZX_ffA9GYzdz8GjWOrmVPFQ/ts
+#EXTINF:-1,Bhojpuri Cinema
+http://lifetvbd.xyz:8080/play/C723nbN29mum5ESELmHRyGG_kMI842B6lrCf1nsgNLY/ts
+#EXTINF:-1,Bijoy Tv D2H
+http://lifetvbd.xyz:8080/play/ODKgBH4HZkxxJ2g8TYLkbO-pgeCAJKNQfnMuuwc6zDw/ts
+#EXTINF:-1,BNN Bloomberg
+http://lifetvbd.xyz:8080/play/UQ3cQSxZi5YoLmyCo5wmjb9_5HqeDXWVFi-hLaV3VSk/ts
+#EXTINF:-1,Boishakhi Tv D2H
+http://lifetvbd.xyz:8080/play/4QL-7UIcalLF63tpWHLKsj1n6wFraXAJ9Nx0nEgxeIU/ts
+#EXTINF:-1,Bol Entertainment
+http://lifetvbd.xyz:8080/play/oaO56wq8rOzhGzbRsTu-9IsDndjbIzu9Pct82Svuh7U/ts
+#EXTINF:-1,Bollywood Classic
+http://lifetvbd.xyz:8080/play/fJgl-2vaOz_HIl43VE-6yAOyEv8za0kA8P1Q9zvofjM/ts
+#EXTINF:-1,Bollywood HD
+http://lifetvbd.xyz:8080/play/RCDrq42mse0Cugjm0j8KqzlLMF3R4hy0xtsB-8xSdNE/ts
+#EXTINF:-1,Bollywood Movies 1
+http://lifetvbd.xyz:8080/play/Gd5XPAg2OM33ZU2tqYIEGHTeS0R8IPsCE9UngBx3o04/ts
+#EXTINF:-1,Bollywood Movies 2
+http://lifetvbd.xyz:8080/play/Gd5XPAg2OM33ZU2tqYIEGFFqaMKR4dWTASSXADxI7Ks/ts
+#EXTINF:-1,Bollywood Movies 3
+http://lifetvbd.xyz:8080/play/Gd5XPAg2OM33ZU2tqYIEGIDCoPtHmy5ZSYwVK2Qtn4U/ts
+#EXTINF:-1,Bollywood Movies 4
+http://lifetvbd.xyz:8080/play/Gd5XPAg2OM33ZU2tqYIEGAL7jScDRHz3MXzeauOwa2g/ts
+#EXTINF:-1,Bollywood Movies 5
+http://lifetvbd.xyz:8080/play/DE6iGRXmfvybX2KMptCOnM58ui78guZCKwWYRaZZdAo/ts
+#EXTINF:-1,Bollywood Movies 6
+http://lifetvbd.xyz:8080/play/MdGGbvRWsSNkt0uo4WrEyrRlVQFuTs7bL0LG9TdlWKg/ts
+#EXTINF:-1,Bollywood prime
+http://lifetvbd.xyz:8080/play/heSA3dvEP62XKxuLoIkug4RE-eCQyJnpZbX-SuJXkqI/ts
+#EXTINF:-1,BTV CTG
+http://lifetvbd.xyz:8080/play/TBZMy2mDtEpLYcGc8E5FhonH9u1v-hUg0zXoJLDGP9U/ts
+#EXTINF:-1,BTV HD
+http://lifetvbd.xyz:8080/play/yC8CLdmrivkRro__4Id0Cg/ts
+#EXTINF:-1,BTV World
+http://lifetvbd.xyz:8080/play/oXf3AwYOc1ekcoQ05jokfQ/ts
+#EXTINF:-1,Bundesliga Live
+http://lifetvbd.xyz:8080/play/7ZyGXCQsp0213ajxfeIKtHnYkQ2J2Q7VwJQm661xabY/ts
+#EXTINF:-1,Canada Star TV (720p)
+http://lifetvbd.xyz:8080/play/uHZIzNzcdfuqOcECdi98FSJivdG5d7psUo3YAH25qUM/ts
+#EXTINF:-1,Caribbean Premier League, 2024
+http://lifetvbd.xyz:8080/play/dvJUTifxcR1S9VL9v8o32VaBpEHgWcGQxooK8R4-CXU/ts
+#EXTINF:-1,Cartoon Net HD Hindi
+http://lifetvbd.xyz:8080/play/s691vhBAW9w1koSoPX2KWSfkSoTsLo-bUlP50RcnRB4/ts
+#EXTINF:-1,Cartoon Net UK
+http://lifetvbd.xyz:8080/play/NS58kzUMUtPrnSOfBL4ryA/ts
+#EXTINF:-1,Cartoon Network
+http://lifetvbd.xyz:8080/play/yXNmXnscS9_8GfiYgFtyVw1yUzwxZGiYYv-Ag8kEDrc/ts
+#EXTINF:-1,CBC News (720p)
+http://lifetvbd.xyz:8080/play/uHZIzNzcdfuqOcECdi98FQkXUf9f_q2uYY1VLeasiqM/ts
+#EXTINF:-1,CCTV-4 America (1080p)
+http://lifetvbd.xyz:8080/play/uHZIzNzcdfuqOcECdi98Fbu85nxAQB1HIHvAB-UgLmE/ts
+#EXTINF:-1,Channel 24
+http://lifetvbd.xyz:8080/play/ASU9bXb5wxx3RcaHpiWJFA/ts
+#EXTINF:-1,Channel 24 D2H
+http://lifetvbd.xyz:8080/play/6ONOVpvmoNDkggu3Z396umsWQF4vJ0kyVJEy-e3WPxc/ts
+#EXTINF:-1,Channel 9
+http://lifetvbd.xyz:8080/play/zgqQZVFr96WAaCoPhpW1oZr9eC4YjhvtzB5KtSPwFck/ts
+#EXTINF:-1,Channel i HD
+http://lifetvbd.xyz:8080/play/k1WXo1Vg7pUasV1Ju7raglnjKxQUc8edgNZbwppRRBQ/ts
+#EXTINF:-1,CNN News
+http://lifetvbd.xyz:8080/play/6id7s3pfcE1dKmlT8mBvms15uSdaaepSXA-WgL-zCcA/ts
+#EXTINF:-1,Colors Bangla backup
+http://lifetvbd.xyz:8080/play/RbtFSaAA80a4f3YZk-T1mS00ZOI-DdMXyMc-e8tRE-g/ts
+#EXTINF:-1,Colors Bangla Cinema
+http://lifetvbd.xyz:8080/play/acyQDPDU2pwFWmzRhh5gVcIY25YCuYYAMJNCq3O7tnI/ts
+#EXTINF:-1,Colors Bangla HD D2H
+http://lifetvbd.xyz:8080/play/ADOvQhZUxQK4mflfzZgq4_034AbR44SPg9DMD1TOCwM/ts
+#EXTINF:-1,Colors Cineplex HD
+http://lifetvbd.xyz:8080/play/a0eIwps75M1Yp-Q3eNxyvYYgRWKlmIYTXyiTnX0O7V8/ts
+#EXTINF:-1,Colors HD India
+http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGToi03nsqDL0hW9w9eeJ-J1Lc/ts
+#EXTINF:-1,Colors Rishtey
+http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGTooaAors6UbWhfBTHXYr0S74/ts
+#EXTINF:-1,Colors UK
+http://lifetvbd.xyz:8080/play/kPewZdFhn_H54LPZqYjR4twSSSDIA3-CxUMyl4glqHg/ts
+#EXTINF:-1,Comedy King
+http://lifetvbd.xyz:8080/play/TieQHoku3AfbWWIV4lt6aRSU7cQ2AqKOYpUmIWLB73o/ts
+#EXTINF:-1,Corporation de Télévision Brandon (CTB TV)
+http://lifetvbd.xyz:8080/play/uHZIzNzcdfuqOcECdi98FdSHJ_4QYRekMvo3n4pa0XU/ts
+#EXTINF:-1,CPAC (720p)
+http://lifetvbd.xyz:8080/play/uHZIzNzcdfuqOcECdi98FeFaDp3a4eXQ1uRUpxcOAeU/ts
+#EXTINF:-1,Dazn 1
+http://lifetvbd.xyz:8080/play/QN2KFfHTWRMYWT39i6Oxr8phPaaZx4n37vPQLiGKT6U/ts
+#EXTINF:-1,Super Sports PSL
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTrUovVtiZthgi2mFwFQl1eo/ts
+#EXTINF:-1,DBC News
+http://lifetvbd.xyz:8080/play/k0u1vBJcfSZY5R-avs-_YSshSM8Qxz1ib76wUg8R0pM/ts
+#EXTINF:-1,DBC News D2H
+http://lifetvbd.xyz:8080/play/jQNykyERYqow_UhPuWfu7FCdOvMyqnTEvt_lJJTvYwg/ts
+#EXTINF:-1,Deen Tv
+http://lifetvbd.xyz:8080/play/8F11U1akJ3lPh738OTSqQA/ts
+#EXTINF:-1,Degrassi The Next Generation (Canada) (720p)
+http://lifetvbd.xyz:8080/play/-c3zkASgPph9vNUeQWdiVVFQPUo2YYuyN9FRWWTNjE4/ts
+#EXTINF:-1,Desh TV
+http://lifetvbd.xyz:8080/play/kp-NiP_HsVHxIIVWeBSfMQ/ts
+#EXTINF:-1,Dhamaal
+http://lifetvbd.xyz:8080/play/y73OVCc1EprQ6Kfp1wWZf3OJ3sQbprAclGJznAyFCYM/ts
+#EXTINF:-1,Discover Pakistan
+http://lifetvbd.xyz:8080/play/Y9znW6yDvYBtwh6ifrh0YLv4zUtDyVKzUxgZBXi91Ro/ts
+#EXTINF:-1,Discovery Bangla
+http://lifetvbd.xyz:8080/play/CGJtnYViQ0lo3NAYsnbX3g/ts
+#EXTINF:-1,Discovery Hindi
+http://lifetvbd.xyz:8080/play/J50gJXjvDx8LTuZc_rOhWuf0Liv52NpL3RRpDhjhmss/ts
+#EXTINF:-1,Discovery Relaxation
+http://lifetvbd.xyz:8080/play/opS_0u1wiKucQnsnMj2XZX6eLXkZFS-1VGieeCZ1kdY/ts
+#EXTINF:-1,Disney HD Hindi
+http://lifetvbd.xyz:8080/play/i4qvouf7wwsjmoNo2ZVGog/ts
+#EXTINF:-1,Disney SD
+http://lifetvbd.xyz:8080/play/8vxGTmFYi8h-SXiZersWd0w_OmCtZZP9wC8UDlC2W_A/ts
+#EXTINF:-1,Disney XD
+http://lifetvbd.xyz:8080/play/8Hw6OnpPoeZ5Mab03HyXF3ZRb3dVyIBjvGHkcDRQVpY/ts
+#EXTINF:-1,Duranto TV D2H
+http://lifetvbd.xyz:8080/play/OiPRPONzQw-5F9UerKAcBRN32Umt4IVlcGkWY9OYIMw/ts
+#EXTINF:-1,DW News D2H
+http://lifetvbd.xyz:8080/play/4dXbWa6cAMpbKKLe7x-sNyowhf2n8jUT54wy5aSV9GU/ts
+#EXTINF:-1,Ekattor Tv
+http://lifetvbd.xyz:8080/play/IejZgXhMFu3dMrpTwhRvlSGsKl0ZxLnXHvSKYfR01O8/ts
+#EXTINF:-1,Ekushey Tv D2H
+http://lifetvbd.xyz:8080/play/L8rlkBSth49VpojhHGXbNaJhxyMJHeoXok1DofkPU8U/ts
+#EXTINF:-1,England vs Srilanka LIVE
+http://lifetvbd.xyz:8080/play/RbtFSaAA80a4f3YZk-T1mVfE04v_-4ZCQUaI3bAYH8U/ts
+#EXTINF:-1,Enterr 10 Bangla
+http://lifetvbd.xyz:8080/play/U7KyO0-fwA-BJonW6r4PMPGISITvGDXb-vAxRursbF4/ts
+#EXTINF:-1,EPL 2 Live
+http://lifetvbd.xyz:8080/play/M01KnRXX-5rW7S11FaQ66-I8Yym_Q_alSuWDRvTQUKA/ts
+#EXTINF:-1,EPL LIVE
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTnSSEcDLImmhK359OmNPaiI/ts
+#EXTINF:-1,Erfan Halgheh TV (720p)
+http://lifetvbd.xyz:8080/play/-c3zkASgPph9vNUeQWdiVe-jkCHlZo6_qbxmJJM5pmU/ts
+#EXTINF:-1,Explore Africa
+http://lifetvbd.xyz:8080/play/opS_0u1wiKucQnsnMj2XZdXPdy7d06O96-7Kimw8WBg/ts
+#EXTINF:-1,Fight Network (1080p)
+http://lifetvbd.xyz:8080/play/-c3zkASgPph9vNUeQWdiVYEQKtVfDGrCMJu9WJ25SKU/ts
+#EXTINF:-1,Fox Cricket 501
+http://lifetvbd.xyz:8080/play/CtBcTCIElBtnVOdFWo8k2Q/ts
+#EXTINF:-1,Fox News
+http://lifetvbd.xyz:8080/play/_8CZepoVAPXI0nBFk9RLwjFX2eRe3wKj6O6id2UEjIc/ts
+#EXTINF:-1,Fox Weather
+http://lifetvbd.xyz:8080/play/opS_0u1wiKucQnsnMj2XZWHSlwPkq6v7u0ILHc9bdX8/ts
+#EXTINF:-1,Gaanbangla D2H
+http://lifetvbd.xyz:8080/play/weJgOEiJH2YW_geWlJOKLJWMVy23D-bXszwG3U1qUJk/ts
+#EXTINF:-1,Gazi Tv
+http://lifetvbd.xyz:8080/play/QN2KFfHTWRMYWT39i6Oxr4xB2Rj6SQB23s_OSWIe_DA/ts
+#EXTINF:-1,Geo Kahani
+http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGToqItav1HAAJaaVxBc83siNg/ts
+#EXTINF:-1,GEO News
+http://lifetvbd.xyz:8080/play/e53jjsIgC2b7DNoVFyylmM9YF0CencqeSIsWeRShDwM/ts
+#EXTINF:-1,Global Tv
+http://lifetvbd.xyz:8080/play/jQNykyERYqow_UhPuWfu7JQXFsmsafiZOLRT4LY2Crk/ts
+#EXTINF:-1,Global Tv D2H
+http://lifetvbd.xyz:8080/play/mXu1G9UjHNwMJiSTwHVc-g/ts
+#EXTINF:-1,GoldMines
+http://lifetvbd.xyz:8080/play/o6lDCRwKC-Y0I5v_-yVyRQ/ts
+#EXTINF:-1,Green Entertainment
+http://lifetvbd.xyz:8080/play/yNQVyqp8PUvYSBBc6mj7vZ5p2uw34qPjRWrV8wo7MQw/ts
+#EXTINF:-1,Green Tv
+http://lifetvbd.xyz:8080/play/ssXTy00YeRICUtE_I4Gs2Q/ts
+#EXTINF:-1,HBO
+http://lifetvbd.xyz:8080/play/F7YVrf7MTPvKbSYnryjgkg/ts
+#EXTINF:-1,Hindi Dubbed 1
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFT26qNjo2rKcAH58rW4CSGg/ts
+#EXTINF:-1,Hindi dubbed 1
+http://lifetvbd.xyz:8080/play/v9yAaSmkdZHOrOCwCQ2sEG6aywpf1uuLe1ncDdcebi0/ts
+#EXTINF:-1,Hindi Hits HD
+http://lifetvbd.xyz:8080/play/DQhFCa4Ymwn3JDabhOlNe1TfMa1BY09xOdFiPRFposg/ts
+#EXTINF:-1,Hindi Songs 24x7 1
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTjOLglyHswNKVT0bTo9jknU/ts
+#EXTINF:-1,Hindi Songs 24x7 10
+http://lifetvbd.xyz:8080/play/Hkws8ADe4-KIk_lWiOuXBIDZWfSpt8KjgpCFPRHm3tc/ts
+#EXTINF:-1,Hindi Songs 24x7 11
+http://lifetvbd.xyz:8080/play/tu4NxgoR8bqa5U3lB4gSZ_MQm0MbHvnaqNEGNu5H0Bk/ts
+#EXTINF:-1,Hindi Songs 24x7 12
+http://lifetvbd.xyz:8080/play/tu4NxgoR8bqa5U3lB4gSZz-rzmZM9WSRTCLYEb69OzU/ts
+#EXTINF:-1,Hindi Songs 24x7 13
+http://lifetvbd.xyz:8080/play/tu4NxgoR8bqa5U3lB4gSZ2ftx12K4HE6wNOGqu17zq4/ts
+#EXTINF:-1,Hindi Songs 24x7 2
+http://lifetvbd.xyz:8080/play/RCDrq42mse0Cugjm0j8Kq3Fzt34fHP8CxExEWGwKicg/ts
+#EXTINF:-1,Hindi Songs 24x7 3
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFWYstuJnR8GIJmZLgOu6qkM/ts
+#EXTINF:-1,Hindi Songs 24x7 4
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFR9gy9W8wTOEu1F00GXYZRo/ts
+#EXTINF:-1,Hindi Songs 24x7 5
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFQbCPEVfItSWuj4R423RlvQ/ts
+#EXTINF:-1,Hindi Songs 24x7 6
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFZEHvl9K5BJUMb1D9Eu_OvM/ts
+#EXTINF:-1,Hindi Songs 24x7 7
+http://lifetvbd.xyz:8080/play/Hkws8ADe4-KIk_lWiOuXBD1-i7ccQ_nFK0-10IYpbNA/ts
+#EXTINF:-1,Hindi Songs 24x7 8
+http://lifetvbd.xyz:8080/play/Hkws8ADe4-KIk_lWiOuXBDj43J1IYHaRnWcSK90KpMM/ts
+#EXTINF:-1,Hindi Songs 24x7 9
+http://lifetvbd.xyz:8080/play/Hkws8ADe4-KIk_lWiOuXBDFqF_vcSgg5iFNnAlVEaaw/ts
+#EXTINF:-1,History TV 18 India
+http://lifetvbd.xyz:8080/play/uVfyJvwS_mVW2NGd6AKdC2nVWK3SkLkJUqmMB3ZV6FQ/ts
+#EXTINF:-1,Hollywood Dubbed Movies
+http://lifetvbd.xyz:8080/play/QN2KFfHTWRMYWT39i6Oxr8JICDOBnn5_EcHxwmUONlo/ts
+#EXTINF:-1,Hum Masala
+http://lifetvbd.xyz:8080/play/1_AXyEU8g-_y5XDnQeCf3Ld4Rgg0Y-lt8c2IWsJifcM/ts
+#EXTINF:-1,HUM TV
+http://lifetvbd.xyz:8080/play/a2Lu-xNzxVbwenuGCxKuHUPU9Iybs0CkGuu9redzPeY/ts
+#EXTINF:-1,Hungama
+http://lifetvbd.xyz:8080/play/Ux2qDPXhT4cL4PGrEJ739A/ts
+#EXTINF:-1,Independent Tv
+http://lifetvbd.xyz:8080/play/bEArxtb3gotVf_TTfBxkG2C_R4AdUNYfPEq443f8jpA/ts
+#EXTINF:-1,India Tv
+http://lifetvbd.xyz:8080/play/K2HAm3_JB1iQA6Q2KY6fZ449jGspk0O4VKRWFtLJ-48/ts
+#EXTINF:-1,Netflix Action 1
+http://lifetvbd.xyz:8080/play/UjD49MnhGZzJXdWC1oZtZN_3f2BkErm862DXnrfOFNU/ts
+#EXTINF:-1,Islam Tv
+http://lifetvbd.xyz:8080/play/_C6Nd7Oe6hN6X9bZ-1ySApByGuAYdKcJbEbcwDnzQV8/ts
+#EXTINF:-1,Jago News 24
+http://lifetvbd.xyz:8080/play/gr6VGwiUQPCX4N-yrEREXg/ts
+#EXTINF:-1,Jagoroni Tv
+http://lifetvbd.xyz:8080/play/heSA3dvEP62XKxuLoIkug5RsQmcbyktI1r_KVDduKYU/ts
+#EXTINF:-1,Jalsha Movie HD
+http://lifetvbd.xyz:8080/play/mFMmsVQJelgpwvf7R2f5KetXERqR_y7qyRRMCicU95c/ts
+#EXTINF:-1,Jalsha Movie SD
+http://lifetvbd.xyz:8080/play/brydnW7c7BFE8ipYsSY18dy_2bpDNAkAOkf_L-y3t2E/ts
+#EXTINF:-1,Jamuna Tv
+http://lifetvbd.xyz:8080/play/iDxgf4qsIaPZdKsRxrk3rQ/ts
+#EXTINF:-1,Jamuna Tv D2H
+http://lifetvbd.xyz:8080/play/6ONOVpvmoNDkggu3Z396ulYSC9VlHHNTI2T8wVHs7Bo/ts
+#EXTINF:-1,Janmavumi Tv
+http://lifetvbd.xyz:8080/play/IlQyV4A3pDNUWRjCfBYpTA/ts
+#EXTINF:-1,Khusboo Bangla
+http://lifetvbd.xyz:8080/play/WXnCy9vD7fv9G0k7cXJjKg/ts
+#EXTINF:-1,Kids Creation
+http://lifetvbd.xyz:8080/play/RXO3G3qZafk8qlq8N0876v_coyq3eAHDYXIYsBZPAfk/ts
+#EXTINF:-1,Kolkata Bangla Hitz
+http://lifetvbd.xyz:8080/play/rWxGnq9JLLhpP9yz-Fm3CmaHa3AXv0I9uaWvn4b9Wt4/ts
+#EXTINF:-1,La liga RH
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTrIyuA6jUfoFgr-6pFzi0nc/ts
+#EXTINF:-1,Ligue 1 LIVE
+http://lifetvbd.xyz:8080/play/z6_U5NGbEEnuwjb4v1jJ8FQD4WN16q01UIVWPlJOHog/ts
+#EXTINF:-1,World Cup Qualify- AFC Live -1
+http://lifetvbd.xyz:8080/play/zcEIWqOer7ZnYkp4jqs2TQ/ts
+#EXTINF:-1,London Bridge
+http://lifetvbd.xyz:8080/play/sLcnWg5MW1305zmuTESWuJZrQ67DE7xaZ8UIIeAe0S8/ts
+#EXTINF:-1,Machranga Tv D2H
+http://lifetvbd.xyz:8080/play/A8puI-YBMU_gmCsYjjWft-NMT7SscBgF8-e2DDSehbA/ts
+#EXTINF:-1,Madina live
+http://lifetvbd.xyz:8080/play/wrHP-20GX9ZUKbjgiyaW5o3CLnXVjKKac_LiOERbNfw/ts
+#EXTINF:-1,Makka Live D2H
+http://lifetvbd.xyz:8080/play/INckqivDyr53IWJImkEMabFjRMvOc99TBcLYS2JrW_8/ts
+#EXTINF:-1,Masha and the Bear
+http://lifetvbd.xyz:8080/play/sLcnWg5MW1305zmuTESWuOPETvum8AmmnlsMrhKPK48/ts
+#EXTINF:-1,Masti
+http://lifetvbd.xyz:8080/play/m6GxEdZMNkDx-EC8kw9KXg/ts
+#EXTINF:-1,MBC Bollywood
+http://lifetvbd.xyz:8080/play/FfzWjKI5vWP_7lIrj8OiYYF9t_xaBQksvhahRyALgJ4/ts
+#EXTINF:-1,MLS Live
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTl3Y-IibVdGiaIq9DS_GiXw/ts
+#EXTINF:-1,MNX
+http://lifetvbd.xyz:8080/play/eeQUxm1ekrndNgggp3RO_Ss-DxIxd9sLRYd2nVrTW30/ts
+#EXTINF:-1,Mohona
+http://lifetvbd.xyz:8080/play/A8puI-YBMU_gmCsYjjWft7VgQuVUC1XYeG6RMJOjwOw/ts
+#EXTINF:-1,Movie Bangla
+http://lifetvbd.xyz:8080/play/opS_0u1wiKucQnsnMj2XZW-8s9_9iiTRWK-krz3u5uU/ts
+#EXTINF:-1,Movies Now
+http://lifetvbd.xyz:8080/play/2TNh9C4vdpD-VlnYeAN-NiI4gVXARaXFXNiPQFR5GL4/ts
+#EXTINF:-1,Movies Thriller
+http://lifetvbd.xyz:8080/play/bnZ9riaZDKTMrqSNNsy5WLFE72KuQk8WfrcrzxLVW-8/ts
+#EXTINF:-1,MTV
+http://lifetvbd.xyz:8080/play/hBuOmwgBv8ZfqvtkCJHjlcFoPoLCI9k7VOA90pqmqY0/ts
+#EXTINF:-1,MTV Beats HD
+http://lifetvbd.xyz:8080/play/zHFd43PuNj_gezkC6-ZAtuk_qtCY4TCIARAoztnSl00/ts
+#EXTINF:-1,MTV India
+http://lifetvbd.xyz:8080/play/jQNykyERYqow_UhPuWfu7K-go5L3WN8KX4sPXpj0Gds/ts
+#EXTINF:-1,My Tv
+http://lifetvbd.xyz:8080/play/IB7VjptwgSRSznwU8wJp2Q/ts
+#EXTINF:-1,Nan Tv
+http://lifetvbd.xyz:8080/play/DrdS_5-gvkN2vFw-Y2PH-A/ts
+#EXTINF:-1,Nat Geo Bangla
+http://lifetvbd.xyz:8080/play/6y_W9SsqT0I9B9zWaE5sZsF6CXgbtRh-53d0fDuIUDU/ts
+#EXTINF:-1,Nat Geo HD ENG
+http://lifetvbd.xyz:8080/play/t01u_7SG3Wh0qj2UbE4-D6166obc3ohIhDbxpn6P0wo/ts
+#EXTINF:-1,Nat Geo HD Hindi
+http://lifetvbd.xyz:8080/play/QeN-Y0pBnei5tVEZ3qxwaLrFdyqE6s0lRCiNVLP7FrA/ts
+#EXTINF:-1,Nat Geo Kids
+http://lifetvbd.xyz:8080/play/K2HAm3_JB1iQA6Q2KY6fZ84Ib_mQ0NhQPb-Ts9h73qU/ts
+#EXTINF:-1,NAT GEO Wild Hindi
+http://lifetvbd.xyz:8080/play/Y03B2Snt1GsHdGfPwg_u39fqX0cOskYwnLMTuKhgQd4/ts
+#EXTINF:-1,NBC News
+http://lifetvbd.xyz:8080/play/MrS4i4sIcpDtWSMqWlvjIByj8Mma87k0kOLR0pSbCTA/ts
+#EXTINF:-1,News 24
+http://lifetvbd.xyz:8080/play/hr4Z5M5y8Z4fBXFQQyziTaxKawBvstJg-iVY5RUOJHk/ts
+#EXTINF:-1,News 24 D2H
+http://lifetvbd.xyz:8080/play/6ONOVpvmoNDkggu3Z396ukN68_0lVpCe9f53gwu9OsY/ts
+#EXTINF:-1,Nexus Tv
+http://lifetvbd.xyz:8080/play/8ux3MO2vu_KiCQGVPoPd5A/ts
+#EXTINF:-1,Nick HD Plus
+http://lifetvbd.xyz:8080/play/axGQLp-LvF65u-UMVnNgGulBoXSs6LFGfEzc8orFACc/ts
+#EXTINF:-1,Nick Hindi
+http://lifetvbd.xyz:8080/play/Zuw1ByIEpVu_GsLoubhgFHsY2CyCVmgKZysovpr44rA/ts
+#EXTINF:-1,Nick Jr
+http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGTooltnn_646SVPzSOYmzSLDE/ts
+#EXTINF:-1,Nicktoons
+http://lifetvbd.xyz:8080/play/3fHPEF3x76ghviPXfBfBkyBzCfJFpczID4xoeCOSD9g/ts
+#EXTINF:-1,NTV D2H
+http://lifetvbd.xyz:8080/play/JEe13S4jMW9LXK9o5RzdaQ/ts
+#EXTINF:-1,OGGY AND THE COCKROACHES
+http://lifetvbd.xyz:8080/play/sLcnWg5MW1305zmuTESWuMQS3gDiuFvSd-UaDhxYVao/ts
+#EXTINF:-1,P.B-AB Tv
+http://lifetvbd.xyz:8080/play/_C6Nd7Oe6hN6X9bZ-1ySAibu-W80DRvGpRbKxDRNG6w/ts
+#EXTINF:-1,P.B-Bangla Tv
+http://lifetvbd.xyz:8080/play/axBsjje5YKuYKAHz-3g7loBXQ6_8Qg39RBe80Xc9cOc/ts
+#EXTINF:-1,P.B-Biswa Bangla Tv
+http://lifetvbd.xyz:8080/play/p3H_WPb5wRpDM2Kl1nF_Km_SE0hOQwpwNHtZqJ6PrnY/ts
+#EXTINF:-1,P.B-DESHE BIDESHE TV
+http://lifetvbd.xyz:8080/play/EVkOiTlH4RrsfUNmCjwjRIN0fW9i8s_z_2bGy2BZWZc/ts
+#EXTINF:-1,P.B-Doyel Tv
+http://lifetvbd.xyz:8080/play/xv0Nu85T_B63nwUhfcpOS7oJ0kWFAsWPfH5aGnQG7pc/ts
+#EXTINF:-1,P.B-IBTV USA Bangla
+http://lifetvbd.xyz:8080/play/S-i1xRAiSZAn3HYPdPzpa_zmDTOq17wlQ3MnJlkPCcM/ts
+#EXTINF:-1,P.B-Millennium TV
+http://lifetvbd.xyz:8080/play/tu4NxgoR8bqa5U3lB4gSZ-gw6FOBFRG3KyjyXOBMpjw/ts
+#EXTINF:-1,P.B-NRB Tv
+http://lifetvbd.xyz:8080/play/Hu1uT3WeSZXLH6u0oI6jLQ/ts
+#EXTINF:-1,P.B-Probashi Tv
+http://lifetvbd.xyz:8080/play/DQhFCa4Ymwn3JDabhOlNe-Vykad-q-JW2At6j6Lk9Ls/ts
+#EXTINF:-1,P.B-The Channel Tv
+http://lifetvbd.xyz:8080/play/p3H_WPb5wRpDM2Kl1nF_KurUwn4Do49Cd34Gg27q6IA/ts
+#EXTINF:-1,Party Songs
+http://lifetvbd.xyz:8080/play/sLcnWg5MW1305zmuTESWuK0i8CbQUpOZ7xHxXxAJA_I/ts
+#EXTINF:-1,Peace of Mind Hindi
+http://lifetvbd.xyz:8080/play/N0X2YHWTV_0u_FZI2N2nCZAEksEtSmUfFiyQ_UnpK7o/ts
+#EXTINF:-1,Peace Tv Eng
+http://lifetvbd.xyz:8080/play/3NXYTLUueiGJkxM_pySPH6dDc_ABEGaE6K87ZbUbIpg/ts
+#EXTINF:-1,Play Entertainment
+http://lifetvbd.xyz:8080/play/hBuOmwgBv8ZfqvtkCJHjldjtb23vRQ03iFjsdvkvn0o/ts
+#EXTINF:-1,Pogo
+http://lifetvbd.xyz:8080/play/1TL-ateeVEI6GMvkmo2bMg/ts
+#EXTINF:-1,Premium Hindi Movies 2
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFQEel4JLXiUyt5SubSG-po8/ts
+#EXTINF:-1,Premium Hindi Movies 3
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFQMO4Zlu3a8t7sHdru_Nvc0/ts
+#EXTINF:-1,Premium hindi Movies 4
+http://lifetvbd.xyz:8080/play/qtQII_AGCWx5DrQsy6WPFVu6evWVAgZ1xCNTTeJSea0/ts
+#EXTINF:-1,PTV Sports HD
+http://lifetvbd.xyz:8080/play/km3cXgjb3-B7JqJgtwIe3Q/ts
+#EXTINF:-1,Rajdhani Tv
+http://lifetvbd.xyz:8080/play/99q3CJnBRN9I05v9sK8i_tTwb5FEFGFVzb0-wRSNMw0/ts
+#EXTINF:-1,Romantic Songs Old
+http://lifetvbd.xyz:8080/play/K2HAm3_JB1iQA6Q2KY6fZ1iBU-iTbDEjZWGCdej8Rak/ts
+#EXTINF:-1,Romedy Now
+http://lifetvbd.xyz:8080/play/w5wKl_JMoN55WGYd469EjQZf5wNVxpCsICf8ZJDksaQ/ts
+#EXTINF:-1,Rongeen Tv
+http://lifetvbd.xyz:8080/play/lzbykUrAN4y3lLXzIdPlkw/ts
+#EXTINF:-1,Rtv
+http://lifetvbd.xyz:8080/play/91cHHj_r3rRbgpOYF4AC3A/ts
+#EXTINF:-1,SA TV
+http://lifetvbd.xyz:8080/play/0gKnA6ettiBQaFgdup9wPw/ts
+#EXTINF:-1,SA vs West Indies Live
+http://lifetvbd.xyz:8080/play/qq6KmTjkpG6I41_9QJfG0fp0mQSFDjmW510CWijTYAk/ts
+#EXTINF:-1,Manoranjan Grand
+http://lifetvbd.xyz:8080/play/34UgmZGx_hj4hvPHqP1Qvrn-myUJvjP2XIrDL7BYyYU/ts
+#EXTINF:-1,Saudi Pro league Live
+http://lifetvbd.xyz:8080/play/CCHIovtZ8CrtavxXTSP6jfrS3YShXJO5T2lXQN_8278/ts
+#EXTINF:-1,Serie A Live
+http://lifetvbd.xyz:8080/play/CCHIovtZ8CrtavxXTSP6jePYFaS20aRNCMmXrPemtiM/ts
+#EXTINF:-1,Shemaroo Marathibana
+http://lifetvbd.xyz:8080/play/N0X2YHWTV_0u_FZI2N2nCfJL4Ngqu-RHqBdyA1JJkSQ/ts
+#EXTINF:-1,Shemaroo Tv
+http://lifetvbd.xyz:8080/play/mRKwBQPm6GfBth6RQHGTov6OwQJ1x8GBzcDFT36o-Rs/ts
+#EXTINF:-1,Somoy TV D2H
+http://lifetvbd.xyz:8080/play/e70Ah7HpcVZXp2iEGzscsg/ts
+#EXTINF:-1,Somoy Tv HD
+http://lifetvbd.xyz:8080/play/RbtFSaAA80a4f3YZk-T1mU2J-Twqie98j_98HHoCOh0/ts
+#EXTINF:-1,Sonic Hindi
+http://lifetvbd.xyz:8080/play/yNQVyqp8PUvYSBBc6mj7vZARjN8ShAPoVcypZ0b83cU/ts
+#EXTINF:-1,Sony Aath
+http://lifetvbd.xyz:8080/play/EfF_0ku-5BLybBKE1xGEFpyWkbSdvjxiIkqUybBOZeM/ts
+#EXTINF:-1,Sony Aath D2H
+http://lifetvbd.xyz:8080/play/bnZ9riaZDKTMrqSNNsy5WCPRiS7vU9TjfjI3uX78ejo/ts
+#EXTINF:-1,Sony BBC Earth
+http://lifetvbd.xyz:8080/play/jFAM4BTQ8fZNCtJk4YcNAi-h6jnli5gcsHNikBTHWhQ/ts
+#EXTINF:-1,Sony D2H
+http://lifetvbd.xyz:8080/play/jQNykyERYqow_UhPuWfu7FIthmNyKhx79ymIBTLPTjQ/ts
+#EXTINF:-1,Sony HD
+http://lifetvbd.xyz:8080/play/6wPyyn3gdiHwOnQuWd3uS3FEiZKNl1vv9bbYz5Vg9gA/ts
+#EXTINF:-1,Sony HD USA
+http://lifetvbd.xyz:8080/play/Ne9-Vu51rYFmSwQbdkgC30gZHRA63EJ1sR1_fZz2dz0/ts
+#EXTINF:-1,Sony Kal
+http://lifetvbd.xyz:8080/play/p3H_WPb5wRpDM2Kl1nF_KixqyCXmY-7Lru2tjTtQh94/ts
+#EXTINF:-1,Sony Max D2H
+http://lifetvbd.xyz:8080/play/nT1_iz54gOwtRq7B7Ad-5yS85TMs4E9WcJ6Yp292Pe4/ts
+#EXTINF:-1,Sony Max HD
+http://lifetvbd.xyz:8080/play/TYw4hOB2kC0qx-_F8XWmGSPzMiinUPa6F8KZeBNVxxY/ts
+#EXTINF:-1,Sony Movies
+http://lifetvbd.xyz:8080/play/99q3CJnBRN9I05v9sK8i_jT2eUZiKA_RUWPhaUeJnHs/ts
+#EXTINF:-1,Sony Pal
+http://lifetvbd.xyz:8080/play/H0BM2LJen7wAo58yzqvcviSh3o6TCp3OEc-VoQuJhj8/ts
+#EXTINF:-1,Sony Pix HD
+http://lifetvbd.xyz:8080/play/3B8Wq9w4DSy2yCC-ROxVBZlXWPClcJRZTVKWSDAz93Q/ts
+#EXTINF:-1,Sony Ten 1 HD
+http://lifetvbd.xyz:8080/play/qsdbaQ2Lb--XVFYlNR4JTw/ts
+#EXTINF:-1,Sony Ten 2 HD
+http://lifetvbd.xyz:8080/play/Etra-SpkLBGjz-y2-dEZ-w/ts
+#EXTINF:-1,Sony Ten 3 HD
+http://lifetvbd.xyz:8080/play/goGY-g3HYIMrnEx_ooqslu9UqIZwCmN8teYbREdeRRU/ts
+#EXTINF:-1,Sony Ten 5 HD
+http://lifetvbd.xyz:8080/play/TeEKW5kH2CO0gVJRU8lrvS49BMJXVq6AezY2X8UA1FU/ts
+#EXTINF:-1,Special Live Channel
+http://lifetvbd.xyz:8080/play/CCHIovtZ8CrtavxXTSP6jd1Dfro4rt94k2pRzWzFIuc/ts
+#EXTINF:-1,Sport Tv 1
+http://lifetvbd.xyz:8080/play/6wPyyn3gdiHwOnQuWd3uS9njX-CpIbUyILxtoVnkrwo/ts
+#EXTINF:-1,Sports 18 1 HD
+http://lifetvbd.xyz:8080/play/34UgmZGx_hj4hvPHqP1Qvlm6Y1eDKZtA_Uwnl22h204/ts
+#EXTINF:-1,Sportv 1
+http://lifetvbd.xyz:8080/play/NFIWM9rqxdizASAxikf5xOHnwJffKCpATvTLX1tdJmY/ts
+#EXTINF:-1,Star Gold 2
+http://lifetvbd.xyz:8080/play/DmV8TkApKDV00vNrd3VT9Q/ts
+#EXTINF:-1,Star Gold HD
+http://lifetvbd.xyz:8080/play/hei_EXhNFO0roqb7O4FaPQ/ts
+#EXTINF:-1,Star Gold Thrills
+http://lifetvbd.xyz:8080/play/2ORkV8JVlv0cKpcRAPXfoA/ts
+#EXTINF:-1,Star Jalsha HD
+http://lifetvbd.xyz:8080/play/O2Z6aH0MVdSV44d4HNJHn0h2B8Gdsc7iC--Ev1BGb8w/ts
+#EXTINF:-1,Star Jalsha HD 1
+http://lifetvbd.xyz:8080/play/oNnS78yU-RFmxIMendOHXL6n2yxd_Ml5D19tsR7a86M/ts
+#EXTINF:-1,Star Jalsha HD D2H
+http://lifetvbd.xyz:8080/play/brydnW7c7BFE8ipYsSY18TmTUjZiopPMpeqVmzCj4Bo/ts
+#EXTINF:-1,Star Movies HD
+http://lifetvbd.xyz:8080/play/lN3Gt8ysiX9rDxdO0ngGM1fCoO0jG01-Z_b6k8O_zkc/ts
+#EXTINF:-1,Star Plus HD
+http://lifetvbd.xyz:8080/play/MYZhN_5HuPMjJ4QVxy2aJQbUsEMVam3KZXWGaTJi0eo/ts
+#EXTINF:-1,Star Plus HD Backup
+http://lifetvbd.xyz:8080/play/t01u_7SG3Wh0qj2UbE4-D93Ul5C0I3DqyglvKykHb28/ts
+#EXTINF:-1,Star Sports 1 HD
+http://lifetvbd.xyz:8080/play/sbaQa4E_8dB2nuf2zeTwGDs5ts9WfAxrWcwH5IxvFUk/ts
+#EXTINF:-1,Star Sports 1 HD D2H
+http://lifetvbd.xyz:8080/play/6ONOVpvmoNDkggu3Z396uobgRTw-m9q2IY_VLrXYhGM/ts
+#EXTINF:-1,Star Sports 1 HD Hindi
+http://lifetvbd.xyz:8080/play/Taj2YsQRNUEXK5qwr7IMqyxaUE834KxV4e0HZwxZfpo/ts
+#EXTINF:-1,Star Sports 2 HD
+http://lifetvbd.xyz:8080/play/TuZrp6k555xRNBrRu_irtw/ts
+#EXTINF:-1,Star Sports 3
+http://lifetvbd.xyz:8080/play/S5dwyezxYQb9oGVKIxelG35DH6AoEC03VqZAitsAb9w/ts
+#EXTINF:-1,Star Sports Select 1 HD
+http://lifetvbd.xyz:8080/play/gl84GTfM7tZphK5G7aaivzeVpMWvlCSytZM9CtBR0Aw/ts
+#EXTINF:-1,Star Sports Select 2 HD
+http://lifetvbd.xyz:8080/play/qQGODuYxVPFxQOzIQ8Lt5g/ts
+#EXTINF:-1,Sun Bangla
+http://lifetvbd.xyz:8080/play/_Wqy6OGkNiILorqHgEqGXvEeL1e3-sqQcqyxsNq9eJM/ts
+#EXTINF:-1,Sunny Deol Hitz
+http://lifetvbd.xyz:8080/play/QN2KFfHTWRMYWT39i6Oxrx_Wdx0BzSu_svedhDLx7YI/ts
+#EXTINF:-1,Super Hungama
+http://lifetvbd.xyz:8080/play/z21QzCruVe5wG0_HsfceT5GhhINjoLuoMaCqZxk1lKg/ts
+#EXTINF:-1,T Sports HD
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTkwehJ7DP81I9OE7LhO48Ic/ts
+#EXTINF:-1,T Sports HD
+http://lifetvbd.xyz:8080/play/PXF57JTo4qugiMMvjW6bFSX6ghoDRRgPUBSLx46OOY0/ts
+#EXTINF:-1,T Sports HD 1 D2H
+http://lifetvbd.xyz:8080/play/4Ao62IPJa4XcSIBTE-fEPJCPWrj_PFPqZfX2QJy-hbI/ts
+#EXTINF:-1,T Sports HD 2 D2H
+http://lifetvbd.xyz:8080/play/7ZyGXCQsp0213ajxfeIKtO6BCJrP8XPF-E_k3fGZEV0/ts
+#EXTINF:-1,T Sports HD D2H
+http://lifetvbd.xyz:8080/play/m_Nn6ThHITNMAlXFIit-Sv_F9c1tZlQWJwkha1G247A/ts
+#EXTINF:-1,Ten Cricket
+http://lifetvbd.xyz:8080/play/XetHSPbNUOXaH7Ipl3SjOyWRxU2yVNR6T5elEs7NPf4/ts
+#EXTINF:-1,Ten Sports HD
+http://lifetvbd.xyz:8080/play/nOnvLyyYXVgL8s246ZqpEppf0czzHeBb_DqfcEsqDVs/ts
+#EXTINF:-1,Tom & Jerry
+http://lifetvbd.xyz:8080/play/sLcnWg5MW1305zmuTESWuMNF21c9faK32tjtJfF9lTo/ts
+#EXTINF:-1,Trace Urban
+http://lifetvbd.xyz:8080/play/EX_YvLyesV0fBEyEuYqECCubodELCFPDB66lwEES2K8/ts
+#EXTINF:-1,TYC Sports
+http://lifetvbd.xyz:8080/play/BJmNClq1tssEOONi-HbceW9ylAEiFEv56lmT8KBEQuw/ts
+#EXTINF:-1,Varendra Tv
+http://lifetvbd.xyz:8080/play/MdGGbvRWsSNkt0uo4WrEymzTi_zX3Xh2kTf6F_Yxm9s/ts
+#EXTINF:-1,Vision beats
+http://lifetvbd.xyz:8080/play/UjD49MnhGZzJXdWC1oZtZPQAC5sQqVu1WE6Y0yqe4ww/ts
+#EXTINF:-1,World Cup Qualify- AFC Live -2
+http://lifetvbd.xyz:8080/play/34UgmZGx_hj4hvPHqP1Qvh-AHr_ruMcFORQGHXWXjzQ/ts
+#EXTINF:-1,What's Up With Elmore Today?
+http://lifetvbd.xyz:8080/play/sLcnWg5MW1305zmuTESWuAD5dVAzJE0-jn5ZfMsmXJc/ts
+#EXTINF:-1,Wion News
+http://lifetvbd.xyz:8080/play/opS_0u1wiKucQnsnMj2XZfzTcSvozGyMjw_A3M6yOCU/ts
+#EXTINF:-1,XITE
+http://lifetvbd.xyz:8080/play/UjD49MnhGZzJXdWC1oZtZHPSZ8Kk5e6Wmqn8wJW_r5g/ts
+#EXTINF:-1,Zee 25 Ghonta
+http://lifetvbd.xyz:8080/play/xrvqnsZxRinmBL3JV5TcwIDo8HWwovafTg_Kb8fBXsc/ts
+#EXTINF:-1,Zee Action HD
+http://lifetvbd.xyz:8080/play/zLVJFWGkFB-ACXArUeeZLQ/ts
+#EXTINF:-1,Zee Anmol
+http://lifetvbd.xyz:8080/play/LlQnZoNbSwX_3XQhJaY-4Q/ts
+#EXTINF:-1,Zee Anmol Cinema
+http://lifetvbd.xyz:8080/play/owmLLfcvZSwIv3sRU6aLrw/ts
+#EXTINF:-1,Zee Bangla cinema D2H
+http://lifetvbd.xyz:8080/play/esUuSIdnJqyZ3dHIjlwcug/ts
+#EXTINF:-1,Zee Bangla Cinema HD
+http://lifetvbd.xyz:8080/play/MOU0qFBf9iHV_KYoYOutCA/ts
+#EXTINF:-1,Zee Bangla HD
+http://lifetvbd.xyz:8080/play/F8qjCEhyOEU3vb67kSAoQA/ts
+#EXTINF:-1,Zee Bangla HD D2H
+http://lifetvbd.xyz:8080/play/jQNykyERYqow_UhPuWfu7LAU3h8UQlCvpxm8mq8VyUw/ts
+#EXTINF:-1,Zee Bangla HD Global
+http://lifetvbd.xyz:8080/play/A8puI-YBMU_gmCsYjjWftwgo671KzAAV0PWOxNgtsew/ts
+#EXTINF:-1,Zee Cinema HD
+http://lifetvbd.xyz:8080/play/3rKS9J2MYQuwrM4HldyGlg/ts
+#EXTINF:-1,Zee Classic
+http://lifetvbd.xyz:8080/play/Gd5XPAg2OM33ZU2tqYIEGONKf1VcAqm-_Tnn2IViS9E/ts
+#EXTINF:-1,Zee News
+http://lifetvbd.xyz:8080/play/WHVRaK9aLxaNOO5cdVeF656fsMYVxNig4Z4003hpegg/ts
+#EXTINF:-1,Zee Tv HD India
+http://lifetvbd.xyz:8080/play/Vgr8zZkdH-IE3UmnCJgTZ5YE1P1xAl2HA5gj7wcIky8/ts
+#EXTINF:-1,Zing
+http://lifetvbd.xyz:8080/play/l1dQUgVKWqMb4dQkBXb-mQ/ts
+
+
+
