@@ -1,4 +1,41 @@
 i#EXTM3U
+
+#EXTINF:-1,Star Sports 1 HD
+http://lifetvbd.xyz:8080/play/sbaQa4E_8dB2nuf2zeTwGDs5ts9WfAxrWcwH5IxvFUk/ts
+#EXTINF:-1,Star Sports 1 HD D2H
+http://lifetvbd.xyz:8080/play/6ONOVpvmoNDkggu3Z396uobgRTw-m9q2IY_VLrXYhGM/ts
+#EXTINF:-1,Star Sports 1 HD Hindi
+http://lifetvbd.xyz:8080/play/Taj2YsQRNUEXK5qwr7IMqyxaUE834KxV4e0HZwxZfpo/ts
+#EXTINF:-1,Star Sports 2 HD
+http://lifetvbd.xyz:8080/play/TuZrp6k555xRNBrRu_irtw/ts
+#EXTINF:-1,Star Sports 3
+http://lifetvbd.xyz:8080/play/S5dwyezxYQb9oGVKIxelG35DH6AoEC03VqZAitsAb9w/ts
+#EXTINF:-1,Star Sports Select 1 HD
+http://lifetvbd.xyz:8080/play/gl84GTfM7tZphK5G7aaivzeVpMWvlCSytZM9CtBR0Aw/ts
+#EXTINF:-1,Star Sports Select 2 HD
+http://lifetvbd.xyz:8080/play/qQGODuYxVPFxQOzIQ8Lt5g/ts
+#EXTINF:-1,T Sports HD
+http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTkwehJ7DP81I9OE7LhO48Ic/ts
+#EXTINF:-1,T Sports HD
+http://lifetvbd.xyz:8080/play/PXF57JTo4qugiMMvjW6bFSX6ghoDRRgPUBSLx46OOY0/ts
+#EXTINF:-1,T Sports HD 1 D2H
+http://lifetvbd.xyz:8080/play/4Ao62IPJa4XcSIBTE-fEPJCPWrj_PFPqZfX2QJy-hbI/ts
+#EXTINF:-1,T Sports HD 2 D2H
+http://lifetvbd.xyz:8080/play/7ZyGXCQsp0213ajxfeIKtO6BCJrP8XPF-E_k3fGZEV0/ts
+#EXTINF:-1,T Sports HD D2H
+http://lifetvbd.xyz:8080/play/m_Nn6ThHITNMAlXFIit-Sv_F9c1tZlQWJwkha1G247A/ts
+#EXTINF:-1,Ten Cricket
+http://lifetvbd.xyz:8080/play/XetHSPbNUOXaH7Ipl3SjOyWRxU2yVNR6T5elEs7NPf4/ts
+#EXTINF:-1,Ten Sports HD
+http://lifetvbd.xyz:8080/play/nOnvLyyYXVgL8s246ZqpEppf0czzHeBb_DqfcEsqDVs/ts
+#EXTINF:-1,Sony Ten 1 HD
+http://lifetvbd.xyz:8080/play/qsdbaQ2Lb--XVFYlNR4JTw/ts
+#EXTINF:-1,Sony Ten 2 HD
+http://lifetvbd.xyz:8080/play/Etra-SpkLBGjz-y2-dEZ-w/ts
+#EXTINF:-1,Sony Ten 3 HD
+http://lifetvbd.xyz:8080/play/goGY-g3HYIMrnEx_ooqslu9UqIZwCmN8teYbREdeRRU/ts
+#EXTINF:-1,Sony Ten 5 HD
+http://lifetvbd.xyz:8080/play/TeEKW5kH2CO0gVJRU8lrvS49BMJXVq6AezY2X8UA1FU/ts
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-starjalshahd", STAR JALSHA HD
 http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/image-starjalshahd", STAR JALSHA HD
@@ -3181,14 +3218,7 @@ http://lifetvbd.xyz:8080/play/99q3CJnBRN9I05v9sK8i_jT2eUZiKA_RUWPhaUeJnHs/ts
 http://lifetvbd.xyz:8080/play/H0BM2LJen7wAo58yzqvcviSh3o6TCp3OEc-VoQuJhj8/ts
 #EXTINF:-1,Sony Pix HD
 http://lifetvbd.xyz:8080/play/3B8Wq9w4DSy2yCC-ROxVBZlXWPClcJRZTVKWSDAz93Q/ts
-#EXTINF:-1,Sony Ten 1 HD
-http://lifetvbd.xyz:8080/play/qsdbaQ2Lb--XVFYlNR4JTw/ts
-#EXTINF:-1,Sony Ten 2 HD
-http://lifetvbd.xyz:8080/play/Etra-SpkLBGjz-y2-dEZ-w/ts
-#EXTINF:-1,Sony Ten 3 HD
-http://lifetvbd.xyz:8080/play/goGY-g3HYIMrnEx_ooqslu9UqIZwCmN8teYbREdeRRU/ts
-#EXTINF:-1,Sony Ten 5 HD
-http://lifetvbd.xyz:8080/play/TeEKW5kH2CO0gVJRU8lrvS49BMJXVq6AezY2X8UA1FU/ts
+
 #EXTINF:-1,Special Live Channel
 http://lifetvbd.xyz:8080/play/CCHIovtZ8CrtavxXTSP6jd1Dfro4rt94k2pRzWzFIuc/ts
 #EXTINF:-1,Sport Tv 1
@@ -3215,40 +3245,18 @@ http://lifetvbd.xyz:8080/play/lN3Gt8ysiX9rDxdO0ngGM1fCoO0jG01-Z_b6k8O_zkc/ts
 http://lifetvbd.xyz:8080/play/MYZhN_5HuPMjJ4QVxy2aJQbUsEMVam3KZXWGaTJi0eo/ts
 #EXTINF:-1,Star Plus HD Backup
 http://lifetvbd.xyz:8080/play/t01u_7SG3Wh0qj2UbE4-D93Ul5C0I3DqyglvKykHb28/ts
-#EXTINF:-1,Star Sports 1 HD
-http://lifetvbd.xyz:8080/play/sbaQa4E_8dB2nuf2zeTwGDs5ts9WfAxrWcwH5IxvFUk/ts
-#EXTINF:-1,Star Sports 1 HD D2H
-http://lifetvbd.xyz:8080/play/6ONOVpvmoNDkggu3Z396uobgRTw-m9q2IY_VLrXYhGM/ts
-#EXTINF:-1,Star Sports 1 HD Hindi
-http://lifetvbd.xyz:8080/play/Taj2YsQRNUEXK5qwr7IMqyxaUE834KxV4e0HZwxZfpo/ts
-#EXTINF:-1,Star Sports 2 HD
-http://lifetvbd.xyz:8080/play/TuZrp6k555xRNBrRu_irtw/ts
-#EXTINF:-1,Star Sports 3
-http://lifetvbd.xyz:8080/play/S5dwyezxYQb9oGVKIxelG35DH6AoEC03VqZAitsAb9w/ts
-#EXTINF:-1,Star Sports Select 1 HD
-http://lifetvbd.xyz:8080/play/gl84GTfM7tZphK5G7aaivzeVpMWvlCSytZM9CtBR0Aw/ts
-#EXTINF:-1,Star Sports Select 2 HD
-http://lifetvbd.xyz:8080/play/qQGODuYxVPFxQOzIQ8Lt5g/ts
+
+
+
+
+
 #EXTINF:-1,Sun Bangla
 http://lifetvbd.xyz:8080/play/_Wqy6OGkNiILorqHgEqGXvEeL1e3-sqQcqyxsNq9eJM/ts
 #EXTINF:-1,Sunny Deol Hitz
 http://lifetvbd.xyz:8080/play/QN2KFfHTWRMYWT39i6Oxrx_Wdx0BzSu_svedhDLx7YI/ts
 #EXTINF:-1,Super Hungama
 http://lifetvbd.xyz:8080/play/z21QzCruVe5wG0_HsfceT5GhhINjoLuoMaCqZxk1lKg/ts
-#EXTINF:-1,T Sports HD
-http://lifetvbd.xyz:8080/play/FzBUatwwr0Mne4uaKAakTkwehJ7DP81I9OE7LhO48Ic/ts
-#EXTINF:-1,T Sports HD
-http://lifetvbd.xyz:8080/play/PXF57JTo4qugiMMvjW6bFSX6ghoDRRgPUBSLx46OOY0/ts
-#EXTINF:-1,T Sports HD 1 D2H
-http://lifetvbd.xyz:8080/play/4Ao62IPJa4XcSIBTE-fEPJCPWrj_PFPqZfX2QJy-hbI/ts
-#EXTINF:-1,T Sports HD 2 D2H
-http://lifetvbd.xyz:8080/play/7ZyGXCQsp0213ajxfeIKtO6BCJrP8XPF-E_k3fGZEV0/ts
-#EXTINF:-1,T Sports HD D2H
-http://lifetvbd.xyz:8080/play/m_Nn6ThHITNMAlXFIit-Sv_F9c1tZlQWJwkha1G247A/ts
-#EXTINF:-1,Ten Cricket
-http://lifetvbd.xyz:8080/play/XetHSPbNUOXaH7Ipl3SjOyWRxU2yVNR6T5elEs7NPf4/ts
-#EXTINF:-1,Ten Sports HD
-http://lifetvbd.xyz:8080/play/nOnvLyyYXVgL8s246ZqpEppf0czzHeBb_DqfcEsqDVs/ts
+
 #EXTINF:-1,Tom & Jerry
 http://lifetvbd.xyz:8080/play/sLcnWg5MW1305zmuTESWuMNF21c9faK32tjtJfF9lTo/ts
 #EXTINF:-1,Trace Urban
