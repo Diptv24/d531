@@ -28,6 +28,13 @@ http://lifetvbd.xyz:8080/play/m_Nn6ThHITNMAlXFIit-Sv_F9c1tZlQWJwkha1G247A/ts
 http://lifetvbd.xyz:8080/play/XetHSPbNUOXaH7Ipl3SjOyWRxU2yVNR6T5elEs7NPf4/ts
 #EXTINF:-1,Ten Sports HD
 http://lifetvbd.xyz:8080/play/nOnvLyyYXVgL8s246ZqpEppf0czzHeBb_DqfcEsqDVs/ts
+#EXTINF:-1, ASPORTS HD
+http://103.131.214.129:9985/stream/channelid/868069455.m3u8
+#EXTINF:-1, PTV SPORTS HD
+http://lifetvbd.xyz:8080/play/km3cXgjb3-B7JqJgtwIe3Q/ts
+#EXTINF:-1, PTV SPORTS HD
+http://103.131.214.129:9985/stream/channelid/262238580.m3u8
+
 #EXTINF:-1,Sony Ten 1 HD
 http://lifetvbd.xyz:8080/play/qsdbaQ2Lb--XVFYlNR4JTw/ts
 #EXTINF:-1,Sony Ten 2 HD
