@@ -3324,3 +3324,9 @@ http://lifetvbd.xyz:8080/play/l1dQUgVKWqMb4dQkBXb-mQ/ts
 http://41.205.93.154/STARSPORTS1/index.m3u8?
 #EXTINF:-1, STAR SPORTS 2 HD
 http://41.205.93.154/STARSPORTS2/index.m3u8
+
+BDIX FTP IPTV M3U8:
+#EXTINF:-1, Astro Super sports 1 
+http://z88.ubtvfans.com/live/rx3/1070/a371ed8c364f2e68149a7a97388e95f9/index.m3u8
+#EXTINF:-1, Astro Super sports 2 
+http://z88.ubtvfans.com/live/rx3/1071/2e6f0c8a9ed4d441be34ad70bc40d5ed/index.m3u8
