@@ -3298,3 +3298,7 @@ http://lifetvbd.xyz:8080/play/l1dQUgVKWqMb4dQkBXb-mQ/ts
 
 
 
+#EXTINF:-1, STAR SPORTS 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8?
+#EXTINF:-1, STAR SPORTS 2 HD
+http://41.205.93.154/STARSPORTS2/index.m3u8
