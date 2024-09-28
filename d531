@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1, PTV SPORTS HD
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1,TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1,GEO SUPER HD
+http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
+#EXTINF:-1, ASPORTS HD
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+
 #EXTINF:-1 group-title="DISHTV",Star JALSHA
 http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 group-title="DISHTV",Zee bangla
