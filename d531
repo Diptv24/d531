@@ -2294,8 +2294,8 @@ http://global.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", BANGLA JAGO TV
 http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-
-
+#EXTINF:-1, STYNX SPORTS HD
+https://ams.styxsports.com:5443/LiveApp/streams/9ugJLjZWJhzRLecV1727625411102.m3u8
 
 #EXTINF:-1, PTV SPORTS 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
