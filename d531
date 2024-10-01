@@ -2102,12 +2102,8 @@ http://global.ncare.live/live-orgin/banglav000.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-CHANNEL24" group-title="jagobd", CHANNEL 24
 http://global.ncare.live/live-orgin/channel24-sg-e8e.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-SATV" group-title="jagobd", SATV HD
 http://global.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8?nimblesessionid=358397669&wmsAuthSign=c2VydmVyX3RpbWU9OS8yNC8yMDI0IDI6MDc6MjEgUE0maGFzaF92YWx1ZT1BQnVBcHBKZDhlVVJ0cUVzb3NONUtnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
- 
-
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-BOISHAKI" group-title="jagobd", BOISHAKI TV
 http://global.ncare.live/live-orgin/boishakhitv-org.stream/playlist.m3u8
 
@@ -2231,7 +2227,6 @@ http://global.ncare.live/live-orgin/dwnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/07/francenews24.jpg" group-title="jagobd", FRANCE 24
 http://global.ncare.live/live-orgin/fr24.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/09/freedom.jpg" group-title="jagobd", FREEDOM TV
 http://global.ncare.live/live-orgin/uatv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg?x50681" group-title="jagobd", MODINA LIVE
@@ -2302,15 +2297,13 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 
 
 
-PTV SPORTS 
+#EXTINF:-1, PTV SPORTS 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
 
-TEN SPORTS HD
+#EXTINF:-1, TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 
-GEO SUPER HD
+#EXTINF:-1, GEO SUPER
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
-
-
-ASPORTS HD
+#EXTINF:-1, ASPORTS HD
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
