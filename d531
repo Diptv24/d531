@@ -35,6 +35,8 @@ http://global.ncare.live/live-orgin/deeptotv.stream/playlist.m3u8
 http://global.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://tinyurl.com/imagertvhd", RTV HD
 http://global.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://tiniurl.com/imagertv", RTV HD
+http://global.ncare.live/live-orgin/rtv-sg.stream.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-EKUSHTVEY" group-title="jagobd", EKUSHEY TV
 http://global.ncare.live/live-orgin/ekusheytv-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tinyurl.com/IMAGE-ANANDATV" group-title="jagobd", ANANDA TV
