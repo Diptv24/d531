@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, nagorik tv
+https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=7c7CTld8sPZzJ1ZyjdK9Fg&expires=1728164155&user=d477246e9e724f81a011b847457e71c4
 #EXTINF:-1, Zee bangla
 http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 #EXTINF:-1, ZEE BANGLA HD
