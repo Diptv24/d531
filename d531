@@ -125,6 +125,10 @@ http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YW
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", NAN TV
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8
+#EXTINF:-1, TARA BANGLA CINEMA
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Bangla 24 Canada
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8
