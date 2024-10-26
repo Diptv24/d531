@@ -9,6 +9,8 @@ http://217.20.112.199/zeebangla/index.m3u8
 #EXTINF:-1, Zee bangla
 http://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla1/default/Zeebangla1.m3u8
 
+#EXTINF:-1, TSPORTS HD
+https://cdn.livestreambd.com/TSportstv/index.m3u8
 #EXTINF:-1, MAASRANGA TV HD
 http://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
