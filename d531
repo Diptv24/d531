@@ -93,6 +93,11 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Gaan Bangla
 http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gaanbangla-8-orgd.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/smtv.jpg" group-title="Without category", SM TV
+http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/smtvbd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/10/Vokta-TV.jpg" group-title="Without category", VOKTA TV
+http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/voktatv.stream/playlist.m3u8
 
 
 
