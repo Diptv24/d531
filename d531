@@ -2777,9 +2777,191 @@ http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
 #EXTINF:-1, STYNX SPORTS HD
 https://ams.styxsports.com:5443/LiveApp/streams/9ugJLjZWJhzRLecV1727625411102.m3u8
 
+#EXTINF:-1, Independent TV
+http://bapatv.live:8080/independent/index.m3u8
+
+#EXTINF:-1, Masranga TV
+http://103.175.242.10:8080/maasranga/index.m3u8
+
+#EXTINF:-1, Movie Bangla
+http://bapatv.live:8080/moviebangla/index.m3u8
+
+#EXTINF:-1, Sony Aath
+http://bapatv.live:8080/sonyaath/index.m3u8
+
+#EXTINF:-1, Colors HD
+http://bapatv.live:8080/colorshd/index.m3u8
+
+#EXTINF:-1, Discovery
+http://bapatv.live:8080/discovery/index.m3u8
+
+#EXTINF:-1, Zee Cinema
+http://bapatv.live:8080/zeecinema/index.m3u8
+
+#EXTINF:-1, Star Plus
+http://bapatv.live:8080/starplus/index.m3u8
+
+#EXTINF:-1, Channel i
+http://bapatv.live:8080/channeli/index.m3u8
+
+#EXTINF:-1, Bein Sports 1
+http://bapatv.live:8080/hls/beinsp-1/index.m3u8
+
+#EXTINF:-1, Cartoon Network
+http://103.175.242.10:8080/cartoonnetwork/index.m3u8
+
+#EXTINF:-1, 9XM
+http://103.175.242.10:8080/9xm/index.m3u8
+
+#EXTINF:-1, & Pictures
+http://bapatv.live:8080/andpicture/index.m3u8
+
+#EXTINF:-1, Asian TV
+http://103.175.242.10:8080/hls/asian/index.m3u8
+
+#EXTINF:-1, ATN Bangla
+http://bapatv.live:8080/atnbangla/index.m3u8
+
+#EXTINF:-1, ATN News
+http://bapatv.live:8080/atnnews/index.m3u8
+
+
+#EXTINF:-1, Bangla Vision
+http://103.175.242.10:8080/banglavision/index.m3u8
+
+#EXTINF:-1, Bijoy TV
+http://103.175.242.10:8080/hls/bijoy/index.m3u8
+
+#EXTINF:-1, Boishakhi TV
+http://bapatv.live:8080/hls/boishakhi/index.m3u8
+
+#EXTINF:-1, BTV
+http://103.175.242.10:8080/hls/btv/index.m3u8
+
+#EXTINF:-1, Channel 24
+http://bapatv.live:8080/hls/channel24/index.m3u8
+
+#EXTINF:-1, DBC News
+http://bapatv.live:8080/dbc/index.m3u8
+
+#EXTINF:-1, Deepto TV
+http://103.175.242.10:8080/deepto/index.m3u8
+
+#EXTINF:-1, Discovery Kids
+http://103.175.242.10:8080/discoverkids/index.m3u8
+
+#EXTINF:-1, Dubai TV
+http://bapatv.live:8080/ch-dubai/index.m3u8
+
+#EXTINF:-1, Ekattor TV
+http://bapatv.live:8080/ekattor/index.m3u8
+
+#EXTINF:-1, Fox Cricket
+http://bapatv.live:8080/foxcricekt/index.m3u8
+
+#EXTINF:-1, Gaan Bangla
+http://103.175.242.10:8080/gaanbangla/index.m3u8
+
+#EXTINF:-1, Global TV
+http://103.175.242.10:8080/hls/globaltv/index.m3u8
+
+#EXTINF:-1, GTV
+http://bapatv.live:8080/gtv/index.m3u8
+
+#EXTINF:-1, GTV 2
+http://bapatv.live:8080/gtv2/index.m3u8
+
+#EXTINF:-1, Jalsha Movies
+http://bapatv.live:8080/jalshamovies/index.m3u8
+
+#EXTINF:-1, Jamuna TV
+http://103.175.242.10:8080/jamuna2/index.m3u8
+
+#EXTINF:-1, Kids Creation
+http://103.175.242.10:8080/kidscreation/index.m3u8
+
+#EXTINF:-1, Live Sports
+http://bapatv.live:8080/Live-sports/index.m3u8
+
+#EXTINF:-1, Movies Now
+http://103.175.242.10:8080/moviesnow/index.m3u8
+
+#EXTINF:-1, Nat Geo
+http://103.175.242.10:8080/natgeo/index.m3u8
+
+#EXTINF:-1, NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+
+
+#EXTINF:-1, RTV
+http://103.175.242.10:8080/hls/rtv/index.m3u8
+
+#EXTINF:-1, S Football
+http://bapatv.live:8080/sfootball/index.m3u8
+
+#EXTINF:-1, SA TV
+http://103.175.242.10:8080/hls/satv/index.m3u8
+
+#EXTINF:-1, S Bangla
+http://103.175.242.10:8080/sbangla/index.m3u8
+
+#EXTINF:-1, Sony Entertainment
+http://103.175.242.10:8080/sonyent10/index.m3u8
+
+#EXTINF:-1, Sony Pix
+http://103.175.242.10:8080/sonypix/index.m3u8
+
+#EXTINF:-1, Sony Ten 1
+http://bapatv.live:8080/sonyten1/index.m3u8
+
+#EXTINF:-1, Sony Ten 2
+http://bapatv.live:8080/sonyten2/index.m3u8
+
+#EXTINF:-1, Sony Ten 5
+http://bapatv.live:8080/sonyten5/index.m3u8
+
+#EXTINF:-1, Sports 18
+http://bapatv.live:8080/sports18/index.m3u8
+
+#EXTINF:-1, Star Gold Thrill
+http://103.175.242.10:8080/stargoldthrill/index.m3u8
+
+
+#EXTINF:-1, Star Jalsha
+http://103.175.242.10:8080/starjalsha/index.m3u8
+
+#EXTINF:-1, Star Movies
+http://103.175.242.10:8080/starmovies/index.m3u8
+
+#EXTINF:-1, Star Sports 2
+http://bapatv.live:8080/starsports2/index.m3u8
+
+#EXTINF:-1, Star Sports 1
+http://bapatv.live:8080/starsports2/index.m3u8
+
+#EXTINF:-1, T Sports 1
+http://bapatv.live:8080/tsports1/index.m3u8
+
+#EXTINF:-1, T Sports 2
+http://bapatv.live:8080/tsports2/index.m3u8
+
+#EXTINF:-1, T Sports 4
+http://bapatv.live:8080/tsports4/index.m3u8
+
+#EXTINF:-1, Zee Bangla
+http://bapatv.live:8080/zeebangla/index.m3u8
+
+#EXTINF:-1, Zee Bangla Cinema
+http://103.175.242.10:8080/zee-bncinema/index.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1, PTV SPORTS 
 http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-
 #EXTINF:-1, TEN SPORTS HD
 http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1, TEN SPORTS HD
