@@ -17,6 +17,10 @@ http://bapatv.live:8080/tsports2/index.m3u8
 #EXTINF:-1, T Sports 4
 http://bapatv.live:8080/tsports4/index.m3u8
 
+#EXTINF:-1, MYTV HD
+http://mytvbangla.com/0.m3u8
+#EXTINF:-1, ETV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1, TSPORTS HD
 https://cdn.livestreambd.com/TSportstv/index.m3u8
