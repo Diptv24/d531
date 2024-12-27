@@ -3182,3 +3182,6 @@ http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1, ASPORTS HD
 https://webott.viatv.com.np/v0t1/ASportsHD.stream/playlist.m3u8
+#EXTINF:-1, SPORTMAX 
+https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
+
