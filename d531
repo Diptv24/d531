@@ -1,7 +1,15 @@
-#EXTINF:-1, GTV
-http://stvlive.net:8080/gtv/index.m3u8
 #EXTINF:-1, T Sports 
-http://stvlive.net:8080/tsports1/index.m3u8
+http://172.16.172.112/live/fifa2022/index.m3u8
+#EXTINF:-1, ASPORTS HD
+http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
+#EXTINF:-1, PTV SPORTS HD
+http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
+#EXTINF:-1, TEN SPORTS HD
+http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+#EXTINF:-1, STAR SPORTS 1 HD
+http://172.16.172.112/live/feed1001/index.m3u8
+#EXTINF:-1, RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 #EXTINF:-1, MYTV HD
 http://mytvbangla.com/0.m3u8
 #EXTINF:-1, ETV HD
@@ -297,12 +305,7 @@ http://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZ
 http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8
 #EXTINF:-1, RTA SPORTS HD
 http://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
-#EXTINF:-1, ASPORTS HD
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1, PTV SPORTS HD
-http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8
-#EXTINF:-1, TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QmPPKgg/20240826-231747.png" group-title="BANGLADESH", CHANNEL S
 http://cdn.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8
 
