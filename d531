@@ -2,7 +2,8 @@
 http://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1, TEN SPORTS HD
 http://10.91.91.91:8080/24/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1, PTV SPORTS HD
+http://10.91.91.91:8080/25/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,MYTV HD
 http://mytvbangla.com/0.m3u8
