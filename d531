@@ -6,6 +6,8 @@ http://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m
 http://10.91.91.91:8080/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PTV SPORTS HD
 http://10.91.91.91:8080/25/tracks-v1a1/mono.m3u8
+#EXTINF:-1, PTV SPORTS HD
+http://dtglxyty91gn0.cloudfront.net/ap-south-1/06db1302-0a09-4017-80d1-bf8ca8e338ee/media_0.m3u8
 #EXTINF:-1, SONY TEN 5 HD
 http://10.91.91.91:8080/22/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY TEN 1 
