@@ -4,6 +4,10 @@ http://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 https://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1, TEN CRICKET 
 http://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1, TSPORTS HD
+http://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1, TSPORTS HD
+https://103.15.140.138/tsports/index.m3u8
 #EXTINF:-1, TEN SPORTS HD
 http://10.91.91.91:8080/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PTV SPORTS HD
