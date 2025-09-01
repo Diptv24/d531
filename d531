@@ -1,9 +1,5 @@
 #EXTINF:-1, TSPORTS HD
 http://10.91.91.91:8080/12/tracks-v1a1/mono.m3u8
-#EXTINF:-1, T-SPORTS HD
-http://tvsen5.aynaott.com/YNMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1, Asports
-http://stream2.aryzap.com/v1/018a8885b8951eb401a603639363/018a88860ada09831f17035d95dd/ARYBK2H264_360p.m3u8?isSubM3u8=1
 #EXTINF:-1, TEN CRICKET HD
 http://10.91.91.91:8080/13/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , TEN CRICKET 
@@ -12,8 +8,6 @@ http://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m
 http://10.91.91.91:8080/24/tracks-v1a1/mono.m3u8
 #EXTINF:-1, PTV SPORTS HD
 http://10.91.91.91:8080/25/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,RTA SPORTS
-http://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:-1, STAR SPORTS HD 1
 http://10.91.91.91:8080/14/tracks-v1a1/mono.m3u8
 #EXTINF:-1, STAR SPORTS 2
@@ -26,11 +20,6 @@ http://10.91.91.91:8080/17/tracks-v1a1/mono.m3u8
 http://10.91.91.91:8080/23/tracks-v1a1/mono.m3u8
 #EXTINF:-1, SONY TEN 5
 http://10.91.91.91:8080/22/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,ASPORTS HD
-http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 ,TEN SPORTS HD
-http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8
 #EXTINF:-1 ,RTA SPORTS
 http://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8
 #EXTINF:-1, Ekattor Tv
