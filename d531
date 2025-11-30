@@ -1,5 +1,11 @@
 #EXTINF:-1, TSPORTS HD
-https://cdn.bdixtv24.vip/tsports/index.m3u8
+http://172.16.29.2:8090/hls/tsportshd.m3u8
+
+
+#EXTINF:-1, STAR SPORTS 1 HD
+http://172.16.29.3:8090/hls/StarSports1HD.m3u8
+#EXTINF:-1, STAR SPORTS 2 HD
+http://172.16.29.3:8090/hls/StarSports2HD.m3u8
 #EXTINF:-1 ,MYTV HD
 http://mytvbangla.com/0.m3u8
 #EXTINF:-1 ,ETV HD
