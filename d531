@@ -1,11 +1,35 @@
 #EXTINF:-1, TSPORTS HD
 http://172.16.29.2:8090/hls/tsportshd.m3u8
-
-
 #EXTINF:-1, STAR SPORTS 1 HD
 http://172.16.29.3:8090/hls/StarSports1HD.m3u8
 #EXTINF:-1, STAR SPORTS 2 HD
 http://172.16.29.3:8090/hls/StarSports2HD.m3u8
+#EXTINF:-1, ASPORTS HD 
+http://172.16.29.3:8090/hls/ASportsHD.m3u8
+#EXTINF:-1, WILLOW CRICKET HD 
+http://172.16.29.3:8090/hls/willowcrickethd.m3u8
+#EXTINF:-1,SONY TEN 5 HD 
+http://172.16.29.3:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1, EURO SPORTS HD
+http://172.16.29.3:8090/hls/eurosportshd.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 1 HD
+http://172.16.29.3:8090/hls/StarSportsSelect1HD.m3u8
+#EXTINF:-1, STAR SPORTS SELECT 2 HD
+http://172.16.29.3:8090/hls/StarSportsSelect2HD.m3u8
+#EXTINF:-1, SONY TEN 1 HD
+http://172.16.29.3:8090/hls/SonyTen1hd.m3u8
+#EXTINF:-1, SONY TEN 2 HD
+http://172.16.29.3:8090/hls/SonyTen2hd.m3u8
+#EXTINF:-1, SONY TEN 3 HD
+http://172.16.29.3:8090/hls/SonyTen3hd.m3u8
+#EXTINF:-1, SONY TEN 5 HD
+http://172.16.29.3:8090/hls/SonyTen5HD.m3u8
+#EXTINF:-1, WILLOW CRICKET HD
+http://172.16.29.3:8090/hls/willowcrickethd.m3u8
+#EXTINF:-1, ASPORTS HD
+http://172.16.29.3:8090/hls/ASportsHD.m3u8
+
+
 #EXTINF:-1 ,MYTV HD
 http://mytvbangla.com/0.m3u8
 #EXTINF:-1 ,ETV HD
