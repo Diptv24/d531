@@ -1,6 +1,24 @@
 -#EXTM3U
 #EXTINF:-1 ,TSPORTS HD
 http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:-1 ,ASPORTS HD
+http://198.195.239.50:8095/Eurosport/index.m3u8
+#EXTINF:-1 ,STAR SPORTS 1 HD
+http://198.195.239.50:8095/SonyTenSports5/index.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR SPORTS SELECT 2 HD
+http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , SONY SPORTS 2
+http://198.195.239.50:8095/SonyTenSports2/index.m3u8
+#EXTINF:-1 , GTV HD
+http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
+#EXTINF:-1 , STAR JALSHA HD
+http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+#EXTINF:-1 , ZEE BANGLA SONAR
+http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8
+#EXTINF:-1 , NAGORIK TV
+http://198.195.239.50:8095/nagorik/tracks-v1/mono.m3u8
 #EXTINF:-1 ,STAR NEWS HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1702.m3u8
 #EXTINF:-1 ,DEEPTO TV HD
