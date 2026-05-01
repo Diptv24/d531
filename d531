@@ -1,4 +1,6 @@
 -#EXTM3U
+
+
 #EXTINF:-1 ,TSPORTS HD
 http://198.195.239.50:8095/Tsports/index.m3u8
 #EXTINF:-1 ,ASPORTS HD
@@ -53,12 +55,22 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1702.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1702.m3u8
 #EXTINF:-1 ,CHANNEL I HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1702.m3u8
+#EXTINF:-1 , ITV HD
+http://103.175.242.10:8080/independent/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , EKATTOR TV HD
+http://stvlive.net:8080/ekattor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , CHANNEL 24 HD
+http://stvlive.net:8080/channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ISLAMIC TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1702.m3u8
 #EXTINF:-1 ,ETV HD
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 , ME TV
+http://stvlive.net:8080/metv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,DEEPTO TV HD
 http://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 ,DEEPTO TV HD
+http://stvlive.net:8080/deepto/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SOMOY TV
 http://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 #EXTINF:-1 ,EKATTOR TV
@@ -69,6 +81,8 @@ http://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-vide
 http://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 #EXTINF:-1 ,SANGEET BANGLA
 http://cdn-4.pishow.tv/live/1143/1143_1.m3u8
+#EXTINF:-1 , MOVIE BANGLA
+http://stvlive.net:8080/moviebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , SONY TV HD
 http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , SONY MAX HD
