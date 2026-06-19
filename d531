@@ -4,9 +4,9 @@
 #EXTINF:-1 ,TSPORTS HD
 http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
 EXTINFNF:-1 ,ASPORTS HD
-http://198.195.239.50:8095/Eurosport/index.m3u8
+http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR SPORTS 1 HD
-http://198.195.239.50:8095/SonyTenSports5/index.m3u8
+http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR SPORTS SELECT 1 HD
 http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR SPORTS SELECT 2 HD
