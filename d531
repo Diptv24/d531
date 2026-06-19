@@ -20,9 +20,15 @@ http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , GTV HD
 http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , STAR JALSHA HD
-http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
+http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , ZEE BANGLA HD HD
+http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , ZEE BANGLA SONAR
-http://198.195.239.50:8095/bdixbd.net_ZeeBanglaCinemaHD/video.m3u8
+http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,STAR SPORTS SELECT 1 HD
+http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , NAGORIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1/mono.m3u8
 #EXTINF:-1 ,STAR NEWS HD
