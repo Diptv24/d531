@@ -30,6 +30,11 @@ http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR GOLD HD
 http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ,STAR PLUS HD
+http://10.20.30.40:8088/401/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY TV HD
+http://10.20.30.40:8088/403/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , NAGORIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1/mono.m3u8
 #EXTINF:-1 ,STAR NEWS HD
