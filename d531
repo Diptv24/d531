@@ -7,14 +7,18 @@ EXTINFNF:-1 ,ASPORTS HD
 http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR SPORTS 1 HD
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR SPORTS 2 HD
+http://10.20.30.40:8088/115/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR SPORTS SELECT 1 HD
-http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+http://10.20.30.40:8088/123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR SPORTS SELECT 2 HD
-http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+http://10.20.30.40:8088/124/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 , SONY SPORTS 2
-http://198.195.239.50:8095/SonyTenSports2/index.m3u8
+http://10.20.30.40:8088/120/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , GTV HD
-http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
+http://10.20.30.40:8088/106/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , STAR JALSHA HD
 http://198.195.239.50:8095/bdixbd.net_StarJalshaHD/video.m3u8
 #EXTINF:-1 , ZEE BANGLA SONAR
