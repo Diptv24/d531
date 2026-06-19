@@ -23,13 +23,14 @@ http://10.20.30.40:8088/302/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/301/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , ZEE BANGLA SONAR
 http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , ZEE CINEMA HD
+#EXTINF:-1 , COLORS HD
 http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , SONY MAX HD
 http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR GOLD HD
 http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 , ZEE CINEMA HD
+http://10.20.30.40:8088/406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,STAR PLUS HD
 http://10.20.30.40:8088/401/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY TV HD
