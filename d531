@@ -1,4 +1,4 @@
--#EXTM3U
+#EXTM3U
 
 
 #EXTINF:-1 ,TSPORTS HD
@@ -27,6 +27,9 @@ http://10.20.30.40:8088/305/tracks-v1a1/mono.m3u8
 http://10.20.30.40:8088/405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , SONY MAX HD
 http://10.20.30.40:8088/404/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,STAR GOLD HD
+http://10.20.30.40:8088/402/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 , NAGORIK TV
 http://198.195.239.50:8095/nagorik/tracks-v1/mono.m3u8
 #EXTINF:-1 ,STAR NEWS HD
@@ -211,7 +214,7 @@ https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
 #EXTINF:-1 ,NEWS 1 HD
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 ,NEO NEWS HD
+#EXTINF:1 ,NEO NEWS HD
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 #EXTINF:-1 ,GNN HD
 https://vodzong.mjunoon.tv:8087/streamtest/gnnnews-181/playlist.m3u8
