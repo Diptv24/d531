@@ -3,11 +3,11 @@
 http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TSPORTS HD
 http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
-#EXTINF:-1 ,BTV HD
+#EXTINF:-1, BTV HD
 http://198.195.239.50:8095/btv/video.m3u8
-EXTINFNF:-1 ,ASPORTS HD
+#EXTINF:-1 ,ASPORTS HD
 http://10.20.30.40:8088/134/tracks-v1a1/mono.m3u8
-EXTINFNF:-1 ,PTV SPORTS HD
+#EXTINF:-1 ,PTV SPORTS HD
 http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1 ,STAR SPORTS 1 HD
 http://10.20.30.40:8088/110/tracks-v1a1/mono.m3u8
