@@ -7,6 +7,12 @@ http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 , TSN-01
 https://pub-def84fa19dfb46b6923a22b795dac2e2.r2.dev/en1/index.m3u8
+#EXTINF:-1 , WIN SPORT
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 , BEIN SPORTS
+https://1nyaler.streamhostingcdn.top/stream/31/index.m3u8
+#EXTINF:-1 , SPORTTV 1
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 #EXTINF:-1, BTV HD
 http://198.195.239.50:8095/btv/video.m3u8
 #EXTINF:-1 ,ASPORTS HD
