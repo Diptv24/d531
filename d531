@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTINF:-1 ,TSPORTS HD
 http://10.20.30.40:8088/102/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qMsvbNKg/Toffe.png" group-title="FIFA", Toffe Live HD
+https://sm-monirul.top/tof/live/toffee4/index.m3u8?nocache=1782146598612
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ymqQ0QZd/T-Sports-HD.png" group-title="FIFA", T Sports HD
+https://trs1.aynaott.com/tsports/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrZyw5T7/DAZN.png" group-title="FIFA", DAZN
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S7tZS6cg/Bein-Sports-1-Direct.png" group-title="FIFA", Bein Sports
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XrVcFhNL/Bein-Sports-8-K.png" group-title="FIFA", Bein Sports 8K
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kgv9RGbr/20260615-205524.png" group-title="FIFA", D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFk6bssh/TYC-Sports.png" group-title="FIFA", TYC Sports
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c1qKVNs/Z-Bangla-Sonar.png" group-title="FIFA", Z Sonar Bangla
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 ,TSPORTS HD
 http://198.195.239.50:8095/t-sports-hd4k/video.m3u8
 #EXTINF:-1 , CCTV HD
